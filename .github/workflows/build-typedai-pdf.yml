@@ -6,6 +6,7 @@ on:
     paths:
       - 'scripts/build_typedai_pdf.py'
       - 'scripts/prepare_marco_typedai.py'
+      - 'scripts/enrich_vehicle_annexes.py'
       - 'export/**'
       - '.github/workflows/build-typedai-pdf.yml'
   issues:
@@ -26,10 +27,12 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Install PDF dependency
-        run: pip install reportlab
-      - name: Prepare exact Decreto 40/2019 range for T20
+      - name: Install build dependencies
+        run: pip install reportlab beautifulsoup4
+      - name: Prepare exact Decreto 40/2019 range for T20 and tighten T17
         run: python scripts/prepare_marco_typedai.py
+      - name: Complete vehicle Annex II and Annex XVIII I-II from official BOE
+        run: python scripts/enrich_vehicle_annexes.py
       - name: Build PDF and TXT
         run: python scripts/build_typedai_pdf.py
       - name: Show output
