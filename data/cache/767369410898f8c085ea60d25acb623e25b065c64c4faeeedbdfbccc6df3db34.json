@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1983-33954",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1983-33954",
+  "sha256": "3cad337821b39d37fd7315d4c61918c83e132558c7c7e3e2d3bd69e923b3261e",
+  "archivo": "data/raw/3cad337821b39d37fd7315d4c61918c83e132558c7c7e3e2d3bd69e923b3261e.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:20:30.956421+00:00"
+}

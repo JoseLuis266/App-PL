@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-4233/texto/bloque/a14",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-4233/texto/bloque/a14",
+  "sha256": "8a1fc5af4bd4a01c9000d131542a70e2a93dab72216727528b2d4bf097c0ae03",
+  "archivo": "data/raw/8a1fc5af4bd4a01c9000d131542a70e2a93dab72216727528b2d4bf097c0ae03.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:04:57.683851+00:00"
+}

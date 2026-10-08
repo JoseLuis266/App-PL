@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-12516",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-12516",
+  "sha256": "58f5d21bba2ca727baf6edca999f653e52ddd1c913a5978541f4cb15dfc1bae8",
+  "archivo": "data/raw/58f5d21bba2ca727baf6edca999f653e52ddd1c913a5978541f4cb15dfc1bae8.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:21.014797+00:00"
+}

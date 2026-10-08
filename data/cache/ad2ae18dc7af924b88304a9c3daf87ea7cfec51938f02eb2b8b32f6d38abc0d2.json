@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto/bloque/a614",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto/bloque/a614",
+  "sha256": "89c1a5972ad6f56a0a624f36266511b5bdc0b50983a1e52cc7dae6a8cdd93fb2",
+  "archivo": "data/raw/89c1a5972ad6f56a0a624f36266511b5bdc0b50983a1e52cc7dae6a8cdd93fb2.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:25:32.181980+00:00"
+}

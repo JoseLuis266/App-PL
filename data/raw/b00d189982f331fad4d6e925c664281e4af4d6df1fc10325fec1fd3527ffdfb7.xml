@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque>
+      <id>no</id>
+      <titulo/>
+      <fecha_actualizacion>20260130</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/no</url>
+    </bloque>
+    <bloque>
+      <id>preambulo</id>
+      <titulo/>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/preambulo</url>
+    </bloque>
+    <bloque>
+      <id>aunico</id>
+      <titulo>Artículo único</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/aunico</url>
+    </bloque>
+    <bloque>
+      <id>daprimera</id>
+      <titulo>Disposición adicional primera</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/daprimera</url>
+    </bloque>
+    <bloque>
+      <id>dasegunda</id>
+      <titulo>Disposición adicional segunda</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/dasegunda</url>
+    </bloque>
+    <bloque>
+      <id>datercera</id>
+      <titulo>Disposición adicional tercera</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/datercera</url>
+    </bloque>
+    <bloque>
+      <id>dtprimera</id>
+      <titulo>Disposición transitoria primera</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/dtprimera</url>
+    </bloque>
+    <bloque>
+      <id>dtsegunda</id>
+      <titulo>Disposición transitoria segunda</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/dtsegunda</url>
+    </bloque>
+    <bloque>
+      <id>dttercera</id>
+      <titulo>Disposición transitoria tercera</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/dttercera</url>
+    </bloque>
+    <bloque>
+      <id>dtcuaa</id>
+      <titulo>Disposición transitoria cuarta</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/dtcuaa</url>
+    </bloque>
+    <bloque>
+      <id>dtquinta</id>
+      <titulo>Disposición transitoria quinta</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/dtquinta</url>
+    </bloque>
+    <bloque>
+      <id>dtsexta</id>
+      <titulo>Disposición transitoria sexta</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/dtsexta</url>
+    </bloque>
+    <bloque>
+      <id>ddprimera</id>
+      <titulo>Disposición derogatoria primera</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/ddprimera</url>
+    </bloque>
+    <bloque>
+      <id>ddsegunda</id>
+      <titulo>Disposición derogatoria segunda</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/ddsegunda</url>
+    </bloque>
+    <bloque>
+      <id>ddtercera</id>
+      <titulo>Disposición derogatoria tercera</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/ddtercera</url>
+    </bloque>
+    <bloque>
+      <id>dfprimera</id>
+      <titulo>Disposición final primera</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/dfprimera</url>
+    </bloque>
+    <bloque>
+      <id>dfsegunda</id>
+      <titulo>Disposición final segunda</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/dfsegunda</url>
+    </bloque>
+    <bloque>
+      <id>dftercera</id>
+      <titulo>Disposición final tercera</titulo>
+      <fecha_actualizacion>20260130</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/dftercera</url>
+    </bloque>
+    <bloque>
+      <id>dfcuaa</id>
+      <titulo>Disposición final cuarta</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/dfcuaa</url>
+    </bloque>
+    <bloque>
+      <id>dfquinta</id>
+      <titulo>Disposición final quinta</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/dfquinta</url>
+    </bloque>
+    <bloque>
+      <id>dfsexta</id>
+      <titulo>Disposición final sexta</titulo>
+      <fecha_actualizacion>19991230</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/dfsexta</url>
+    </bloque>
+    <bloque>
+      <id>firma</id>
+      <titulo/>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/firma</url>
+    </bloque>
+    <bloque>
+      <id>reglamentogeneraldevehiculos</id>
+      <titulo>REGLAMENTO GENERAL DE VEHÍCULOS</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/reglamentogeneraldevehiculos</url>
+    </bloque>
+    <bloque>
+      <id>ti</id>
+      <titulo>TÍTULO I</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/ti</url>
+    </bloque>
+    <bloque>
+      <id>cunico</id>
+      <titulo>CAPÍTULO ÚNICO</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/cunico</url>
+    </bloque>
+    <bloque>
+      <id>a1</id>
+      <titulo>Artículo 1</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a1</url>
+    </bloque>
+    <bloque>
+      <id>a2</id>
+      <titulo>Artículo 2</titulo>
+      <fecha_actualizacion>20260130</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a2</url>
+    </bloque>
+    <bloque>
+      <id>a3</id>
+      <titulo>Artículo 3</titulo>
+      <fecha_actualizacion>20260130</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a3</url>
+    </bloque>
+    <bloque>
+      <id>a4</id>
+      <titulo>Artículo 4</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a4</url>
+    </bloque>
+    <bloque>
+      <id>tii</id>
+      <titulo>TÍTULO II</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/tii</url>
+    </bloque>
+    <bloque>
+      <id>ci</id>
+      <titulo>CAPÍTULO I</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/ci</url>
+    </bloque>
+    <bloque>
+      <id>a5</id>
+      <titulo>Artículo 5</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a5</url>
+    </bloque>
+    <bloque>
+      <id>a6</id>
+      <titulo>Artículo 6</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a6</url>
+    </bloque>
+    <bloque>
+      <id>a7</id>
+      <titulo>Artículo 7</titulo>
+      <fecha_actualizacion>20100714</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a7</url>
+    </bloque>
+    <bloque>
+      <id>a8</id>
+      <titulo>Artículo 8</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a8</url>
+    </bloque>
+    <bloque>
+      <id>a9</id>
+      <titulo>Artículo 9</titulo>
+      <fecha_actualizacion>20210317</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a9</url>
+    </bloque>
+    <bloque>
+      <id>a10</id>
+      <titulo>Artículo 10</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a10</url>
+    </bloque>
+    <bloque>
+      <id>cii</id>
+      <titulo>CAPÍTULO II</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/cii</url>
+    </bloque>
+    <bloque>
+      <id>a11</id>
+      <titulo>Artículo 11</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a11</url>
+    </bloque>
+    <bloque>
+      <id>a12</id>
+      <titulo>Artículo 12</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a12</url>
+    </bloque>
+    <bloque>
+      <id>a13</id>
+      <titulo>Artículo 13</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a13</url>
+    </bloque>
+    <bloque>
+      <id>a14</id>
+      <titulo>Artículo 14</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a14</url>
+    </bloque>
+    <bloque>
+      <id>a15</id>
+      <titulo>Artículo 15</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a15</url>
+    </bloque>
+    <bloque>
+      <id>a16</id>
+      <titulo>Artículo 16</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a16</url>
+    </bloque>
+    <bloque>
+      <id>a17</id>
+      <titulo>Artículo 17</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a17</url>
+    </bloque>
+    <bloque>
+      <id>a18</id>
+      <titulo>Artículo 18</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a18</url>
+    </bloque>
+    <bloque>
+      <id>a19</id>
+      <titulo>Artículo 19</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a19</url>
+    </bloque>
+    <bloque>
+      <id>a20</id>
+      <titulo>Artículo 20</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a20</url>
+    </bloque>
+    <bloque>
+      <id>tiii</id>
+      <titulo>TÍTULO III</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/tiii</url>
+    </bloque>
+    <bloque>
+      <id>ci-2</id>
+      <titulo>CAPÍTULO I</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/ci-2</url>
+    </bloque>
+    <bloque>
+      <id>a21</id>
+      <titulo>Artículo 21</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a21</url>
+    </bloque>
+    <bloque>
+      <id>cii-2</id>
+      <titulo>CAPÍTULO II</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/cii-2</url>
+    </bloque>
+    <bloque>
+      <id>a22</id>
+      <titulo>Artículo 22</titulo>
+      <fecha_actualizacion>20201111</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a22</url>
+    </bloque>
+    <bloque>
+      <id>a2-2</id>
+      <titulo>Artículo 22 bis</titulo>
+      <fecha_actualizacion>20260130</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a2-2</url>
+    </bloque>
+    <bloque>
+      <id>a23</id>
+      <titulo>Artículo 23</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a23</url>
+    </bloque>
+    <bloque>
+      <id>a24</id>
+      <titulo>Artículo 24</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a24</url>
+    </bloque>
+    <bloque>
+      <id>tiv</id>
+      <titulo>TÍTULO IV</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/tiv</url>
+    </bloque>
+    <bloque>
+      <id>ci-3</id>
+      <titulo>CAPÍTULO I</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/ci-3</url>
+    </bloque>
+    <bloque>
+      <id>a25</id>
+      <titulo>Artículo 25</titulo>
+      <fecha_actualizacion>20201111</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a25</url>
+    </bloque>
+    <bloque>
+      <id>a26</id>
+      <titulo>Artículo 26</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a26</url>
+    </bloque>
+    <bloque>
+      <id>cii-3</id>
+      <titulo>CAPÍTULO II</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/cii-3</url>
+    </bloque>
+    <bloque>
+      <id>a27</id>
+      <titulo>Artículo 27</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a27</url>
+    </bloque>
+    <bloque>
+      <id>a28</id>
+      <titulo>Artículo 28</titulo>
+      <fecha_actualizacion>20201111</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a28</url>
+    </bloque>
+    <bloque>
+      <id>a29</id>
+      <titulo>Artículo 29</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a29</url>
+    </bloque>
+    <bloque>
+      <id>a30</id>
+      <titulo>Artículo 30</titulo>
+      <fecha_actualizacion>20171108</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a30</url>
+    </bloque>
+    <bloque>
+      <id>ciii</id>
+      <titulo>CAPÍTULO III</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/ciii</url>
+    </bloque>
+    <bloque>
+      <id>a31</id>
+      <titulo>Artículo 31</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a31</url>
+    </bloque>
+    <bloque>
+      <id>s1</id>
+      <titulo>Sección 1</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/s1</url>
+    </bloque>
+    <bloque>
+      <id>a32</id>
+      <titulo>Artículo 32</titulo>
+      <fecha_actualizacion>20210414</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a32</url>
+    </bloque>
+    <bloque>
+      <id>s2</id>
+      <titulo>Sección 2</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/s2</url>
+    </bloque>
+    <bloque>
+      <id>a33</id>
+      <titulo>Artículo 33</titulo>
+      <fecha_actualizacion>20210414</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a33</url>
+    </bloque>
+    <bloque>
+      <id>civ</id>
+      <titulo>CAPÍTULO IV</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/civ</url>
+    </bloque>
+    <bloque>
+      <id>a34</id>
+      <titulo>Artículo 34</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a34</url>
+    </bloque>
+    <bloque>
+      <id>a35</id>
+      <titulo>Artículo 35</titulo>
+      <fecha_actualizacion>20210414</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a35</url>
+    </bloque>
+    <bloque>
+      <id>a36</id>
+      <titulo>Artículo 36</titulo>
+      <fecha_actualizacion>20240918</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a36</url>
+    </bloque>
+    <bloque>
+      <id>a37</id>
+      <titulo>Artículo 37</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a37</url>
+    </bloque>
+    <bloque>
+      <id>a38</id>
+      <titulo>Artículo 38</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a38</url>
+    </bloque>
+    <bloque>
+      <id>cv</id>
+      <titulo>CAPÍTULO V</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/cv</url>
+    </bloque>
+    <bloque>
+      <id>a39</id>
+      <titulo>Artículo 39</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a39</url>
+    </bloque>
+    <bloque>
+      <id>a40</id>
+      <titulo>Artículo 40</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a40</url>
+    </bloque>
+    <bloque>
+      <id>a41</id>
+      <titulo>Artículo 41</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a41</url>
+    </bloque>
+    <bloque>
+      <id>cvi</id>
+      <titulo>CAPÍTULO VI</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/cvi</url>
+    </bloque>
+    <bloque>
+      <id>a42</id>
+      <titulo>Artículo 42</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a42</url>
+    </bloque>
+    <bloque>
+      <id>s1-2</id>
+      <titulo>Sección 1</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/s1-2</url>
+    </bloque>
+    <bloque>
+      <id>a43</id>
+      <titulo>Artículo 43</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a43</url>
+    </bloque>
+    <bloque>
+      <id>s2-2</id>
+      <titulo>Sección 2</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/s2-2</url>
+    </bloque>
+    <bloque>
+      <id>ss1</id>
+      <titulo>Subsección 1</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/ss1</url>
+    </bloque>
+    <bloque>
+      <id>a44</id>
+      <titulo>Artículo 44</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a44</url>
+    </bloque>
+    <bloque>
+      <id>a45</id>
+      <titulo>Artículo 45</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a45</url>
+    </bloque>
+    <bloque>
+      <id>a46</id>
+      <titulo>Artículo 46</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a46</url>
+    </bloque>
+    <bloque>
+      <id>a47</id>
+      <titulo>Artículo 47</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a47</url>
+    </bloque>
+    <bloque>
+      <id>ss2</id>
+      <titulo>Subsección 2</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/ss2</url>
+    </bloque>
+    <bloque>
+      <id>a48</id>
+      <titulo>Artículo 48</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a48</url>
+    </bloque>
+    <bloque>
+      <id>s3</id>
+      <titulo>Subsección 3</titulo>
+      <fecha_actualizacion>20240918</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/s3</url>
+    </bloque>
+    <bloque>
+      <id>a4-2</id>
+      <titulo>Artículo 48 bis</titulo>
+      <fecha_actualizacion>20240918</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a4-2</url>
+    </bloque>
+    <bloque>
+      <id>cvii</id>
+      <titulo>CAPÍTULO VII</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/cvii</url>
+    </bloque>
+    <bloque>
+      <id>a49</id>
+      <titulo>Artículo 49</titulo>
+      <fecha_actualizacion>20201023</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a49</url>
+    </bloque>
+    <bloque>
+      <id>cviii</id>
+      <titulo>CAPÍTULO VIII</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/cviii</url>
+    </bloque>
+    <bloque>
+      <id>a50</id>
+      <titulo>Artículo 50</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a50</url>
+    </bloque>
+    <bloque>
+      <id>cix</id>
+      <titulo>CAPÍTULO IX</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/cix</url>
+    </bloque>
+    <bloque>
+      <id>a51</id>
+      <titulo>Artículo 51</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a51</url>
+    </bloque>
+    <bloque>
+      <id>ani</id>
+      <titulo>ANEXO I</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/ani</url>
+    </bloque>
+    <bloque>
+      <id>anii</id>
+      <titulo>ANEXO II</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/anii</url>
+    </bloque>
+    <bloque>
+      <id>iia</id>
+      <titulo>II A. Definiciones</titulo>
+      <fecha_actualizacion>20260130</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/iia</url>
+    </bloque>
+    <bloque>
+      <id>iib</id>
+      <titulo>II B. Clasificación por criterios de construcción</titulo>
+      <fecha_actualizacion>20260529</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/iib</url>
+    </bloque>
+    <bloque>
+      <id>iic</id>
+      <titulo>II C. Clasificación por criterios de utilización</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/iic</url>
+    </bloque>
+    <bloque>
+      <id>iid</id>
+      <titulo>II D. Servicio al que se destinan los vehículos</titulo>
+      <fecha_actualizacion>20240918</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/iid</url>
+    </bloque>
+    <bloque>
+      <id>ie</id>
+      <titulo>II E. Clasificación de los vehículos por su potencial contaminante</titulo>
+      <fecha_actualizacion>20180731</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/ie</url>
+    </bloque>
+    <bloque>
+      <id>aniii</id>
+      <titulo>ANEXO III</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/aniii</url>
+    </bloque>
+    <bloque>
+      <id>A1-2</id>
+      <titulo>1. Definiciones</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/A1-2</url>
+    </bloque>
+    <bloque>
+      <id>A2-2</id>
+      <titulo>2. Retrovisores para vehículos de categorías M y N</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/A2-2</url>
+    </bloque>
+    <bloque>
+      <id>A3</id>
+      <titulo>3. Retrovisores para vehículos ciclomotores, ciclomotores con tres ruedas, motocicletas, motocicletas con sidecar, vehículos de tres ruedas o cuatriciclos</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/A3</url>
+    </bloque>
+    <bloque>
+      <id>A4</id>
+      <titulo>4. Retrovisores para los vehículos especiales, incluidos los agrícolas</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/A4</url>
+    </bloque>
+    <bloque>
+      <id>aniv</id>
+      <titulo>ANEXO IV</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/aniv</url>
+    </bloque>
+    <bloque>
+      <id>anv</id>
+      <titulo>ANEXO V</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/anv</url>
+    </bloque>
+    <bloque>
+      <id>anvi</id>
+      <titulo>ANEXO VI</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/anvi</url>
+    </bloque>
+    <bloque>
+      <id>A1-3</id>
+      <titulo>1. Objeto y campo de aplicación</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/A1-3</url>
+    </bloque>
+    <bloque>
+      <id>A2-3</id>
+      <titulo>2. Definiciones</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/A2-3</url>
+    </bloque>
+    <bloque>
+      <id>A3-2</id>
+      <titulo>3. Requisitos</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/A3-2</url>
+    </bloque>
+    <bloque>
+      <id>A4-2</id>
+      <titulo>4. Descripción de los ensayos</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/A4-2</url>
+    </bloque>
+    <bloque>
+      <id>anvii</id>
+      <titulo>ANEXO VII</titulo>
+      <fecha_actualizacion>20260529</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/anvii</url>
+    </bloque>
+    <bloque>
+      <id>anviii</id>
+      <titulo>ANEXO VIII</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/anviii</url>
+    </bloque>
+    <bloque>
+      <id>A1-4</id>
+      <titulo>1. Definiciones</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/A1-4</url>
+    </bloque>
+    <bloque>
+      <id>A2-4</id>
+      <titulo>2. Categorías de vehículos y tipo de función de frenado que deben llevar</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/A2-4</url>
+    </bloque>
+    <bloque>
+      <id>anix</id>
+      <titulo>ANEXO IX</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/anix</url>
+    </bloque>
+    <bloque>
+      <id>A1-5</id>
+      <titulo>1. Definiciones</titulo>
+      <fecha_actualizacion>20250723</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/A1-5</url>
+    </bloque>
+    <bloque>
+      <id>A2-5</id>
+      <titulo>2. Masas máximas permitidas</titulo>
+      <fecha_actualizacion>20250723</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/A2-5</url>
+    </bloque>
+    <bloque>
+      <id>A3-3</id>
+      <titulo>3. Dimensiones máximas autorizadas a los vehículos para poder circular, incluida la carga</titulo>
+      <fecha_actualizacion>20250723</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/A3-3</url>
+    </bloque>
+    <bloque>
+      <id>A4-3</id>
+      <titulo>4. Masas remolcables para vehículos no agrícolas</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/A4-3</url>
+    </bloque>
+    <bloque>
+      <id>A5</id>
+      <titulo>5. Masas remolcables para vehículos agrícolas</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/A5</url>
+    </bloque>
+    <bloque>
+      <id>A6-2</id>
+      <titulo>6. Condiciones de circulación de los conjuntos en configuración euro-modular</titulo>
+      <fecha_actualizacion>20250723</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/A6-2</url>
+    </bloque>
+    <bloque>
+      <id>A7</id>
+      <titulo>7. Longitud máxima de vehículos o conjuntos de vehículos con mejoras aerodinámicas</titulo>
+      <fecha_actualizacion>20170602</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/A7</url>
+    </bloque>
+    <bloque>
+      <id>anx</id>
+      <titulo>ANEXO X</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/anx</url>
+    </bloque>
+    <bloque>
+      <id>A1-6</id>
+      <titulo>1. Definiciones</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/A1-6</url>
+    </bloque>
+    <bloque>
+      <id>A2-6</id>
+      <titulo>2. Dispositivos de alumbrado y señalización óptica</titulo>
+      <fecha_actualizacion>20250723</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/A2-6</url>
+    </bloque>
+    <bloque>
+      <id>anxi</id>
+      <titulo>ANEXO XI</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/anxi</url>
+    </bloque>
+    <bloque>
+      <id>A1-7</id>
+      <titulo>1. Materiales</titulo>
+      <fecha_actualizacion>20100123</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/A1-7</url>
+    </bloque>
+    <bloque>
+      <id>A2-7</id>
+      <titulo>2. Especificaciones</titulo>
+      <fecha_actualizacion>20100123</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/A2-7</url>
+    </bloque>
+    <bloque>
+      <id>A3-4</id>
+      <titulo>3. Muestras de prueba a presentar en el laboratorio</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/A3-4</url>
+    </bloque>
+    <bloque>
+      <id>A4-4</id>
+      <titulo>4. Especificaciones de láminas reflectantes para las señales V-3 a V-15, V-20 y V-24</titulo>
+      <fecha_actualizacion>20100123</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/A4-4</url>
+    </bloque>
+    <bloque>
+      <id>A5-2</id>
+      <titulo>5. Especificaciones de color para las láminas fluorescentes</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/A5-2</url>
+    </bloque>
+    <bloque>
+      <id>A6</id>
+      <titulo>6. Ensayos de homologación para las placas correspondientes a las señales V-3 a V-15, V-20 y V-24</titulo>
+      <fecha_actualizacion>20100123</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/A6</url>
+    </bloque>
+    <bloque>
+      <id>v-1</id>
+      <titulo>V-1</titulo>
+      <fecha_actualizacion>20180731</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/v-1</url>
+    </bloque>
+    <bloque>
+      <id>v-2</id>
+      <titulo>V-2</titulo>
+      <fecha_actualizacion>20221221</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/v-2</url>
+    </bloque>
+    <bloque>
+      <id>v-3</id>
+      <titulo>V-3</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/v-3</url>
+    </bloque>
+    <bloque>
+      <id>v-4</id>
+      <titulo>V-4</titulo>
+      <fecha_actualizacion>20100123</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/v-4</url>
+    </bloque>
+    <bloque>
+      <id>v-5</id>
+      <titulo>V-5</titulo>
+      <fecha_actualizacion>20100123</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/v-5</url>
+    </bloque>
+    <bloque>
+      <id>v-6</id>
+      <titulo>V-6</titulo>
+      <fecha_actualizacion>20100123</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/v-6</url>
+    </bloque>
+    <bloque>
+      <id>v-7</id>
+      <titulo>V-7</titulo>
+      <fecha_actualizacion>20100123</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/v-7</url>
+    </bloque>
+    <bloque>
+      <id>v-8</id>
+      <titulo>V-8</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/v-8</url>
+    </bloque>
+    <bloque>
+      <id>v-9</id>
+      <titulo>V-9</titulo>
+      <fecha_actualizacion>20100123</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/v-9</url>
+    </bloque>
+    <bloque>
+      <id>v-10</id>
+      <titulo>V-10</titulo>
+      <fecha_actualizacion>20070123</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/v-10</url>
+    </bloque>
+    <bloque>
+      <id>v-11</id>
+      <titulo>V-11</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/v-11</url>
+    </bloque>
+    <bloque>
+      <id>v-12</id>
+      <titulo>V-12</titulo>
+      <fecha_actualizacion>20100123</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/v-12</url>
+    </bloque>
+    <bloque>
+      <id>v-13</id>
+      <titulo>V-13</titulo>
+      <fecha_actualizacion>20110325</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/v-13</url>
+    </bloque>
+    <bloque>
+      <id>v-14</id>
+      <titulo>V-14</titulo>
+      <fecha_actualizacion>20100123</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/v-14</url>
+    </bloque>
+    <bloque>
+      <id>v-15</id>
+      <titulo>V-15</titulo>
+      <fecha_actualizacion>20100123</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/v-15</url>
+    </bloque>
+    <bloque>
+      <id>v-16</id>
+      <titulo>V-16</titulo>
+      <fecha_actualizacion>20221221</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/v-16</url>
+    </bloque>
+    <bloque>
+      <id>v-17</id>
+      <titulo>V-17</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/v-17</url>
+    </bloque>
+    <bloque>
+      <id>v-18</id>
+      <titulo>V-18</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/v-18</url>
+    </bloque>
+    <bloque>
+      <id>v-19</id>
+      <titulo>V-19</titulo>
+      <fecha_actualizacion>20080320</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/v-19</url>
+    </bloque>
+    <bloque>
+      <id>v-20</id>
+      <titulo>V-20</titulo>
+      <fecha_actualizacion>20100123</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/v-20</url>
+    </bloque>
+    <bloque>
+      <id>v-21</id>
+      <titulo>V-21</titulo>
+      <fecha_actualizacion>20100123</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/v-21</url>
+    </bloque>
+    <bloque>
+      <id>v-22</id>
+      <titulo>V-22</titulo>
+      <fecha_actualizacion>20100123</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/v-22</url>
+    </bloque>
+    <bloque>
+      <id>v-23</id>
+      <titulo>V-23</titulo>
+      <fecha_actualizacion>20100123</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/v-23</url>
+    </bloque>
+    <bloque>
+      <id>v-24</id>
+      <titulo>V-24</titulo>
+      <fecha_actualizacion>20221221</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/v-24</url>
+    </bloque>
+    <bloque>
+      <id>v2</id>
+      <titulo>V-25</titulo>
+      <fecha_actualizacion>20180731</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/v2</url>
+    </bloque>
+    <bloque>
+      <id>v2-2</id>
+      <titulo>V-26</titulo>
+      <fecha_actualizacion>20180731</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/v2-2</url>
+    </bloque>
+    <bloque>
+      <id>v2-3</id>
+      <titulo>V-27</titulo>
+      <fecha_actualizacion>20210317</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/v2-3</url>
+    </bloque>
+    <bloque>
+      <id>anxii</id>
+      <titulo>ANEXO XII</titulo>
+      <fecha_actualizacion>20260626</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/anxii</url>
+    </bloque>
+    <bloque>
+      <id>anxiii</id>
+      <titulo>ANEXO XIII</titulo>
+      <fecha_actualizacion>20210414</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/anxiii</url>
+    </bloque>
+    <bloque>
+      <id>anxiv</id>
+      <titulo>ANEXO XIV</titulo>
+      <fecha_actualizacion>20060621</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/anxiv</url>
+    </bloque>
+    <bloque>
+      <id>anxv</id>
+      <titulo>ANEXO XV</titulo>
+      <fecha_actualizacion>20210414</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/anxv</url>
+    </bloque>
+    <bloque>
+      <id>anxvi</id>
+      <titulo>ANEXO XVI</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/anxvi</url>
+    </bloque>
+    <bloque>
+      <id>i-2</id>
+      <titulo>I. Vehículos en régimen de matrícula diplomática</titulo>
+      <fecha_actualizacion>20001230</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/i-2</url>
+    </bloque>
+    <bloque>
+      <id>ii-2</id>
+      <titulo>II. Vehículos en régimen de matrícula turística</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/ii-2</url>
+    </bloque>
+    <bloque>
+      <id>anxvii</id>
+      <titulo>ANEXO XVII</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/anxvii</url>
+    </bloque>
+    <bloque>
+      <id>i-3</id>
+      <titulo>I. Permisos temporales para particulares</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/i-3</url>
+    </bloque>
+    <bloque>
+      <id>ii-3</id>
+      <titulo>II. Permisos temporales para uso de empresas o entidades relacionadas con el vehículo</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/ii-3</url>
+    </bloque>
+    <bloque>
+      <id>iii-2</id>
+      <titulo>III. Pruebas o ensayos de investigación extraordinarios realizados por fabricantes/representantes legales, carroceros y Laboratorios Oficiales</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/iii-2</url>
+    </bloque>
+    <bloque>
+      <id>iv</id>
+      <titulo>IV. Permisos temporales para vehículos de museos y de colecciones museográficas</titulo>
+      <fecha_actualizacion>20240918</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/iv</url>
+    </bloque>
+    <bloque>
+      <id>anxviii</id>
+      <titulo>ANEXO XVIII</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/anxviii</url>
+    </bloque>
+    <bloque>
+      <id>i-4</id>
+      <titulo>I. Colores e inscripciones</titulo>
+      <fecha_actualizacion>20201111</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/i-4</url>
+    </bloque>
+    <bloque>
+      <id>ii-4</id>
+      <titulo>II. Contraseñas de las placas</titulo>
+      <fecha_actualizacion>20080223</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/ii-4</url>
+    </bloque>
+    <bloque>
+      <id>iii-3</id>
+      <titulo>III. Número y ubicación de las placas</titulo>
+      <fecha_actualizacion>20250723</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/iii-3</url>
+    </bloque>
+    <bloque>
+      <id>iv-2</id>
+      <titulo>IV. Dimensiones y especificaciones de las placas y sus caracteres</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/iv-2</url>
+    </bloque>
+    <bloque>
+      <id>cuadro1</id>
+      <titulo>Cuadro 1</titulo>
+      <fecha_actualizacion>20260529</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/cuadro1</url>
+    </bloque>
+    <bloque>
+      <id>cuadro2</id>
+      <titulo>Cuadro 2</titulo>
+      <fecha_actualizacion>20180731</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/cuadro2</url>
+    </bloque>
+    <bloque>
+      <id>cuadro3</id>
+      <titulo>Cuadro 3</titulo>
+      <fecha_actualizacion>20100123</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/cuadro3</url>
+    </bloque>
+    <bloque>
+      <id>cuadro4</id>
+      <titulo>Cuadro 4</titulo>
+      <fecha_actualizacion>19990126</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/cuadro4</url>
+    </bloque>
+    <bloque>
+      <id>cuadro5</id>
+      <titulo>Cuadro 5</titulo>
+      <fecha_actualizacion>20100123</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/cuadro5</url>
+    </bloque>
+    <bloque>
+      <id>ax</id>
+      <titulo>ANEXO XIX</titulo>
+      <fecha_actualizacion>20260130</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/ax</url>
+    </bloque>
+    <bloque>
+      <id>ax-2</id>
+      <titulo>ANEXO XX</titulo>
+      <fecha_actualizacion>20260130</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/ax-2</url>
+    </bloque>
+    <bloque>
+      <id>ax-3</id>
+      <titulo>ANEXO XXI</titulo>
+      <fecha_actualizacion>20260130</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/ax-3</url>
+    </bloque>
+  </data>
+</response>

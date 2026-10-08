@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1996-10993",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1996-10993",
+  "sha256": "2d5a60e9fe40dd2e32f27ffa622e11aa1734e58980c840fec8be8984189219fc",
+  "archivo": "data/raw/2d5a60e9fe40dd2e32f27ffa622e11aa1734e58980c840fec8be8984189219fc.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:03.677869+00:00"
+}

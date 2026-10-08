@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.caib.es/eboibfront/cercar?lang=es&publico=N&texto=polic%C3%ADa&organisme=ESCUELA+BALEAR&fec_ini=19%2F03%2F2026&fec_fin=19%2F03%2F2026",
+  "url_final": "https://www.caib.es/eboibfront/cercar?lang=es&publico=N&texto=polic%C3%ADa&organisme=ESCUELA+BALEAR&fec_ini=19%2F03%2F2026&fec_fin=19%2F03%2F2026",
+  "sha256": "9264f10c423512c45d3c4b2a6aef3dd03e369c10d663b712a95dd03c23c271a7",
+  "archivo": "data/raw/9264f10c423512c45d3c4b2a6aef3dd03e369c10d663b712a95dd03c23c271a7.html",
+  "content_type": "text/html;charset=UTF-8",
+  "fecha_descarga": "2026-10-08T17:05:02.135988+00:00"
+}

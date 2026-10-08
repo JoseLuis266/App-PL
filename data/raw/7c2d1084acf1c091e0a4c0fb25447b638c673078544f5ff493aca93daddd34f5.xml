@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a4-2" tipo="precepto" titulo="Artículo 48 bis">
+      <version id_norma="BOE-A-2024-18614" fecha_publicacion="20240918" fecha_vigencia="20241001">
+        <p class="articulo">Artículo 48 bis. Supuestos y requisitos para su concesión.</p>
+        <p class="parrafo">1. Las personas naturales o jurídicas titulares de museos o de colecciones museográficas de vehículos históricos, podrán obtener de la Jefatura de Tráfico, permisos temporales que habilitarán a sus vehículos para transitar por el territorio nacional a los efectos de traslado entre instalaciones, mantenimiento, exhibición en acontecimientos o pruebas autorizadas o análogas circunstancias justificadas, cuya finalidad será la protección y exhibición de dicho patrimonio automovilístico.</p>
+        <p class="parrafo">2. Estos permisos se concederán por el plazo improrrogable de un año, contado desde el día primero del mes siguiente a la fecha de su expedición, y los vehículos deberán llevar las placas previstas para los permisos temporales de empresas para vehículos no matriculados en España. Sus titulares están obligados a entregar los permisos y las placas correspondientes en una Jefatura de Tráfico, dentro de los cinco días siguientes contados a partir de la fecha en que haya terminado el plazo de validez.</p>
+        <p class="parrafo">3. Cada permiso, que ampara la circulación no simultánea de vehículos, cualquiera que sea su marca y categoría, se solicitará en modelo oficial, al que se acompañarán los documentos que se establecen en el anexo XVII. La Jefatura de Tráfico, a la vista de los documentos presentados, concederá, si procede, un permiso temporal cuyo modelo y contenido se ajustarán a lo dispuesto en el anexo XVII.</p>
+        <p class="parrafo">4. Los vehículos que circulen al amparo del permiso a que se refiere este artículo deberán ser conducidos, como norma general, por el titular del permiso o persona autorizada por el mismo, que deberá portar la correspondiente autorización temporal de circulación.</p>
+        <p class="parrafo">5. Las personas conductoras de los vehículos amparados por el permiso temporal a que se refiere este artículo deberán llevar, en unión de dicho documento, el correspondiente ''Boletín de Circulación'' en las condiciones establecidas en el artículo 45.</p>
+        <blockquote>
+          <p class="nota_pie">Se añade por la disposición final 1.2 del Real Decreto 892/2024, de 10 de septiembre. <a class="refPost">Ref. BOE-A-2024-18614#df</a></p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

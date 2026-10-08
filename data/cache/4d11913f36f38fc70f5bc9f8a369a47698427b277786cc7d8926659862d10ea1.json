@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1987-14578",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1987-14578",
+  "sha256": "90869c9f0c6ebd407d8f745be1edd8b0df591942b5042c615835c95400a5ac2a",
+  "archivo": "data/raw/90869c9f0c6ebd407d8f745be1edd8b0df591942b5042c615835c95400a5ac2a.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:20:39.637000+00:00"
+}

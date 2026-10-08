@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-2388",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-2388",
+  "sha256": "35c727f71914dff766bb2eac7607c35af6e6b509f7c645b1890373a4df9991db",
+  "archivo": "data/raw/35c727f71914dff766bb2eac7607c35af6e6b509f7c645b1890373a4df9991db.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:50.139921+00:00"
+}

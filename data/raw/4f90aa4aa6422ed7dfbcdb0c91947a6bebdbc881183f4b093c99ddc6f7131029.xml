@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a1-9" tipo="precepto" titulo="Artículo 17">
+      <version id_norma="BOE-A-2016-6310" fecha_publicacion="20160602" fecha_vigencia="20160603">
+        <p class="articulo">Artículo 17. Acción social.</p>
+        <p class="parrafo">1. Las administraciones públicas de las Illes Balears dedicarán especial atención a niños, adolescentes y jóvenes LGTBI que estén en situación de vulnerabilidad o aislamiento social y trabajarán en la prevención de situaciones que puedan atentar contra su desarrollo personal, su salud o su vida por causas derivadas de su orientación sexual o identidad de género.</p>
+        <p class="parrafo">Las administraciones públicas de las Illes Balears adoptarán los mecanismos adecuados para la protección efectiva de menores LGTBI que se encuentren bajo la tutela de la administración, ya sea en centros de menores, pisos tutelados o supervisados o cualquiera otro recurso donde residan, garantizando el respeto absoluto a su identidad o expresión de género y unas condiciones de vida plenas.</p>
+        <p class="parrafo">2. La administración autonómica impulsará medidas y actuaciones de apoyo para adolescentes y jóvenes LGTBI que hayan sido expulsados de casa o hayan marchado voluntariamente debido a situaciones de maltrato y/o presión psicológica.</p>
+        <p class="parrafo">3. Se establecerán medidas de prevención para las personas LGTBI que puedan sufrir discriminación múltiple, con el objetivo de evitar situaciones de discriminación, riesgo de exclusión social y vulnerabilidad.</p>
+        <p class="parrafo">4. Los servicios sociales, y específicamente las residencias para la gente mayor, tanto públicas como privadas, velarán para que no se produzcan situaciones de discriminación de las personas LGTBI, tanto si viven solas como si viven en pareja. Se fomentará el respeto a la diversidad en cuanto a la orientación sexual, la identidad de género o la expresión de género entre los usuarios y las usuarias de los servicios sociales.</p>
+        <p class="parrafo">5. En las residencias u otros equipamientos en que se diferencian los espacios por sexos, se garantizará que la persona transexual y la intersexual puedan hacer uso de los espacios asignados al género con el cual se identifican, y se habilitarán espacios específicos para aquellas personas que se encuentran en proceso transexualizador.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

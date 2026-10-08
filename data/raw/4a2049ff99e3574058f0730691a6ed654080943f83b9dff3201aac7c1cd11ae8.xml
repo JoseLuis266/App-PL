@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20251217202601">
+  <metadatos>
+    <identificador>BOE-A-1991-17903</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7723">Jefatura del Estado</departamento>
+    <rango codigo="1290">Ley Orgánica</rango>
+    <fecha_disposicion>19910710</fecha_disposicion>
+    <numero_oficial>12/1991</numero_oficial>
+    <titulo>Ley Orgánica 12/1991, de 10 de julio, sobre modificación de los artículos 411, 412, 413, 414, 415, 702 y 703 de la Ley de Enjuiciamiento Criminal.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>19910711</fecha_publicacion>
+    <diario_numero>165</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>23114</pagina_inicial>
+    <pagina_final>23114</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/1991/07/11/pdfs/A23114-23114.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan>/boe_catalan/dias/1991/12/31/pdfs/A00141-00142.pdf</url_pdf_catalan>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia>19910731</fecha_vigencia>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/lo/1991/07/10/12</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/lo/1991/07/10/12">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/lo"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1991-17903</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1991-07-10</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12</eli:number>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3199"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5788"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6881"/>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/lo/1991/07/10/12/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/lo"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1991-17903</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1991-07-10</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12</eli:number>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3199"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5788"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6881"/>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/lo/1991/07/10/12"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/lo/1991/07/10/12/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ley Orgánica 12/1991, de 10 de julio, sobre modificación de los artículos 411, 412, 413, 414, 415, 702 y 703 de la Ley de Enjuiciamiento Criminal.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1991-07-11</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/lo/1991/07/10/12/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/lo/1991/07/10/12/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/lo/1991/07/10/12/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/lo/1991/07/10/12/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/lo/1991/07/10/12/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/lo/1991/07/10/12/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/lo/1991/07/10/12/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/lo/1991/07/10/12/dof/cat">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/cat"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Llei orgànica 12/1991, de 10 de juliol, sobre modificació dels articles 411, 412, 413, 414, 415, 702 i 703 de la Llei d'enjudiciament criminal. («BOE» 165, d'11-7-1991.)</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1991-12-31</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/lo/1991/07/10/12/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/lo/1991/07/10/12/dof/cat/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/lo/1991/07/10/12/dof/cat"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="3199" orden="1">Enjuiciamiento Criminal</materia>
+      <materia codigo="5788" orden="2">Prueba</materia>
+      <materia codigo="6881" orden="3">Testigos</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1882-6036" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>los arts. 411 a 415, 702 y 703 de la Ley de Enjuiciamiento Criminal aprobada por Real Decreto de 14 de septiembre de 1882</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1989-8712" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Ley Orgánica 2/1989, de 13 de abril</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1980-25460" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Ley Orgánica 9/1980, de 6 de noviembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1945-7336" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Código de Justicia militar, aprobado por Ley de 17 de julio de 1945 (Gazeta)</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas>
+      <alerta codigo="113" orden="1">Derecho Penal</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="centro_redonda">JUAN CARLOS I,</p>
+    <p class="centro_redonda">REY DE ESPAÑA</p>
+    <p class="parrafo_2">A todos los que la presente vieren y entendieren.</p>
+    <p class="parrafo">Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica:</p>
+    <p class="centro_redonda">EXPOSICIÓN DE MOTIVOS</p>
+    <p class="parrafo_2">La Constitución de 1978 instaura una nueva concepción de España como «Estado social y democrático de Derecho», bajo la forma política de la Monarquía parlamentaria y reconociendo y garantizando el derecho a la autonomía de las nacionalidades y regiones que la integran.</p>
+    <p class="parrafo">La organización territorial del Estado que el desarrollo del texto constitucional implica, exige la reforma de aquellos preceptos que no se ajustan a sus principios.</p>
+    <p class="parrafo">En este sentido, la presente Ley tiene la finalidad de adecuar a la nueva configuración constitucional del Estado aquellos artículos de la Ley de Enjuiciamiento Criminal que regulan la concurrencia de determinadas personas a los llamamientos judiciales por razón del estatus que ocupan dentro de la estructura del Estado; de idéntica manera a la modificación que introdujeron en esta materia el artículo 580 de la Ley Orgánica 9/1980, que aprobó el Código de Justicia Militar, y el artículo 172 de la Ley Orgánica 2/1989, Procesal Militar, al superar las omisiones que también contenía la Ley de Enjuiciamiento Criminal en relación con la Jurisdicción militar.</p>
+    <p class="articulo">Artículo único.</p>
+    <p class="parrafo">Se modifican los artículos 411, 412, 413, 414, 415, 702 y 703 de la Ley de Enjuiciamiento Criminal, que quedan redactados de la siguiente manera:</p>
+    <p class="sangrado_articulo">«Artículo 411.</p>
+    <p class="sangrado">Se exceptúan de lo dispuesto en el artículo anterior: El Rey, la Reina, sus respectivos consortes, el Príncipe Heredero y los Regentes del Reino.</p>
+    <p class="sangrado">También están exentos del deber de declarar los Agentes Diplomáticos acreditados en España, en todo caso, y el personal administrativo, técnico o de servicio de las misiones diplomáticas, así como sus familiares, si concurren en ellos los requisitos exigidos en los tratados.</p>
+    <p class="sangrado_articulo">Artículo 412.</p>
+    <p class="sangrado">1. Estarán exentas también de concurrir al llamamiento del Juez, pero no de declarar, pudiendo hacerlo por escrito, las demás personas de la Familia Real.</p>
+    <p class="sangrado">2. Están exentos de concurrir al llamamiento del Juez, pero no de declarar, pudiendo informar por escrito sobre los hechos de que tengan conocimiento por razón de su cargo:</p>
+    <p class="sangrado_2">1.° El Presidente y los demás miembros del Gobierno.</p>
+    <p class="sangrado">2.° Los Presidentes del Congreso de los Diputados y del Senado.</p>
+    <p class="sangrado">3.° El Presidente del Tribunal Constitucional.</p>
+    <p class="sangrado">4.° El Presidente del Consejo General del Poder Judicial.</p>
+    <p class="sangrado">5.° El Fiscal General del Estado.</p>
+    <p class="sangrado">6.° Los Presidentes de las Comunidades Autónomas.</p>
+    <p class="sangrado_2">3. Si fuera conveniente recibir declaración a alguna de las personas a las que se refiere el apartado 2 anterior sobre cuestiones de las que no haya tenido conocimiento por razón de su cargo, se tomará la misma en su domicilio o despacho oficial.</p>
+    <p class="sangrado">4. Quienes hubiesen desempeñado los cargos a que se refiere el apartado 2 del presente artículo estarán igualmente exentos de concurrir al llamamiento del Juez, pero no de declarar, pudiendo informar por escrito sobre los hechos de que hubieren tenido conocimiento por razón de su cargo.</p>
+    <p class="sangrado">5. Estarán exentos también de concurrir al llamamiento del Juez, pero no de declarar, pudiendo hacerlo en su despacho oficial o en la sede del órgano del que sean miembros:</p>
+    <p class="sangrado_2">1.° Los Diputados y Senadores.</p>
+    <p class="sangrado">2.° Los Magistrados del Tribunal Constitucional y los Vocales del Consejo General del Poder Judicial.</p>
+    <p class="sangrado">3.° Los Fiscales de Sala del Tribunal Supremo.</p>
+    <p class="sangrado">4.° El Defensor del Pueblo.</p>
+    <p class="sangrado">5.° Las Autoridades Judiciales de cualquier orden jurisdiccional de categoría superior a la del que recibiere la declaración.</p>
+    <p class="sangrado">6.° Los Presidentes de las Asambleas Legislativas de las Comunidades Autónomas.</p>
+    <p class="sangrado">7.° El Presidente y los Consejeros Permanentes del Consejo de Estado.</p>
+    <p class="sangrado">8.° El Presidente y los Consejeros del Tribunal de Cuentas.</p>
+    <p class="sangrado">9.° Los miembros de los Consejos de Gobierno de las Comunidades Autónomas.</p>
+    <p class="sangrado">10. Los Secretarios de Estado, los Subsecretarios y asimilados, los Delegados del Gobierno en las Comunidades Autónomas y en Ceuta y Melilla, los Gobernadores Civiles y los Delegados de Hacienda.</p>
+    <p class="sangrado_2">6. Si se trata de cargos cuya competencia esté limitada territorialmente, sólo será aplicable la exención correspondiente respecto de las declaraciones que hubieren de recibirse en su territorio, excepción hecha de los Presidentes de las Comunidades Autónomas y de sus Asambleas Legislativas.</p>
+    <p class="sangrado">7. En cuanto a los miembros de las Oficinas Consulares, se estará a lo dispuesto en los Convenios Internacionales en vigor.</p>
+    <p class="sangrado_articulo">Artículo 413.</p>
+    <p class="sangrado">Para recibir la declaración a que se refiere el apartado 3 del artículo anterior, el Juez pasará al domicilio o despacho oficial de la persona concernida, previo aviso, señalándole día y hora.</p>
+    <p class="sangrado">El Juez procederá de igual modo para recibir la declaración de alguna de las personas a que se refiere el apartado 5 del artículo anterior cuando la misma fuere a tener lugar en su despacho oficial o en la sede del órgano del que sean miembros.</p>
+    <p class="sangrado_articulo">Artículo 414.</p>
+    <p class="sangrado">La resistencia de cualquiera de las personas a que se refieren los apartados 3 y 5 del artículo 412 a recibir en su domicilio o residencia oficial al Juez, o a declarar cuanto supieren sobre lo que les fuera preguntado respecto a los hechos del sumario, se pondrá en conocimiento del Ministerio Fiscal para los efectos que procedan.</p>
+    <p class="sangrado">Si las personas mencionadas en el apartado 7 de dicho artículo incurrieren en la resistencia expresada, el Juez lo comunicará inmediatamente al Ministerio de Justicia, remitiendo testimonio instructivo y se abstendrá de todo procedimiento respecto a ellas, hasta que el Ministro le comunique la resolución que sobre el caso se dictare.</p>
+    <p class="sangrado_articulo">Artículo 415.</p>
+    <p class="sangrado">Serán invitadas a prestar su declaración por escrito las personas mencionadas en el párrafo segundo del artículo 411 y en el apartado del artículo 412, remitiéndose al efecto al Ministerio de Justicia, con atenta comunicación para el de Asuntos Exteriores, un interrogatorio que comprenda todos los extremos a que deban contestar, a fin de que puedan hacerlo por vía diplomática.</p>
+    <p class="sangrado_articulo">Artículo 702.</p>
+    <p class="sangrado">Todos los que, con arreglo a lo dispuesto en los artículos 410 a 415 inclusive están obligados a declarar, lo harán concurriendo ante el Tribunal, sin otra excepción que las personas mencionadas en el apartado 1 del artículo 412, las cuales podrán hacerlo por escrito.</p>
+    <p class="sangrado_articulo">Artículo 703.</p>
+    <p class="sangrado">Sin embargo de lo dispuesto en el artículo anterior, si las personas mencionadas en el apartado 2 del artículo 412 hubieren tenido conocimiento por razón de su cargo de los hechos de que se trate, podrá consignarlo por medio de informe escrito, de que se dará lectura inmediatamente antes de proceder al examen de los demás testigos.</p>
+    <p class="sangrado">No obstante lo anterior, tratándose de los supuestos previstos en los apartados 3 y 5 del artículo 412, la citación como testigos de las personas a que los mismos se refieren se hará de manera que no perturbe el adecuado ejercicio de su cargos.»</p>
+    <p class="parrafo_2">Por tanto,</p>
+    <p class="parrafo">Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley Orgánica.</p>
+    <p class="parrafo_2">Madrid, 10 de julio de 1991.</p>
+    <p class="firma_rey">JUAN CARLOS R.</p>
+    <p class="firma_ministro">El Presidente del Gobierno,</p>
+    <p class="firma_ministro">FELIPE GONZÁLEZ MÁRQUEZ</p>
+  </texto>
+</documento>

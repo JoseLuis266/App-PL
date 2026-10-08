@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1984-7960",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1984-7960",
+  "sha256": "33662b26d1a09c5addc394a6262afab7daec27a880e5f30743f28914a68eaeb2",
+  "archivo": "data/raw/33662b26d1a09c5addc394a6262afab7daec27a880e5f30743f28914a68eaeb2.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:20:33.187158+00:00"
+}

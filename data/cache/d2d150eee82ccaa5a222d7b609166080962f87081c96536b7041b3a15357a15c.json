@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-19815",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-19815",
+  "sha256": "53fe7a25a4277cc09cd7b6e5307caf850f1bafc755917836336902bb6f9e25b5",
+  "archivo": "data/raw/53fe7a25a4277cc09cd7b6e5307caf850f1bafc755917836336902bb6f9e25b5.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:57.785814+00:00"
+}

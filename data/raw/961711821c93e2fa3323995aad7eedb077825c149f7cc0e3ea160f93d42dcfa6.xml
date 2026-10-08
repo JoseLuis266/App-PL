@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a385bis" tipo="precepto" titulo="Artículo 385 bis">
+      <version id_norma="BOE-A-2010-9953" fecha_publicacion="20100623" fecha_vigencia="20101223">
+        <p class="articulo">Artículo 385 bis.</p>
+        <p class="parrafo">El vehículo a motor o ciclomotor utilizado en los hechos previstos en este Capítulo se considerará instrumento del delito a los efectos de los artículos 127 y 128.</p>
+        <blockquote>
+          <p class="nota_pie">Se añade por el art. único.111 de la Ley Orgánica 5/2010, de 22 de junio. <a class="refPost">Ref. BOE-A-2010-9953</a></p>
+        </blockquote>
+        <p>
+          <span class="parrafo"> </span>
+        </p>
+      </version>
+    </bloque>
+  </data>
+</response>

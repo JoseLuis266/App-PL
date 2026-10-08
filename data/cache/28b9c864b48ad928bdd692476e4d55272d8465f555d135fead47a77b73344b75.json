@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2000-24010",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2000-24010",
+  "sha256": "835afd946db1d997f5f76e10e120cbb32bda6935931bcd83ac5ae8c70d1ad4a5",
+  "archivo": "data/raw/835afd946db1d997f5f76e10e120cbb32bda6935931bcd83ac5ae8c70d1ad4a5.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:11.092919+00:00"
+}

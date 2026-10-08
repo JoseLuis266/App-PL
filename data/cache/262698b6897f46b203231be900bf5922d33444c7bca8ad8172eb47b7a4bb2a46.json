@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto",
+  "sha256": "92766baeffd35ee7fa9b6cd89250ccdfc37575fbf23e8b000bfa2202ded75075",
+  "archivo": "data/raw/92766baeffd35ee7fa9b6cd89250ccdfc37575fbf23e8b000bfa2202ded75075.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:31:22.280395+00:00"
+}

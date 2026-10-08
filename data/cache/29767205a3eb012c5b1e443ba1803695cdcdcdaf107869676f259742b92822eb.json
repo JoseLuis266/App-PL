@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1991-5287",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1991-5287",
+  "sha256": "fd3b1da9b1704b0f4e8b7e5e0c722ec711d479f8c287737ebdbb8e3187444a07",
+  "archivo": "data/raw/fd3b1da9b1704b0f4e8b7e5e0c722ec711d479f8c287737ebdbb8e3187444a07.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:20:52.192835+00:00"
+}

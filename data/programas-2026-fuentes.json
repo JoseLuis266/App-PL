@@ -1,0 +1,59 @@
+[
+  {
+    "url_solicitada": "https://www.caib.es/eboibfront/es/2026/12245/712915/resolucion-de-la-consejera-de-presidencia-coordina",
+    "url_final": "https://www.caib.es/eboibfront/es/2026/12245/712915/resolucion-de-la-consejera-de-presidencia-coordina",
+    "sha256": "3a82cccc8bf203831a9b3f7f3364565d29ce8483a32041d656d9d17db73dd461",
+    "archivo": "data/raw/3a82cccc8bf203831a9b3f7f3364565d29ce8483a32041d656d9d17db73dd461.html",
+    "content_type": "text/html;charset=UTF-8",
+    "fecha_descarga": "2026-10-08T17:06:37.497305+00:00",
+    "fecha": "2026-03-17"
+  },
+  {
+    "url_solicitada": "https://www.caib.es/eboibfront/pdf/VisPdf?action=VisEdicte&idDocument=1214717&lang=es",
+    "url_final": "https://www.caib.es/eboibfront/pdf/VisPdf?action=VisEdicte&idDocument=1214717&lang=es",
+    "sha256": "c9ff007104bccaaf78113ab315e4cf254b83b0bd4a8a0a7c6da764d4b61305a6",
+    "archivo": "data/raw/c9ff007104bccaaf78113ab315e4cf254b83b0bd4a8a0a7c6da764d4b61305a6.pdf",
+    "content_type": "application/pdf; charset=UTF-8",
+    "fecha_descarga": "2026-10-08T17:06:44.487945+00:00",
+    "fecha": "2026-03-17",
+    "clase": "pdf"
+  },
+  {
+    "url_solicitada": "https://www.caib.es/eboibfront/es/2026/12246/713226/resolucion-de-la-consejera-de-presidencia-coordina",
+    "url_final": "https://www.caib.es/eboibfront/es/2026/12246/713226/resolucion-de-la-consejera-de-presidencia-coordina",
+    "sha256": "302ed91234ad5534e4331585d86aedf4167b8fe9bca59b84e97f92e7fce4500f",
+    "archivo": "data/raw/302ed91234ad5534e4331585d86aedf4167b8fe9bca59b84e97f92e7fce4500f.html",
+    "content_type": "text/html;charset=UTF-8",
+    "fecha_descarga": "2026-10-08T17:06:48.271141+00:00",
+    "fecha": "2026-03-19"
+  },
+  {
+    "url_solicitada": "https://www.caib.es/eboibfront/pdf/VisPdf?action=VisEdicte&idDocument=1215339&lang=es",
+    "url_final": "https://www.caib.es/eboibfront/pdf/VisPdf?action=VisEdicte&idDocument=1215339&lang=es",
+    "sha256": "2f2f9d22b2bef778601996634d247fc3c879832209b345a95860b6d43b710dc5",
+    "archivo": "data/raw/2f2f9d22b2bef778601996634d247fc3c879832209b345a95860b6d43b710dc5.pdf",
+    "content_type": "application/pdf; charset=UTF-8",
+    "fecha_descarga": "2026-10-08T17:06:54.428580+00:00",
+    "fecha": "2026-03-19",
+    "clase": "pdf"
+  },
+  {
+    "url_solicitada": "https://www.caib.es/eboibfront/es/2026/12251/713560/resolucion-de-la-consejera-de-presidencia-coordina",
+    "url_final": "https://www.caib.es/eboibfront/es/2026/12251/713560/resolucion-de-la-consejera-de-presidencia-coordina",
+    "sha256": "134f5e4594df8bbe4dcd0dc6b455a105e26dc3e2d91e8396fa17667f8db12c0e",
+    "archivo": "data/raw/134f5e4594df8bbe4dcd0dc6b455a105e26dc3e2d91e8396fa17667f8db12c0e.html",
+    "content_type": "text/html;charset=UTF-8",
+    "fecha_descarga": "2026-10-08T17:06:55.031932+00:00",
+    "fecha": "2026-03-28"
+  },
+  {
+    "url_solicitada": "https://www.caib.es/eboibfront/pdf/VisPdf?action=VisEdicte&idDocument=1216005&lang=es",
+    "url_final": "https://www.caib.es/eboibfront/pdf/VisPdf?action=VisEdicte&idDocument=1216005&lang=es",
+    "sha256": "72878f0f0ee0a16f57f246b936f86e1f0dab096ed3c765500ecb2cc79588e87c",
+    "archivo": "data/raw/72878f0f0ee0a16f57f246b936f86e1f0dab096ed3c765500ecb2cc79588e87c.pdf",
+    "content_type": "application/pdf; charset=UTF-8",
+    "fecha_descarga": "2026-10-08T17:07:01.346730+00:00",
+    "fecha": "2026-03-28",
+    "clase": "pdf"
+  }
+]

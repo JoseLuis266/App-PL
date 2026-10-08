@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-9838",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-9838",
+  "sha256": "8f3e8d47e0e20014cd3c315164e853fd2fc1bc28d948fb03f6b1951f45794581",
+  "archivo": "data/raw/8f3e8d47e0e20014cd3c315164e853fd2fc1bc28d948fb03f6b1951f45794581.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:36.618978+00:00"
+}

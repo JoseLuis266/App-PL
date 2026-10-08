@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1991-15527",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1991-15527",
+  "sha256": "7290b9120abba65ae868e858e8b165a4819dc6d9d6dc0ac4f305fca125362b32",
+  "archivo": "data/raw/7290b9120abba65ae868e858e8b165a4819dc6d9d6dc0ac4f305fca125362b32.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:20:50.197075+00:00"
+}

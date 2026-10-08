@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque>
+      <id>preambulo</id>
+      <titulo/>
+      <fecha_actualizacion>19840526</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/texto/bloque/preambulo</url>
+    </bloque>
+    <bloque>
+      <id>aprimero</id>
+      <titulo>Artículo primero</titulo>
+      <fecha_actualizacion>19840526</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/texto/bloque/aprimero</url>
+    </bloque>
+    <bloque>
+      <id>asegundo</id>
+      <titulo>Artículo segundo</titulo>
+      <fecha_actualizacion>19840526</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/texto/bloque/asegundo</url>
+    </bloque>
+    <bloque>
+      <id>atercero</id>
+      <titulo>Artículo tercero</titulo>
+      <fecha_actualizacion>20241114</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/texto/bloque/atercero</url>
+    </bloque>
+    <bloque>
+      <id>acuarto</id>
+      <titulo>Artículo cuarto</titulo>
+      <fecha_actualizacion>19840526</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/texto/bloque/acuarto</url>
+    </bloque>
+    <bloque>
+      <id>aquinto</id>
+      <titulo>Artículo quinto</titulo>
+      <fecha_actualizacion>19840526</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/texto/bloque/aquinto</url>
+    </bloque>
+    <bloque>
+      <id>asexto</id>
+      <titulo>Artículo sexto</titulo>
+      <fecha_actualizacion>19840526</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/texto/bloque/asexto</url>
+    </bloque>
+    <bloque>
+      <id>aseptimo</id>
+      <titulo>Artículo séptimo</titulo>
+      <fecha_actualizacion>19840526</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/texto/bloque/aseptimo</url>
+    </bloque>
+    <bloque>
+      <id>aoctavo</id>
+      <titulo>Artículo octavo</titulo>
+      <fecha_actualizacion>19840526</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/texto/bloque/aoctavo</url>
+    </bloque>
+    <bloque>
+      <id>anoveno</id>
+      <titulo>Artículo noveno</titulo>
+      <fecha_actualizacion>19840526</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/texto/bloque/anoveno</url>
+    </bloque>
+    <bloque>
+      <id>df</id>
+      <titulo>Disposición final</titulo>
+      <fecha_actualizacion>19840526</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/texto/bloque/df</url>
+    </bloque>
+    <bloque>
+      <id>firma</id>
+      <titulo/>
+      <fecha_actualizacion>19840526</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/texto/bloque/firma</url>
+    </bloque>
+  </data>
+</response>

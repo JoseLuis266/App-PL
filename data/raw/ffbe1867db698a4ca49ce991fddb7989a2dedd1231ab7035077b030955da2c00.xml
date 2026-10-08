@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20251217222601">
+  <metadatos>
+    <identificador>BOE-A-1994-15796</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7723">Jefatura del Estado</departamento>
+    <rango codigo="1300">Ley</rango>
+    <fecha_disposicion>19940706</fecha_disposicion>
+    <numero_oficial>21/1994</numero_oficial>
+    <titulo>Ley 21/1994, de 6 de julio, por la que se modifica el artículo 338 de la Ley de Enjuiciamiento Criminal, sobre la destrucción de la droga decomisada.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>19940707</fecha_publicacion>
+    <diario_numero>161</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>21737</pagina_inicial>
+    <pagina_final>21737</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/1994/07/07/pdfs/A21737-21737.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan>/boe_catalan/dias/1994/12/31/pdfs/A00200-00200.pdf</url_pdf_catalan>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia>19940708</fecha_vigencia>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/l/1994/07/06/21</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/l/1994/07/06/21">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/l"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1994-15796</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1994-07-06</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21</eli:number>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3097"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3199"/>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/l/1994/07/06/21/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/l"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1994-15796</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1994-07-06</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21</eli:number>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3097"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3199"/>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/l/1994/07/06/21"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/l/1994/07/06/21/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ley 21/1994, de 6 de julio, por la que se modifica el artículo 338 de la Ley de Enjuiciamiento Criminal, sobre la destrucción de la droga decomisada.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1994-07-07</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/l/1994/07/06/21/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/l/1994/07/06/21/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/1994/07/06/21/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/l/1994/07/06/21/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/1994/07/06/21/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/l/1994/07/06/21/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/1994/07/06/21/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/l/1994/07/06/21/dof/cat">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/cat"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Llei 21/1994, de 6 de juliol, per la qual es modifica l'article 338 de la Llei d'enjudiciament criminal, sobre la destrucció de la droga decomissada. («BOE» 161, de 7-7-1994.)</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1994-12-31</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/l/1994/07/06/21/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/l/1994/07/06/21/dof/cat/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/1994/07/06/21/dof/cat"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="3097" orden="1">Drogas</materia>
+      <materia codigo="3199" orden="2">Enjuiciamiento Criminal</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1882-6036" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>el art. 388, párrafo 2, de la Ley de Enjuiciamiento Criminal aprobada por Real Decreto de 14 de septiembre de 1882 (Gazeta)</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas>
+      <alerta codigo="104" orden="1">Asuntos sociales</alerta>
+      <alerta codigo="113" orden="2">Derecho Penal</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="parrafo">JUAN CARLOS I</p>
+    <p class="parrafo">REY DE ESPAÑA</p>
+    <p class="parrafo">A todos los que la presente vieren y entendieren.</p>
+    <p class="parrafo">Saber: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley.</p>
+    <p class="parrafo">El artículo 338 de la Ley de Enjuiciamiento Criminal permite la destrucción, dejando muestras suficientes, de &lt;los instrumentos, armas y efectos&gt; que, a tenor del 334 de la misma Ley, puedan &lt;tener relación con el delito&gt; en cuya investigación sean aquéllos encontrados. Esta autorización, de la que corresponde al Juez instructor hacer uso, se corresponde con la necesidad de apreciar &lt;el peligro real o potencial que comporte su almacenamiento o custodia&gt;, circunstancia que debe ser, como la Ley ordena, considerada con ocasión de llevarse a cabo el correspondiente decomiso.</p>
+    <p class="parrafo">Sin embargo, resultando plenamente operativa esta fórmula, en el supuesto de la aprehensión de droga, la realidad aconseja que esa destrucción sea, salvo excepción, obligatoria, una vez cumplimentada, naturalmente, la oportuna diligencia mediante la que quede debida constancia de la naturaleza, calidad, cantidad y peso de dichas sustancias.</p>
+    <p class="parrafo">Artículo único.</p>
+    <p class="parrafo">El párrafo segundo del artículo 338 de la Ley de Enjuiciamiento Criminal tendrá la siguiente redacción:</p>
+    <p class="parrafo">&lt;Sin embargo, podrá decretarse la destrucción, dejando muestras suficientes, cuando resultare necesaria o conveniente por la propia naturaleza de los efectos intervenidos o por el peligro real o potencial que comporte su almacenamiento o custodia, previa audiencia al Ministerio Fiscal y al propietario, si fuere conocido, o a la persona en cuyo poder fueron hallados los efectos cuya destrucción se pretende. Cuando se trate de drogas tóxicas, estupefacientes o sustancias psicotrópicas, el Juez instructor, previa audiencia del Ministerio Fiscal y de las partes, ordenará su inmediata destrucción conservando muestras suficientes de dichas sustancias para garantizar ulteriores comprobaciones o investigaciones, todo ello sin perjuicio de que, de forma motivada, el órgano judicial considere necesario la conservación de la totalidad. Lo conservado estará siempre bajo la custodia del órgano judicial competente.&gt;</p>
+    <p class="parrafo">Disposición final única.</p>
+    <p class="parrafo">La presente Ley entrará en vigor el día siguiente al de su publicación en el &lt;Boletín Oficial del Estado&gt;.</p>
+    <p class="parrafo">Por tanto,</p>
+    <p class="parrafo">Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.</p>
+    <p class="parrafo">Madrid, 6 de julio de 1994.</p>
+    <p class="parrafo">JUAN CARLOS R.</p>
+    <p class="parrafo">El Presidente del Gobierno,</p>
+    <p class="parrafo">FELIPE GONZALEZ MARQUEZ</p>
+  </texto>
+</documento>

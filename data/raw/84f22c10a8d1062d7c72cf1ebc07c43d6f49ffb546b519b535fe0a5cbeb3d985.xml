@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a61" tipo="precepto" titulo="Artículo 61">
+      <version id_norma="BOE-A-1978-31229" fecha_publicacion="19781229" fecha_vigencia="19781229">
+        <p class="articulo">Artículo 61</p>
+        <p class="parrafo">1. El Rey, al ser proclamado ante las Cortes Generales, prestará juramento de desempeñar fielmente sus funciones, guardar y hacer guardar la Constitución y las leyes y respetar los derechos de los ciudadanos y de las Comunidades Autónomas.</p>
+        <p class="parrafo">2. El Príncipe heredero, al alcanzar la mayoría de edad, y el Regente o Regentes al hacerse cargo de sus funciones, prestarán el mismo juramento, así como el de fidelidad al Rey.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

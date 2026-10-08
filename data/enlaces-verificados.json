@@ -1,0 +1,162 @@
+[
+  {
+    "id_norma": "ce",
+    "resultado": "respuesta_200",
+    "url_solicitada": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "url_final": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+    "sha256": "c0d6bf7a6012b108e2579c4c3144ee85e4ea5e21407251cf62659ed7076d1f9a",
+    "archivo": "data/raw/c0d6bf7a6012b108e2579c4c3144ee85e4ea5e21407251cf62659ed7076d1f9a.html",
+    "content_type": "text/html; charset=UTF-8",
+    "fecha_descarga": "2026-10-08T17:19:40.442489+00:00"
+  },
+  {
+    "id_norma": "estatuto",
+    "resultado": "respuesta_200",
+    "url_solicitada": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-4233",
+    "url_final": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-4233",
+    "sha256": "3fed27f6f42bf77696684a63279fdbe61871c3cb2dbe43e94495886e7cf7be4a",
+    "archivo": "data/raw/3fed27f6f42bf77696684a63279fdbe61871c3cb2dbe43e94495886e7cf7be4a.html",
+    "content_type": "text/html; charset=UTF-8",
+    "fecha_descarga": "2026-10-08T17:19:41.738776+00:00"
+  },
+  {
+    "id_norma": "local",
+    "resultado": "respuesta_200",
+    "url_solicitada": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-1893",
+    "url_final": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-1893",
+    "sha256": "60526a58ff96cea35d091f2f99d4e43f271b3ab409ded7fe4264318e98144bd0",
+    "archivo": "data/raw/60526a58ff96cea35d091f2f99d4e43f271b3ab409ded7fe4264318e98144bd0.html",
+    "content_type": "text/html; charset=UTF-8",
+    "fecha_descarga": "2026-10-08T17:19:42.797621+00:00"
+  },
+  {
+    "id_norma": "trafico",
+    "resultado": "respuesta_200",
+    "url_solicitada": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722",
+    "url_final": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722",
+    "sha256": "383a793e26553c3c16ba89d7ccb407bbd9a078812b69ef0181ecfa83e32321d3",
+    "archivo": "data/raw/383a793e26553c3c16ba89d7ccb407bbd9a078812b69ef0181ecfa83e32321d3.html",
+    "content_type": "text/html; charset=UTF-8",
+    "fecha_descarga": "2026-10-08T17:19:43.644431+00:00"
+  },
+  {
+    "id_norma": "circulacion",
+    "resultado": "respuesta_200",
+    "url_solicitada": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+    "url_final": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+    "sha256": "fd627aadbf8129ffa4e34e911af358839028aada45a42d2f196b8ba91c8aafba",
+    "archivo": "data/raw/fd627aadbf8129ffa4e34e911af358839028aada45a42d2f196b8ba91c8aafba.html",
+    "content_type": "text/html; charset=UTF-8",
+    "fecha_descarga": "2026-10-08T17:19:44.449482+00:00"
+  },
+  {
+    "id_norma": "conductores",
+    "resultado": "respuesta_200",
+    "url_solicitada": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-9481",
+    "url_final": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-9481",
+    "sha256": "b0e33f389a4bcadeafeebcd90d76677e0079068c1546d3ebb8ffeea5dc75c8bb",
+    "archivo": "data/raw/b0e33f389a4bcadeafeebcd90d76677e0079068c1546d3ebb8ffeea5dc75c8bb.html",
+    "content_type": "text/html; charset=UTF-8",
+    "fecha_descarga": "2026-10-08T17:19:46.089927+00:00"
+  },
+  {
+    "id_norma": "vehiculos",
+    "resultado": "respuesta_200",
+    "url_solicitada": "https://www.boe.es/buscar/act.php?id=BOE-A-1999-1826",
+    "url_final": "https://www.boe.es/buscar/act.php?id=BOE-A-1999-1826",
+    "sha256": "26bfaea6c09dfbeac259d8c6f76de86122e93d41f169265ef77fc9e5e99d2195",
+    "archivo": "data/raw/26bfaea6c09dfbeac259d8c6f76de86122e93d41f169265ef77fc9e5e99d2195.html",
+    "content_type": "text/html; charset=UTF-8",
+    "fecha_descarga": "2026-10-08T17:19:48.111775+00:00"
+  },
+  {
+    "id_norma": "policias",
+    "resultado": "respuesta_200",
+    "url_solicitada": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-9129",
+    "url_final": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-9129",
+    "sha256": "f392452d291661d780bd1fc4ea9b1a9b48c8394e025de1596563fda57c3a1c49",
+    "archivo": "data/raw/f392452d291661d780bd1fc4ea9b1a9b48c8394e025de1596563fda57c3a1c49.html",
+    "content_type": "text/html; charset=UTF-8",
+    "fecha_descarga": "2026-10-08T17:19:48.760564+00:00"
+  },
+  {
+    "id_norma": "fcs",
+    "resultado": "respuesta_200",
+    "url_solicitada": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-6859",
+    "url_final": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-6859",
+    "sha256": "0a5216bffa2294cf43d7c781b6f7a3a8d5f490b53d668cee5076a3325c868674",
+    "archivo": "data/raw/0a5216bffa2294cf43d7c781b6f7a3a8d5f490b53d668cee5076a3325c868674.html",
+    "content_type": "text/html; charset=UTF-8",
+    "fecha_descarga": "2026-10-08T17:19:49.611274+00:00"
+  },
+  {
+    "id_norma": "habeas",
+    "resultado": "respuesta_200",
+    "url_solicitada": "https://www.boe.es/buscar/act.php?id=BOE-A-1984-11620",
+    "url_final": "https://www.boe.es/buscar/act.php?id=BOE-A-1984-11620",
+    "sha256": "f6cb698e265c9d822c3e1925aac3871418a7b257b6487c9df0c22e91978f4cdd",
+    "archivo": "data/raw/f6cb698e265c9d822c3e1925aac3871418a7b257b6487c9df0c22e91978f4cdd.html",
+    "content_type": "text/html; charset=UTF-8",
+    "fecha_descarga": "2026-10-08T17:19:50.778996+00:00"
+  },
+  {
+    "id_norma": "lecrim",
+    "resultado": "respuesta_200",
+    "url_solicitada": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036",
+    "url_final": "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036",
+    "sha256": "af3dd0c000785f3f1823678c7a59467a5e0df24ab01bb2f1528a25f08a033dd9",
+    "archivo": "data/raw/af3dd0c000785f3f1823678c7a59467a5e0df24ab01bb2f1528a25f08a033dd9.html",
+    "content_type": "text/html; charset=UTF-8",
+    "fecha_descarga": "2026-10-08T17:19:53.530789+00:00"
+  },
+  {
+    "id_norma": "penal",
+    "resultado": "respuesta_200",
+    "url_solicitada": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444",
+    "url_final": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444",
+    "sha256": "0ec2ca24749f8ed62a7839bc4ea8c27022f370e0982fe823abfa1ce845a9cdda",
+    "archivo": "data/raw/0ec2ca24749f8ed62a7839bc4ea8c27022f370e0982fe823abfa1ce845a9cdda.html",
+    "content_type": "text/html; charset=UTF-8",
+    "fecha_descarga": "2026-10-08T17:19:55.726740+00:00"
+  },
+  {
+    "id_norma": "datos",
+    "resultado": "respuesta_200",
+    "url_solicitada": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+    "url_final": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+    "sha256": "1794900bdc99677af859e3be1933c62be2dac92f69c6edede1f4d3036bb82007",
+    "archivo": "data/raw/1794900bdc99677af859e3be1933c62be2dac92f69c6edede1f4d3036bb82007.html",
+    "content_type": "text/html; charset=UTF-8",
+    "fecha_descarga": "2026-10-08T17:19:55.907417+00:00"
+  },
+  {
+    "id_norma": "igualdad",
+    "resultado": "respuesta_200",
+    "url_solicitada": "https://www.boe.es/buscar/act.php?id=BOE-A-2016-7994",
+    "url_final": "https://www.boe.es/buscar/act.php?id=BOE-A-2016-7994",
+    "sha256": "2b1a2eb5cb48637f847db99437e2fabae2511dc6d451582d664f6ba43c55f28b",
+    "archivo": "data/raw/2b1a2eb5cb48637f847db99437e2fabae2511dc6d451582d664f6ba43c55f28b.html",
+    "content_type": "text/html; charset=UTF-8",
+    "fecha_descarga": "2026-10-08T17:19:57.415733+00:00"
+  },
+  {
+    "id_norma": "lgtbi",
+    "resultado": "respuesta_200",
+    "url_solicitada": "https://www.boe.es/buscar/act.php?id=BOE-A-2016-6310",
+    "url_final": "https://www.boe.es/buscar/act.php?id=BOE-A-2016-6310",
+    "sha256": "77c8ac36191de2abea27d675d982f6022a8a91169eb1d8c5aa949fd41afa440e",
+    "archivo": "data/raw/77c8ac36191de2abea27d675d982f6022a8a91169eb1d8c5aa949fd41afa440e.html",
+    "content_type": "text/html; charset=UTF-8",
+    "fecha_descarga": "2026-10-08T17:19:58.379095+00:00"
+  },
+  {
+    "id_norma": "marco",
+    "resultado": "respuesta_200",
+    "url_solicitada": "https://www.caib.es/sites/institutestudisautonomics/f/311092",
+    "url_final": "https://www.caib.es/sites/institutestudisautonomics/f/311092",
+    "sha256": "7fd09cdef15f6cdc96c03b60db2ab5c445476887b39041de7416699ac6469003",
+    "archivo": "data/raw/7fd09cdef15f6cdc96c03b60db2ab5c445476887b39041de7416699ac6469003.pdf",
+    "content_type": "application/pdf;charset=UTF-8",
+    "fecha_descarga": "2026-10-08T17:20:24.418506+00:00"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-11311",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-11311",
+  "sha256": "e4fc51c9199d902a483c8473929dc9f81a6f1c10f8e67f8ddd029b64d7e0ceae",
+  "archivo": "data/raw/e4fc51c9199d902a483c8473929dc9f81a6f1c10f8e67f8ddd029b64d7e0ceae.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:22.705240+00:00"
+}

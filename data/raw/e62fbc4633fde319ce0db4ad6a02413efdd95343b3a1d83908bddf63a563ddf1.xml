@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a202" tipo="precepto" titulo="Artículo 202">
+      <version id_norma="BOE-A-2007-1893" fecha_publicacion="20061227" fecha_vigencia="20061231">
+        <p class="articulo">Artículo 202. Suficiencia financiera y autonomía.</p>
+        <p class="parrafo_2">1. Los consejos, los ayuntamientos y el resto de entidades locales de las Illes Balears deben disponer de los recursos financieros suficientes para el cumplimiento de las funciones y competencias que les son propias. En este sentido, tienen capacidad reglamentaria para regular sus propias finanzas en el marco de las leyes estatales y autonómicas en materia de haciendas locales. También tienen derecho a participar en los ingresos de la comunidad autónoma de las Illes Balears en los términos establecidos en esta ley, en las sucesivas de presupuestos y en el resto de normas autonómicas.</p>
+        <p class="parrafo">2. Las entidades locales elaboran el presupuesto y gestionan sus recursos financieros en régimen de plena autonomía, con sujeción a las leyes y al ordenamiento jurídico.</p>
+        <p class="parrafo">3. El Gobierno autónomo debe velar para que la proporción de ingresos tributarios propios y la financiación no condicionada de que disponen los municipios sea suficiente por garantizar su autonomía en la orientación del gasto.</p>
+        <p class="parrafo">4. En el ámbito autonómico sólo por ley pueden establecerse nuevas obligaciones que supongan cargas económicas adicionales. En este caso, se garantizan a los consejos, a los ayuntamientos y al resto de entidades locales, los recursos suficientes para afrontar la prestación de los servicios cuya titularidad o gestión les sea transferida o delegada. Toda nueva atribución de competencias debe ir acompañada de la asignación de los recursos suplementarios necesarios para financiarla correctamente, de manera que se tengan en cuenta los costes de los servicios atribuidos.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

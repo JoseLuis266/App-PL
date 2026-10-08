@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20251217185601">
+  <metadatos>
+    <identificador>BOE-A-1989-17118</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7320">Ministerio del Interior</departamento>
+    <rango codigo="1340">Real Decreto</rango>
+    <fecha_disposicion>19890714</fecha_disposicion>
+    <numero_oficial>884/1989</numero_oficial>
+    <titulo>Real Decreto 884/1989, de 14 de julio, por el que se aprueba el Reglamento de Régimen Disciplinario del Cuerpo Nacional de Policía.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>19890719</fecha_publicacion>
+    <diario_numero>171</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>22877</pagina_inicial>
+    <pagina_final>22882</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/1989/07/19/pdfs/A22877-22882.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia>19890808</fecha_vigencia>
+    <estatus_derogacion>S</estatus_derogacion>
+    <fecha_derogacion>20100610</fecha_derogacion>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>S</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/rd/1989/07/14/884</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/rd/1989/07/14/884">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/rd"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1989-17118</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1989-07-14</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">884</eli:number>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/2202"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5930"/>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/rd/1989/07/14/884/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/rd"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1989-17118</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1989-07-14</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">884</eli:number>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/2202"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5930"/>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:corrected_by rdf:resource="https://www.boe.es/eli/es/rd/1989/07/14/884/corrigendum/19900209/dof"/>
+            <eli:corrected_by rdf:resource="https://www.boe.es/eli/es/rd/1989/07/14/884/corrigendum/19890807/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/rd/1989/07/14/884"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/rd/1989/07/14/884/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Real Decreto 884/1989, de 14 de julio, por el que se aprueba el Reglamento de Régimen Disciplinario del Cuerpo Nacional de Policía.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1989-07-19</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/rd/1989/07/14/884/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rd/1989/07/14/884/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rd/1989/07/14/884/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rd/1989/07/14/884/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rd/1989/07/14/884/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rd/1989/07/14/884/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rd/1989/07/14/884/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="2202" orden="1">Cuerpo Nacional de Policía</materia>
+      <materia codigo="5930" orden="2">Régimen disciplinario</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1975-18523" orden="1010">
+          <palabra codigo="210">DEROGA</palabra>
+          <texto>los arts. 143 a 145, 204 a 252 y 512 a 537 del Reglamento aprobado por Decreto 2038/1975, de 17 de julio</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1986-6859" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>la la Ley Orgánica 2/1986,de 13 de marzo</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1984-17387" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Ley 30/1984, de 2 de agosto</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1984-16135" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Real Decreto 1346/1984, de 11 de julio</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1958-11341" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Ley sobre procedimiento administrativo, de 17 de julio de 1958 (Gazeta)</texto>
+        </anterior>
+      </anteriores>
+      <posteriores>
+        <posterior referencia="BOE-A-2010-8115" orden="">
+          <palabra codigo="210">SE DEROGA</palabra>
+          <texto>, por Ley Orgánica 4/2010, de 20 de mayo</texto>
+        </posterior>
+        <posterior referencia="BOE-A-1990-3351" orden="1">
+          <palabra codigo="201">CORRECCIÓN de errores</palabra>
+          <texto>en BOE núm. 35, de 9 de febrero de 1990</texto>
+        </posterior>
+        <posterior referencia="BOE-A-1989-18908" orden="2">
+          <palabra codigo="201">CORRECCIÓN de errores</palabra>
+          <texto>en BOE núm. 187, de 7 de agosto de 1989</texto>
+        </posterior>
+      </posteriores>
+    </referencias>
+    <alertas>
+      <alerta codigo="116" orden="1">Función Pública</alerta>
+      <alerta codigo="126" orden="2">Seguridad y Defensa</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="parrafo">La Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, estableció las bases y directrices de un nuevo régimen disciplinario para el Cuerpo Nacional de Policía, previendo asimismo que, transitoriamente, y en los aspectos no regulados en la misma, le sería de aplicación lo preceptuado en el Real Decreto 1346/1984, de 11 de julio.</p>
+    <p class="parrafo">El desarrollo del nuevo régimen disciplinario viene pues impuesto por la Ley Orgánica citada, y ha de ajustarse a los principios básicos de actuación y a los deberes y obligaciones que impone el servicio público de proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana.</p>
+    <p class="parrafo">Con este Reglamento se dota a dicho Cuerpo de un régimen disciplinario que, respetando las garantías procedimentales exigidas por la Constitución, configura una regulación específica, rápida y eficaz, inspirada en principios acordes con la estructura y organización jerarquizada del Cuerpo, con el propósito de conseguir la ejemplaridad, a través de la inmediación de las sanciones.</p>
+    <p class="parrafo">Debe indicarse, finalmente, que se han adoptado los nuevos criterios que inspiran la legislación general de los funcionarios públicos y la jurisprudencia de los Tribunales, que garantizan los derechos de los funcionarios del Cuerpo Nacional de Policía.</p>
+    <p class="parrafo">En virtud de lo dispuesto en el artículo 97 de la Constitución, en los artículos 6.°-9, 8.°-3, 27, 28 y en la disposición adicional tercera, apartado primero, de la citada Ley Orgánica, a propuesta del Ministro del Interior, previo informe del Consejo de Policía, con aprobación del Ministro para las Administraciones Públicas, de acuerdo con el Consejo de Estado y previa la deliberación del Consejo de Ministros en su reunión del día 14 de julio de 1989,</p>
+    <p class="centro_redonda">DISPONGO:</p>
+    <p class="articulo">Artículo único.</p>
+    <p class="parrafo_2">Se aprueba el Reglamento de Régimen Disciplinario del Cuerpo Nacional de Policía, en desarrollo y ejecución de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, cuyo texto se inserta a continuación.</p>
+    <p class="capitulo">DISPOSICIÓN TRANSITORIA</p>
+    <p class="parrafo_2">Los expedientes disciplinarios que se encuentren en tramitación en el momento de la publicación de este Reglamento seguirán regulados por las disposiciones anteriores, salvo que las de éste sean más favorables al expedientado.</p>
+    <p class="capitulo">DISPOSICIÓN DEROGATORIA</p>
+    <p class="parrafo_2">Quedan derogados los siguientes artículos del Reglamento Orgánico de la Policía Gubernativa, aprobado por Decreto 2038/1975, de 17 de julio: artículos 143, 145 y 512 a 537; 144 y 204 a 252, modificados por el Real Decreto 1346/1984, de 11 de julio, sobre Régimen Disciplinario del Cuerpo Superior de Policía, así como cuantas disposiciones de igual o inferior rango se opongan al presente Reglamento.</p>
+    <p class="parrafo_2">Madrid, 14 de julio de 1989.</p>
+    <p class="firma_rey">JUAN CARLOS R.</p>
+    <p class="firma_ministro">El Ministro del Interior,</p>
+    <p class="firma_ministro">JOSÉ LUIS CORCUERA CUESTA</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Reglamento de Régimen Disciplinario del Cuerpo Nacional de Policía</p>
+    <p class="titulo_num">TÍTULO PRIMERO</p>
+    <p class="titulo_tit">Infracciones, personas responsables y sanciones</p>
+    <p class="capitulo_num">CAPÍTULO PRIMERO</p>
+    <p class="capitulo_tit">Disposiciones generales</p>
+    <p class="articulo">Artículo 1.°</p>
+    <p class="parrafo_2">1. El régimen disciplinario de los funcionarios del Cuerpo Nacional de Policía se regulará por lo establecido en la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, especialmente por lo dispuesto en el capítulo II de su título I y en la sección 4 del capítulo IV de su título II, y por las normas del presente Reglamento.</p>
+    <p class="parrafo">2. Los funcionarios en prácticas estarán sometidos a las normas de régimen disciplinario establecidas en el Reglamento del Centro de formación policial correspondiente y, con carácter supletorio, a las normas del presente Reglamento que les sean de aplicación.</p>
+    <p class="parrafo">3. Las normas de régimen disciplinario de los funcionarios de la Administración del Estado se aplicarán con carácter supletorio al personal del Cuerpo Nacional de Policía.</p>
+    <p class="articulo">Art. 2.°</p>
+    <p class="parrafo_2">El procedimiento disciplinario se ajustará a los principios de sumariedad, celeridad, información de la acusación al interesado y audiencia.</p>
+    <p class="articulo">Art. 3.°</p>
+    <p class="parrafo_2">El régimen disciplinario establecido en este Reglamento se entiende sin perjuicio de la responsabilidad civil o penal en que puedan incurrir los funcionarios, la cual se hará efectiva en la forma que determine la Ley.</p>
+    <p class="articulo">Art. 4.°</p>
+    <p class="parrafo_2">De conformidad con lo establecido en el artículo 28.3 de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, los funcionarios del Cuerpo Nacional de Policía tendrán la obligación de comunicar por escrito los hechos que consideren constitutivos de faltas muy graves y graves tipificadas en el presente Reglamento de los que tengan conocimiento a su superior jerárquico, salvo cuando sea éste el presunto infractor, en cuyo caso la comunicación se efectuará al superior inmediato del mismo.</p>
+    <p class="capitulo_num">CAPÍTULO II</p>
+    <p class="capitulo_tit">Faltas disciplinarias</p>
+    <p class="articulo">Art. 5.°</p>
+    <p class="parrafo_2">Las faltas disciplinarias en que pueden incurrir los miembros del Cuerpo Nacional de Policía podrán ser muy graves, graves y leves.</p>
+    <p class="articulo">Art. 6.°</p>
+    <p class="parrafo_2">De acuerdo con lo dispuesto en el artículo 27.3 de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, son faltas muy graves:</p>
+    <p class="parrafo_2">1. El incumplimiento del deber de fidelidad a la Constitución en el ejercicio de las funciones.</p>
+    <p class="parrafo">2. Cualquier conducta constitutiva de delito doloso.</p>
+    <p class="parrafo">3. El abuso de sus atribuciones y la práctica de tratos inhumanos, degradantes, discriminatorios y vejatorios a las personas que se encuentren bajo su custodia.</p>
+    <p class="parrafo">4. La insubordinación individual o colectiva respecto a las autoridades o mandos de que dependan, así como la desobediencia a las legítimas instrucciones dadas por aquéllos.</p>
+    <p class="parrafo">5. La no prestación de auxilio con urgencia, en aquellos hechos o circunstancias graves, en que sea obligada su actuación.</p>
+    <p class="parrafo">6. El abandono del servicio.</p>
+    <p class="parrafo">7. La violación del secreto profesional y la falta del debido sigilo respecto a los asuntos que conozcan por razón de su cargo, que perjudique el desarrollo de la labor policial o a cualquier persona.</p>
+    <p class="parrafo">8. El ejercicio de actividades públicas o privadas incompatibles con el desempeño de sus funciones.</p>
+    <p class="parrafo">9. La participación en huelgas, en acciones sustitutivas de las mismas o en actuaciones concertadas con el fin de alterar el normal funcionamiento de los servicios.</p>
+    <p class="parrafo">10. Haber sido sancionado por la Comisión de tres o más faltas graves en el período de un año.</p>
+    <p class="parrafo">11. La falta de colaboración manifiesta con los demás miembros de las Fuerzas y Cuerpos de Seguridad.</p>
+    <p class="parrafo">12. Embriagarse o consumir drogas tóxicas, estupefacientes o sustancias psicotrópicas durante el servicio o con habitualidad.</p>
+    <p class="parrafo">13. Cualquier otra conducta no enumerada en los puntos anteriores y tipificada como falta muy grave en la legislación general de los funcionarios.</p>
+    <p class="articulo">Art. 7.°</p>
+    <p class="parrafo_2">Son faltas graves:</p>
+    <p class="parrafo_2">1. La grave desconsideración con los superiores, compañeros, subordinados o administrados, en especial las ofensas verbales o físicas.</p>
+    <p class="parrafo">2. Las manifestaciones públicas de crítica o disconformidad respecto a las decisiones de los superiores.</p>
+    <p class="parrafo">3. La negativa a realizar servicios en los casos en que lo ordenen expresamente los superiores jerárquicos o responsables del servicio, por imponerlo necesidades de urgente e inaplazable cumplimiento, siempre que posteriormente se hubiesen ejecutado, salvo que las órdenes sean manifiestamente ilegales.</p>
+    <p class="parrafo">4. La omisión de la obligación de dar cuenta a la superioridad de todo asunto de importancia que requiera su conocimiento o decisión urgente.</p>
+    <p class="parrafo">5. La dejación de facultades o la infracción de deberes u obligaciones inherentes al cargo o función, cuando se produzcan de forma manifiesta.</p>
+    <p class="parrafo">6. No mantener el jefe o superior la debida disciplina o tolerar el abuso o extralimitación de facultades en el personal subordinado.</p>
+    <p class="parrafo">7. El atentado grave a la dignidad de los funcionarios o de la Administración.</p>
+    <p class="parrafo">8. La falta de presentación o puesta a disposición inmediata de la dependencia de destino o en la más próxima, en los casos de declaración de los estados de alarma, excepción o sitio o, cuando así se disponga, en caso de grave alteración de la seguridad ciudadana.</p>
+    <p class="parrafo">9. La tercera falta injustificada de asistencia al servicio en un período de tres meses cuando las dos anteriores hubieran sido objeto de sanción por falta leve.</p>
+    <p class="parrafo">10. No prestar servicio, alegando supuesta enfermedad o simulando mayor gravedad de ésta.</p>
+    <p class="parrafo">11. La falta de rendimiento que afecte al normal funcionamiento de los servicios y no constituya falta muy grave de abandono del servicio.</p>
+    <p class="parrafo">12. La emisión de informes sobre asuntos de servicio que, sin faltar abiertamente a la verdad, desnaturalicen la misma, valiéndose de términos ambiguos, confusos o tendenciosos, o la alteren mediante inexactitudes, siempre que el hecho no constituya delito o falta muy grave.</p>
+    <p class="parrafo">13. La intervención en un procedimiento administrativo, cuando concurra alguna de las causas legales de abstención.</p>
+    <p class="parrafo">14. No ir provisto en los actos de servicio del uniforme reglamentario, cuando su uso sea preceptivo, de los distintivos de la categoría o cargo, del arma reglamentaria o de los medios de protección o acción que se determinen, siempre que no medie autorización en contrario, así como dar lugar a su extravío, pérdida o sustracción por negligencia inexcusable.</p>
+    <p class="parrafo">15. Exhibir los distintivos de identificación o el arma reglamentaria sin causa justificada, así como utilizar el arma en acto de servicio o fuera de él infringiendo las normas establecidas.</p>
+    <p class="parrafo">16. Asistir de uniforme o haciendo uso de ostentación de los distintivos de identificación a cualquier manifestación o reunión pública, salvo que se trate de actos de servicio o actos oficiales en los que la asistencia de uniforme esté indicada.</p>
+    <p class="parrafo">17. Causar por negligencia inexcusable daños graves en la conservación de locales, material o documentos relacionados con el servicio, o dar lugar al extravío, pérdida o sustracción de éstos por la misma causa.</p>
+    <p class="parrafo">18. Impedir, limitar u obstaculizar a los subordinados el ejercicio de los derechos que tengan recnocidos, siempre que no constituya falta muy grave.</p>
+    <p class="parrafo">19. Embriagarse fuera del servicio, cuando afecte a la imagen de la Policía o de la función pública o consumir drogas tóxicas, estupefacientes o sustancias psicotrópicas.</p>
+    <p class="parrafo">20. Los actos u omisiones negligentes o deliberados que causen grave daño a la labor policial, o la negativa injustificada a prestar la colaboración solicitada, con ocasión de un servicio siempre que no constituya falta muy grave.</p>
+    <p class="parrafo">21. Solicitar u obtener cambios de destino mediando cualquier recompensa, ánimo de lucro o falseando las condiciones que los regulan.</p>
+    <p class="parrafo">22. La realización de actos o declaraciones que vulneren los límites al derecho de acción sindical señalados en el artículo 19 de la Ley Orgánica 2/1986, de 13 de marzo.</p>
+    <p class="parrafo">23. Promover o asistir a encierros en locales policiales u ocuparlos sin autorización.</p>
+    <p class="parrafo">24. La ausencia, aun momentánea, de un servicio de seguridad, siempre que no constituya falta muy grave.</p>
+    <p class="articulo">Art. 8.°</p>
+    <p class="parrafo_2">Son faltas leves:</p>
+    <p class="parrafo_2">1. El retraso o negligencia en el cumplimiento de las funciones o la falta de interés en la instrucción o preparación personal para desempeñarlas.</p>
+    <p class="parrafo">2. La incorrección con los administrados o con otros miembros de las Fuerzas y Cuerpos de Seguridad, siempre que no merezcan una calificación más grave.</p>
+    <p class="parrafo">3. La inasistencia al servicio que no constituya falta de mayor gravedad y el incumplimiento de la jornada de trabajo, así como las faltas repetidas de puntualidad.</p>
+    <p class="parrafo">4. El mal uso o el descuido en la conservación de los locales, material o demás elementos de los servicios, así como el incumplimiento de las normas dadas en esta materia.</p>
+    <p class="parrafo">5. Prescindir del conducto reglamentario para formular cualquier solicitud, reclamación o queja en las relaciones de servicio.</p>
+    <p class="parrafo">6. El descuido en el aseo personal y el incumplimiento de las normas de uniformidad, siempre que no constituya falta de mayor gravedad.</p>
+    <p class="parrafo">7. La ausencia de cualquier servicio, cuando no merezca calificación más grave.</p>
+    <p class="parrafo">8. La omisión intencionada de saludo a un superior, no devolverlo éste o infringir de otro modo las normas que lo regulan.</p>
+    <p class="parrafo">9. Cualquier clase de juego que se lleve a cabo en las dependencias policiales, siempre que perjudique la prestación del servicio o menos-cabe la imagen policial.</p>
+    <p class="parrafo">10. Las acciones u omisiones tipificadas como faltas graves y que, de acuerdo con los criterios que se establecen en el artículo 13, merezca la calificación de falta leve.</p>
+    <p class="capitulo_num">CAPÍTULO III</p>
+    <p class="capitulo_tit">Personas responsables</p>
+    <p class="articulo">Art. 9.°</p>
+    <p class="parrafo_2">Los funcionarios del Cuerpo Nacional de Policía podrán incurrir en responsabilidad disciplinaria por las faltas anteriormente tipificadas, desde el momento de la toma de posesión hasta el de la jubilación o la pérdida de la condición de funcionarios.</p>
+    <p class="articulo">Art. 10.</p>
+    <p class="parrafo_2">De acuerdo con lo dispuesto en el artículo 27.5 de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, incurrirán en la misma responsabilidad que los autores de una falta, los que induzcan a su comisión y los Jefes que la toleran.</p>
+    <p class="parrafo">Asimismo, incurrirán en falta de inferior grado los que encubrieran la comisión de una falta.</p>
+    <p class="articulo">Art. 11.</p>
+    <p class="parrafo_2">1. Los funcionarios que se encuentren en situación distinta de la de servicio activo, salvo los que se encuentren en excedencia voluntaria por interés particular, incurrirán en responsabilidad por las faltas previstas en este Reglamento que puedan cometer dentro de sus peculiares situaciones administrativas, siempre que los hechos en que consistan no hayan sido objeto de sanción por aplicación de otro régimen disciplinario.</p>
+    <p class="parrafo">2. De no ser posible el cumplimiento de la sanción en el momento en que se dicte la resolución, por hallarse el funcionario en situación administrativa que lo impida, ésta se hará efectiva cuando su cambio de situación lo permita, salvo que haya transcurrido el plazo de prescripción.</p>
+    <p class="capitulo_num">CAPÍTULO IV</p>
+    <p class="capitulo_tit">Sanciones disciplinarias</p>
+    <p class="articulo">Art. 12.</p>
+    <p class="parrafo_2">De acuerdo con lo dispuesto en el artículo 28, 1, de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, por razón de las faltas por altas a que se refiere este Reglamento, podrán imponerse a los funcionarios del Cuerpo Nacional de Policía las siguientes sanciones:</p>
+    <p class="parrafo_2">Por faltas muy graves:</p>
+    <p class="parrafo_2">a) Separación del servicio.</p>
+    <p class="parrafo">b) Suspensión de funciones de tres a seis años.</p>
+    <p class="parrafo_2">Por faltas graves:</p>
+    <p class="parrafo_2">a) Suspensión de funciones por menos de tres años.</p>
+    <p class="parrafo">b) Traslado con cambio de residencia.</p>
+    <p class="parrafo">c) Inmovilización en el escalafón por un período no superior a cinco años.</p>
+    <p class="parrafo">d) Pérdida de cinco a veinte días de remuneración y suspensión de funciones por igual período.</p>
+    <p class="parrafo_2">Por faltas leves:</p>
+    <p class="parrafo_2">a) Pérdida de uno a cuatro días de remuneración y suspensión de funciones por igual período, que no supondrá la pérdida de antigüedad ni implicará la inmovilización en el escalafón.</p>
+    <p class="parrafo">b) Apercibimiento.</p>
+    <p class="articulo">Art. 13.</p>
+    <p class="parrafo_2">La Administración determinará la sanción adecuada así como su graduación entre las que se establecen en el artículo anterior para cada tipo de faltas, las cuales se sancionarán con arreglo a los siguientes criterios:</p>
+    <p class="parrafo_2">a) Intencionalidad.</p>
+    <p class="parrafo">b) La perturbación que puedan producir en el normal funcionamiento de la Administración y de los servicios policiales.</p>
+    <p class="parrafo">c) Los daños y perjuicios o la falta de consideración que puedan implicar para los ciudadanos y los subordinados.</p>
+    <p class="parrafo">d) El quebrantamiento que pueda suponer de los principios de disciplina y jerarquía propios del Cuerpo Nacional de Policía.</p>
+    <p class="parrafo">e) Reincidencia. Existe cuando, al cometer la falta, el funcionario hubiese sido sancionado ejecutoriamente por otra falta disciplinaria de mayor gravedad o por dos faltas de gravedad igual o inferior.</p>
+    <p class="parrafo">f) En general, su trascendencia para la seguridad ciudadana.</p>
+    <p class="articulo">Art. 14.</p>
+    <p class="parrafo_2">Los funcionarios sancionados con traslado con cambio de residencia no podrán obtener nuevo destino por ningún procedimiento en la localidad de que fueron trasladados en el período de tiempo de uno a tres años determinado en la resolución sancionadora, de conformidad con los criterios establecidos en el artículo anterior.</p>
+    <p class="capitulo_num">CAPÍTULO V</p>
+    <p class="capitulo_tit">Extinción de la responsabilidad disciplinaria</p>
+    <p class="articulo">Art. 15.</p>
+    <p class="parrafo_2">1. La responsabilidad disciplinaria se extingue con el cumplimiento de la sanción, muerte de la persona responsable, prescripción de la falta o de la sanción, indulto y amnistía.</p>
+    <p class="parrafo">2. Si durante la sustanciación del procedimiento sancionador se produjere la pérdida de la condición de funcionario del inculpado, se dictará resolución en la que, con invocación de la causa, se declarará extinguido dicho procedimiento, sin perjuicio de la responsabilidad civil o penal que le pueda ser exigida, y se ordenará el archivo de las actuaciones, salvo que por parte interesada se inste la continuación del expediente o se instruya por falta muy grave, en cuyo caso continuará hasta su resolución. Al mismo tiempo, se dejarán sin efecto cuantas medidas de carácter provisional se hubieren adoptado con respecto al funcionario inculpado.</p>
+    <p class="articulo">Art. 16.</p>
+    <p class="parrafo_2">1. De conformidad con lo establecido en el artículo 27, 2, de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, las faltas muy graves prescribirán a los seis años, las graves a los dos años y las leves al mes.</p>
+    <p class="parrafo">2. El plazo de prescripción comenzará a contarse desde que la falta se hubiere cometido.</p>
+    <p class="parrafo">3. La prescripción se interrumpirá por la iniciación del procedimiento, a cuyo efecto la resolución por la que se acuerde su incoación deberá ser debidamente registrada y comunicada al inculpado o publicada siempre que éste no fuere hallado, volviendo a correr el plazo si el procedimiento permaneciese paralizado durante más de seis meses por causa no imputable al interesado.</p>
+    <p class="articulo">Art. 17.</p>
+    <p class="parrafo_2">1. De acuerdo con lo dispuesto en el artículo 28, 1, de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, las sanciones impuestas por faltas muy graves prescribirán a los seis años; las impuestas por faltas graves a los dos años, y las impuestas por faltas leves al mes. El plazo de prescripción comenzará a contarse desde el día siguiente a aquel en que adquiera firmeza la resolución por la que se impone la sanción o desde que se quebrantase su cumplimiento, si hubiera comenzado.</p>
+    <p class="parrafo">2. La amplitud y efecto de los indultos de sanciones disciplinarias se determinarán con arreglo a las disposiciones que los concedan.</p>
+    <p class="titulo_num">TÍTULO II</p>
+    <p class="titulo_tit">Tramitación</p>
+    <p class="capitulo_num">CAPÍTULO PRIMERO</p>
+    <p class="capitulo_tit">Disposiciones comunes</p>
+    <p class="articulo">Art. 18.</p>
+    <p class="parrafo_2">1. No podrán imponerse sanciones disciplinarias a los funcionarios del Cuerpo Nacional de Policía, por faltas muy graves o graves, sino en virtud de expediente instruido al efecto, con arreglo a lo dispuesto en este capítulo y en el procedimiento regulado en el capítulo III del presente título, cuya tramitación se regirá por los principios señalados en el artículo 2.° de este Reglamento.</p>
+    <p class="parrafo">2. En el procedimiento para la imposición de sanciones por faltas leves no será preceptiva la previa instrucción del expediente al que se refiere el apartado anterior, regiéndose el procedimiento por los principios señalados en el artículo 2.° y por las normas previstas en este capítulo y en el capítulo II del presente título.</p>
+    <p class="articulo">Art. 19.</p>
+    <p class="parrafo_2">1. De conformidad con lo dispuesto en el artículo 8.°, 3, de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, la iniciación de un procedimiento penal contra funcionarios del Cuerpo Nacional de Policía no impedirá la incoación de procedimientos disciplinarios por los mismos hechos. No obstante, la resolución definitiva del expediente sólo podrá producirse cuando la sentencia recaída en el ámbito penal sea firme, vinculando a la Administración la declaración de hechos probados.</p>
+    <p class="parrafo">2. En los supuestos del párrafo anterior, las medidas cautelares que puedan adoptarse podrán prolongarse hasta que recaiga resolución definitiva en el procedimiento judicial, salvo en cuanto a la suspensión del sueldo, en que se estará a lo dispuesto en la legislación general de funcionarios.</p>
+    <p class="articulo">Art. 20.</p>
+    <p class="parrafo_2">1. En todos los expedientes disciplinarios instruidos por faltas muy graves a los miembros del Cuerpo Nacional de Policía, así como en todos los expedientes que se instruyan a los representantes de los Sindicatos a que se refiere el artículo 22 de la Ley Orgánica 2/1986, de Fuerzas y Cuerpos de Seguridad, será preceptivo, antes de dictar la resolución, interesar la emisión de informe del Consejo de Policía, que no será vinculante.</p>
+    <p class="parrafo">2. Dicho informe deberá interesarse, igualmente, cuando la incoación del expediente se practique dentro del año siguiente a la pérdida de la condición de representante sindical. También deberá solicitarse si el inculpado es candidato durante el periodo electoral.</p>
+    <p class="parrafo">3. A los efectos previstos en el párrafo primero de este artículo las organizaciones sindicales a que se refiere el artículo 22 de la precitada Ley Orgánica, deberán comunicar en el mes de enero de cada año de forma fehaciente a la Dirección General de la Policía la relación de sus representantes, así como las variaciones posteriores en el plazo de quince días a contar desde la fecha en que se produzcan, con indicación del cargo sindical que ostenten.</p>
+    <p class="parrafo">4. Asimismo, deberá solicitarse informe del citado Consejo, siempre que lo soliciten expresamente los interesados, en los expedientes instruidos a miembros del referido Cuerpo por la Comisión de faltas graves, cuando la propuesta de resolución se concrete en alguna de las siguientes sanciones:</p>
+    <p class="parrafo_2">a) Suspensión de funciones entre uno y tres años.</p>
+    <p class="parrafo">b) Traslado con cambio de residencia.</p>
+    <p class="parrafo">c) Inmovilización en el escalafón entre dos y cinco años.</p>
+    <p class="articulo">Art. 21.</p>
+    <p class="parrafo_2">1. El procedimiento se iniciará siempre de oficio, por acuerdo del órgano competente, bien por propia iniciativa o como consecuencia de orden superior, moción razonada o denuncia.</p>
+    <p class="parrafo">2. Antes de dictar la providencia de incoación del procedimiento, el órgano competente podrá acordar la práctica de una información reservada para el esclarecimiento de los hechos.</p>
+    <p class="parrafo">3. De iniciarse el procedimiento como consecuencia de denuncia, deberá comunicarse dicho acuerdo al firmante de la misma.</p>
+    <p class="parrafo">4. A los efectos de lo dispuesto en este artículo no será tomada en consideración la denuncia de carácter anónimo.</p>
+    <p class="articulo">Art. 22.</p>
+    <p class="parrafo_2">1. En la resolución por la que se incoe el procedimiento se nombrarán Instructor y Secretario, a cuyo cargo correrá su tramitación.</p>
+    <p class="parrafo">2. El nombramiento de Instructor recaerá en un funcionario público perteneciente a un Cuerpo o Escala de igual o superior grupo al del inculpado, de los establecidos en el artículo 25 de la Ley 30/1984, de 2 de agosto. Si el nombramiento recae en funcionario del Cuerpo Nacional de Policía, éste deberá tener, en todo caso, igual o superior categoría a la del funcionario sometido a expediente y, en caso de que fuese igual, deberá ocupar número anterior en la relación escalafonal.</p>
+    <p class="parrafo">3. Podrá ser nombrado Secretario cualquier funcionario destinado en el Ministerio del Interior.</p>
+    <p class="articulo">Art. 23.</p>
+    <p class="parrafo_2">1. Serán de aplicación al Instructor y al Secretario las normas sobre abstención y recusación establecidas en los artículos 20 y 21 de la Ley de Procedimiento Administrativo.</p>
+    <p class="parrafo">2. El derecho de recusación podrá ejercitarse desde el momento en que el interesado tenga conocimiento de quiénes son el Instructor y el Secretario.</p>
+    <p class="parrafo">3. La abstención y la recusación se plantearán ante el órgano que acordó el nombramiento.</p>
+    <p class="articulo">Art. 24.</p>
+    <p class="parrafo_2">La intervención del Instructor en todas y cada una de las pruebas practicadas es esencial y no puede ser suplida por la del Secretario, considerándose nulas aquéllas en caso contrario.</p>
+    <p class="articulo">Art. 25.</p>
+    <p class="parrafo_2">1. Los hechos relevantes para la decisión del procedimiento podrán acreditarse por cualquier medio de prueba admisible en derecho.</p>
+    <p class="parrafo">2. El Instructor podrá denegar de oficio la práctica de las pruebas que no se concreten a los hechos por los que se procede y todas las demás que sean, a su juicio, impertinentes o inútiles, motivando la denegación y sin que contra la misma quepa recurso alguno.</p>
+    <p class="parrafo">3. Todos los Organismos y dependencias de la Administración están obligados a facilitar al Instructor los antecedentes e informes necesarios para el desarrollo de sus actuaciones, salvo precepto legal que lo impida.</p>
+    <p class="articulo">Art. 26.</p>
+    <p class="parrafo_2">El Instructor vendrá obligado a dar vista al inculpado, a petición de éste, de las actuaciones practicadas en cualquier fase del procedimiento, facilitándole copia completa cuando así lo interese.</p>
+    <p class="articulo">Art. 27.</p>
+    <p class="parrafo_2">En cualquier momento del procedimiento en que el Instructor aprecie que la presunta infracción disciplinaria pueda ser calificada como infracción administrativa de otra naturaleza o como infracción penal, lo pondrá en conocimiento del órgano que hubiere ordenado la incoación, para su comunicación a la autoridad administrativa o judicial competente o al Ministerio Fiscal.</p>
+    <p class="articulo">Art. 28.</p>
+    <p class="parrafo_2">Si en cualquier fase del procedimiento, el Instructor deduce la inexistencia de responsabilidad disciplinaria o de pruebas adecuadas para fundamentarla, propondrá resolución por la que se ordene el archivo de las actuaciones, expresando las causas que la motivan, debiendo notificársele al denunciante, si lo hubiese, y al denunciado y disponiéndose, en su caso, lo pertinente en relación al primero.</p>
+    <p class="capitulo_num">CAPÍTULO II</p>
+    <p class="capitulo_tit">Procedimiento para las faltas leves</p>
+    <p class="articulo">Art. 29.</p>
+    <p class="parrafo_2">1. Los órganos competentes para la imposición de sanciones por faltas leves, al recibir comunicación o denuncia, o tener conocimiento de una supuesta infracción de la indicada clase, podrán acordar la realización de la información reservada prevista en el artículo 21.</p>
+    <p class="parrafo">2. Si de la misma se desprende responsabilidad disciplinaria, se acordará la incoación del procedimiento con el nombramiento de Instructor y Secretario, notificándose a los designados para ostentar dichos cargos, quienes, después de realizar las diligencias pertinentes, procederán a citar por el medio más rápido al inculpado, para que comparezca, indicándole los hechos que motivan dicha citación.</p>
+    <p class="parrafo">3. En el acto de comparecencia recibirán declaración al inculpado, quien podrá alegar y presentar los documentos y justificaciones que estime pertinentes y proponer las pruebas que considere necesarias para su defensa.</p>
+    <p class="articulo">Art. 30.</p>
+    <p class="parrafo_2">1. Practicadas las pruebas que el Instructor juzgue oportunas, formulará propuesta de resolución, en la que fijará con precisión los hechos; la valoración jurídica de los mismos, para determinar, en su caso, la falta que se estime cometida; la responsabilidad del inculpado y la sanción a imponer. La propuesta de resolución se remitirá con todo lo actuado, al órgano que haya acordado la incoación del procedimiento.</p>
+    <p class="parrafo">2. En la resolución que ponga fin al procedimiento disciplinario deberá determinarse, con toda precisión, la falta que se estime cometida, señalando el precepto en que aparezca tipificada, el funcionario responsable y la sanción que se le impone.</p>
+    <p class="parrafo">3. La resolución deberá ser notificada al inculpado, con expresión del recurso o recursos que quepan contra la misma, el órgano ante el que han de presentarse y los plazos para interponerlos.</p>
+    <p class="parrafo">4. Asimismo, se remitirá copia de la resolución al órgano de administración de personal para constancia en el expediente del interesado.</p>
+    <p class="parrafo">5. Si se advirtiere, en cualquier momento del procedimiento que los hechos investigados revisten caracteres de falta muy grave o grave, se someterá el asunto al Director General de la Policía, que acordará lo procedente.</p>
+    <p class="capitulo_num">CAPÍTULO III</p>
+    <p class="capitulo_tit">Procedimiento para las faltas muy graves y graves</p>
+    <p class="seccion">Sección primera: Iniciación</p>
+    <p class="articulo">Art. 31.</p>
+    <p class="parrafo_2">1. El Director General de la Policía al recibir comunicación o denuncia, o tener conocimiento de una supuesta infracción constitutiva de falta muy grave o grave, podrá acordar la práctica de la información reservada prevista en el artículo 21.</p>
+    <p class="parrafo">2. En los supuestos en que resulte responsabilidad constitutiva de falta leve deberán cumplirse los trámites establecidos en el procedimiento para las faltas de esta naturaleza.</p>
+    <p class="articulo">Art. 32.</p>
+    <p class="parrafo_2">La incoación del procedimiento con el nombramiento de Instructor y Secretario se notificará al funcionario sujeto a expediente, así como a los designados para ostentar dichos cargos.</p>
+    <p class="articulo">Art. 33.</p>
+    <p class="parrafo_2">1. Iniciado el procedimiento el Director General de la Policía podrá adoptar las medidas provisionales que estime oportunas para facilitar la marcha del expediente y conseguir la eficacia de la resolución que pudiera recaer si existieran elementos de juicio suficientes para ello.</p>
+    <p class="parrafo">2. Nunca se adoptarán medidas provisionales que puedan causar perjuicios irreparables a los interesados o que impliquen violación de derechos amparados en las leyes.</p>
+    <p class="parrafo">3. Por razones de urgencia derivadas de la necesidad de mantener la disciplina, la ejemplaridad, o por la notoriedad o gravedad de los hechos, el Director General de la Policía podrá disponer que los plazos de tramitación del expediente se reduzcan a la mitad de tiempo, salvo los que se contienen en los artículos 40, 44 y 47 de este Reglamento.</p>
+    <p class="articulo">Art. 34.</p>
+    <p class="parrafo_2">1. La suspensión provisional podrá acordarse preventivamente, de forma motivada, por el Director General de la Policía durante la tramitación del procedimiento judicial o disciplinario que se instruya a los funcionarios en los términos y con los efectos señalados a continuación.</p>
+    <p class="parrafo">2. El funcionario en la situación de suspensión provisional quedará privado temporalmente del ejercicio de sus funciones y de los derechos inherentes a su condición de funcionario con arreglo a la Ley, sin perjuicio de lo dispuesto en los apartados siguientes, procediéndose a recogerle los distintivos del cargo y el arma o armas, en su caso. No obstante, el Director General de la Policía podrá autorizar el uso de armas reglamentarias cuando circunstancias excepcionales así lo aconsejen.</p>
+    <p class="parrafo">3. El tiempo de suspensión provisional, como consecuencia de expediente disciplinario, no podrá exceder de seis meses, salvo en caso de paralización del procedimiento imputable al interesado.</p>
+    <p class="parrafo">4. No obstante, el tiempo de suspensión provisional en expediente disciplinario tramitado simultáneamente con procedimiento penal por los mismos hechos, podrá prolongarse hasta que recaiga resolución definitiva en el ámbito penal, excepto en cuanto a la suspensión de sueldo, en que se estará a lo dispuesto en la legislación general de funcionarios.</p>
+    <p class="parrafo">5. El suspenso provisional tendrá derecho a percibir el 75 por 100 de su sueldo, trienios y pagas extraordinarias, así como la totalidad de la ayuda familiar, pensiones por condecoraciones y de mutilación, excepto en casos de paralización del procedimiento imputable al interesado, que comportará la pérdida de toda retribución mientras se mantenga dicha paralización y, de igual manera, no tendrá derecho a percibir haber alguno en caso de incomparecencia en el expediente disciplinario.</p>
+    <p class="parrafo">6. Salvo cuando se imponga la sanción de separación del servicio o la de suspensión de funciones, el tiempo de duración de la suspensión provisional se computará como de servicio activo, debiendo acordarse la inmediata reincorporación del funcionario a la situación de activo, con reconocimiento de todos los derechos económicos y demás que procedan desde la fecha de efectos de la suspensión.</p>
+    <p class="seccion">Sección segunda: Desarrollo</p>
+    <p class="articulo">Art. 35.</p>
+    <p class="parrafo_2">Con estricta sujeción a los principios de sumariedad y celeridad y con respecto a los plazos establecidos en este Reglamento, el procedimiento se impulsará de oficio y se dará cumplimiento a cuantas diligencias y trámites sean procedentes.</p>
+    <p class="articulo">Art. 36.</p>
+    <p class="parrafo_2">El Instructor ordenará en el plazo máximo de quince días la práctica de cuantas diligencias sean adecuadas para la determinación, conocimiento y comprobación de los datos en virtud de los cuales debe pronunciarse la resolución y, en particular, la práctica de cuantas pruebas y actuaciones conduzcan al esclarecimiento de los hechos a determinar las as responsabilidades susceptibles de sanción.</p>
+    <p class="articulo">Art. 37.</p>
+    <p class="parrafo_2">1. En todo caso y como primeras actuaciones se procederá a recibir declaración al inculpado y a evacuar cuantas diligencias se deduzcan de la comunicación o denuncia que originó el expediente de lo que aquél hubiera manifestado en su declaración.</p>
+    <p class="parrafo">2. Si el expedientado no fuera habido, se le emplazará por medio de edictos que se publicarán en el «Boletín Oficial del Estado» y en la Orden general de la Dirección General de la Policía, señalándose plazo para comparecer. De no verificarlo, continuarán las actuaciones del procedimiento.</p>
+    <p class="parrafo">3. El Instructor deberá proponer en el momento de elaborar el pliego de cargos, a la vista del resultado de las actuaciones el mantenimiento practicadas, el mantenimiento o levantamiento de la medida de suspensión provisional que, en su caso, se hubiere adoptado.</p>
+    <p class="articulo">Art. 38.</p>
+    <p class="parrafo_2">1. A la vista de las actuaciones practicadas, el instructor formulará el correspondiente pliego de cargos, si a ello hubiere lugar, comprendiendo en dicho pliego todos y cada uno de los hechos imputados e indicación de las sanciones que puedan ser de aplicación, de acuerdo con el artículo 12 del presente Reglamento.</p>
+    <p class="parrafo">2. El pliego de cargos se redactará de forma clara y precisa, en párrafos separados y numerados para cada uno de los hechos imputados, concediéndose al expedientado un plazo de diez días para que pueda contestarlo, alegando cuanto considere oportuno a su defensa y proponiendo la práctica de cuantas pruebas estime necesarias.</p>
+    <p class="articulo">Art. 39.</p>
+    <p class="parrafo_2">1. Contestado el pliego de cargos o transcurrido el lazo sin hacerlo, el instructor, de oficio o a instancia de parte, podrá acordar la apertura de un periodo de diez días, a fin de que puedan practicarse cuantas pruebas juzgue oportunas.</p>
+    <p class="parrafo">2. Para la práctica de las pruebas propuestas, así como para las acordadas de oficio por el Instructor, se notificará previamente al funcionario expedientado, indicándole lugar, fecha hora en que deberán realizarse.</p>
+    <p class="articulo">Art. 40.</p>
+    <p class="parrafo_2">Cumplimentadas las diligencias previstas en el presente capítulo se dará vista del expediente al inculpado con carácter inmediato para que, en el plazo de diez días, alegue lo que estime pertinente a su defensa y aporte cuantos documentos considere de interés.</p>
+    <p class="articulo">Art. 41.</p>
+    <p class="parrafo_2">El instructor formulará, dentro de los cuatro días siguientes a la finalización del plazo previsto en el artículo anterior, propuesta de resolución en la que se fijarán con precisión los hechos, se hará la valoración jurídica de los mismos para determinar si se estima cometida falta y, en su caso, cuál sea ésta y la responsabilidad del inculpado, señalando la a sanción a imponer.</p>
+    <p class="articulo">Art. 42.</p>
+    <p class="parrafo_2">La propuesta de resolución del expediente se notificará por el instructor al interesado, para que, en el plazo de diez días, pueda alegar cuanto considere conveniente a su defensa, incluso respecto a la denegación de pruebas a que se refiere el capítulo I de este título.</p>
+    <p class="articulo">Art. 43.</p>
+    <p class="parrafo_2">Oído el interesado, o transcurrido el plazo sin alegación alguna, se remitirá, con carácter inmediato, el expediente convenientemente foliado y numerado al Director General de la Policía.</p>
+    <p class="seccion">Sección tercera: Terminación</p>
+    <p class="articulo">Art. 44.</p>
+    <p class="parrafo_2">Recibido el expediente, el Director General de la Policía procederá, previo examen de lo actuado, tras la práctica de las diligencias complementarias que considere oportunas y, en su caso, dictamen del servicio jurídico, a dictar la resolución motivada que corresponda, si estuviera dentro de sus atribuciones y, en caso contrario, lo remitirá al órgano competente.</p>
+    <p class="articulo">Art. 45.</p>
+    <p class="parrafo_2">La autoridad competente para imponer la sanción podrá devolver el expediente al instructor para la práctica de aquellas diligencias que, habiendo sido omitidas, resulten imprescindibles para la decisión.</p>
+    <p class="parrafo">En todo caso, después de practicadas estas diligencias, y antes de remitir de nuevo el expediente a dicha autoridad, se dará vista de lo actuado últimamente al funcionario inculpado, a fin de que, en el plazo de diez días, alegue cuanto estime conveniente en su defensa.</p>
+    <p class="articulo">Art. 46.</p>
+    <p class="parrafo_2">1. La resolución que ponga fin al procedimiento disciplinario deberá ser motivada y en ella no se podrán introducir hechos distintos de los que sirvieron de base al pliego de cargos, determinando con toda precisión la falta que se estime cometida, señalando los preceptos en que aparezca recogida la clase de falta, el funcionario responsable y la sanción que se le impone, haciendo expresa declaración en orden a las medidas provisionales adoptadas durante la tramitación del procedimiento.</p>
+    <p class="parrafo">2. La resolución del expediente, que pone fin a la vía administrativa, será notificada en forma al expedientado, dentro de los diez días siguientes a la fecha en que fuere adoptada, con indicación del recurso o recursos que contra la misma procedan, así como el órgano ante el que han de presentarse y los plazos para interponerlos.</p>
+    <p class="parrafo">3. Si no se aprecia responsabilidad disciplinaria, la resolución habrá de contener las declaraciones pertinentes en orden a las medidas provisionales adoptadas, en su caso.</p>
+    <p class="articulo">Art. 47.</p>
+    <p class="parrafo_2">El procedimiento disciplinario terminará por resolución expresa o por archivo como consecuencia de la pérdida de la condición de funcionario, pero habrá de continuar hasta la resolución, en todo caso, si hubiese terceros afectados por los hechos objeto del procedimiento o se instruyese por falta muy grave.</p>
+    <p class="capitulo_num">CAPÍTULO IV</p>
+    <p class="capitulo_tit">Competencia sancionadora</p>
+    <p class="articulo">Art. 48.</p>
+    <p class="parrafo_2">De conformidad con lo establecido en el artículo 28.5 de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, son órganos competentes para la imposición de sanciones disciplinarias:</p>
+    <p class="parrafo_2">El Ministro del Interior para imponer la sanción de separación del servicio.</p>
+    <p class="parrafo">El Ministro del Interior y el Director de la Seguridad del Estado para imponer la sanción de suspensión de funciones de tres a seis años.</p>
+    <p class="parrafo">Además de los órganos anteriores, el Director general de la Policía, para imponer sanciones por faltas graves.</p>
+    <p class="parrafo">Además de los órganos anteriores, serán competentes para la imposición de las sanciones por faltas leves al personal que presta servicio bajo su dirección:</p>
+    <p class="parrafo_2">a) Los Jefes de órganos centrales hasta nivel de Subdirección General o asimilado.</p>
+    <p class="parrafo">b) Los Gobernadores Civiles y Jefes de las Comisarías Provinciales y Locales.</p>
+    <p class="articulo">Art. 49.</p>
+    <p class="parrafo_2">Los órganos competentes para la imposición de una sanción lo son también para ordenar la incoación del correspondiente procedimiento.</p>
+    <p class="capitulo_num">CAPÍTULO V</p>
+    <p class="capitulo_tit">Ejecución</p>
+    <p class="articulo">Art. 50.</p>
+    <p class="parrafo_2">1. Las sanciones disciplinarias se ejecutarán según los términos de la resolución en que se impongan y la naturaleza de las mismas, en el plazo máximo de un mes salvo que por causas justificadas se establezca otro distinto en dicha resolución.</p>
+    <p class="parrafo">2. El cumplimiento se efectuará en la forma en que perjudique menos al sancionado.</p>
+    <p class="articulo">Art. 51.</p>
+    <p class="parrafo_2">Las sanciones disciplinarias impuestas a los funcionarios del Cuerpo Nacional de Policía, serán inmediatamente ejecutivas, no suspendiendo su cumplimiento la interposición de ningún tipo de recurso, administrativo o judicial, si bien la autoridad a quien compete resolverlo podrá suspender, de oficio o a instancia de parte, la ejecución de la sanción impuesta, en el caso de que dicha ejecución pudiera causar perjuicio de imposible o de difícil reparación.</p>
+    <p class="articulo">Art. 52.</p>
+    <p class="parrafo_2">1. Las sanciones de pérdida de remuneración se harán efectivas por el habilitado inmediatamente, con cargo al sancionado, o por éste en papel de pagos del Estado, cuando así lo desee.</p>
+    <p class="parrafo">2. No obstante lo anterior, cuando el sancionado lo sea por falta grave, podrá, previa comunicación al correspondiente habilitado, fraccionar el pago durante los cinco meses siguientes al de la imposición de la sanción.</p>
+    <p class="parrafo">3. Para la determinación de estas sanciones se tomará como base la totalidad de las remuneraciones íntegras mensuales que percibiese el funcionario en el momento de la comisión de la falta, dividiéndose la misma por 30.</p>
+    <p class="articulo">Art. 53.</p>
+    <p class="parrafo_2">El órgano competente para imponer la sanción podrá proponer por el cauce reglamentario al Ministro del Interior, de oficio o a instancia del interesado, la suspensión o inejecución de la sanción, cuando mediare causa justa para ello, de acuerdo con lo previsto en la legislación general de funcionarios.</p>
+    <p class="articulo">Art. 54.</p>
+    <p class="parrafo_2">1. De conformidad con lo establecido en el artículo 28.2 de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, las sanciones disciplinarias se anotarán en los respectivos expedientes personales con indicación de las faltas que las motivaron.</p>
+    <p class="parrafo">2. De acuerdo con el precepto orgánico citado en el párrafo anterior de este artículo, transcurridos dos o seis años desde el cumplimiento de la sanción, según se trate de faltas graves o muy graves no sancionadas con separación de servicio, podrá acordarse la cancelación de aquellas anotaciones a instancia del interesado que acredite buena conducta en el servicio desde que se le impuso la sanción. La cancelación de anotaciones por faltas leves se realizará a petición del interesado a los seis meses de la fecha de su cumplimiento. La cancelación producirá el efecto de anular la anotación sin que pueda certificarse de ella, salvo cuando lo soliciten las autoridades competentes para ello y a los exclusivos efectos de su expediente personal.</p>
+    <p class="parrafo">3. A los efectos de solicitud de cancelación de anotaciones, la Administración comunicará al interesado la fecha de vencimiento de los plazos para las cancelaciones a que se refiere el párrafo anterior de este artículo.</p>
+  </texto>
+</documento>

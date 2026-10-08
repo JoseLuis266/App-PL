@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-16673/texto/bloque/a6-9",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-16673/texto/bloque/a6-9",
+  "sha256": "df94b441109447e9d82f97ffd860486712240b95898853a013dcffc2cf2a5c45",
+  "archivo": "data/raw/df94b441109447e9d82f97ffd860486712240b95898853a013dcffc2cf2a5c45.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:07:17.403699+00:00"
+}

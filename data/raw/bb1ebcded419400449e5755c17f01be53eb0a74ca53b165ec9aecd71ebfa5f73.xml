@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a315" tipo="precepto" titulo="Artículo 315">
+      <version id_norma="BOE-A-1995-25444" fecha_publicacion="19951124" fecha_vigencia="19960524">
+        <p class="articulo">Artículo 315.</p>
+        <p class="parrafo">1. Serán castigados con las penas de prisión de seis meses a tres años y multa de seis a doce meses los que mediante engaño o abuso de situación de necesidad, impidieren o limitaren el ejercicio de la libertad sindical o el derecho de huelga.</p>
+        <p class="parrafo">2. Si las conductas reseñadas en el apartado anterior se llevaren a cabo con fuerza, violencia o intimidación se impondrán las penas superiores en grado.</p>
+        <p class="parrafo">3. Las mismas penas del apartado segundo se impondrán a los que, actuando en grupo, o individualmente pero de acuerdo con otros, coaccionen a otras personas a iniciar o continuar una huelga.</p>
+      </version>
+      <version id_norma="BOE-A-2015-3439" fecha_publicacion="20150331" fecha_vigencia="20150701">
+        <p class="articulo">Artículo 315.</p>
+        <p class="parrafo">1. Serán castigados con las penas de prisión de seis meses a dos años o multa de seis a doce meses los que, mediante engaño o abuso de situación de necesidad, impidieren o limitaren el ejercicio de la libertad sindical o el derecho de huelga.</p>
+        <p class="parrafo">2. Si las conductas reseñadas en el apartado anterior se llevaren a cabo con coacciones serán castigadas con la pena de prisión de un año y nueve meses hasta tres años o con la pena de multa de dieciocho meses a veinticuatro meses.</p>
+        <p class="parrafo">3. Quienes actuando en grupo o individualmente, pero de acuerdo con otros, coaccionen a otras personas a iniciar o continuar una huelga, serán castigados con la pena de prisión de un año y nueve meses hasta tres años o con la pena de multa de dieciocho meses a veinticuatro meses.</p>
+        <blockquote>
+          <p class="nota_pie">Se modifica por el art. único.169 de la Ley Orgánica 1/2015, de 30 de marzo. <a class="refPost">Ref. BOE-A-2015-3439</a>.</p>
+        </blockquote>
+      </version>
+      <version id_norma="BOE-A-2021-6462" fecha_publicacion="20210423" fecha_vigencia="20210424">
+        <p class="articulo">Artículo 315.</p>
+        <p class="parrafo">1. Serán castigados con las penas de prisión de seis meses a dos años o multa de seis a doce meses los que, mediante engaño o abuso de situación de necesidad, impidieren o limitaren el ejercicio de la libertad sindical o el derecho de huelga.</p>
+        <p class="parrafo">2. Si las conductas reseñadas en el apartado anterior se llevaren a cabo con coacciones serán castigadas con la pena de prisión de un año y nueve meses hasta tres años o con la pena de multa de dieciocho meses a veinticuatro meses.</p>
+        <blockquote>
+          <p class="nota_pie">Se suprime el apartado 3 por el art. único de la Ley Orgánica 5/2021, de 22 de abril. <a class="refPost">Ref. BOE-A-2021-6462</a></p>
+          <p class="nota_pie">Se modifica por el art. único.169 de la Ley Orgánica 1/2015, de 30 de marzo. <a class="refPost">Ref. BOE-A-2015-3439</a>.</p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

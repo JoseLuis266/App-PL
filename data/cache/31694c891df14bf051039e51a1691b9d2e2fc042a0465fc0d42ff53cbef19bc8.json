@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-4408",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-4408",
+  "sha256": "e257443e89d2ac551d4ee062d2409513d2c082dc0f7efb3e73c3255f706a26b4",
+  "archivo": "data/raw/e257443e89d2ac551d4ee062d2409513d2c082dc0f7efb3e73c3255f706a26b4.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:40.959733+00:00"
+}

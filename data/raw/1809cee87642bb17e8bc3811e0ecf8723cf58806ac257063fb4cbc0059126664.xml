@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <analisis>
+      <materias>
+        <materia codigo="433">Baleares</materia>
+        <materia codigo="1320">Comunidades Autónomas</materia>
+        <materia codigo="3479">Estatutos de Autonomía</materia>
+        <materia codigo="5281">Organización de las Comunidades Autónomas</materia>
+      </materias>
+      <referencias>
+        <anteriores>
+          <anterior>
+            <id_norma>BOE-A-1983-6316</id_norma>
+            <relacion codigo="303">PUBLICA el texto revisado</relacion>
+            <texto>del Estatuto aprobado por la Ley Orgánica 2/1983, de 25 de febrero</texto>
+          </anterior>
+        </anteriores>
+        <posteriores>
+          <posterior>
+            <id_norma>BOE-A-2022-22683</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>la disposición adicional 4.1, en la redacción dada por la Ley 28/2010, de 16 de julio, por Ley 37/2022, de 27 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2022-2050</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 44, 56.7 y 57.5, por Ley Orgánica 1/2022, de 8 de febrero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2010-11422</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>la disposición adicional 4.1, por Ley 28/2010, de 16 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-13969</id_norma>
+            <relacion codigo="201">CORRECCIÓN de errores</relacion>
+            <texto>en BOE núm. 173, de 20 de julio de 2007</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-6720</id_norma>
+            <relacion codigo="201">CORRECCIÓN de errores</relacion>
+            <texto>, suprimiendo los apartados 48 del art. 30 y 2 del art. 68, BOE num. 77 de 30 de marzo de 2007</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2015-1061</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>, con el art. 31.13, sobre aplicación de la Ley 27/2013, de 27 de diciembre, de Administración Local: Decreto-ley 2/2014, de 21 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2010-10715</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>regulando el Consejo Consultivo: Ley 5/2010, de 16 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2010-1399</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>, regulando el régimen electoral de los Consejos Insulares: Ley 7/2009, de 11 de diciembre</texto>
+          </posterior>
+        </posteriores>
+      </referencias>
+    </analisis>
+  </data>
+</response>

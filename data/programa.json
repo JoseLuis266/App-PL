@@ -1,0 +1,228 @@
+{
+  "programa_version": "BOIB-34-2026-anexo4-1A",
+  "fuente": {
+    "url_solicitada": "https://www.caib.es/eboibfront/es/2026/12245/712915/resolucion-de-la-consejera-de-presidencia-coordina",
+    "url_final": "https://www.caib.es/eboibfront/es/2026/12245/712915/resolucion-de-la-consejera-de-presidencia-coordina",
+    "sha256": "3a82cccc8bf203831a9b3f7f3364565d29ce8483a32041d656d9d17db73dd461",
+    "archivo": "data/raw/3a82cccc8bf203831a9b3f7f3364565d29ce8483a32041d656d9d17db73dd461.html",
+    "content_type": "text/html;charset=UTF-8",
+    "fecha_descarga": "2026-10-08T17:06:37.497305+00:00"
+  },
+  "temas": [
+    {
+      "id_tema": 1,
+      "titulo_oficial_literal": "La Constitución española de 1978. La Constitución como norma suprema. Características y estructura de la Constitución española. Principios constitucionales básicos.",
+      "parrafo_literal": "1. La Constitución española de 1978. La Constitución como norma suprema. Características y estructura de la Constitución española. Principios constitucionales básicos. ",
+      "html_fuente": "<p><span style=\"color:#000000\"><span style=\"line-height:1\"><span style=\"font-family:Times New Roman,Times,serif; font-size:12px\">1. La Constitución española de 1978. La Constitución como norma suprema. Características y estructura de la Constitución española. Principios constitucionales básicos. </span></span></span></p>",
+      "localizador": "#contenidoEdicto p[428]"
+    },
+    {
+      "id_tema": 2,
+      "titulo_oficial_literal": "La Constitución española de 1978. Derechos y deberes fundamentales.",
+      "parrafo_literal": "2. La Constitución española de 1978. Derechos y deberes fundamentales. ",
+      "html_fuente": "<p><span style=\"color:#000000\"><span style=\"line-height:1\"><span style=\"font-family:Times New Roman,Times,serif; font-size:12px\">2. La Constitución española de 1978. Derechos y deberes fundamentales. </span></span></span></p>",
+      "localizador": "#contenidoEdicto p[429]"
+    },
+    {
+      "id_tema": 3,
+      "titulo_oficial_literal": "La Constitución española de 1978. La Corona. Las Cortes Generales. El Gobierno y la Administración. Las relaciones entre las Cortes Generales y el Gobierno. El poder judicial. El Tribunal Constitucional.",
+      "parrafo_literal": "3. La Constitución española de 1978. La Corona. Las Cortes Generales. El Gobierno y la Administración. Las relaciones entre las Cortes Generales y el Gobierno. El poder judicial. El Tribunal Constitucional. ",
+      "html_fuente": "<p><span style=\"color:#000000\"><span style=\"line-height:1\"><span style=\"font-family:Times New Roman,Times,serif; font-size:12px\">3. La Constitución española de 1978. La Corona. Las Cortes Generales. El Gobierno y la Administración. Las relaciones entre las Cortes Generales y el Gobierno. El poder judicial. El Tribunal Constitucional. </span></span></span></p>",
+      "localizador": "#contenidoEdicto p[430]"
+    },
+    {
+      "id_tema": 4,
+      "titulo_oficial_literal": "La Constitución española de 1978. La organización territorial del Estado.",
+      "parrafo_literal": "4. La Constitución española de 1978. La organización territorial del Estado. ",
+      "html_fuente": "<p><span style=\"color:#000000\"><span style=\"line-height:1\"><span style=\"font-family:Times New Roman,Times,serif; font-size:12px\">4. La Constitución española de 1978. La organización territorial del Estado. </span></span></span></p>",
+      "localizador": "#contenidoEdicto p[431]"
+    },
+    {
+      "id_tema": 5,
+      "titulo_oficial_literal": "El Estatuto de Autonomía de las Illes Balears. Disposiciones generales. Las competencias de la Comunidad Autónoma de las Illes Balears. Instituciones de la Comunidad Autónoma de las Illes Balears: el Parlamento, el presidente, el Gobierno de las Illes Balears, los consejos insulares, los municipios y otras entidades locales. El poder judicial a las Illes Balears: el Tribunal Superior de Justicia de las Illes Balears y sus competencias, el presidente del Tribunal Superior de Justicia de las Illes Balears. Financiación y hacienda: principios generales.",
+      "parrafo_literal": "5. El Estatuto de Autonomía de las Illes Balears. Disposiciones generales. Las competencias de la Comunidad Autónoma de las Illes Balears. Instituciones de la Comunidad Autónoma de las Illes Balears: el Parlamento, el presidente, el Gobierno de las Illes Balears, los consejos insulares, los municipios y otras entidades locales. El poder judicial a las Illes Balears: el Tribunal Superior de Justicia de las Illes Balears y sus competencias, el presidente del Tribunal Superior de Justicia de las Illes Balears. Financiación y hacienda: principios generales. ",
+      "html_fuente": "<p><span style=\"color:#000000\"><span style=\"line-height:1\"><span style=\"font-family:Times New Roman,Times,serif; font-size:12px\">5. El Estatuto de Autonomía de las Illes Balears. Disposiciones generales. Las competencias de la Comunidad Autónoma de las Illes Balears. Instituciones de la Comunidad Autónoma de las Illes Balears: el Parlamento, el presidente, el Gobierno de las Illes Balears, los consejos insulares, los municipios y otras entidades locales. El poder judicial a las Illes Balears: el Tribunal Superior de Justicia de las Illes Balears y sus competencias, el presidente del Tribunal Superior de Justicia de las Illes Balears. Financiación y hacienda: principios generales. </span></span></span></p>",
+      "localizador": "#contenidoEdicto p[432]"
+    },
+    {
+      "id_tema": 6,
+      "titulo_oficial_literal": "La Ley 20/2006, de 15 de diciembre, Municipal y de Régimen Local de las Illes Balears. Los municipios: los elementos del municipio. Identificación, la población municipal, la organización municipal y las competencias. Disposiciones comunes a las entidades locales: reglamentos, ordenanzas y bandos.",
+      "parrafo_literal": "6. La Ley 20/2006, de 15 de diciembre, Municipal y de Régimen Local de las Illes Balears. Los municipios: los elementos del municipio. Identificación, la población municipal, la organización municipal y las competencias. Disposiciones comunes a las entidades locales: reglamentos, ordenanzas y bandos. ",
+      "html_fuente": "<p><span style=\"color:#000000\"><span style=\"line-height:1\"><span style=\"font-family:Times New Roman,Times,serif; font-size:12px\">6. La Ley 20/2006, de 15 de diciembre, Municipal y de Régimen Local de las Illes Balears. Los municipios: los elementos del municipio. Identificación, la población municipal, la organización municipal y las competencias. Disposiciones comunes a las entidades locales: reglamentos, ordenanzas y bandos. </span></span></span></p>",
+      "localizador": "#contenidoEdicto p[433]"
+    },
+    {
+      "id_tema": 7,
+      "titulo_oficial_literal": "El Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el Texto refundido de la Ley sobre tránsito, circulación de vehículos de motor y seguridad viaria. Disposiciones generales. Ejercicio y coordinación de las competencias sobre tráfico, circulación de vehículos a motor y seguridad vial: competencias de los municipios. Anexo I: conceptos básicos.",
+      "parrafo_literal": "7. El Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el Texto refundido de la Ley sobre tránsito, circulación de vehículos de motor y seguridad viaria. Disposiciones generales. Ejercicio y coordinación de las competencias sobre tráfico, circulación de vehículos a motor y seguridad vial: competencias de los municipios. Anexo I: conceptos básicos. ",
+      "html_fuente": "<p><span style=\"color:#000000\"><span style=\"line-height:1\"><span style=\"font-family:Times New Roman,Times,serif; font-size:12px\">7. El Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el Texto refundido de la Ley sobre tránsito, circulación de vehículos de motor y seguridad viaria. Disposiciones generales. Ejercicio y coordinación de las competencias sobre tráfico, circulación de vehículos a motor y seguridad vial: competencias de los municipios. Anexo I: conceptos básicos. </span></span></span></p>",
+      "localizador": "#contenidoEdicto p[434]"
+    },
+    {
+      "id_tema": 8,
+      "titulo_oficial_literal": "El Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento general de circulación para la aplicación y el desarrollo del texto articulado de la Ley sobre tráfico, circulación de vehículos de motor y seguridad vial, aprobado por el Real Decreto Legislativo 339/1990. Normas generales de comportamiento en la circulación: normas generales; normas generales de los conductores; normas sobre bebidas alcohólicas, y normas sobre estupefacientes, psicotrópicos, estimulantes u otras sustancias análogas.",
+      "parrafo_literal": "8. El Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento general de circulación para la aplicación y el desarrollo del texto articulado de la Ley sobre tráfico, circulación de vehículos de motor y seguridad vial, aprobado por el Real Decreto Legislativo 339/1990. Normas generales de comportamiento en la circulación: normas generales; normas generales de los conductores; normas sobre bebidas alcohólicas, y normas sobre estupefacientes, psicotrópicos, estimulantes u otras sustancias análogas. ",
+      "html_fuente": "<p><span style=\"color:#000000\"><span style=\"line-height:1\"><span style=\"font-family:Times New Roman,Times,serif; font-size:12px\">8. El Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento general de circulación para la aplicación y el desarrollo del texto articulado de la Ley sobre tráfico, circulación de vehículos de motor y seguridad vial, aprobado por el Real Decreto Legislativo 339/1990. Normas generales de comportamiento en la circulación: normas generales; normas generales de los conductores; normas sobre bebidas alcohólicas, y normas sobre estupefacientes, psicotrópicos, estimulantes u otras sustancias análogas. </span></span></span></p>",
+      "localizador": "#contenidoEdicto p[435]"
+    },
+    {
+      "id_tema": 9,
+      "titulo_oficial_literal": "El Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento general de circulación para la aplicación y el desarrollo del texto articulado de la Ley sobre tráfico, circulación de vehículos de motor y seguridad vial, aprobado por el Real Decreto Legislativo 339/1990. La circulación de vehículos.",
+      "parrafo_literal": "9. El Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento general de circulación para la aplicación y el desarrollo del texto articulado de la Ley sobre tráfico, circulación de vehículos de motor y seguridad vial, aprobado por el Real Decreto Legislativo 339/1990. La circulación de vehículos. ",
+      "html_fuente": "<p><span style=\"color:#000000\"><span style=\"line-height:1\"><span style=\"font-family:Times New Roman,Times,serif; font-size:12px\">9. El Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento general de circulación para la aplicación y el desarrollo del texto articulado de la Ley sobre tráfico, circulación de vehículos de motor y seguridad vial, aprobado por el Real Decreto Legislativo 339/1990. La circulación de vehículos. </span></span></span></p>",
+      "localizador": "#contenidoEdicto p[436]"
+    },
+    {
+      "id_tema": 10,
+      "titulo_oficial_literal": "El Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento general de circulación para la aplicación y el desarrollo del texto articulado de la Ley sobre tráfico, circulación de vehículos de motor y seguridad vial, aprobado por el Real Decreto Legislativo 339/1990. La señalización: normas generales y prioridad entre señales. Las señales y las órdenes de los agentes de circulación.",
+      "parrafo_literal": "10. El Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento general de circulación para la aplicación y el desarrollo del texto articulado de la Ley sobre tráfico, circulación de vehículos de motor y seguridad vial, aprobado por el Real Decreto Legislativo 339/1990. La señalización: normas generales y prioridad entre señales. Las señales y las órdenes de los agentes de circulación. ",
+      "html_fuente": "<p><span style=\"color:#000000\"><span style=\"line-height:1\"><span style=\"font-family:Times New Roman,Times,serif; font-size:12px\">10. El Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento general de circulación para la aplicación y el desarrollo del texto articulado de la Ley sobre tráfico, circulación de vehículos de motor y seguridad vial, aprobado por el Real Decreto Legislativo 339/1990. La señalización: normas generales y prioridad entre señales. Las señales y las órdenes de los agentes de circulación. </span></span></span></p>",
+      "localizador": "#contenidoEdicto p[437]"
+    },
+    {
+      "id_tema": 11,
+      "titulo_oficial_literal": "El Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento general de conductores. Las autorizaciones administrativas para conducir: el permiso y la licencia de conducción.",
+      "parrafo_literal": "11. El Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento general de conductores. Las autorizaciones administrativas para conducir: el permiso y la licencia de conducción. ",
+      "html_fuente": "<p><span style=\"color:#000000\"><span style=\"line-height:1\"><span style=\"font-family:Times New Roman,Times,serif; font-size:12px\">11. El Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento general de conductores. Las autorizaciones administrativas para conducir: el permiso y la licencia de conducción. </span></span></span></p>",
+      "localizador": "#contenidoEdicto p[438]"
+    },
+    {
+      "id_tema": 12,
+      "titulo_oficial_literal": "El Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento general de vehículos. Normas generales.",
+      "parrafo_literal": "12. El Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento general de vehículos. Normas generales. ",
+      "html_fuente": "<p><span style=\"color:#000000\"><span style=\"line-height:1\"><span style=\"font-family:Times New Roman,Times,serif; font-size:12px\">12. El Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento general de vehículos. Normas generales. </span></span></span></p>",
+      "localizador": "#contenidoEdicto p[439]"
+    },
+    {
+      "id_tema": 13,
+      "titulo_oficial_literal": "El Real Decreto 2822/1998, de 23 de diciembre, por el cual se aprueba el Reglamento general de vehículos. Ciclomotores, ciclos, vehículos de tracción animal y tranvías.",
+      "parrafo_literal": "13. El Real Decreto 2822/1998, de 23 de diciembre, por el cual se aprueba el Reglamento general de vehículos. Ciclomotores, ciclos, vehículos de tracción animal y tranvías. ",
+      "html_fuente": "<p><span style=\"color:#000000\"><span style=\"line-height:1\"><span style=\"font-family:Times New Roman,Times,serif; font-size:12px\">13. El Real Decreto 2822/1998, de 23 de diciembre, por el cual se aprueba el Reglamento general de vehículos. Ciclomotores, ciclos, vehículos de tracción animal y tranvías. </span></span></span></p>",
+      "localizador": "#contenidoEdicto p[440]"
+    },
+    {
+      "id_tema": 14,
+      "titulo_oficial_literal": "El Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento general de vehículos. Autorizaciones de circulación de los vehículos: matriculación y matriculación ordinaria.",
+      "parrafo_literal": "14. El Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento general de vehículos. Autorizaciones de circulación de los vehículos: matriculación y matriculación ordinaria. ",
+      "html_fuente": "<p><span style=\"color:#000000\"><span style=\"line-height:1\"><span style=\"font-family:Times New Roman,Times,serif; font-size:12px\">14. El Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento general de vehículos. Autorizaciones de circulación de los vehículos: matriculación y matriculación ordinaria. </span></span></span></p>",
+      "localizador": "#contenidoEdicto p[441]"
+    },
+    {
+      "id_tema": 15,
+      "titulo_oficial_literal": "El Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento general de vehículos. Anexo II: definiciones y categorías de los vehículos.",
+      "parrafo_literal": "15. El Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento general de vehículos. Anexo II: definiciones y categorías de los vehículos. ",
+      "html_fuente": "<p><span style=\"color:#000000\"><span style=\"line-height:1\"><span style=\"font-family:Times New Roman,Times,serif; font-size:12px\">15. El Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento general de vehículos. Anexo II: definiciones y categorías de los vehículos. </span></span></span></p>",
+      "localizador": "#contenidoEdicto p[442]"
+    },
+    {
+      "id_tema": 16,
+      "titulo_oficial_literal": "El Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento general de vehículos. Anexo XVIII: placas de matrícula, colores e inscripciones y contraseñas de las placas.",
+      "parrafo_literal": "16. El Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento general de vehículos. Anexo XVIII: placas de matrícula, colores e inscripciones y contraseñas de las placas. ",
+      "html_fuente": "<p><span style=\"color:#000000\"><span style=\"line-height:1\"><span style=\"font-family:Times New Roman,Times,serif; font-size:12px\">16. El Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento general de vehículos. Anexo XVIII: placas de matrícula, colores e inscripciones y contraseñas de las placas. </span></span></span></p>",
+      "localizador": "#contenidoEdicto p[443]"
+    },
+    {
+      "id_tema": 17,
+      "titulo_oficial_literal": "El accidente de tráfico. Definición, tipo, causas y clases de accidentes. La actividad policial ante los accidentes de tráfico. El orden cronológico de las actuaciones.",
+      "parrafo_literal": "17. El accidente de tráfico. Definición, tipo, causas y clases de accidentes. La actividad policial ante los accidentes de tráfico. El orden cronológico de las actuaciones. ",
+      "html_fuente": "<p><span style=\"color:#000000\"><span style=\"line-height:1\"><span style=\"font-family:Times New Roman,Times,serif; font-size:12px\">17. El accidente de tráfico. Definición, tipo, causas y clases de accidentes. La actividad policial ante los accidentes de tráfico. El orden cronológico de las actuaciones. </span></span></span></p>",
+      "localizador": "#contenidoEdicto p[444]"
+    },
+    {
+      "id_tema": 18,
+      "titulo_oficial_literal": "La Ley 4/2013, de 17 de julio, de coordinación de las policías locales de las Illes Balears. Principios generales. Cuerpos de policía local. Estructura y régimen de funcionamiento.",
+      "parrafo_literal": "18. La Ley 4/2013, de 17 de julio, de coordinación de las policías locales de las Illes Balears. Principios generales. Cuerpos de policía local. Estructura y régimen de funcionamiento. ",
+      "html_fuente": "<p><span style=\"color:#000000\"><span style=\"line-height:1\"><span style=\"font-family:Times New Roman,Times,serif; font-size:12px\">18. La Ley 4/2013, de 17 de julio, de coordinación de las policías locales de las Illes Balears. Principios generales. Cuerpos de policía local. Estructura y régimen de funcionamiento. </span></span></span></p>",
+      "localizador": "#contenidoEdicto p[445]"
+    },
+    {
+      "id_tema": 19,
+      "titulo_oficial_literal": "La Ley 4/2013, de 17 de julio, de coordinación de las policías locales de las Illes Balears. Régimen disciplinario: principios generales, infracciones, sanciones y potestad sancionadora y extinción y prescripción.",
+      "parrafo_literal": "19. La Ley 4/2013, de 17 de julio, de coordinación de las policías locales de las Illes Balears. Régimen disciplinario: principios generales, infracciones, sanciones y potestad sancionadora y extinción y prescripción. ",
+      "html_fuente": "<p><span style=\"color:#000000\"><span style=\"line-height:1\"><span style=\"font-family:Times New Roman,Times,serif; font-size:12px\">19. La Ley 4/2013, de 17 de julio, de coordinación de las policías locales de las Illes Balears. Régimen disciplinario: principios generales, infracciones, sanciones y potestad sancionadora y extinción y prescripción. </span></span></span></p>",
+      "localizador": "#contenidoEdicto p[446]"
+    },
+    {
+      "id_tema": 20,
+      "titulo_oficial_literal": "El Decreto 40/2019, de 24 de mayo, por el que se aprueba el Reglamento marco de coordinación de las policías locales de las Illes Balears y se modifica el Decreto 55/2017, de 15 de diciembre, del Fondo de Seguridad Pública de las Illes Balears. Uso del equipo básico de autodefensa y protección: disposiciones generales, normas generales sobre tenencia de armas, utilización de armas de fuego, utilización de la defensa y del bastón extensible, y utilización del aerosol de defensa. Uniformidad y equipamiento. Normas de apariencia externa, presentación y uniformidad.",
+      "parrafo_literal": "20. El Decreto 40/2019, de 24 de mayo, por el que se aprueba el Reglamento marco de coordinación de las policías locales de las Illes Balears y se modifica el Decreto 55/2017, de 15 de diciembre, del Fondo de Seguridad Pública de las Illes Balears. Uso del equipo básico de autodefensa y protección: disposiciones generales, normas generales sobre tenencia de armas, utilización de armas de fuego, utilización de la defensa y del bastón extensible, y utilización del aerosol de defensa. Uniformidad y equipamiento. Normas de apariencia externa, presentación y uniformidad. ",
+      "html_fuente": "<p><span style=\"color:#000000\"><span style=\"line-height:1\"><span style=\"font-family:Times New Roman,Times,serif; font-size:12px\">20. El Decreto 40/2019, de 24 de mayo, por el que se aprueba el Reglamento marco de coordinación de las policías locales de las Illes Balears y se modifica el Decreto 55/2017, de 15 de diciembre, del Fondo de Seguridad Pública de las Illes Balears. Uso del equipo básico de autodefensa y protección: disposiciones generales, normas generales sobre tenencia de armas, utilización de armas de fuego, utilización de la defensa y del bastón extensible, y utilización del aerosol de defensa. Uniformidad y equipamiento. Normas de apariencia externa, presentación y uniformidad. </span></span></span></p>",
+      "localizador": "#contenidoEdicto p[447]"
+    },
+    {
+      "id_tema": 21,
+      "titulo_oficial_literal": "La Ley Orgánica 2/1986, de 13 de marzo, de fuerzas y cuerpos de seguridad. Principios básicos de actuación. Disposiciones estatutarias comunas. Las policías locales.",
+      "parrafo_literal": "21. La Ley Orgánica 2/1986, de 13 de marzo, de fuerzas y cuerpos de seguridad. Principios básicos de actuación. Disposiciones estatutarias comunas. Las policías locales. ",
+      "html_fuente": "<p><span style=\"color:#000000\"><span style=\"line-height:1\"><span style=\"font-family:Times New Roman,Times,serif; font-size:12px\">21. La Ley Orgánica 2/1986, de 13 de marzo, de fuerzas y cuerpos de seguridad. Principios básicos de actuación. Disposiciones estatutarias comunas. Las policías locales. </span></span></span></p>",
+      "localizador": "#contenidoEdicto p[448]"
+    },
+    {
+      "id_tema": 22,
+      "titulo_oficial_literal": "La policía local como policía judicial. La detención. Concepto. Derechos y garantías del detenido. La Ley Orgánica 6/1984, de 24 de mayo, reguladora del procedimiento de habeas corpus.",
+      "parrafo_literal": "22. La policía local como policía judicial. La detención. Concepto. Derechos y garantías del detenido. La Ley Orgánica 6/1984, de 24 de mayo, reguladora del procedimiento de habeas corpus. ",
+      "html_fuente": "<p><span style=\"color:#000000\"><span style=\"line-height:1\"><span style=\"font-family:Times New Roman,Times,serif; font-size:12px\">22. La policía local como policía judicial. La detención. Concepto. Derechos y garantías del detenido. La Ley Orgánica 6/1984, de 24 de mayo, reguladora del procedimiento de habeas corpus. </span></span></span></p>",
+      "localizador": "#contenidoEdicto p[449]"
+    },
+    {
+      "id_tema": 23,
+      "titulo_oficial_literal": "El Real Decreto de 14 de septiembre de 1882 por el que se aprueba la Ley de enjuiciamiento criminal. La denuncia.",
+      "parrafo_literal": "23. El Real Decreto de 14 de septiembre de 1882 por el que se aprueba la Ley de enjuiciamiento criminal. La denuncia. ",
+      "html_fuente": "<p><span style=\"color:#000000\"><span style=\"line-height:1\"><span style=\"font-family:Times New Roman,Times,serif; font-size:12px\">23. El Real Decreto de 14 de septiembre de 1882 por el que se aprueba la Ley de enjuiciamiento criminal. La denuncia. </span></span></span></p>",
+      "localizador": "#contenidoEdicto p[450]"
+    },
+    {
+      "id_tema": 24,
+      "titulo_oficial_literal": "La Ley Orgánica 10/1995, de 23 de noviembre, del Código penal. La infracción penal. Las personas criminalmente responsables de los delitos.",
+      "parrafo_literal": "24. La Ley Orgánica 10/1995, de 23 de noviembre, del Código penal. La infracción penal. Las personas criminalmente responsables de los delitos. ",
+      "html_fuente": "<p><span style=\"color:#000000\"><span style=\"line-height:1\"><span style=\"font-family:Times New Roman,Times,serif; font-size:12px\">24. La Ley Orgánica 10/1995, de 23 de noviembre, del Código penal. La infracción penal. Las personas criminalmente responsables de los delitos. </span></span></span></p>",
+      "localizador": "#contenidoEdicto p[451]"
+    },
+    {
+      "id_tema": 25,
+      "titulo_oficial_literal": "La Ley Orgánica 10/1995, de 23 de noviembre, del Código penal. Delitos contra el patrimonio y contra el orden socioeconómico: los hurtos, de los robos, el robo y hurto de uso de vehículos, la usurpación, las defraudaciones, los daños.",
+      "parrafo_literal": "25. La Ley Orgánica 10/1995, de 23 de noviembre, del Código penal. Delitos contra el patrimonio y contra el orden socioeconómico: los hurtos, de los robos, el robo y hurto de uso de vehículos, la usurpación, las defraudaciones, los daños. ",
+      "html_fuente": "<p><span style=\"color:#000000\"><span style=\"line-height:1\"><span style=\"font-family:Times New Roman,Times,serif; font-size:12px\">25. La Ley Orgánica 10/1995, de 23 de noviembre, del Código penal. Delitos contra el patrimonio y contra el orden socioeconómico: los hurtos, de los robos, el robo y hurto de uso de vehículos, la usurpación, las defraudaciones, los daños. </span></span></span></p>",
+      "localizador": "#contenidoEdicto p[452]"
+    },
+    {
+      "id_tema": 26,
+      "titulo_oficial_literal": "La Ley Orgánica 10/1995, de 23 de noviembre, del Código penal. Delitos contra la seguridad viaria.",
+      "parrafo_literal": "26. La Ley Orgánica 10/1995, de 23 de noviembre, del Código penal. Delitos contra la seguridad viaria. ",
+      "html_fuente": "<p><span style=\"color:#000000\"><span style=\"line-height:1\"><span style=\"font-family:Times New Roman,Times,serif; font-size:12px\">26. La Ley Orgánica 10/1995, de 23 de noviembre, del Código penal. Delitos contra la seguridad viaria. </span></span></span></p>",
+      "localizador": "#contenidoEdicto p[453]"
+    },
+    {
+      "id_tema": 27,
+      "titulo_oficial_literal": "La Ley Orgánica 10/1995, de 23 de noviembre, del Código penal. Delitos cometidos con motivo del ejercicio de los derechos fundamentales y de las libertades públicas garantizadas por la Constitución.",
+      "parrafo_literal": "27. La Ley Orgánica 10/1995, de 23 de noviembre, del Código penal. Delitos cometidos con motivo del ejercicio de los derechos fundamentales y de las libertades públicas garantizadas por la Constitución. ",
+      "html_fuente": "<p><span style=\"color:#000000\"><span style=\"line-height:1\"><span style=\"font-family:Times New Roman,Times,serif; font-size:12px\">27. La Ley Orgánica 10/1995, de 23 de noviembre, del Código penal. Delitos cometidos con motivo del ejercicio de los derechos fundamentales y de las libertades públicas garantizadas por la Constitución. </span></span></span></p>",
+      "localizador": "#contenidoEdicto p[454]"
+    },
+    {
+      "id_tema": 28,
+      "titulo_oficial_literal": "La Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales. Disposiciones generales. Principios de protección de datos. Derechos de las personas.",
+      "parrafo_literal": "28. La Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales. Disposiciones generales. Principios de protección de datos. Derechos de las personas. ",
+      "html_fuente": "<p><span style=\"color:#000000\"><span style=\"line-height:1\"><span style=\"font-family:Times New Roman,Times,serif; font-size:12px\">28. La Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales. Disposiciones generales. Principios de protección de datos. Derechos de las personas. </span></span></span></p>",
+      "localizador": "#contenidoEdicto p[455]"
+    },
+    {
+      "id_tema": 29,
+      "titulo_oficial_literal": "La Ley 11/2016, de 28 de julio, de igualdad de mujeres y hombres. Disposiciones generales. Competencias, funciones, organización institucional y financiación. La violencia machista.",
+      "parrafo_literal": "29. La Ley 11/2016, de 28 de julio, de igualdad de mujeres y hombres. Disposiciones generales. Competencias, funciones, organización institucional y financiación. La violencia machista. ",
+      "html_fuente": "<p><span style=\"color:#000000\"><span style=\"line-height:1\"><span style=\"font-family:Times New Roman,Times,serif; font-size:12px\">29. La Ley 11/2016, de 28 de julio, de igualdad de mujeres y hombres. Disposiciones generales. Competencias, funciones, organización institucional y financiación. La violencia machista. </span></span></span></p>",
+      "localizador": "#contenidoEdicto p[456]"
+    },
+    {
+      "id_tema": 30,
+      "titulo_oficial_literal": "La Ley 8/2016, de 30 de mayo, para garantizar los derechos de lesbianas, gays, trans, bisexuales e intersexuales y para erradicar la LGTBI fobia. Disposiciones generales. Políticas públicas para promover la igualdad efectiva de las personas LGTBI: profesionales que actúan en ámbitos sensibles. Mecanismos para garantizar el derecho a la igualdad: disposiciones generales.",
+      "parrafo_literal": "30. La Ley 8/2016, de 30 de mayo, para garantizar los derechos de lesbianas, gays, trans, bisexuales e intersexuales y para erradicar la LGTBI fobia. Disposiciones generales. Políticas públicas para promover la igualdad efectiva de las personas LGTBI: profesionales que actúan en ámbitos sensibles. Mecanismos para garantizar el derecho a la igualdad: disposiciones generales. ",
+      "html_fuente": "<p><span style=\"color:#000000\"><span style=\"line-height:1\"><span style=\"font-family:Times New Roman,Times,serif; font-size:12px\">30. La Ley 8/2016, de 30 de mayo, para garantizar los derechos de lesbianas, gays, trans, bisexuales e intersexuales y para erradicar la LGTBI fobia. Disposiciones generales. Políticas públicas para promover la igualdad efectiva de las personas LGTBI: profesionales que actúan en ámbitos sensibles. Mecanismos para garantizar el derecho a la igualdad: disposiciones generales. </span></span></span></p>",
+      "localizador": "#contenidoEdicto p[457]"
+    }
+  ],
+  "correcciones": [
+    "BOIB 35/2026: incorporación de Santanyí, bloque municipal",
+    "BOIB 40/2026: ordenanzas del bloque municipal",
+    "BOIB 48/2026: ordenanzas de Palma del bloque municipal"
+  ]
+}

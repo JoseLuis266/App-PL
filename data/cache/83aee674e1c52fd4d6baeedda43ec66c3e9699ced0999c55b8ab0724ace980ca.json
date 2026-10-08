@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto/bloque/a131",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto/bloque/a131",
+  "sha256": "0f03dec6e8b8e78e18b47bd55685f58d05d336d7def3b142ab2b6077a57bf5a7",
+  "archivo": "data/raw/0f03dec6e8b8e78e18b47bd55685f58d05d336d7def3b142ab2b6077a57bf5a7.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:25:32.967852+00:00"
+}

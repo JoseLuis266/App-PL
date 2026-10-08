@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a5-4" tipo="precepto" titulo="Artículo 52">
+      <version id_norma="BOE-A-2016-7994" fecha_publicacion="20160804" fecha_vigencia="20160805">
+        <p class="articulo">Artículo 52. Organización de espacios, horarios y creación de servicios.</p>
+        <p class="parrafo">1. Para facilitar la corresponsabilidad en la vida laboral, familiar y personal con un reparto equilibrado del tiempo entre hombres y mujeres, el Gobierno de las Illes Balears, en colaboración con los consejos insulares y las entidades locales, promoverá la elaboración de planes de uso del tiempo y la organización de espacios que faciliten la funcionalidad de la ciudad, propicien la proximidad de las dotaciones y los servicios, y minimicen los desplazamientos y los tiempos de acceso.</p>
+        <p class="parrafo">2. Se promoverá la coordinación entre los horarios laborales y los de los centros educativos.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

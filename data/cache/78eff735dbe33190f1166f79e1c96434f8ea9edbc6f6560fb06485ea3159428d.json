@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/buscar/xml.php?id=BOIB-i-2025-90242",
+  "url_final": "https://www.boe.es/buscar/xml.php?id=BOIB-i-2025-90242",
+  "sha256": "79454eac4d810259e4ea4408df43f93f12bd0416db40da6bd2867382cd92c404",
+  "archivo": "data/raw/79454eac4d810259e4ea4408df43f93f12bd0416db40da6bd2867382cd92c404.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:24:16.758040+00:00"
+}

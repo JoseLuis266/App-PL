@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20241015193521">
+  <metadatos>
+    <identificador>BOE-A-1978-5335</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7723">Jefatura del Estado</departamento>
+    <rango codigo="1300">Ley</rango>
+    <fecha_disposicion>19780220</fecha_disposicion>
+    <numero_oficial>10/1978</numero_oficial>
+    <titulo>Ley 10/1978, de 20 de febrero, derogación de la circunstancia cuarta del artículo 503 de la Ley de Enjuiciamiento Criminal.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>19780223</fecha_publicacion>
+    <diario_numero>46</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>4394</pagina_inicial>
+    <pagina_final>4394</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/1978/02/23/pdfs/A04394-04394.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia>19780223</fecha_vigencia>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+  </metadatos>
+  <analisis>
+    <materias>
+      <materia codigo="3199" orden="1">Enjuiciamiento Criminal</materia>
+      <materia codigo="5698" orden="2">Prisión provisional</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1882-6036" orden="1010">
+          <palabra codigo="210">DEROGA</palabra>
+          <texto>el apartado 4 del art. 503 de la Ley de Enjuiciamiento Criminal aprobada por Real Decreto de 14 de septiembre de 1882 (Gazeta)</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1957-15973" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Decreto-ley de 23 de noviembre de 1957 (Gazeta)</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1957-4467" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Decreto-ley de 22 de marzo de 1957 (Gazeta)</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas/>
+  </analisis>
+  <texto>
+    <p class="parrafo_2">De conformidad con la Ley aprobada por las Cortes, vengo en sancionar:</p>
+    <p class="articulo">Artículo primero.</p>
+    <p class="parrafo">Queda derogado el apartado cuarto del artículo quinientos tres de la Ley de Enjuiciamiento Criminal, adicionado por los Decretos-leyes de veintidós de marzo y veintitrés de noviembre de mil novecientos cincuenta y siete.</p>
+    <p class="articulo">Artículo segundo.</p>
+    <p class="parrafo">La presente Ley entrara en vigor el mismo día de su publicación en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo_2">Dada en Madrid a veinte de febrero de mil novecientos setenta y ocho.</p>
+    <p class="firma_rey">JUAN CARLOS</p>
+    <p class="firma_ministro">El Presidente de las Cortes.</p>
+    <p class="firma_ministro">ANTONIO HERNÁNDEZ GIL</p>
+  </texto>
+</documento>

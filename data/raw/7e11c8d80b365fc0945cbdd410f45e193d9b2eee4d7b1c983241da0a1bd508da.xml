@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="asegundo" tipo="precepto" titulo="Artículo segundo">
+      <version id_norma="BOE-A-1986-6859" fecha_publicacion="19860314" fecha_vigencia="19860403">
+        <p class="articulo">Artículo segundo.</p>
+        <p class="parrafo_2">Son Fuerzas y Cuerpos de Seguridad:</p>
+        <p class="parrafo_2">a) Las Fuerzas y Cuerpos de Seguridad del Estado dependientes del Gobierno de la Nación.</p>
+        <p class="parrafo">b) Los Cuerpos de Policía dependientes de las Comunidades Autónomas.</p>
+        <p class="parrafo">c) Los Cuerpos de Policía dependientes de las Corporaciones Locales.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

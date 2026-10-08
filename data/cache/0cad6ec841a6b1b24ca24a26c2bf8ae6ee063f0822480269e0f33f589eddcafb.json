@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1997-4837",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1997-4837",
+  "sha256": "2766fbc36410ad4f52c86ace07f9867cfcf32ed9b1ab14535c8797c88a9776fd",
+  "archivo": "data/raw/2766fbc36410ad4f52c86ace07f9867cfcf32ed9b1ab14535c8797c88a9776fd.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:08.969103+00:00"
+}

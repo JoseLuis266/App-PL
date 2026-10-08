@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="aveintiseis" tipo="precepto" titulo="Artículo veintiséis">
+      <version id_norma="BOE-A-1986-6859" fecha_publicacion="19860314" fecha_vigencia="19860403">
+        <p class="articulo">Artículo veintiséis.</p>
+        <p class="parrafo_2">1. Se celebrarán elecciones en el seno del Cuerpo Nacional de Policía, a efectos de designar los representantes de sus miembros en el Consejo de Policía y determinar la condición de representativos de los Sindicatos constituidos con arreglo a lo dispuesto en la presente Ley.</p>
+        <p class="parrafo">Las elecciones se celebrarán por Escalas, votando sus miembros una lista que contenga el nombre o nombres de los candidatos a representantes de la misma, mediante sufragio personal, directo y secreto.</p>
+        <p class="parrafo">2. Los candidatos a la elección podrán ser presentados, mediante listas nacionales, para cada una de las escalas, por los Sindicatos de funcionarios o por las agrupaciones de electores de las distintas escalas legalmente constituidas.</p>
+        <p class="parrafo">Las listas contendrán tanto nombres como puestos a cubrir, mas igual número de suplentes.</p>
+        <p class="parrafo">3. Mediante el sistema de representación proporcional se atribuirá a cada lista el número de puestos que le correspondan, de conformidad con el cociente que resulte de dividir el número de votantes por el de puestos a cubrir. Si hubiere puesto o puestos sobrantes, se atribuirán a la lista o listas que tengan un mayor resto de votos.</p>
+        <p class="parrafo">4. La duración del mandato de los Delegados en el Consejo de Policía será de cuatro años, pudiendo ser reelegidos en sucesivos procesos electorales.</p>
+        <p class="parrafo">Caso de producirse vacante, por cualquier causa, en la representación de los funcionarios en el Consejo de Policía, se cubrirá automáticamente por el candidato que ocupe el puesto siguiente en la lista respectiva.</p>
+        <p class="parrafo">5. Reglamentariamente, se establecerán las normas complementarias que sean precisas para la convocatoria de las elecciones, el procedimiento electoral y, en general, para el funcionamiento del Consejo de Policía.</p>
+      </version>
+      <version id_norma="BOE-A-2010-19818" fecha_publicacion="20101224" fecha_vigencia="20101224">
+        <p class="articulo">Artículo veintiséis.</p>
+        <p class="parrafo_2">1. Se celebrarán elecciones en el seno del Cuerpo Nacional de Policía, a efectos de designar los representantes de sus miembros en el Consejo de Policía y determinar la condición de representativos de los Sindicatos constituidos con arreglo a lo dispuesto en la presente Ley.</p>
+        <p class="parrafo">
+          <strong>Las elecciones se celebrarán por Escalas, votando sus miembros una lista que contenga el nombre o nombres de los candidatos a representantes de la misma, mediante sufragio personal, directo y secreto.</strong>
+        </p>
+        <p class="parrafo">2. <strong>Los candidatos a la elección podrán ser presentados, mediante listas nacionales, para cada una de las escalas, por los Sindicatos de funcionarios o por las agrupaciones de electores de las distintas escalas legalmente constituidas.</strong></p>
+        <p class="parrafo">Las listas contendrán tanto nombres como puestos a cubrir, mas igual número de suplentes.</p>
+        <blockquote class="noDesde99999999">
+          <p class="parrafo">Se declara la inconstitucionalidad de los párrafos destacados por Sentencia del TC 120/2010, de 24 de noviembre. <a class="refPost">Ref. BOE-A-2010-19818</a>.</p>
+        </blockquote>
+        <p class="parrafo">3. Mediante el sistema de representación proporcional se atribuirá a cada lista el número de puestos que le correspondan, de conformidad con el cociente que resulte de dividir el número de votantes por el de puestos a cubrir. Si hubiere puesto o puestos sobrantes, se atribuirán a la lista o listas que tengan un mayor resto de votos.</p>
+        <p class="parrafo">4. La duración del mandato de los Delegados en el Consejo de Policía será de cuatro años, pudiendo ser reelegidos en sucesivos procesos electorales.</p>
+        <p class="parrafo">Caso de producirse vacante, por cualquier causa, en la representación de los funcionarios en el Consejo de Policía, se cubrirá automáticamente por el candidato que ocupe el puesto siguiente en la lista respectiva.</p>
+        <p class="parrafo">5. Reglamentariamente, se establecerán las normas complementarias que sean precisas para la convocatoria de las elecciones, el procedimiento electoral y, en general, para el funcionamiento del Consejo de Policía.</p>
+        <blockquote>
+          <p class="nota_pie">Se declara la inconstitucionalidad del párrafo segundo del apartado 1 y del párrafo primero del apartado 2 por Sentencia del TC 120/2010, de 24 de noviembre. <a class="refPost">Ref. BOE-A-2010-19818</a>.</p>
+        </blockquote>
+      </version>
+      <version id_norma="BOE-A-2015-8468" fecha_publicacion="20150729" fecha_vigencia="20150818">
+        <p class="articulo">Artículo veintiséis.</p>
+        <p class="parrafo">
+          <strong>(Derogado)</strong>
+        </p>
+        <blockquote>
+          <p class="nota_pie">Se deroga por la disposición derogatoria única.1.a) de la Ley Orgánica 9/2015, de 28 de julio. <a class="refPost">Ref. BOE-A-2015-8468#ddunica</a></p>
+          <p class="nota_pie">Se declara la inconstitucionalidad del párrafo segundo del apartado 1 y del párrafo primero del apartado 2 por Sentencia del TC 120/2010, de 24 de noviembre. <a class="refPost">Ref. BOE-A-2010-19818</a>.</p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

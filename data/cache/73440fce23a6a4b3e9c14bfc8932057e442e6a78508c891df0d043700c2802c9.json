@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/asegundo",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/asegundo",
+  "sha256": "7e11c8d80b365fc0945cbdd410f45e193d9b2eee4d7b1c983241da0a1bd508da",
+  "archivo": "data/raw/7e11c8d80b365fc0945cbdd410f45e193d9b2eee4d7b1c983241da0a1bd508da.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:06:16.428867+00:00"
+}

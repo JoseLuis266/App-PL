@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20241019114900">
+  <metadatos>
+    <identificador>BOE-A-2007-13266</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="1410">Tribunal Constitucional</departamento>
+    <rango codigo="1250">Auto</rango>
+    <fecha_disposicion>20070619</fecha_disposicion>
+    <numero_oficial/>
+    <titulo>Recurso de inconstitucionalidad n.º 1915-2004, en relación con el artículo 2 de la Ley Orgánica 20/2003, de 23 de diciembre, de modificación de la Ley Orgánica del Poder Judicial y del Código Penal.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>20070710</fecha_publicacion>
+    <diario_numero>164</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>29526</pagina_inicial>
+    <pagina_final>29526</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/2007/07/10/pdfs/A29526-29526.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia/>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+  </metadatos>
+  <analisis>
+    <materias>
+      <materia codigo="886" orden="">Código Penal</materia>
+      <materia codigo="2356" orden="">Delitos contra la Constitución</materia>
+      <materia codigo="3135" orden="">Elecciones</materia>
+      <materia codigo="5415" orden="">Partidos políticos</materia>
+      <materia codigo="5904" orden="">Recursos de inconstitucionalidad</materia>
+      <materia codigo="5924" orden="">Referéndum</materia>
+      <materia codigo="6800" orden="">Subvenciones</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2004-8987" orden="4010">
+          <palabra codigo="470">DECLARA</palabra>
+          <texto>en el Recurso 1915/2004, la extinción por desaparición sobrevenida de su objeto, en relación con los arts. 506.bis, 521.bis y 567.bis de la Ley Orgánica 10/1995, de 23 de noviembre en la redacción dada por el art. 2 de la Ley Orgánica 20/2003, de diciembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1995-25444" orden="4010">
+          <palabra codigo="470">DECLARA</palabra>
+          <texto>,</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2003-23645" orden="4041">
+          <palabra codigo="470">DECLARA</palabra>
+          <texto>,</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas>
+      <alerta codigo="111" orden="">Derecho Constitucional</alerta>
+      <alerta codigo="113" orden="">Derecho Penal</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="ATEXTOySIGUIENTE">
+El Tribunal Constitucional por Auto de 19 de junio actual, ha acordado declarar la extinción del recurso de inconstitucionalidad núm. 1915-2004, promovido por el Parlamento de Cataluña contra el art. 2 de la Ley Orgánica 20/2003, de 23 de diciembre, de modificación de la Ley Orgánica del Poder Judicial y del Código Penal, por desaparición sobrevenida de su objeto, que fue admitido a trámite el veintisiete de abril de dos mil cuatro
+</p>
+    <p class="ATEXTO_BLANCO_6">
+Madrid, 19 de junio de 2007.-La Secretaria de Justicia del Pleno, Herminia Palencia Guerra.</p>
+  </texto>
+</documento>

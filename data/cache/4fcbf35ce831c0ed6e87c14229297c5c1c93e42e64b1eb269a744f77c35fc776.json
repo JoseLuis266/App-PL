@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto/bloque/a623",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto/bloque/a623",
+  "sha256": "eb95bb87273af7cef34b46344271989a4f9b1c1671f4ba2dc64055d217af0242",
+  "archivo": "data/raw/eb95bb87273af7cef34b46344271989a4f9b1c1671f4ba2dc64055d217af0242.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:07:06.873188+00:00"
+}

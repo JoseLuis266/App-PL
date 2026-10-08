@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2015-1892",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2015-1892",
+  "sha256": "564a5db26548a159e44df6aa607e770e060082bf2e7c1accb84fd683629d28e4",
+  "archivo": "data/raw/564a5db26548a159e44df6aa607e770e060082bf2e7c1accb84fd683629d28e4.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:18.799052+00:00"
+}

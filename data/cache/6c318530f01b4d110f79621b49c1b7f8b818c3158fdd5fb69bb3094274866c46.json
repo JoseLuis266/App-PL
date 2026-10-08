@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1882-6036/analisis",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1882-6036/analisis",
+  "sha256": "dc534d8889201234678438db13612f6f5716291416a965a6ee9f8e4b1de04d2c",
+  "archivo": "data/raw/dc534d8889201234678438db13612f6f5716291416a965a6ee9f8e4b1de04d2c.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:31:33.871142+00:00"
+}

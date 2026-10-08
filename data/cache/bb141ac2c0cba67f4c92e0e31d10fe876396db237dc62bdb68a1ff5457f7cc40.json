@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1978-18553",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1978-18553",
+  "sha256": "4e828195a416e50650a31af3d7921d6c0f925c11f9019ca5e3eb1a32cab12ecd",
+  "archivo": "data/raw/4e828195a416e50650a31af3d7921d6c0f925c11f9019ca5e3eb1a32cab12ecd.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:20:24.603462+00:00"
+}

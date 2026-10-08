@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-4233/texto/bloque/a139",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-4233/texto/bloque/a139",
+  "sha256": "06c0c5fe5a72b8eb56c5c1e8ae97f11803ec21a684a88ee5ecf43285a7cb6921",
+  "archivo": "data/raw/06c0c5fe5a72b8eb56c5c1e8ae97f11803ec21a684a88ee5ecf43285a7cb6921.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:05:07.208950+00:00"
+}

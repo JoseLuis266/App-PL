@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a803tere" tipo="precepto" titulo="Artículo 803 ter e">
+      <version id_norma="BOE-A-2015-10726" fecha_publicacion="20151006" fecha_vigencia="20151206">
+        <p class="articulo">Artículo 803 ter e. Objeto.</p>
+        <p class="parrafo">1. Podrá ser objeto del procedimiento de decomiso autónomo regulado en el presente Título la acción mediante la cual se solicita el decomiso de bienes, efectos o ganancias, o un valor equivalente a los mismos, cuando no hubiera sido ejercitada con anterioridad, salvo lo dispuesto en el artículo 803 ter p.</p>
+        <p class="parrafo">2. En particular, será aplicable este procedimiento en los siguientes casos:</p>
+        <p class="parrafo_2">a) Cuando el fiscal se limite en su escrito de acusación a solicitar el decomiso de bienes reservando expresamente para este procedimiento su determinación.</p>
+        <p class="parrafo">b) Cuando se solicite como consecuencia de la comisión de un hecho punible cuyo autor haya fallecido o no pueda ser enjuiciado por hallarse en rebeldía o incapacidad para comparecer en juicio.</p>
+        <p class="parrafo_2">3. En el caso de reserva de la acción por el fiscal, el procedimiento de decomiso autónomo solamente podrá ser iniciado cuando el proceso en el que se resuelva sobre las responsabilidades penales del encausado ya hubiera concluido con sentencia firme.</p>
+        <blockquote>
+          <p class="nota_pie">Se añade por el art. único.10 de la Ley 41/2015, de 5 de octubre. <a class="refPost">Ref. BOE-A-2015-10726</a>.</p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

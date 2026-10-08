@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <metadatos>
+      <fecha_actualizacion>20251216T191409Z</fecha_actualizacion>
+      <identificador>BOE-A-1984-11620</identificador>
+      <ambito codigo="1">Estatal</ambito>
+      <departamento codigo="7723">Jefatura del Estado</departamento>
+      <rango codigo="1290">Ley Orgánica</rango>
+      <fecha_disposicion>19840524</fecha_disposicion>
+      <numero_oficial>6/1984</numero_oficial>
+      <titulo>Ley Orgánica 6/1984, de 24 de mayo, reguladora del procedimiento de «Habeas Corpus».</titulo>
+      <diario>Boletín Oficial del Estado</diario>
+      <fecha_publicacion>19840526</fecha_publicacion>
+      <diario_numero>126</diario_numero>
+      <fecha_vigencia>19840527</fecha_vigencia>
+      <estatus_derogacion>N</estatus_derogacion>
+      <estatus_anulacion>N</estatus_anulacion>
+      <vigencia_agotada>N</vigencia_agotada>
+      <estado_consolidacion codigo="3">Finalizado</estado_consolidacion>
+      <url_eli>https://www.boe.es/eli/es/lo/1984/05/24/6</url_eli>
+      <url_html_consolidada>https://www.boe.es/buscar/act.php?id=BOE-A-1984-11620</url_html_consolidada>
+    </metadatos>
+  </data>
+</response>

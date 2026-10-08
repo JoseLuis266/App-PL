@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2012-7511",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2012-7511",
+  "sha256": "37c9762a14280430f60a6044368fda416aea00f258db93b16ee908d2647d23d8",
+  "archivo": "data/raw/37c9762a14280430f60a6044368fda416aea00f258db93b16ee908d2647d23d8.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:12.483107+00:00"
+}

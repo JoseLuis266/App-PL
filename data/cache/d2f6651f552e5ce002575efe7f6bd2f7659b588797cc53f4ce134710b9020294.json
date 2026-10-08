@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-11722/texto/bloque/ani",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-11722/texto/bloque/ani",
+  "sha256": "3f158e040484ae216be9f195a62d3da64b15448fce931e1ef04b8a4cc103ecf6",
+  "archivo": "data/raw/3f158e040484ae216be9f195a62d3da64b15448fce931e1ef04b8a4cc103ecf6.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T18:10:21.837902+00:00"
+}

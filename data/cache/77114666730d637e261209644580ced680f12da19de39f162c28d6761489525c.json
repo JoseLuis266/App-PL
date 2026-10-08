@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2001-11659",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2001-11659",
+  "sha256": "9a47bacdb447379f993cb37d78cdffa8d6c582cc22d5e88725205156a40f2a3d",
+  "archivo": "data/raw/9a47bacdb447379f993cb37d78cdffa8d6c582cc22d5e88725205156a40f2a3d.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:12.249203+00:00"
+}

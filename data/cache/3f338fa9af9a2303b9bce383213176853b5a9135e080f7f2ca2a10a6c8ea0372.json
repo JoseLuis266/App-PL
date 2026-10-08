@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1882-6036/texto/bloque/a803tere",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1882-6036/texto/bloque/a803tere",
+  "sha256": "814f56513ff35f468174cbe505c0127369bd2e0f17ddd5dddc735b56bf1c8c4f",
+  "archivo": "data/raw/814f56513ff35f468174cbe505c0127369bd2e0f17ddd5dddc735b56bf1c8c4f.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:06:46.847920+00:00"
+}

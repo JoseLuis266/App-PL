@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1996-28337",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1996-28337",
+  "sha256": "6167eb0d6326f1857bb70114a0c2f30e734c8a6aa3cb82f69c6f1a026cfc34e2",
+  "archivo": "data/raw/6167eb0d6326f1857bb70114a0c2f30e734c8a6aa3cb82f69c6f1a026cfc34e2.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:04.745611+00:00"
+}

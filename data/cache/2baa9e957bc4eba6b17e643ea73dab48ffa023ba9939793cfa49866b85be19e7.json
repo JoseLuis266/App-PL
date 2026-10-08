@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-18646",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-18646",
+  "sha256": "29806a9c35af9365623effd148a917daa1cad7a5c82e442c91a1dfb217105454",
+  "archivo": "data/raw/29806a9c35af9365623effd148a917daa1cad7a5c82e442c91a1dfb217105454.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:51.401013+00:00"
+}

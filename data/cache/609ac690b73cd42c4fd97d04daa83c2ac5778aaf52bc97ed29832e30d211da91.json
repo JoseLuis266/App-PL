@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-13113",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-13113",
+  "sha256": "c545a1f8a4f9c704f2cd5dfb296f269b6eb3b9d62290def93d4c8e5585180098",
+  "archivo": "data/raw/c545a1f8a4f9c704f2cd5dfb296f269b6eb3b9d62290def93d4c8e5585180098.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:41.010473+00:00"
+}

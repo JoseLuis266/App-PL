@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a594" tipo="precepto" titulo="Artículo 594">
+      <version id_norma="BOE-A-1882-6036" fecha_publicacion="19970601" fecha_vigencia="19970601">
+        <p class="articulo">Artículo 594.</p>
+        <p class="parrafo">Los bienes de las fianzas hipotecaria y pignoraticia serán tasados por dos peritos nombrados por el Juez instructor o Tribunal que conozca de la causa, y los títulos de propiedad relativos a las fincas ofrecidas en hipoteca se examinarán por el Ministerio Fiscal; debiendo declararse suficientes por el mismo Juez o Tribunal cuando así proceda.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

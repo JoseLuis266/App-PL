@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a3-11" tipo="precepto" titulo="Artículo 39">
+      <version id_norma="BOE-A-2016-6310" fecha_publicacion="20160602" fecha_vigencia="20160603">
+        <p class="articulo">Artículo 39. Prescripción.</p>
+        <p class="parrafo">1. Las infracciones establecidas por esta ley tipificadas de leves prescriben al cabo de un año; las tipificadas de graves, al cabo de dieciocho meses; y las tipificadas de muy graves, al cabo de tres años.</p>
+        <p class="parrafo">2. Las sanciones impuestas al amparo de esta ley prescriben al cabo de dieciocho meses si son leves, al cabo de dos años si son graves y al cabo de tres años si son muy graves.</p>
+        <p class="parrafo">El cómputo de la prescripción de las sanciones empezará a contar desde que adquiera firmeza la resolución que imponga la sanción.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

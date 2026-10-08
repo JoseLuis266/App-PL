@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20251218155602">
+  <metadatos>
+    <identificador>BOE-A-1996-28337</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7710">Ministerio de la Presidencia</departamento>
+    <rango codigo="1350">Orden</rango>
+    <fecha_disposicion>19961213</fecha_disposicion>
+    <numero_oficial/>
+    <titulo>Orden de 13 de diciembre de 1996 por la que se aprueba el Régimen del alumnado de los centros docentes militares de formación de la Guardia Civil.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>19961219</fecha_publicacion>
+    <diario_numero>305</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>37667</pagina_inicial>
+    <pagina_final>37674</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/1996/12/19/pdfs/A37667-37674.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia>19961220</fecha_vigencia>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/o/1996/12/13/(3)</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/o/1996/12/13/(3)">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/o"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1996-28337</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-12-13</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(3)</eli:number>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/34"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/221"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1983"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3207"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3390"/>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/o/1996/12/13/(3)/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/o"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1996-28337</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-12-13</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(3)</eli:number>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/34"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/221"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1983"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3207"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3390"/>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/o/1996/12/13/(3)"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/o/1996/12/13/(3)/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orden de 13 de diciembre de 1996 por la que se aprueba el Régimen del alumnado de los centros docentes militares de formación de la Guardia Civil.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-12-19</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/o/1996/12/13/(3)/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/1996/12/13/(3)/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/1996/12/13/(3)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/1996/12/13/(3)/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/1996/12/13/(3)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/1996/12/13/(3)/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/1996/12/13/(3)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="34" orden="1">Academias militares</materia>
+      <materia codigo="221" orden="2">Alumnos</materia>
+      <materia codigo="1983" orden="3">Cuerpo de la Guardia Civil</materia>
+      <materia codigo="3207" orden="4">Enseñanza Militar</materia>
+      <materia codigo="3390" orden="5">Escuelas Militares</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1989-17199" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>la Ley 17/1989, de 19 de julio</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1986-6859" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>la Ley Orgánica 2/1986, de 13 de marzo</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1994-22921" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Ley 28/1994, de 18 de octubre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores>
+        <posterior referencia="BOE-A-2021-520" orden="">
+          <palabra codigo="210">SE DEROGA</palabra>
+          <texto>con efectos desde el 14 de abril de 2021, por Orden PCM/6/2021, de 11 de enero</texto>
+        </posterior>
+      </posteriores>
+    </referencias>
+    <alertas/>
+  </analisis>
+  <texto>
+    <p class="parrafo">La Ley 28/1994, de 18 de octubre, por la que se completa el régimen del personal del Cuerpo de la Guardia Civil, como norma de cierre, determina de manera expresa el resto de textos normativos que configuran aquél: Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad; Ley 17/1989, de 19 de julio, reguladora del Régimen del Personal Militar Profesional, y Ley Orgánica 11/1991, de 17 de junio, del Régimen Disciplinario de la Guardia Civil.</p>
+    <p class="parrafo">De los artículos 14.2 de la Ley Orgánica 2/1986, de 13 de marzo; 5 de la Ley 28/1994, de 18 de octubre, y disposición final primera de este último texto legal, se colige la facultad que corresponde conjuntamente a los Ministros de Defensa y del Interior de aprobar el Régimen del alumnado de los centros docentes militares de formación del Cuerpo de la Guardia Civil.</p>
+    <p class="parrafo">Por otro lado, la Ley Orgánica 11/1991, de 17 de junio, preceptúa en su artículo 2.2 que a los alumnos de los centros de formación se les aplicarán sus reglamentos disciplinarios específicos, a la vez que se dispone en su disposición adicional primera que la Ley de Régimen Disciplinario de las Fuerzas Armadas será de aplicación supletoria en todas las cuestiones no previstas en la misma.</p>
+    <p class="parrafo">En su virtud, de acuerdo a los textos normativos mencionados, y en aplicación de lo establecido en el número 2 de la disposición adicional tercera de la Ley Orgánica 12/1985, de 27 de noviembre, de Régimen Disciplinario de las Fuerzas Armadas, y en el artículo 57.2 de la Ley 17/1989, de 19 de julio, a propuesta conjunta de los Ministros de Defensa y del Interior, dispongo:</p>
+    <p class="parrafo">Primero.-Se aprueba el Régimen del Alumnado de los centros docentes militares de formación de la Guardia Civil, que se recoge en el anexo a esta Orden.</p>
+    <p class="parrafo">Segundo.-Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente Orden.</p>
+    <p class="parrafo">Tercero.-Se autoriza al Director general de la Guardia Civil a dictar, en el ámbito de sus competencias, cuantas instrucciones sean necesarias para el desarrollo y ejecución de lo que establecen la presente Orden y el Régimen que aprueba.</p>
+    <p class="parrafo">Cuarto.-La presente Orden y el Régimen que aprueba entrarán en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo">Madrid, 13 de diciembre de 1996.</p>
+    <p class="parrafo">ÁLVAREZ-CASCOS FERNÁNDEZ</p>
+    <p class="parrafo">Excmos. Sres. Ministros de Defensa y del Interior.</p>
+    <p class="parrafo">ANEXO</p>
+    <p class="parrafo">Régimen del alumnado de los centros docentes militares de formación de la Guardia Civil</p>
+    <p class="parrafo">CAPÍTULO I</p>
+    <p class="parrafo">Normas generales</p>
+    <p class="parrafo">Artículo 1. Condición de alumno.</p>
+    <p class="parrafo">1. Son alumnos de los centros docentes militares de formación de la Guardia Civil quienes ingresen en ellos conforme a los procedimientos establecidos y reciban el correspondiente nombramiento.</p>
+    <p class="parrafo">2. El nombramiento a que se refiere el apartado anterior se realizará por el Subsecretario de Defensa, y se publicará en el «Boletín Oficial del Estado» cuando recaiga sobre quienes ingresen por el sistema de acceso directo, o en el «Boletín Oficial de la Guardia Civil» cuando lo sea por promoción interna.</p>
+    <p class="parrafo">3. Quienes sean nombrados alumnos con los requisitos establecidos en el apartado anterior, tendrán la condición de militar, y estarán sometidos al régimen de derechos y obligaciones que recoge el presente Régimen del Alumnado.</p>
+    <p class="parrafo">Artículo 2. Empleos eventuales.</p>
+    <p class="parrafo">1. Con carácter eventual y a efectos académicos, de prácticas o retributivos, el Director general de la Guardia Civil podrá conceder a los alumnos de la enseñanza militar de formación de la Guardia Civil los empleos de Alférez Alumno, Sargento Alumno y Guardia Alumno, con arreglo a lo que al respecto establezcan los correspondientes planes de estudios.</p>
+    <p class="parrafo">2. Los alumnos de dicha enseñanza, que tuvieran un empleo militar con carácter previo al nombramiento a que se refiere el artículo anterior, conservarán los derechos inherentes a tal empleo y ostentarán los derechos económicos que legalmente les correspondan, si bien estarán sometidos al régimen escolar. Los que accedan al centro docente por el sistema de ingreso directo, pasarán a la situación de excedencia voluntaria, en su escala de origen o en su condición de militar de empleo.</p>
+    <p class="parrafo">Artículo 3. Efectos del cumplimiento de los planes de estudios.</p>
+    <p class="parrafo">1. La superación del correspondiente plan de estudios tendrá, para los alumnos que la logren, los efectos a que se refieren la disposición adicional segunda de la Ley 28/1994, de 18 de octubre, por la que se completa el régimen del personal del Cuerpo de la Guardia Civil, y el artículo 5.3 del mismo texto legal, todo ello en relación con lo dispuesto en los artículos 33, 53 y 63 de la Ley 17/1989, de 19 de julio, reguladora del Régimen del Personal Militar Profesional, y las disposiciones reglamentarias que los desarrollan, siempre y cuando dichos alumnos hayan cumplimentado los requisitos previos establecidos en tales artículos y disposiciones y demás normativa vigente.</p>
+    <p class="parrafo">2. Los alumnos de la enseñanza de formación que accedan a una nueva Escala causarán baja en la de origen, o en la condición de militar de empleo, manteniendo los derechos derivados del tiempo de servicios efectivos que tuvieren cumplido. Su antigüedad en el empleo adquirido al acceder a la nueva Escala, se determinará a partir de la fecha de la resolución por la que se le confiere este último empleo.</p>
+    <p class="parrafo">CAPÍTULO II</p>
+    <p class="parrafo">Régimen general de los alumnos</p>
+    <p class="parrafo">Artículo 4. Objetivos.</p>
+    <p class="parrafo">El régimen general de los alumnos tendrá los siguientes objetivos:</p>
+    <p class="parrafo">a) Combinar la adaptación del alumno al régimen de vida militar y profesional de la Guardia Civil, con su adecuada integración en la sociedad.</p>
+    <p class="parrafo">b) Fomentar el libre desarrollo de la personalidad y la propia iniciativa del alumno.</p>
+    <p class="parrafo">c) Integrar las relaciones de disciplina militar, con las propias del proceso de formación entre profesor y alumno.</p>
+    <p class="parrafo">d) Favorecer aquellas actividades del centro que impulsen las relaciones externas de carácter educativo, cultural y deportivo, especialmente con los demás centros docentes, y las que contribuyan al conocimiento social de los principios básicos de actuación del Cuerpo de la Guardia Civil.</p>
+    <p class="parrafo">Todo ello a fin de que los alumnos alcancen una sólida formación moral, militar e intelectual, un perfecto conocimiento de su profesión y una adecuada preparación física que les permitan cumplir las misiones asignadas por la Constitución y el resto del ordenamiento jurídico a las Fuerzas y Cuerpos de Seguridad, las funciones técnico-profesionales derivadas de la política de seguridad desarrollada por el Ministro del Interior, y el ejercicio de las misiones de carácter militar encomendadas por el Ministro de Defensa.</p>
+    <p class="parrafo">Artículo 5. Régimen de vida.</p>
+    <p class="parrafo">1. Sin perjuicio de lo que establece el apartado 3 del presente artículo, los alumnos de los centros docentes militares de formación de la Guardia Civil estarán en régimen de internado desde su ingreso en ellos hasta su promoción a los empleos eventuales de Alférez Alumno, Sargento Alumno o Guardia Alumno.</p>
+    <p class="parrafo">2. Los alumnos que hayan alcanzado alguno de los referidos empleos eventuales podrán estar sujetos a un régimen de externado que les permita residir, a su elección, dentro o fuera del centro docente o alojamiento que se designe, sin perjuicio para el cumplimiento, en todo caso, de las obligaciones académicas y militares que les correspondan. El Director general de la Guardia Civil, previo informe del General Jefe de Enseñanza de la Guardia Civil, determinará las condiciones de dicho régimen.</p>
+    <p class="parrafo">3. Conforme a este mismo procedimiento, el Director general de la Guardia Civil podrá anticipar la aplicación del régimen de externado a todos o parte de los alumnos ingresados en los centros docentes militares de formación mediante alguno de los sistemas de promoción interna o en virtud de lo establecido en el artículo 46.3 de la Ley 17/1989, de 19 de julio.</p>
+    <p class="parrafo">4. Con carácter general, los alumnos de los centros docentes militares de formación de la Guardia Civil podrán salir de ellos al concluir sus actividades diarias, sin perjuicio de las excepciones que impliquen el cumplimiento de las obligaciones militares que se les asignen y, en su caso, de su regreso al centro de acuerdo con el régimen interior que rija el funcionamiento de éste.</p>
+    <p class="parrafo">Artículo 6. Horarios.</p>
+    <p class="parrafo">1. Los horarios de los centros se adaptarán a sus necesidades de enseñanza y funcionamiento, teniendo en cuenta, muy especialmente, las exigencias derivadas de la formación integral del alumno y de la instrucción y adiestramiento técnico-profesional y militar que debe recibir.</p>
+    <p class="parrafo">2. El régimen diario se fijará por la Jefatura de Enseñanza, a propuesta de los Directores de los centros, de acuerdo con los siguientes criterios:</p>
+    <p class="parrafo">a) Las clases teórico-prácticas diarias no podrán ser más de seis en las enseñanzas de formación para acceso a las Escalas Superior y Ejecutiva y de siete para las de Suboficiales y Básica de Cabos y Guardias.</p>
+    <p class="parrafo">b) En general, el descanso nocturno no podrá ser inferior a ocho horas.</p>
+    <p class="parrafo">c) La duración de las enseñanzas teórico-prácticas, ejercicios de instrucción y adiestramiento técnico-profesional y militar y educación física, en las semanas dedicadas a actividades docentes programadas, no será superior a treinta horas en la enseñanza de formación para acceso a las Escalas Superior y Ejecutiva y de treinta y cinco para las de Suboficiales y Básica de Cabos y Guardias.</p>
+    <p class="parrafo">d) Sin perjuicio de lo establecido en el apartado anterior, se reservará un mínimo de horas para la realización de actividades complementarias, de carácter voluntario u obligatorio. Cuando tenga este último carácter, el número de horas reservado no sobrepasará el de dos semanales.</p>
+    <p class="parrafo">e) Durante los períodos en que se desarrollen ejercicios, maniobras, campamentos o actividades análogas, los anteriores criterios podrán variarse en función de las exigencias de la actividad a realizar.</p>
+    <p class="parrafo">3. Durante el período de prácticas en unidades, el régimen diario se fijará por los Jefes de Unidad, Centro u Organismos en que los alumnos estén completando su formación.</p>
+    <p class="parrafo">Artículo 7. Régimen económico y asistencial.</p>
+    <p class="parrafo">1. Los alumnos recibirán las retribuciones reglamentariamente establecidas y las indemnizaciones por razón del servicio que pudieran corresponderles, de acuerdo con lo previsto en las disposiciones vigentes.</p>
+    <p class="parrafo">2. Los alumnos recibirán, también, el vestuario, equipo y material docente que prevean, y en las condiciones que señalen, las disposiciones referentes a estas materias.</p>
+    <p class="parrafo">3. Asimismo, los gastos derivados de su alimentación y alojamiento serán satisfechos con arreglo a las disposiciones correspondientes.</p>
+    <p class="parrafo">4. A los efectos del ejercicio de su derecho a las prestaciones asistenciales previstas en la legislación vigente y de uso de la tarjeta de identidad militar, los alumnos de la enseñanza de formación para acceso a las Escalas Superior y Ejecutiva tendrán consideración de oficiales, de suboficiales los de la Escala de igual nombre, y de cabos y guardias, respectivamente, los de la Básica de Cabos y Guardias.</p>
+    <p class="parrafo">Artículo 8. Vacaciones, permisos y licencias.</p>
+    <p class="parrafo">1. Los alumnos de la enseñanza de formación de la Guardia Civil disfrutarán de los períodos vacacionales establecidos en sus respectivos planes de estudios y obtendrán los permisos o licencias que, por causa de enfermedad u otros motivos justificados, se les concedan. Cuando se encuentren completando su formación en unidades les será de aplicación el régimen de permisos y licencias establecido para el personal profesional.</p>
+    <p class="parrafo">2. Los permisos o licencias por enfermedad u otros motivos justificados se concederán por plazo no superior a dos meses. Transcurrido dicho plazo, los interesados podrán obtener prórrogas sucesivas de igual duración máxima cada una. Tales permisos o licencias y sus prórrogas se concederán por el General Jefe de Enseñanza de la Guardia Civil.</p>
+    <p class="parrafo">3. No obstante lo establecido en el apartado anterior, los Directores de los centros podrán conceder permisos o licencias de duración igual o inferior a tres días. Además, cuando concurran razones de urgencia, podrán autorizar, por sí mismos, el comienzo de permisos o licencias de mayor duración, sin perjuicio de que el General Jefe de Enseñanza conceda o deniegue, en el menor plazo posible, el permiso o licencia de que se trate.</p>
+    <p class="parrafo">Artículo 9. Uniformidad.</p>
+    <p class="parrafo">1. De acuerdo con las disposiciones sobre uniformidad, los alumnos de los centros docentes militares de formación de la Guardia Civil vestirán el uniforme que, para cada acto, ordene la dirección del centro, o los Jefes de Unidad, Centro u Organismos en que los alumnos estén completando su formación.</p>
+    <p class="parrafo">2. Los alumnos en situación de excedencia voluntaria podrán usar las condecoraciones y distintivos a que tengan derecho, pero no las divisas de su empleo ni, en su caso, los emblemas del cuerpo de procedencia.</p>
+    <p class="parrafo">3. El General Jefe de Enseñanza, de acuerdo con lo establecido al respecto en las normas vigentes, determinará cuándo podrán vestir de paisano los alumnos de los centros de formación del Cuerpo de la Guardia Civil.</p>
+    <p class="parrafo">Artículo 10. Encuadramiento.</p>
+    <p class="parrafo">1. Los alumnos se encuadrarán en las unidades que determine la dirección del centro, con los mandos que, en cada caso, correspondan.</p>
+    <p class="parrafo">2. Determinados alumnos podrán ser designados, por el Director del centro, auxiliares directos de los mandos de las unidades en que estén encuadrados. En su caso, dichos alumnos recibirán las denominaciones y ostentarán los distintivos tradicionales en el centro.</p>
+    <p class="parrafo">3. Durante el período de prácticas en unidades, los alumnos se encuadrarán en las Unidades, Centros u Organismos que, a propuesta del Subdirector general de Operaciones, determine el Director general de la Guardia Civil.</p>
+    <p class="parrafo">4. Con objeto de que se ejerciten en el mando, los alumnos podrán realizar funciones de este carácter, a medida que su formación militar y profesional lo permita.</p>
+    <p class="parrafo">Artículo 11. Guardias y servicios.</p>
+    <p class="parrafo">Los alumnos llevarán a cabo las guardias y servicios que, de acuerdo con las necesidades de formación en la materia instrucción y adiestramiento técnico-profesional y militar, fije la dirección del centro correspondiente.</p>
+    <p class="parrafo">Durante el período de prácticas en unidades y por idénticas razones, prestarán los servicios que les sean ordenados por los Jefes de Unidad, Centro u Organismos en que los alumnos estén completando su formación.</p>
+    <p class="parrafo">CAPÍTULO III</p>
+    <p class="parrafo">Derechos y deberes de los alumnos</p>
+    <p class="parrafo">Artículo 12. Derechos.</p>
+    <p class="parrafo">Los alumnos son titulares de los derechos y libertades establecidos en la Constitución, en las Reales Ordenanzas y en el resto del ordenamiento jurídico o que se deriven de lo dispuesto en el presente Régimen del Alumnado, sin otros límites en su ejercicio que los determinados en la propia Constitución y disposiciones que la desarrollan, en las Reales Ordenanzas, en el régimen general de las Fuerzas y Cuerpos de Seguridad, en las leyes penales militares y en las disciplinarias de las Fuerzas Armadas y de la Guardia Civil.</p>
+    <p class="parrafo">Artículo 13. Deberes.</p>
+    <p class="parrafo">Los alumnos están obligados por los deberes establecidos en la Constitución, en las Reales Ordenanzas y en el resto del ordenamiento jurídico y sometidos al régimen general de las Fuerzas y Cuerpos de Seguridad, a las leyes penales y disciplinarias, y a lo dispuesto en el presente Régimen del Alumnado.</p>
+    <p class="parrafo">Artículo 14. Obligaciones.</p>
+    <p class="parrafo">1. Los alumnos deberán conocer y cumplir exactamente las obligaciones contenidas en las Reales Ordenanzas, las específicas de la Guardia Civil y las propias de su condición de alumno.</p>
+    <p class="parrafo">2. Los alumnos observarán las reglas de disciplina y de respeto al orden jerárquico, características indispensables para conseguir la máxima eficacia en un instituto armado de naturaleza militar.</p>
+    <p class="parrafo">3. Los alumnos actuarán con lealtad y compañerismo como expresión de su voluntad de asumir solidariamente las exigencias de la defensa de España, proteger el libre ejercicio de los derechos y libertades, garantizar la seguridad ciudadana y el mantenimiento de la paz y seguridad internacionales.</p>
+    <p class="parrafo">4. La lealtad y el compañerismo entre los alumnos se afirman en su mutuo respeto al derecho al estudio y a los demás derechos y libertades de que son titulares, y en la obediencia a las órdenes de aquellos a quienes se haya atribuido algún cometido que implique capacidad de decidir.</p>
+    <p class="parrafo">Artículo 15. Derechos académicos.</p>
+    <p class="parrafo">Los alumnos, en virtud de su condición de tales, tendrán derecho a:</p>
+    <p class="parrafo">a) Recibir una enseñanza y formación investigadora, correlativas al grado de los estudios que cursen, de la mayor calidad posible, que permita el desarrollo de sus capacidades intelectuales y físicas y que, estando abiertas a las opciones teóricas que en su caso existan, les garanticen su autonomía intelectual y su formación integral.</p>
+    <p class="parrafo">b) Asistir a las actividades docentes del centro y a las prácticas que se realicen en otros lugares, así como a participar libremente en las demás actividades culturales, deportivas o religiosas que organice o concierte el centro, o que se les autorice a realizar, en orden a la plenitud de su formación.</p>
+    <p class="parrafo">c) Escoger, de acuerdo con los planes de estudios y valorando la información recibida de los tutores, las materias y asignaturas que estimen adecuadas para cumplir los currículo propios.</p>
+    <p class="parrafo">d) La evaluación objetiva de su rendimiento académico, con posibilidad de revisión e impugnación de la misma.</p>
+    <p class="parrafo">e) Recibir de los órganos de gobierno y administración del centro una adecuada información sobre el presente Régimen del Alumnado y demás normas de régimen interior y sobre aquellos otros aspectos militares, profesionales, académicos, administrativos y económicos que les conciernan.</p>
+    <p class="parrafo">f) Utilizar las instalaciones y medios instrumentales que les proporcione el centro, de manera idónea y con arreglo a las normas establecidas al respecto, y a cuantas prestaciones asistenciales prevea la legislación aplicable.</p>
+    <p class="parrafo">g) Cualesquiera otros que se deriven del presente Régimen del Alumnado y demás disposiciones vigentes.</p>
+    <p class="parrafo">Artículo 16. Deberes académicos.</p>
+    <p class="parrafo">Son deberes de los alumnos, inherentes a su condición de tales:</p>
+    <p class="parrafo">a) Seguir las actividades docentes con diligencia y aprovechamiento y aplicarse, de igual modo, a las tareas de investigación que les correspondan.</p>
+    <p class="parrafo">b) Dedicarse a su propia formación y realizar el trabajo intelectual y físico que se espera de ellos.</p>
+    <p class="parrafo">c) Atender las orientaciones de los profesores y tutores respecto de su aprendizaje.</p>
+    <p class="parrafo">d) Participar activamente en las clases teóricas y prácticas, en la instrucción y adiestramiento técnico-profesional y militar, y en las demás actividades orientadas a su formación.</p>
+    <p class="parrafo">e) Tomar parte en las actividades escolares de transmisión, adquisición y comprobación de los saberes, conocimientos, aptitudes y habilidades profesionales, procurando que se realicen de la forma más adecuada y con arreglo a las instrucciones recibidas.</p>
+    <p class="parrafo">f) Cooperar en la formación de sus compañeros, incluso mediante el empleo, en su caso, del ascendiente derivado de su antigüedad o experiencia.</p>
+    <p class="parrafo">g) Asumir, en el ámbito de las actividades complementarias, las responsabilidades que se les atribuyan o se deriven de las situaciones a que se hayan comprometido.</p>
+    <p class="parrafo">h) Cooperar con los responsables, profesores y demás personal del centro, al logro de la mayor calidad y eficacia de la enseñanza.</p>
+    <p class="parrafo">i) Cualesquiera otros que, en relación con su condición de alumnos, se deriven del presente Régimen del Alumnado.</p>
+    <p class="parrafo">CAPÍTULO IV</p>
+    <p class="parrafo">De las infracciones de carácter académico</p>
+    <p class="parrafo">Artículo 17. Definición.</p>
+    <p class="parrafo">Se considerará infracción de carácter académico toda acción u omisión que, dolosa o imprudentemente, quebrante alguno de los deberes de este carácter señalados en el artículo 16 del presente Régimen del Alumnado y no constituya falta de disciplina ni sea, en concreto, objeto de una evaluación o calificación.</p>
+    <p class="parrafo">Artículo 18. Sanciones académicas.</p>
+    <p class="parrafo">1. En ningún caso las infracciones de carácter académico darán lugar a la imposición de alguna de las sanciones previstas en el Régimen Disciplinario.</p>
+    <p class="parrafo">2. Las infracciones de carácter académico se sancionarán con amonestaciones verbales o escritas. Las verbales podrán ser públicas o privadas. Las escritas, acompañadas de su motivación, serán siempre privadas.</p>
+    <p class="parrafo">Artículo 19. Competencia y procedimiento para pronunciar amonestaciones verbales.</p>
+    <p class="parrafo">1. Son competentes para pronunciar amonestaciones verbales los respectivos Directores y Jefes de Estudios de los centros y, en relación con quienes sean sus alumnos, los profesores de tales centros y quienes tengan a su cargo la función de completar la formación de dichos alumnos en unidades, centros u organismos del Ministerio de Defensa, del Ministerio del Interior y del Cuerpo de la Guardia Civil.</p>
+    <p class="parrafo">2. Advertido por alguno de los anteriores un comportamiento infractor con arreglo al artículo 17 del presente Régimen del Alumnado, procederá de inmediato la amonestación verbal y pública de quien lo hubiera observado.</p>
+    <p class="parrafo">3. No obstante lo dispuesto en el apartado anterior, cuando, atendidas la naturaleza de la infracción y las circunstancias en que haya tenido lugar, fuere viable pronunciar la amonestación de manera privada, se realizará de este modo con carácter inmediato o bien con posterioridad que no implique desvinculación con el comportamiento infractor, según el caso.</p>
+    <p class="parrafo">4. El profesorado civil de los centros, sin perjuicio de su facultad de corregir las infracciones académicas que observe en sus alumnos, notificará al Jefe de Estudios, por el conducto establecido, toda conducta impropia que observare en cualquiera de los alumnos del centro.</p>
+    <p class="parrafo">Artículo 20. Competencia para dirigir amonestaciones escritas y casos en que proceden.</p>
+    <p class="parrafo">1. Son competentes para dirigir amonestaciones escritas a los alumnos, los respectivos Directores y Jefes de Estudios de los centros, así como los Jefes de Unidad, Centro u Organismos en que los alumnos estén completando su formación.</p>
+    <p class="parrafo">2. Las amonestaciones escritas se reservarán para casos de gravedad o contumacia en las infracciones académicas, que el Director, Jefe de Estudios o Jefes de Unidad, Centro u Organismos conozcan por sí o a través de comunicación formal que les hagan quienes ostentan competencia para pronunciar las verbales.</p>
+    <p class="parrafo">Artículo 21. Efectos de las amonestaciones.</p>
+    <p class="parrafo">1. Las amonestaciones verbales agotarán sus efectos en la reconvención en que consistan, salvo por lo que concierne a poder fundamentar amonestaciones escritas durante el mismo curso académico en que se hayan producido las orales.</p>
+    <p class="parrafo">2. Las amonestaciones escritas, en cambio, se tomarán en cuenta a la hora de realizar los informes personales de los alumnos con arreglo a lo que establece el apartado 3 del artículo 28 del presente Régimen del Alumnado, siempre y cuando dichos informes estén referidos al mismo curso académico en que se produjeron las amonestaciones escritas.</p>
+    <p class="parrafo">3. Excepto en lo que sea preciso para los efectos establecidos en los dos apartados anteriores, no se realizarán anotaciones ni, por tanto, cancelaciones de las infracciones de carácter académico y de sus sanciones. Las realizadas a tales efectos se cancelarán, en sus respectivos casos, cuando estos efectos se produzcan y, en todo caso, al inicio del siguiente curso académico al que se efectuaron o, si se trata del último, a su conclusión.</p>
+    <p class="parrafo">Artículo 22. Reclamación frente a amonestaciones escritas.</p>
+    <p class="parrafo">1. Los alumnos objeto de amonestación escrita dispondrán de un plazo de tres días hábiles, a contar desde el siguiente al de su recepción, para presentar ante el Director del centro docente o Jefe de Unidad, Centro u Organismo en que realiza sus prácticas o, caso de ser alguno de éstos quien la haya dirigido, para remitir al General Jefe de Enseñanza, escrito de descargo en relación con los hechos y circunstancias que la motivaron, y en solicitud de que no sea tomada en cuenta en el informe personal a que se refiere el apartado 2 del artículo anterior. Al escrito de descargo se unirá copia de aquél mediante el cual se hubiera formulado, motivadamente, la amonestación de que se trata.</p>
+    <p class="parrafo">2. Antes de que dicho informe personal sea emitido, el Director del centro o, en su caso, el General Jefe de Enseñanza decidirá si procede o no acceder a lo solicitado de él y, seguidamente, lo comunicará a los interesados, sin que su resolución pueda ser objeto de ulterior reclamación.</p>
+    <p class="parrafo">CAPÍTULO V</p>
+    <p class="parrafo">Régimen disciplinario</p>
+    <p class="parrafo">Artículo 23. Legislación aplicable.</p>
+    <p class="parrafo">Los alumnos estarán sujetos a lo previsto en la Ley Orgánica 11/1991, de 17 de junio, del Régimen Disciplinario de la Guardia Civil, en los términos que previene en su artículo 2.2, en la Ley 17/1989, de 19 de julio, artículo 57.2, así como a los que se refieren la Ley Orgánica 12/1985, de 27 de noviembre, de Régimen Disciplinario de las Fuerzas Armadas, en su disposición adicional tercera y la Ley Orgánica 13/1991, de 20 de diciembre, del Servicio Militar en el punto 7 de su disposición adicional décima, y con arreglo a los criterios que establece el artículo siguiente.</p>
+    <p class="parrafo">Artículo 24. Criterios para la aplicación de la Ley Orgánica del Régimen Disciplinario de la Guardia Civil a los alumnos.</p>
+    <p class="parrafo">La aplicación de la Ley Orgánica 11/1991, de 17 de junio, del Régimen Disciplinario de la Guardia Civil, a los alumnos de los centros docentes militares de formación del Cuerpo de la Guardia Civil, se realizará de acuerdo con las siguientes reglas:</p>
+    <p class="parrafo">a) Se tomará en cuenta y, en su caso, se adecuará el texto de sus normas a la condición de alumnos de sus destinatarios inmediatos y al desarrollo de sus actividades en centros docentes militares y en otras unidades, centros u organismos donde se encuentren completando su formación.</p>
+    <p class="parrafo">Estas operaciones tomarán particularmente en consideración que no es aplicable la sanción de pérdida de destino y que las demás sanciones disciplinarias se cumplirán en el propio centro y sin perjuicio de la participación del alumno en las actividades académicas, lo que deberá extenderse a las reclusiones y arrestos preventivos.</p>
+    <p class="parrafo">b) En relación con lo establecido en su artículo 19, tiene potestad para imponer sanciones a los alumnos el Director general de la Guardia Civil. Asimismo, y correlativamente a lo dispuesto en los números 2, 3, 4, 5, y 6 del mismo artículo, ostentarán la señalada potestad: el Subdirector general de Personal; el General Jefe de Enseñanza; los Directores de los centros y Jefes de Unidad, Centro u Organismos en que los alumnos estén completando su formación; los Jefes de Estudios de los respectivos centros docentes, y los Jefes de Unidad de Enseñanza o denominación equivalente.</p>
+    <p class="parrafo">En igual sentido, a las Autoridades y Mandos acabados de mencionar en cuanto comprendidos en los puntos 2, 3, 4, 5 y 6 del citado artículo 19, se entenderán también referidos, respectivamente, los artículos 22, 23, 24, 25 y 26 de la propia Ley Orgánica 11/1991, de 17 de junio, del Régimen Disciplinario de la Guardia Civil.</p>
+    <p class="parrafo">El escalonamiento jerárquico a que se refiere su artículo 64 para la tramitación y resolución de recursos, será el señalado en el primer párrafo del presente apartado.</p>
+    <p class="parrafo">c) Sus artículos 10 y 21, se entenderá que comprenden la sanción de baja en el centro docente, prevista expresamente en la disposición adicional tercera de la Ley Orgánica 12/1985, de 27 de noviembre, de Régimen Disciplinario de las Fuerzas Armadas. La potestad de imponer dicha sanción, como resultado de expediente disciplinario que se incoe por falta grave o muy grave, corresponde al Subsecretario de Defensa; para esta imposición será preceptivo el informe del Director del centro correspondiente.</p>
+    <p class="parrafo">d) La sanción de baja en el centro supone la pérdida de la condición de alumno de tal centro y la del empleo militar que hubiere alcanzado con carácter eventual, pasando a la situación del servicio militar que le corresponda. La sanción de baja en el centro docente será recurrible ante el Ministro de Defensa.</p>
+    <p class="parrafo">Cuando la sanción sea la de baja en el centro docente militar, el recurso contencioso-disciplinario militar a que se refiere su artículo 65, se interpondrá ante el Tribunal Militar Central, salvo que la resolución hubiese sido reformada en vía administrativa por el Ministro de Defensa, en cuyo caso se aplicarán las reglas generales de la legislación procesal militar.</p>
+    <p class="parrafo">CAPÍTULO VI</p>
+    <p class="parrafo">Evaluación y clasificaciones</p>
+    <p class="parrafo">Artículo 25. Disposiciones generales.</p>
+    <p class="parrafo">1. Los alumnos se sujetarán a las evaluaciones y calificaciones a que se refiere el artículo 58 de la Ley 17/1989, de 19 de julio, reguladora del Régimen del Personal Militar Profesional, en el marco de la libertad de estudio y con las condiciones establecidas en dicha Ley, en el plan de estudios correspondiente, en el presente Régimen del Alumnado y en las demás disposiciones que las desarrollen y concreten.</p>
+    <p class="parrafo">2. Al objeto de conseguir una adecuada integración del alumno en los procesos de evaluación y de enseñanza y aprendizaje, los centros establecerán un sistema de tutorías, mediante el cual los alumnos sean atendidos por sus profesores y reciban asistencia y orientación, tanto académica como profesional.</p>
+    <p class="parrafo">Artículo 26. Definición de evaluación.</p>
+    <p class="parrafo">La evaluación es una actividad continuada; integrada en el proceso de enseñanza y aprendizaje; realizada, conforme a un modelo preestablecido, durante todo el período lectivo señalado en los respectivos planes de estudios; y destinada a verificar, con objetividad, si se alcanzan las finalidades de la enseñanza de formación y los fines formativos de las materias de enseñanza.</p>
+    <p class="parrafo">Artículo 27. Objetivos de la evaluación.</p>
+    <p class="parrafo">La evaluación que se aplicará en los centros responderá a los objetivos siguientes:</p>
+    <p class="parrafo">a) Verificar la eficacia de la enseñanza y proceder, en sus respectivos casos, a revisarla o a proponer su revisión.</p>
+    <p class="parrafo">b) Conocer en qué medida se alcanzan los objetivos previstos para cada materia y asignatura de los planes de estudios y contrastar su validez.</p>
+    <p class="parrafo">c) Proporcionar información a los profesores sobre los métodos didácticos empleados y su incidencia sobre los alumnos.</p>
+    <p class="parrafo">d) Orientar a los alumnos sobre su rendimiento académico y, en su caso, disponer lo necesario para realizar actividades particularizadas de recuperación.</p>
+    <p class="parrafo">e) Obtener una acertada calificación del rendimiento académico de los alumnos, a través de la comprobación de sus conocimientos y aptitudes y de la apreciación de sus capacidades individuales para participar en el proceso de enseñanza y aprendizaje.</p>
+    <p class="parrafo">f) Determinar, a través de los informes personales que se realicen al finalizar cada curso académico, el grado de cualidades, méritos y aptitudes profesionales y militares que alcanzan los alumnos, así como el de su competencia y forma de actuación profesionales.</p>
+    <p class="parrafo">g) Clasificar a los alumnos, con criterios objetivos, al finalizar cada curso académico o período de formación y, en el último, determinar, además, su orden de ingreso en el escalafón correspondiente.</p>
+    <p class="parrafo">Artículo 28. Proceso de evaluación de los alumnos.</p>
+    <p class="parrafo">La evaluación de los alumnos, en cuanto proceso continuo, integrado por una secuencia armónica de elementos que expresan unidad, relación e interdependencia, se compondrá de:</p>
+    <p class="parrafo">1. Calificaciones durante el curso: sobre respectivas escalas de 0 a 10 puntos, estarán referidas, por una parte, a la comprobación de los conocimientos o aptitudes que adquiere cada alumno respecto de cada asignatura o materia de enseñanza y, por otra, a la medición, también individualizada y conforme a un modelo preestablecido, de la capacidad de los alumnos de participar en el proceso de enseñanza y aprendizaje. Ambas permitirán orientar al alumno sobre el desarrollo de su formación intelectual y sobre su rendimiento escolar.</p>
+    <p class="parrafo">2. Calificación del rendimiento académico: al concluir el período o curso correspondientes, cada alumno será calificado con una nota, producto de tomar en cuenta las calificaciones obtenidas en la comprobación de conocimientos y aptitudes adquiridos respecto de cada asignatura o materia de enseñanza y en la medición de sus capacidades.</p>
+    <p class="parrafo">3. Informe personal sobre el alumno: es la calificación de unos conceptos predeterminados que permitan apreciar, a través de la observación del alumno a lo largo de su proceso de formación, sus cualidades, méritos, aptitudes, competencia y forma de actuación profesionales como futuro miembro del Cuerpo de la Guardia Civil.</p>
+    <p class="parrafo">4. Clasificación final por curso: se obtendrá de la integración ponderada de las calificaciones del rendimiento académico y de los informes personales.</p>
+    <p class="parrafo">5. Finalmente, en el último curso de la carrera, caso de ser aplicable, los alumnos serán clasificados siguiendo el sistema de tipificación de calificaciones descrito en el apartado 2 del artículo 58 de la Ley 17/1989, de 19 de julio.</p>
+    <p class="parrafo">Artículo 29. Especificaciones de los planes de estudios en materia de evaluación.</p>
+    <p class="parrafo">Los planes de estudios, o las resoluciones que los concreten, fijarán los siguientes extremos:</p>
+    <p class="parrafo">a) El número máximo de pruebas, ordinarias y extraordinarias, que se conceden a los alumnos para superar cada asignatura o materia que no lo haya sido mediante la comprobación de conocimientos y aptitudes a que se refiere el apartado 1 del artículo 28 del presente Régimen del Alumnado. Asimismo, indicarán los momentos en que dichas pruebas deben celebrarse.</p>
+    <p class="parrafo">b) Las asignaturas o materias o el número de ellas cuya no superación implique la repetición, por una sola vez, del período o curso en que estén integradas y, en su caso, aquellas que, no habiendo sido superadas ni siquiera mediante las pruebas a que se refiere el apartado anterior, no son repetibles y, por tanto, dan lugar a la baja en el correspondiente centro.</p>
+    <p class="parrafo">c) El número máximo de períodos o cursos en que podrá superarse el plan de estudios, cuando dichos lapsos académicos hayan de repetirse por no superación de asignaturas o materias.</p>
+    <p class="parrafo">Artículo 30. Información a los alumnos en orden a la evaluación.</p>
+    <p class="parrafo">Con objeto de propiciar la adecuada aplicación del sistema de evaluación, se dará a conocer a los alumnos:</p>
+    <p class="parrafo">a) Al comienzo del curso académico, la organización del centro, la programación y horario de las actividades ordinarias y, en la medida de lo posible, de las extraordinarias; los planes y objetivos docentes y de investigación que les afecten; el programa de cada asignatura, con suficiente desarrollo temático e indicación de la adecuada bibliografía; los procedimientos de evaluación, los criterios generales a que se ajustarán las pruebas y el calendario previsto para realizarlas.</p>
+    <p class="parrafo">b) Con la antelación suficiente, los criterios de realización y corrección de cada una de las referidas pruebas y las fechas en que vayan a efectuarse, así como los unos y las otras de cualquier convocatoria de pruebas que les afecten.</p>
+    <p class="parrafo">c) Con anterioridad a incorporarlas a las actas oficiales, y a los alumnos que así lo soliciten, las calificaciones que hayan obtenido. Estas calificaciones se notificarán a los alumnos, individualmente, una vez realizada tal incorporación.</p>
+    <p class="parrafo">Artículo 31. Superación y repetición de las asignaturas o materias de enseñanza.</p>
+    <p class="parrafo">1. Se entenderá que un alumno ha superado una asignatura o materia cuando haya obtenido una calificación, respecto de ella, de 5 o más puntos, sobre la citada escala de puntuación de 0 a 10, como resultado de la comprobación continua de conocimientos y aptitudes a que se refiere el apartado 1 del artículo 28 o, en su defecto, de las pruebas ordinarias y extraordinarias previstas en el correspondiente plan de estudios o resoluciones que lo concreten.</p>
+    <p class="parrafo">2. La no superación de una o más asignaturas o materias implicará su repetición o, en sus respectivos casos, la repetición, por una sola vez, del período o curso en que se integren o la baja en el correspondiente centro docente militar.</p>
+    <p class="parrafo">Artículo 32. Condiciones particulares de las pruebas extraordinarias.</p>
+    <p class="parrafo">Los alumnos podrán optar por realizar ante Tribunal las pruebas correspondientes a la última de las convocatorias establecidas para superar cada asignatura o materia de enseñanza. En dicho acto se podrá practicar bien una prueba oral o bien la lectura de una prueba escrita.</p>
+    <p class="parrafo">En tal caso, los centros constituirán dicho Tribunal, que será nombrado por el Director del centro y estará compuesto por tres profesores de la materia de enseñanza en que se integre la asignatura de que se trate o, caso de no haberlos en este número, de las áreas de conocimiento que guarden mayor afinidad con aquella a que pertenece tal materia.</p>
+    <p class="parrafo">Cuando la personalización de la enseñanza y de la correspondiente prueba de evaluación exigida por una materia no haga viable el anterior procedimiento, el Director del centro designará el profesorado que habrá de realizar esta prueba y determinará la forma en que habrá de efectuarse.</p>
+    <p class="parrafo">Artículo 33. Superación y repetición del curso académico o período de formación.</p>
+    <p class="parrafo">1. Se entenderá que un alumno ha superado un período de formación o un curso académico, cuando haya superado, con arreglo a lo dispuesto en el artículo 31, todas y cada una de las asignaturas y materias que se integren en dicho lapso académico.</p>
+    <p class="parrafo">Sin perjuicio de lo anterior, los alumnos podrán acceder al período o curso siguiente al que no hubieren superado, siempre que satisfagan las exigencias establecidas al respecto por los correspondientes planes de estudios, el presente Régimen del Alumnado y las resoluciones que concreten unos y otro.</p>
+    <p class="parrafo">2. El alumno que repita un período o curso por cualquier causa, pasará a formar parte de la siguiente promoción con la calificación correspondiente bien a su ingreso en el centro o bien al último de esos lapsos académicos que haya superado.</p>
+    <p class="parrafo">Artículo 34. Incidencia de los permisos o licencias en la evaluación.</p>
+    <p class="parrafo">1. El alumno que, por causa de permisos o licencias o padecimiento de enfermedad no acompañada de unos y otras, no pudiera obtener al menos la mitad de los créditos asignados, durante el correspondiente período o curso, a una asignatura o materia, habrá de repetir ésta.</p>
+    <p class="parrafo">Tal repetición no disminuirá el número máximo de pruebas establecidas con arreglo al apartado a) del artículo 29, y podrá suponer, en los términos que dispongan el respectivo plan de estudios o las resoluciones que lo concreten, el aumento, en un período o curso, del número máximo de tales lapsos académicos establecido con arreglo al apartado c) del citado artículo 29.</p>
+    <p class="parrafo">Cuando el permiso, licencia o enfermedad fuere consecuencia de actos del servicio o de situaciones derivadas de él, podrá aumentarse en dos el número máximo de períodos o cursos a que hace referencia el párrafo precedente.</p>
+    <p class="parrafo">2. Cuando el alumno a que se refiere el número anterior, pudiere obtener la mitad o más de los créditos allí indicados, pero, no obstante, a juicio del General Jefe de Enseñanza, previo informe del Director del centro correspondiente, no pudiere satisfacer los requisitos establecidos sobre la comprobación de conocimientos y aptitudes previstas en el apartado 1 del artículo 28 del presente Régimen del Alumnado, dispondrá, para superar las asignaturas o materias afectadas, de las mismas pruebas que se establezcan con arreglo al párrafo a) del artículo 29.</p>
+    <p class="parrafo">Asimismo, el mencionado alumno quedará sujeto a los criterios de repetición de asignaturas o materias y de períodos o cursos recogidos en el presente artículo.</p>
+    <p class="parrafo">3. En el caso de asignaturas de cuatro o menos créditos, el alumno podrá optar por la repetición o la participación en las convocatorias ordinaria y extraordinaria. En este último caso, la Jefatura de Estudios y departamentos correspondientes arbitrarán medidas para la recuperación del suficiente número de créditos que permitan tal participación.</p>
+    <p class="parrafo">CAPÍTULO VII</p>
+    <p class="parrafo">Pérdida de la condición de alumno</p>
+    <p class="parrafo">Artículo 35. Causas.</p>
+    <p class="parrafo">1. Los alumnos perderán su condición de tales al causar baja.</p>
+    <p class="parrafo">2. La baja de los alumnos se podrá producir por alguna de las siguientes causas:</p>
+    <p class="parrafo">a) A petición propia.</p>
+    <p class="parrafo">b) Por pérdida de aptitudes psicofísicas.</p>
+    <p class="parrafo">c) Por no superación de las pruebas correspondientes a las asignaturas y materias que integran los planes de estudios, conforme a las condiciones establecidas.</p>
+    <p class="parrafo">d) Por expediente disciplinario incoado por falta grave o muy grave.</p>
+    <p class="parrafo">Artículo 36. Baja a petición propia.</p>
+    <p class="parrafo">Los alumnos que soliciten causar baja, lo harán mediante instancia dirigida, a través del Director del correspondiente centro docente, al General Jefe de Enseñanza de la Guardia Civil. La concesión de la baja a petición propia estará siempre supeditada a la no existencia de expediente disciplinario y no se concederá en tanto no hayan surtido efecto las eventuales consecuencias de dicho expediente.</p>
+    <p class="parrafo">Artículo 37. Baja por pérdida de aptitudes psicofísicas.</p>
+    <p class="parrafo">1. Los alumnos se someterán a los reconocimientos médicos preceptivos, destinados a la comprobación de las aptitudes psicofísicas que deben mantener durante su período de formación.</p>
+    <p class="parrafo">2. Las aptitudes psicofísicas a mantener por los alumnos durante su período de formación serán las exigidas para su ingreso en el respectivo centro docente y las que, en su caso, determine el correspondiente plan de estudios.</p>
+    <p class="parrafo">3. Los alumnos que, durante su período de formación, perdieran las aptitudes psicofísicas a que se refiere el apartado anterior, serán propuestos por el Director del centro docente para causar baja en éste.</p>
+    <p class="parrafo">4. En caso de pérdida o merma transitorias de las aptitudes psicofísicas a que se refiere el apartado 1 del presente artículo, se estará a lo dispuesto en el artículo 34 del presente Régimen del Alumnado.</p>
+    <p class="parrafo">Artículo 38. Baja por no superación de las pruebas correspondientes a las asignaturas y materias del plan de estudios.</p>
+    <p class="parrafo">Los alumnos que no superen, conforme a lo establecido y en los plazos previstos, las pruebas correspondientes a las asignaturas y materias que integran el respectivo plan de estudios, serán propuestos por el Director del centro docente para causar baja.</p>
+    <p class="parrafo">Artículo 39. Baja por expediente disciplinario.</p>
+    <p class="parrafo">Los alumnos causarán baja en los centros como consecuencia de expediente disciplinario que se les haya incoado, en los casos y de la forma que establecen los artículos 23 y 24 del presente Régimen del Alumnado y la normativa disciplinaria aplicable en dichos centros.</p>
+    <p class="parrafo">Artículo 40. Procedimiento.</p>
+    <p class="parrafo">Sin perjuicio de lo que dispone para el supuesto a que se refiere el artículo anterior la normativa que en él se indica, el procedimiento para resolver la baja de los alumnos será el siguiente:</p>
+    <p class="parrafo">a) Los directores de los centros docentes remitirán al General Jefe de Enseñanza de la Guardia Civil la propuesta inicial de baja, acompañada de los documentos justificativos pertinentes.</p>
+    <p class="parrafo">b) El General Jefe de Enseñanza estimará la procedencia de tramitar la baja y, en su caso, trasladará, a través del Subdirector general de Personal, el expediente al Director general de la Guardia Civil, incluyendo en él, además, las consideraciones u observaciones que estimen pertinentes, especialmente las relativas a la resolución que deba adoptarse.</p>
+    <p class="parrafo">c) El Director general de la Guardia Civil hará propuesta de resolución al Subsecretario de Defensa, quien dictará la resolución definitiva, que se publicará en el «Boletín Oficial del Ministerio de Defensa» cuando recaiga sobre quienes accedan por el sistema de ingreso directo, o en el «Boletín Oficial de la Guardia Civil» cuando lo sea por promoción interna.</p>
+    <p class="parrafo">d) La pérdida de la condición de alumno será definitiva a partir de la fecha de la publicación a que se refiere el párrafo anterior.</p>
+    <p class="parrafo">Artículo 41. Situación de los alumnos que causan baja.</p>
+    <p class="parrafo">La situación de quienes causen baja como alumnos será la siguiente:</p>
+    <p class="parrafo">a) Al causar baja, perderán el empleo militar eventual que hubieran podido alcanzar y pasarán a la situación que les corresponda respecto del servicio militar, salvo que previamente a su ingreso en el centro tuvieran algún empleo militar, en cuyo caso se reincorporarán con éste a su Escala de origen o, en relación con el compromiso contraído, a su condición como militar de empleo.</p>
+    <p class="parrafo">b) Tendrán derecho a las pensiones o indemnizaciones que les pudieran corresponder, de acuerdo con la nueva redacción del artículo 52 del Real Decreto 670/1987, de 30 de abril, por el que se aprueba el texto refundido de la Ley de Clases Pasivas del Estado, dada por la disposición adicional decimocuarta de la Ley 17/1989, de 19 de julio, reguladora del Régimen del Personal Militar Profesional.</p>
+  </texto>
+</documento>

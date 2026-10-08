@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a7" tipo="precepto" titulo="Artículo 7">
+      <version id_norma="BOE-A-2015-11722" fecha_publicacion="20151031" fecha_vigencia="20160131">
+        <p class="articulo">Artículo 7. Competencias de los municipios.</p>
+        <p class="parrafo">Corresponde a los municipios:</p>
+        <p class="parrafo_2">a) La regulación, ordenación, gestión, vigilancia y disciplina, por medio de agentes propios, del tráfico en las vías urbanas de su titularidad, así como la denuncia de las infracciones que se cometan en dichas vías y la sanción de las mismas cuando no esté expresamente atribuida a otra Administración.</p>
+        <p class="parrafo">b) La regulación mediante ordenanza municipal de circulación, de los usos de las vías urbanas, haciendo compatible la equitativa distribución de los aparcamientos entre todos los usuarios con la necesaria fluidez del tráfico rodado y con el uso peatonal de las calles, así como el establecimiento de medidas de estacionamiento limitado, con el fin de garantizar la rotación de los aparcamientos, prestando especial atención a las necesidades de las personas con discapacidad que tienen reducida su movilidad y que utilizan vehículos, todo ello con el fin de favorecer su integración social.</p>
+        <p class="parrafo">c) La inmovilización de los vehículos en vías urbanas cuando no dispongan de título que habilite el estacionamiento en zonas limitadas en tiempo o excedan de la autorización concedida, hasta que se logre la identificación de su conductor.</p>
+        <p class="parrafo">La retirada de los vehículos de las vías urbanas y su posterior depósito cuando obstaculicen, dificulten o supongan un peligro para la circulación, o se encuentren incorrectamente aparcados en las zonas de estacionamiento restringido, en las condiciones previstas para la inmovilización en este mismo artículo. Las bicicletas sólo podrán ser retiradas y llevadas al correspondiente depósito si están abandonadas o si, estando amarradas, dificultan la circulación de vehículos o personas o dañan el mobiliario urbano.</p>
+        <p class="parrafo">Igualmente, la retirada de vehículos en las vías interurbanas y el posterior depósito de éstos, en los términos que reglamentariamente se determine.</p>
+        <p class="parrafo">d) La autorización de pruebas deportivas cuando discurran íntegra y exclusivamente por el casco urbano, exceptuadas las travesías.</p>
+        <p class="parrafo">e) La realización de las pruebas a que alude el artículo 5.o) en las vías urbanas, en los términos que reglamentariamente se determine.</p>
+        <p class="parrafo">f) El cierre de vías urbanas cuando sea necesario.</p>
+        <p class="parrafo">g) La restricción de la circulación a determinados vehículos en vías urbanas por motivos medioambientales.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

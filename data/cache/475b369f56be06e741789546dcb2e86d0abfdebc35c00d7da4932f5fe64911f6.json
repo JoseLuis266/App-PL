@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-12528",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-12528",
+  "sha256": "94f89f51ae65f3559433101c1bd88cac6eee6a24b91071b81e0b50ead07ac2be",
+  "archivo": "data/raw/94f89f51ae65f3559433101c1bd88cac6eee6a24b91071b81e0b50ead07ac2be.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:24.070597+00:00"
+}

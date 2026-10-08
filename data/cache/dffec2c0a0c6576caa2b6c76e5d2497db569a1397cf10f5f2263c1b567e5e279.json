@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.caib.es/eboibfront/cercar?lang=es&publico=N&texto=40%2F2019&fec_ini=25%2F05%2F2019&fec_fin=25%2F05%2F2019",
+  "url_final": "https://www.caib.es/eboibfront/cercar?lang=es&publico=N&texto=40%2F2019&fec_ini=25%2F05%2F2019&fec_fin=25%2F05%2F2019",
+  "sha256": "266e12250ae14b4243d660ad46190e2c0ab9ea7d330a483762eed261fda36fee",
+  "archivo": "data/raw/266e12250ae14b4243d660ad46190e2c0ab9ea7d330a483762eed261fda36fee.html",
+  "content_type": "text/html;charset=UTF-8",
+  "fecha_descarga": "2026-10-08T17:00:05.390418+00:00"
+}

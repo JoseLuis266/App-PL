@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2005-7426",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2005-7426",
+  "sha256": "8a5e01eb636a01ae65d6afee73688d947b038d0abc16ea9fcb47a90cea1754ba",
+  "archivo": "data/raw/8a5e01eb636a01ae65d6afee73688d947b038d0abc16ea9fcb47a90cea1754ba.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:17.538008+00:00"
+}

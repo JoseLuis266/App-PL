@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2022-16279",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2022-16279",
+  "sha256": "6e6874f4bc8732deec412b9ba264fdc5880d01f1cf157b63b290829226bf2f09",
+  "archivo": "data/raw/6e6874f4bc8732deec412b9ba264fdc5880d01f1cf157b63b290829226bf2f09.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:29.239084+00:00"
+}

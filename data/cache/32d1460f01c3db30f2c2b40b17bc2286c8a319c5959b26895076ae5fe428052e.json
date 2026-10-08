@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-17574",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-17574",
+  "sha256": "4c9425afc3e961e03b6576d6ba4f41ebf96700306e51c053ee1583d0e36a97a9",
+  "archivo": "data/raw/4c9425afc3e961e03b6576d6ba4f41ebf96700306e51c053ee1583d0e36a97a9.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:39.581248+00:00"
+}

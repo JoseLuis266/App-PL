@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/metadatos",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/metadatos",
+  "sha256": "e9b835eb7e24a25af3aaf5b87da3770a36171d075e18b2faa7c96403b7c01a11",
+  "archivo": "data/raw/e9b835eb7e24a25af3aaf5b87da3770a36171d075e18b2faa7c96403b7c01a11.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:30:57.768790+00:00"
+}

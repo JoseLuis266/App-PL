@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-6310/texto/indice",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-6310/texto/indice",
+  "sha256": "550886d0b2e36ebe693f7b78b1e1f5d519487e88592c31577f74d554d70f6a4b",
+  "archivo": "data/raw/550886d0b2e36ebe693f7b78b1e1f5d519487e88592c31577f74d554d70f6a4b.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:31:51.500257+00:00"
+}

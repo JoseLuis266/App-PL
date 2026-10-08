@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-18823",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-18823",
+  "sha256": "d2e8e38fbfca509269b11bc37d3c875a91edec237ad76c827ca9c1d3894ad327",
+  "archivo": "data/raw/d2e8e38fbfca509269b11bc37d3c875a91edec237ad76c827ca9c1d3894ad327.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:32.625585+00:00"
+}

@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1984-6260",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1984-6260",
+  "sha256": "da7247f069a47c08758e9d853dd9505a27b6164a946929fa03f4251e843ab7b9",
+  "archivo": "data/raw/da7247f069a47c08758e9d853dd9505a27b6164a946929fa03f4251e843ab7b9.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:20:32.001095+00:00"
+}

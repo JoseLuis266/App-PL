@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-10260",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-10260",
+  "sha256": "b762046d5c6cafcd7d9c96ff2258dcc3a77ae0df6d1cccbd51b3dd98c57f4638",
+  "archivo": "data/raw/b762046d5c6cafcd7d9c96ff2258dcc3a77ae0df6d1cccbd51b3dd98c57f4638.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:17.217296+00:00"
+}

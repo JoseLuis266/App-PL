@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-19813",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-19813",
+  "sha256": "86593751e1bb0b420f4aa9616331a0f09db54035c1e255d09956e83312a72a8d",
+  "archivo": "data/raw/86593751e1bb0b420f4aa9616331a0f09db54035c1e255d09956e83312a72a8d.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:55.610062+00:00"
+}

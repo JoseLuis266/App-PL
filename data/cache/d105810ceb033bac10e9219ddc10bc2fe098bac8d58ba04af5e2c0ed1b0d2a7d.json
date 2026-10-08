@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-9129/analisis",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-9129/analisis",
+  "sha256": "29791e2ce8bfa469f7ad89e68c82d8b2fd4cac51a6f1c99d8817a022d85c0c94",
+  "archivo": "data/raw/29791e2ce8bfa469f7ad89e68c82d8b2fd4cac51a6f1c99d8817a022d85c0c94.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:31:17.545478+00:00"
+}

@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a16",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a16",
+  "sha256": "b8466e0c59d7b86356859a48bdda6978cfc568f3a1124bd2f1dbe61cd4ce4e48",
+  "archivo": "data/raw/b8466e0c59d7b86356859a48bdda6978cfc568f3a1124bd2f1dbe61cd4ce4e48.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T18:10:02.650949+00:00"
+}

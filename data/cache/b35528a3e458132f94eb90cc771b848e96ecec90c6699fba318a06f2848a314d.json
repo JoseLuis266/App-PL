@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1997-20259",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1997-20259",
+  "sha256": "a58a14d30055d95f4602fe18efa4ccba25b052dda287322c1ac53f521d20a1ee",
+  "archivo": "data/raw/a58a14d30055d95f4602fe18efa4ccba25b052dda287322c1ac53f521d20a1ee.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:07.085482+00:00"
+}

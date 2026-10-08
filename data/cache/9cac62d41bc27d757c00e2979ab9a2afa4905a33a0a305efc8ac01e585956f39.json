@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-12530",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-12530",
+  "sha256": "04bf2df70e6e30933119ca985c9425708f6655ff2dfd61395808461a2da1abec",
+  "archivo": "data/raw/04bf2df70e6e30933119ca985c9425708f6655ff2dfd61395808461a2da1abec.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:26.061685+00:00"
+}

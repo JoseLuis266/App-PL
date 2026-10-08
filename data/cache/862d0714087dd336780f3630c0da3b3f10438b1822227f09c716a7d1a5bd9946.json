@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/analisis",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/analisis",
+  "sha256": "beebde3055bf9515e79e7966df2fe011f7d67aea38630b6652cf3b6dace37023",
+  "archivo": "data/raw/beebde3055bf9515e79e7966df2fe011f7d67aea38630b6652cf3b6dace37023.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:31:23.960805+00:00"
+}

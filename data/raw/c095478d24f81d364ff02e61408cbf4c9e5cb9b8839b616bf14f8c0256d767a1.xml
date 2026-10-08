@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a3-4" tipo="precepto" titulo="Artículo 32">
+      <version id_norma="BOE-A-2016-7994" fecha_publicacion="20160804" fecha_vigencia="20160805">
+        <p class="articulo">Artículo 32. Participación en el ámbito cultural.</p>
+        <p class="parrafo">1. Las administraciones públicas de las Illes Balears promoverán la igualdad de oportunidades en la participación de las mujeres y los hombres en las actividades culturales y lúdicas que tengan lugar en la comunidad autónoma.</p>
+        <p class="parrafo">2. Las administraciones públicas de las Illes Balears facilitarán el acceso de las mujeres a la cultura, divulgarán sus aportaciones en todas las manifestaciones culturales e incentivarán producciones artísticas y culturales que fomenten los valores de igualdad entre mujeres y hombres, especialmente en las disciplinas artísticas en las que la presencia de las mujeres sea minoritaria. Asimismo, deberán velar para que en las manifestaciones artísticas no se reproduzcan estereotipos y valores sexistas, y favorecerán la creación y la divulgación de obras que presenten innovaciones formales favorables a la superación del androcentrismo y el sexismo.</p>
+        <p class="parrafo">3. Las administraciones públicas impulsarán la recuperación de la memoria histórica de las mujeres y promoverán políticas culturales que hagan visibles sus aportaciones al patrimonio y a la cultura de las Illes Balears, así como a su diversidad. Asimismo, potenciarán la presencia de mujeres creadoras en todas las exhibiciones locales, insulares y autonómicas.</p>
+        <p class="parrafo">4. Las administraciones públicas promoverán y garantizarán la igualdad de oportunidades entre mujeres y hombres en la participación en las fiestas tradicionales y en la cultura popular, corrigiendo estereotipos sexistas.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

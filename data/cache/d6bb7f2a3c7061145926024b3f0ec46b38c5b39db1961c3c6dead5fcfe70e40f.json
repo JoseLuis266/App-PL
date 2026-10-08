@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-23514/texto/bloque/a131",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-23514/texto/bloque/a131",
+  "sha256": "8bf7980bbbb52b877f2c847dd58f780b50beff28be1ffab9c5ce68efe49b53a1",
+  "archivo": "data/raw/8bf7980bbbb52b877f2c847dd58f780b50beff28be1ffab9c5ce68efe49b53a1.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:05:38.907295+00:00"
+}

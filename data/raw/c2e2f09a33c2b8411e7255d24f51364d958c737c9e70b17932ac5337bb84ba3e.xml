@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20260420125601">
+  <metadatos>
+    <identificador>BOE-A-1988-12909</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7723">Jefatura del Estado</departamento>
+    <rango codigo="1290">Ley Orgánica</rango>
+    <fecha_disposicion>19880525</fecha_disposicion>
+    <numero_oficial>4/1988</numero_oficial>
+    <titulo>Ley Orgánica 4/1988, de 25 de mayo, de Reforma de la Ley de Enjuiciamiento Criminal.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>19880526</fecha_publicacion>
+    <diario_numero>126</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>16159</pagina_inicial>
+    <pagina_final>16160</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/1988/05/26/pdfs/A16159-16160.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan>/boe_catalan/dias/1988/12/31/pdfs/A00055-00055.pdf</url_pdf_catalan>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia>19880615</fecha_vigencia>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="3">Finalizado</estado_consolidacion>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/lo/1988/05/25/4</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/lo/1988/05/25/4">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/lo"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1988-12909</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-05-25</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</eli:number>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/382"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1742"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/2340"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/2493"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3199"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5677"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5698"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6860"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6861"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6875"/>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/lo/1988/05/25/4/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/lo"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1988-12909</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-05-25</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</eli:number>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/382"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1742"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/2340"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/2493"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3199"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5677"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5698"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6860"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6861"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6875"/>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/lo/1988/05/25/4"/>
+            <eli:consolidated_by rdf:resource="https://www.boe.es/eli/es/lo/1988/05/25/4/con/19940324"/>
+            <eli:consolidated_by rdf:resource="https://www.boe.es/eli/es/lo/1988/05/25/4/con/19880526"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/lo/1988/05/25/4/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ley Orgánica 4/1988, de 25 de mayo, de Reforma de la Ley de Enjuiciamiento Criminal.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-05-26</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/lo/1988/05/25/4/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/lo/1988/05/25/4/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/lo/1988/05/25/4/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/lo/1988/05/25/4/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/lo/1988/05/25/4/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/lo/1988/05/25/4/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/lo/1988/05/25/4/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/lo/1988/05/25/4/dof/cat">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/cat"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Llei orgànica 4/1988, de 25 de maig, de reforma de la Llei d'enjudiciament criminal. («BOE» 108, de 26-5-1988.)</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-12-31</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/lo/1988/05/25/4/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/lo/1988/05/25/4/dof/cat/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/lo/1988/05/25/4/dof/cat"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/lo/1988/05/25/4/con/19940324">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/lo"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1988-12909</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-05-25</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</eli:number>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/382"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1742"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/2340"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/2493"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3199"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5677"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5698"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6860"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6861"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6875"/>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/con"/>
+            <eli:version_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1994-03-24</eli:version_date>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/lo/1988/05/25/4"/>
+            <eli:consolidates rdf:resource="https://www.boe.es/eli/es/lo/1988/05/25/4/dof"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/lo/1988/05/25/4/con/19940324/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ley Orgánica 4/1988, de 25 de mayo, de Reforma de la Ley de Enjuiciamiento Criminal.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/lo/1988/05/25/4/con/19940324"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/lo/1988/05/25/4/con/19940324/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/lo/1988/05/25/4/con/19940324/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/lo/1988/05/25/4/con/19880526">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/lo"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1988-12909</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-05-25</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</eli:number>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/382"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1742"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/2340"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/2493"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3199"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5677"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5698"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6860"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6861"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6875"/>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/con"/>
+            <eli:version_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-05-26</eli:version_date>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/lo/1988/05/25/4"/>
+            <eli:consolidates rdf:resource="https://www.boe.es/eli/es/lo/1988/05/25/4/dof"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/lo/1988/05/25/4/con/19880526/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ley Orgánica 4/1988, de 25 de mayo, de Reforma de la Ley de Enjuiciamiento Criminal.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/lo/1988/05/25/4/con/19880526"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/lo/1988/05/25/4/con/19880526/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/lo/1988/05/25/4/con/19880526/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="382" orden="1">Audiencia Nacional</materia>
+      <materia codigo="1742" orden="2">Correos y Telecomunicaciones</materia>
+      <materia codigo="2340" orden="3">Delitos cometidos por grupos o bandas armados</materia>
+      <materia codigo="2493" orden="4">Detención</materia>
+      <materia codigo="3199" orden="5">Enjuiciamiento Criminal</materia>
+      <materia codigo="5677" orden="6">Presos y penados</materia>
+      <materia codigo="5698" orden="7">Prisión provisional</materia>
+      <materia codigo="6860" orden="8">Teléfonos</materia>
+      <materia codigo="6861" orden="9">Telégrafos</materia>
+      <materia codigo="6875" orden="10">Terrorismo</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1882-6036" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>el art. 579 y añade los arts. 384 bis, 504 bis, 520 bis, 553 y 779, a la Ley de Enjuiciamiento Criminal aprobada por Real Decreto de 14 de septiembre de 1882 (Gazeta)</texto>
+        </anterior>
+      </anteriores>
+      <posteriores>
+        <posterior referencia="BOE-T-1994-6778" orden="">
+          <palabra codigo="470">SE DECLARA</palabra>
+          <texto>en el Recurso 1492/1988,  inconstitucional y nulo el art. 504 bis de la Ley de Enjuiciamiento Criminal aprobada por Real Decreto de 14 de septiembre de 1882 (Gazeta),  en la redacción dada por el art. 1, por Sentencia 71/1994, de 3 de marzo</texto>
+        </posterior>
+      </posteriores>
+    </referencias>
+    <alertas>
+      <alerta codigo="113" orden="1">Derecho Penal</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="centro_redonda">JUAN CARLOS I,</p>
+    <p class="centro_redonda">REY DE ESPAÑA</p>
+    <p class="parrafo_2">A todos los que la presente vieren y entendieren.</p>
+    <p class="parrafo">Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica:</p>
+    <p class="articulo">Artículo primero.</p>
+    <p class="parrafo">Se introducen en la Ley de Enjuiciamiento Criminal los siguientes preceptos:</p>
+    <p class="sangrado_articulo">Artículo 384 bis.</p>
+    <p class="sangrado">Firme un auto de procesamiento y decretada la prisión provisional por delito cometido por persona integrada o relacionada con bandas armadas o individuos terroristas o rebeldes, el procesado que estuviere ostentando función o cargo público quedará automáticamente suspendido en el ejercicio del mismo mientras dure la situación de prisión.</p>
+    <p class="sangrado_articulo">Artículo 504 bis.</p>
+    <p class="sangrado">Cuando, en virtud de lo dispuesto en los dos artículos anteriores, se hubiere acordado la libertad de presos o detenidos por los delitos a que se refiere el artículo 384 bis. la excarcelación se suspenderá por un periodo máximo de un mes, en tanto la resolución no sea firme, cuando el recurrente fuese el Ministerio Fiscal. Dicha suspensión no se aplicará cuando se hayan agotado en su totalidad los plazos previstos en el artículo 504, y las correspondientes prórrogas, en su caso, para la duración de la situación de prisión provisional.</p>
+    <p class="sangrado_articulo">Artículo 520 bis.</p>
+    <p class="sangrado">1. Toda persona detenida como presunto partícipe de alguno de los delitos a que se refiere el artículo 384 bis será puesta a disposición del Juez competente dentro de las setenta y dos horas siguientes a la detención. No obstante, podrá prolongarse la detención el tiempo necesario para los fines investigadores, hasta un límite máximo de otras cuarenta y ocho horas, siempre que, solicitada tal prórroga mediante comunicación motivada dentro de las primeras cuarenta y ocho horas desde la detención, sea autorizada por el Juez en las veinticuatro horas siguientes. Tanto la autorización cuanto la denegación de la prórroga se adoptarán en resolución motivada.</p>
+    <p class="sangrado">2. Detenida una persona por los motivos expresados en el número anterior, podrá solicitarse del Juez que decrete su incomunicación, el cual deberá pronunciarse sobre la misma, en resolución motivada, en el plazo de veinticuatro horas. Solicitada la incomunicación, el detenido quedará en todo caso incomunicado sin perjuicio del derecho de defensa que le asiste y de lo establecido en los artículos 520 y 527, hasta que el Juez hubiere dictado la resolución pertinente.</p>
+    <p class="sangrado">3. Durante la detención, el Juez podrá en todo momento requerir información y conocer, personalmente o mediante delegación en el Juez de Instrucción del partido o demarcación donde se encuentre el detenido, la situación de éste.</p>
+    <p class="sangrado_articulo">Artículo 553.</p>
+    <p class="sangrado">Los Agentes de policía podrán, asimismo, proceder de propia autoridad a la inmediata detención de las personas cuando haya mandamiento de prisión contra ellas, cuando sean sorprendidas en flagrante delito, cuando un delincuente, inmediatamente perseguido por los Agentes de la autoridad, se oculte o refugie en alguna casa o, en casos de excepcional o urgente necesidad, cuando se trate de presuntos responsables de las acciones a que se refiere el artículo 384 bis, cualquiera que fuese el lugar o domicilio donde se ocultasen o refugiasen, así como al registro que, con ocasión de aquella, se efectúe en dichos lugares y a la ocupación de los efectos e instrumentos que en ellos se hallasen y que pudieran guardar relación con el delito perseguido.</p>
+    <p class="sangrado">Del registro efectuado, conforme a lo establecido en el párrafo anterior, se dará cuenta inmediata al Juez competente, con indicación de las causas que lo motivaron y de los resultados obtenidos en el mismo, con especial referencia a las detenciones que, en su caso, se hubieran practicado. Asimismo, se indicarán las personas que hayan intervenido y los incidentes ocurridos.</p>
+    <p class="sangrado_articulo">Artículo 779.</p>
+    <p class="sangrado">Se añade un párrafo tercero del siguiente tenor:</p>
+    <p class="sangrado_2">Tercero. Los delitos a que se refiere el artículo 384 bis.</p>
+    <p class="articulo">Artículo segundo.</p>
+    <p class="parrafo">El artículo 579 de la Ley de Enjuiciamiento Criminal quedará redactado en los términos que a continuación se expresan:</p>
+    <p class="sangrado_articulo">Artículo 579.</p>
+    <p class="sangrado">1. Podrá el Juez acordar la detención de la correspondencia privada, postal y telegráfica que el procesado remitiere o recibiere y su apertura y examen, si hubiere indicios de obtener por estos medios el descubrimiento o la comprobación de algún hecho o circunstancia importante de la causa.</p>
+    <p class="sangrado">2. Asimismo, el Juez podrá acordar, en resolución motivada, la intervención de las comunicaciones telefónicas del procesado, si hubiere indicios de obtener por estos medios el descubrimiento o la comprobación de algún hecho o circunstancia importante de la causa.</p>
+    <p class="sangrado">3. De igual forma, el Juez podrá acordar, en resolución motivada, por un plazo de hasta tres meses, prorrogable por iguales períodos, la observación de las comunicaciones postales, telegráficas o telefónicas de las personas sobre las que existan indicios de responsabilidad criminal, así como de las comunicaciones de las que se sirvan para la realización de sus fines delictivos.</p>
+    <p class="sangrado">4. En caso de urgencia, cuando las investigaciones se realicen para la averiguación de delitos relacionados con la actuación de bandas armadas o elementos terroristas o rebeldes, la medida prevista en el número 3 de este artículo podrá ordenarla el Ministro del Interior o en su defecto, el Director de la Seguridad del Estado, comunicándolo inmediatamente por escrito motivado al Juez competente, quien, también de forma motivada, revocará o confirmará tal resolución en un plazo máximo de setenta y dos horas desde que fue ordenada la observación.</p>
+    <p class="capitulo">DISPOSICION ADICIONAL</p>
+    <p class="parrafo_2">Las referencias a la norma de desarrollo del artículo 55.2 de la Constitución se entenderán hechas a esta Ley Orgánica.</p>
+    <p class="capitulo">DISPOSICION TRANSITORIA</p>
+    <p class="parrafo_2">Los Juzgados Centrales de Instrucción y la Audiencia Nacional continuarán conociendo de la instrucción y enjuiciamiento de las causas por delitos cometidos por personas integradas en bandas armadas o relacionadas con elementos terroristas o rebeldes cuando la comisión del delito contribuya a su actividad, y por quienes de cualquier modo cooperen o colaboren con la actuación de aquellos grupos o individuos. Conocerán también de los delitos conexos con los anteriores.</p>
+    <p class="parrafo">La legislación que pueda modificar esta atribución de competencias se inspirará en el principio de inmediación judicial.</p>
+    <p class="parrafo_2">Por tanto,</p>
+    <p class="parrafo">Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley Orgánica.</p>
+    <p class="parrafo_2">Palacio de la Zarzuela, Madrid, a 25 de mayo de 1988.</p>
+    <p class="firma_rey">JUAN CARLOS R.</p>
+    <p class="firma_ministro">El Presidente del Gobierno,</p>
+    <p class="firma_ministro">FELIPE GONZÁLEZ MÁRQUEZ</p>
+  </texto>
+</documento>

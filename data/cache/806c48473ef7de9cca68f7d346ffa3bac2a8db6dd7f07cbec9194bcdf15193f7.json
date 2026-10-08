@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-14027",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-14027",
+  "sha256": "24d35b13ccc4faf816df859a024543cdb9dd68b2fb1bf64d576d1738e2dd13f6",
+  "archivo": "data/raw/24d35b13ccc4faf816df859a024543cdb9dd68b2fb1bf64d576d1738e2dd13f6.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:24:03.150424+00:00"
+}

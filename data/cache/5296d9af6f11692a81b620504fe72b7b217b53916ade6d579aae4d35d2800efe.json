@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-3518",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-3518",
+  "sha256": "c66e2c52b9a02c21b6a7133f3a384751f3204192569ff80be716bc0ed67d016c",
+  "archivo": "data/raw/c66e2c52b9a02c21b6a7133f3a384751f3204192569ff80be716bc0ed67d016c.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:09.471483+00:00"
+}

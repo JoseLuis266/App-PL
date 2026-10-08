@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-11722/texto/bloque/a1",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-11722/texto/bloque/a1",
+  "sha256": "e0869eb00e0f1494a928781e560d9eb3df249f8f9db54be28c596816f2bf56d5",
+  "archivo": "data/raw/e0869eb00e0f1494a928781e560d9eb3df249f8f9db54be28c596816f2bf56d5.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T18:10:17.349687+00:00"
+}

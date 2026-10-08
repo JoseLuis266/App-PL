@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.caib.es/eboibfront/cercar?lang=es&publico=N&texto=temarios&fec_ini=01%2F10%2F2022&fec_fin=01%2F10%2F2022",
+  "url_final": "https://www.caib.es/eboibfront/cercar?lang=es&publico=N&texto=temarios&fec_ini=01%2F10%2F2022&fec_fin=01%2F10%2F2022",
+  "sha256": "e4e4d63aed15ac3e516c5a867c01db9f5b025a27c43ea87c0394c686ed5ca7f4",
+  "archivo": "data/raw/e4e4d63aed15ac3e516c5a867c01db9f5b025a27c43ea87c0394c686ed5ca7f4.html",
+  "content_type": "text/html;charset=UTF-8",
+  "fecha_descarga": "2026-10-08T17:24:59.287942+00:00"
+}

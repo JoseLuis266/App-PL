@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1987-13599",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1987-13599",
+  "sha256": "15c17a6e43cec52abddf15a33dde38fcf58f8027c4a25ef8632035c0267592a3",
+  "archivo": "data/raw/15c17a6e43cec52abddf15a33dde38fcf58f8027c4a25ef8632035c0267592a3.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:42.056102+00:00"
+}

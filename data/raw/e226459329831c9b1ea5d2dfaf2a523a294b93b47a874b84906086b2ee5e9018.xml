@@ -1,0 +1,1514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20251220162601">
+  <metadatos>
+    <identificador>BOE-A-2022-987</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7320">Ministerio del Interior</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <fecha_disposicion>20220112</fecha_disposicion>
+    <numero_oficial/>
+    <titulo>Resolución de 12 de enero de 2022, de la Dirección General de Tráfico, por la que se aprueba el Manual de características de los vehículos de movilidad personal.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>20220121</fecha_publicacion>
+    <diario_numero>18</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <pagina_inicial>6882</pagina_inicial>
+    <pagina_final>6915</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/2022/01/21/pdfs/BOE-A-2022-987.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia>20220122</fecha_vigencia>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/res/2022/01/12/(3)</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2022/01/12/(3)">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2022-987</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-01-12</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(3)</eli:number>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/388"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/817"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3188"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4020"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5159"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6020"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6927"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/7116"/>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2022/01/12/(3)/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2022-987</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-01-12</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(3)</eli:number>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/388"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/817"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3188"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4020"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5159"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6020"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6927"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/7116"/>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/res/2022/01/12/(3)"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/res/2022/01/12/(3)/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resolución de 12 de enero de 2022, de la Dirección General de Tráfico, por la que se aprueba el Manual de características de los vehículos de movilidad personal.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-01-21</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/res/2022/01/12/(3)/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2022/01/12/(3)/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2022/01/12/(3)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2022/01/12/(3)/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2022/01/12/(3)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2022/01/12/(3)/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2022/01/12/(3)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="817" orden="">Certificaciones</materia>
+      <materia codigo="388" orden="">Componentes de vehículos</materia>
+      <materia codigo="3188" orden="">Energía eléctrica</materia>
+      <materia codigo="4020" orden="">Homologación</materia>
+      <materia codigo="5159" orden="">Normalización</materia>
+      <materia codigo="6020" orden="">Reglamentaciones técnicas</materia>
+      <materia codigo="6927" orden="">Transporte de mercancías</materia>
+      <materia codigo="7116" orden="">Vehículos de motor</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2003-23514" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>Reglamento General de Circulación, aprobado por Real Decreto 1428/2003, de 21 de noviembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1999-1826" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el Reglamento General de Vehículos, aprobado por Real Decreto 2822/1998, de 23 de diciembre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas>
+      <alerta codigo="118" orden="">Industria</alerta>
+      <alerta codigo="129" orden="">Tecnología e investigación</alerta>
+      <alerta codigo="132" orden="">Transportes y tráfico</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="parrafo">El Real Decreto 970/2020, de 10 de noviembre, por el que se modifican el Reglamento General de Circulación, aprobado por Real Decreto 1428/2003, de 21 de noviembre y el Reglamento General de Vehículos, aprobado por Real Decreto 2822/1998, de 23 de diciembre, en materia de medidas urbanas de tráfico, ha dotado a los vehículos de movilidad personal de un marco jurídico específico.</p>
+    <p class="parrafo">Esta nueva regulación establece que los vehículos de movilidad personal requerirán para poder circular el certificado de circulación que garantice el cumplimiento de los requisitos técnicos exigibles por la normativa nacional e internacional recogidos en su manual de características, así como su identificación.</p>
+    <p class="parrafo">Asimismo, define el manual de características de los vehículos de movilidad personal como el documento elaborado por el organismo autónomo Jefatura Central de Tráfico y aprobado mediante resolución de su titular, en el que se establecerán los requisitos técnicos que los vehículos de movilidad personal deben cumplir para su puesta en circulación, la clasificación de los mismos, los procesos de ensayo para su certificación y los mecanismos que se emplearán para su fácil identificación. El manual se publicará en el «Boletín Oficial del Estado» y en la página web de la Dirección General de Tráfico. Además, el manual se actualizará cuando se modifiquen los criterios reglamentarios en materia de vehículos o cuando la aparición de nuevas formas de movilidad lo requiera.</p>
+    <p class="parrafo">En consecuencia, es preciso desarrollar lo dispuesto en la normativa citada para completar la regulación sobre requisitos técnicos de este tipo de vehículos, lo que se lleva a cabo a través de la presente resolución por la que se aprueba el manual de características de los vehículos de movilidad personal.</p>
+    <p class="parrafo">Esta resolución ha sido informada por el Consejo Superior de Tráfico, Seguridad Vial y Movilidad Sostenible, de conformidad con lo dispuesto en el artículo 8.2 d) del texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, aprobado por Real Decreto Legislativo 6/2015, de 30 de octubre.</p>
+    <p class="parrafo">En su virtud, el Director General de Tráfico resuelve lo siguiente:</p>
+    <p class="articulo">Primero. Aprobación y publicación del Manual.</p>
+    <p class="parrafo">1. Aprobar el Manual de características de los vehículos de movilidad personal, que se incluye como anexo.</p>
+    <p class="parrafo">2. Ordenar su publicación en el «Boletín Oficial del Estado» y en la página web de la Dirección General de Tráfico (www.dgt.es).</p>
+    <p class="articulo">Segundo. Entrada en vigor.</p>
+    <p class="parrafo">La presente resolución entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo_2">Madrid, 12 de enero de 2022.–El Director General de Tráfico, Pere Navarro Olivella.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Manual de características de los vehículos de movilidad personal</p>
+    <p class="centro_cursiva">Tabla de contenido</p>
+    <p class="parrafo_2">Sección 1. Definición de Vehículo de movilidad personal (VMP).</p>
+    <p class="parrafo">Sección 2. VMP para transporte personal.</p>
+    <p class="parrafo">Sección 3. VMP para transporte de mercancías u otros servicios.</p>
+    <p class="parrafo">Sección 4. Exclusiones como Vehículos de movilidad personal (VMP).</p>
+    <p class="parrafo">Sección 5. Requisitos técnicos a cumplir por los VMP.</p>
+    <p class="parrafo">Sección 6. Altura del sillín.</p>
+    <p class="parrafo">Sección 7. Altura del manillar.</p>
+    <p class="parrafo">Sección 8. Control de velocidad máxima.</p>
+    <p class="parrafo">Sección 9. Sistemas de frenado.6</p>
+    <p class="parrafo">Sección 10. Sistema de estabilización en aparcamiento.</p>
+    <p class="parrafo">Sección 11. Ruedas.</p>
+    <p class="parrafo">Sección 12. Dispositivos de iluminación y retro reflectantes.</p>
+    <p class="parrafo">Sección 13. Indicadores de dirección.</p>
+    <p class="parrafo">Sección 14. Dispositivos sonoros.</p>
+    <p class="parrafo">Sección 15. Integridad estructural.</p>
+    <p class="parrafo">Sección 16. Requisitos eléctricos:</p>
+    <p class="parrafo_2">1. Resistencia mecánica.</p>
+    <p class="parrafo">2. Cables y conexiones eléctricas.</p>
+    <p class="parrafo">3. Resistencia a la humedad.</p>
+    <p class="parrafo_2">Sección 17. Control de potencia y apagado.</p>
+    <p class="parrafo">Sección 18. Indicadores de información.</p>
+    <p class="parrafo">Sección 19. Compatibilidad electromagnética.</p>
+    <p class="parrafo">Sección 20. Anti-manipulación.</p>
+    <p class="parrafo">Sección 21. Protección de la batería.</p>
+    <p class="parrafo">Sección 22. Sistema de cierre combinado.</p>
+    <p class="parrafo">Sección 23. Salientes exteriores.</p>
+    <p class="parrafo">Sección 24. Superficies calientes.</p>
+    <p class="parrafo">Sección 25. Reposapiés.</p>
+    <p class="parrafo">Sección 26. Información del producto y marcajes.</p>
+    <p class="parrafo">Sección 27. Porta-identificador.</p>
+    <p class="parrafo">Sección 28. Requisitos de carga para VMP para transporte de mercancías u otros servicios.</p>
+    <p class="parrafo">Sección 29. Retrovisores.</p>
+    <p class="parrafo">Sección 30. Asistente de marcha atrás.</p>
+    <p class="parrafo">Sección 31. Proceso de certificación de VMP:</p>
+    <p class="parrafo_2">1. Alta de fabricantes/representantes autorizados en el registro de la DGT.</p>
+    <p class="parrafo">2. Solicitud y pruebas.</p>
+    <p class="parrafo">3. Actualización de vehículos previamente certificados.</p>
+    <p class="parrafo">4. Proceso de certificación extraordinario de un VMP.</p>
+    <p class="parrafo_2">Sección 32. Proceso de designación de laboratorio:</p>
+    <p class="parrafo_2">1. Requisitos.</p>
+    <p class="parrafo">2. Presentación de las solicitudes.</p>
+    <p class="parrafo">3. Resolución de la autorización.</p>
+    <p class="parrafo_2">Sección 33. Régimen transitorio.</p>
+    <p class="parrafo_2">Apéndice 1. Descripción de los Ensayos para la Certificación VMP:</p>
+    <p class="parrafo_2">1. Ensayos de velocidad máxima.</p>
+    <p class="parrafo">2. Ensayos de frenado.</p>
+    <p class="parrafo">3. Ensayos de integridad estructural.</p>
+    <p class="parrafo">4. Ensayos de comportamiento dinámico.</p>
+    <p class="parrafo">5. Ensayos de estabilidad de vuelco para VMP de transporte de mercancías u otros servicios.</p>
+    <p class="parrafo">6. Ensayos sobre los requisitos eléctricos.</p>
+    <p class="parrafo">7. Ensayos de apagado eléctrico.</p>
+    <p class="parrafo">8. Ensayos de compatibilidad electromagnética.</p>
+    <p class="parrafo">9. Ensayos de cierre combinado.</p>
+    <p class="parrafo">10. Ensayos de superficies calientes.</p>
+    <p class="parrafo">11. Ensayos de marcajes.</p>
+    <p class="parrafo_2">Apéndice 2. Declaración responsable de cumplimiento de requisitos y realización de ensayos por el fabricante/representante autorizado – VMP para trasporte personal.</p>
+    <p class="parrafo">Apéndice 3. Declaración responsable de cumplimiento de requisitos y realización de ensayos por el fabricante/representante autorizado – VMP para transporte de mercancías u otros servicios.</p>
+    <p class="parrafo">Apéndice 4. Declaración responsable anti-manipulación.</p>
+    <p class="parrafo">Apéndice 5. Ficha reducida VMP.</p>
+    <p class="parrafo">Apéndice 6. Modelo de Certificado de VMP.</p>
+    <p class="parrafo">Apéndice 7. Cuadro de aplicabilidad de requisitos.</p>
+    <p class="seccion">Sección 1. Definición de Vehículo de movilidad personal (VMP)</p>
+    <p class="parrafo_2">Vehículo de una o más ruedas dotado de una única plaza y propulsado exclusivamente por motores eléctricos<sup>(1)</sup> que pueden proporcionar al vehículo una velocidad máxima por diseño comprendida entre 6 y 25 km/h. Solo pueden estar equipados con un asiento o sillín si están dotados de sistema de autoequilibrado<sup>(2)</sup>.</p>
+    <p class="cita_con_pleca"><sup>(1)</sup> El distintivo ambiental que corresponde a estos vehículos es el de cero emisiones y están exentos de llevar colocado el adhesivo correspondiente.</p>
+    <p class="cita"><sup>(2)</sup> Sistema de autoequilibrado: sistema auxiliar de control cuya función es mantener el equilibrio de un vehículo o estructura.</p>
+    <p class="parrafo_2">Estos vehículos pueden estar equipados con baterías de hasta 100 VCC y con un cargador integrado de hasta 240 VCA de entrada.</p>
+    <p class="parrafo">Los Vehículos de Movilidad Personal, en adelante VMP, pueden tener diferentes usos, como por ejemplo el uso particular, alquiler o «sharing», servicios públicos, usos turísticos, etc., pero desde un punto de vista técnico, la única diferenciación que cabe hacer en cuanto a los requisitos a cumplir por los VMP, tal y como se recoge en la Sección 5, es la que se refiere a los siguientes tipos:</p>
+    <p class="parrafo_2">– VMP para transporte personal.</p>
+    <p class="parrafo">– VMP para transporte de mercancías u otros servicios.</p>
+    <p class="seccion">Sección 2. VMP para transporte personal</p>
+    <p class="parrafo_2">Los VMP de transporte personal se caracterizarán con los datos recogidos en la siguiente tabla:</p>
+    <table class="tabla">
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla"> </th>
+          <th class="cabeza_tabla" colspan="2">VMP de transporte personal</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Velocidad máxima</td>
+          <td class="cuerpo_tabla_centro" colspan="2">Entre 6 y 25 km/h</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Potencia nominal<sup>(3)</sup> por vehículo.</td>
+          <td class="cuerpo_tabla_centro">
+            <p class="cuerpo_tabla_centro">Vehículos sin auto-equilibrado:</p>
+            <p class="cuerpo_tabla_centro">≤ 1.000 W</p>
+          </td>
+          <td class="cuerpo_tabla_centro">
+            <p class="cuerpo_tabla_centro">Vehículos con auto-equilibrado<sup>(4)</sup>:</p>
+            <p class="cuerpo_tabla_centro">≤ 2.500 W</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Masa en orden de marcha<sup>(5)<sub> .</sub></sup></td>
+          <td class="cuerpo_tabla_centro" colspan="2">&lt; 50 kg</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Longitud máxima.</td>
+          <td class="cuerpo_tabla_centro" colspan="2">2.000 mm</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td colspan="3">
+            <p class="cita"><sup>(3)</sup> La potencia nominal deberá ser declarada por el fabricante del motor y medida según el apartado 4.2.14 de la norma EN 15194:2018, o alternativamente en el Reglamento n.º 85 de la Comisión Económica para Europa de las Naciones Unidas (UNECE) - Disposiciones uniformes relativas a la homologación de motores de combustión interna o de grupos motopropulsores eléctricos para la propulsión de vehículos de motor de las categorías M y N en lo que respecta a la medición de la potencia neta y la potencia máxima durante 30 minutos de los grupos motopropulsores eléctricos (DO L 323 de 7.11.2014, pág. 52).</p>
+            <p class="cita"><sup>(4)</sup> Al menos el 60% de esta potencia se debe dedicar al sistema de autoequilibrado.</p>
+            <p class="cita"><sup>(5)</sup> Masa en orden de marcha: masa del vehículo tal y como se define en el artículo 5 del Reglamento (UE) n.º 168/2013.</p>
+          </td>
+        </tr>
+      </tfoot>
+    </table>
+    <p class="centro_redonda">Tabla 1. Características de VMP de transporte personal</p>
+    <table class="tabla">
+      <colgroup>
+        <col width="30%"/>
+        <col width="30%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Altura máxima.</td>
+          <td class="cuerpo_tabla_der">1.400 mm</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Anchura máxima.</td>
+          <td class="cuerpo_tabla_der">750 mm</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="seccion">Sección 3. VMP para transporte de mercancías u otros servicios</p>
+    <p class="parrafo_2">Los VMP para transporte de mercancías u otros servicios son un tipo de VMP de al menos 3 ruedas, situándose 2 de ellas en el eje más cercano a la carga, y que disponen de una plataforma o cajón habilitado para este uso.</p>
+    <p class="parrafo">Este tipo de vehículos tienen las siguientes características específicas:</p>
+    <p class="centro_redonda">Tabla 2. Características de VMP para transporte de mercancías u otros servicios</p>
+    <table class="tabla">
+      <colgroup>
+        <col width="60%"/>
+        <col width="40%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla"> </th>
+          <th class="cabeza_tabla">
+            <p class="cabeza_tabla">VMP para el transporte de mercancías u otros servicios</p>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Velocidad máxima (propia).</td>
+          <td class="cuerpo_tabla_centro">Entre 6 y 25 km/h</td>
+        </tr>
+        <tr>
+          <td>Potencia nominal<sup>(6)</sup> por vehículo.</td>
+          <td class="cuerpo_tabla_centro">≤ 1.500 W</td>
+        </tr>
+        <tr>
+          <td>Masa Máxima Técnicamente Admisible (MMTA)<sup>(7).</sup></td>
+          <td class="cuerpo_tabla_centro">&lt; 400 kg</td>
+        </tr>
+        <tr>
+          <td>Longitud máxima.</td>
+          <td class="cuerpo_tabla_centro">2.000 mm</td>
+        </tr>
+        <tr>
+          <td>Altura máxima.</td>
+          <td class="cuerpo_tabla_centro">1.800 mm</td>
+        </tr>
+        <tr>
+          <td>Anchura máxima.</td>
+          <td class="cuerpo_tabla_centro">1.000 mm</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td colspan="2">
+            <p class="cita"><sup>(6)</sup> La potencia nominal deberá ser declarada por el fabricante del motor y medida según el apartado 4.2.14 de la norma EN 15194:2018, o alternativamente en el Reglamento n.º 85 de la Comisión Económica para Europa de las Naciones Unidas (UNECE) - Disposiciones uniformes relativas a la homologación de motores de combustión interna o de grupos motopropulsores eléctricos para la propulsión de vehículos de motor de las categorías M y N en lo que respecta a la medición de la potencia neta y la potencia máxima durante 30 minutos de los grupos motopropulsores eléctricos (DO L 323 de 7.11.2014, pág. 52).</p>
+            <p class="cita"><sup>(7)</sup> Masa Máxima Técnicamente Admisible (MMTA): masa máxima declarada por el fabricante tal y como se define en la definición 3.35 de la norma EN 17128:2020.</p>
+          </td>
+        </tr>
+      </tfoot>
+    </table>
+    <p class="parrafo_2">Estos vehículos en ningún caso podrán dedicarse al transporte de pasajeros.</p>
+    <p class="seccion">Sección 4. Exclusiones como Vehículos de movilidad personal (VMP)</p>
+    <p class="parrafo_2">Se excluyen de la definición de las dos secciones anteriores los siguientes vehículos:</p>
+    <p class="parrafo_2">– vehículos diseñados específicamente para circular fuera de las vías públicas o vehículos concebidos para competición,</p>
+    <p class="parrafo">– los vehículos para personas con movilidad reducida,</p>
+    <p class="parrafo">– los vehículos con una tensión de trabajo mayor a 100 VCC o 240 VCA,</p>
+    <p class="parrafo">– los vehículos considerados juguetes, siendo tales los que su velocidad máxima no sobrepasa los 6 km/h,</p>
+    <p class="parrafo">– vehículos diseñados y fabricados para ser utilizados exclusivamente por las Fuerzas Armadas,</p>
+    <p class="parrafo">– los ciclos de pedales con pedaleo asistido (EPAC),</p>
+    <p class="parrafo">– aquellos vehículos incluidos dentro del ámbito del Reglamento (UE) n.º 168/2013.</p>
+    <p class="seccion">Sección 5. Requisitos técnicos a cumplir por los VMP</p>
+    <p class="parrafo_2">Los vehículos de movilidad personal, tanto los de transporte personal como de transporte de mercancías u otros servicios (ver Cuadro de aplicabilidad de requisitos del Apéndice 7), deben cumplir con los requisitos especificados en el presente Manual, para lo cual el fabricante<sup>(8)</sup> o representante autorizado<sup>(9)</sup> por el mismo será responsable de obtener un certificado de circulación para cada modelo y versión de VMP, según el proceso descrito en la Sección 31 de este documento.</p>
+    <p class="cita_con_pleca"><sup>(8)</sup> Fabricante: toda persona física o jurídica que fabrica un VMP o que manda diseñar o fabricar un VMP y es el titular de su nombre, denominación social o marca comercial.</p>
+    <p class="cita"><sup>(9)</sup> Representante autorizado: toda persona física o jurídica establecida en la Unión Europea que ha recibido un mandato por escrito de un fabricante para actuar en su nombre en tareas específicas dentro del ámbito del Manual y que asume las obligaciones del fabricante, en los casos en lo que este se encuentre establecido fuera de la Unión Europea. Los fabricantes establecidos fuera de la Unión Europea deberán disponer de un único representante establecido en la Unión Europea que los represente ante la autoridad competente.</p>
+    <p class="parrafo_2">En el Apéndice 5 se detalla la Ficha reducida de características generales para VMP que referencia las citadas características técnicas y que se emitirá tras dicho proceso de certificación.</p>
+    <p class="parrafo">En el Apéndice 1 se define una serie de ensayos con el fin de facilitar algunas de las comprobaciones que se deben realizar sobre el cumplimiento de los requisitos establecidos en las diferentes secciones de este manual.</p>
+    <p class="seccion">Sección 6. Altura del sillín</p>
+    <p class="parrafo_2">Para los VMP con sistema de autoequilibrado que dispongan de sillín, la altura mínima del punto R («punto de referencia de la plaza de asiento», según se define en el Reglamento UE n.º 168/2013) deberá ser de 540 mm.</p>
+    <p class="parrafo">Con el fin de facilitar la verificación del cumplimiento de este requisito técnico, una comprobación equivalente se realizará midiendo la altura desde el nivel del suelo a la superficie superior del sillín, con éste ajustado en su posición más baja, debiendo ser esta superior a los 500 mm.</p>
+    <p class="seccion">Sección 7. Altura del manillar</p>
+    <p class="parrafo_2">El manillar deberá tener una altura mínima de 700 mm. Para el caso de los vehículos con sillín y autoequilibrado, esta altura mínima podrá reducirse a los 500 mm.</p>
+    <p class="seccion">Sección 8. Control de velocidad máxima</p>
+    <p class="parrafo_2">Los vehículos de movilidad personal deben disponer de un control que garantice que el motor deja de impulsar el vehículo de acuerdo a los requisitos recogidos en el apartado 8.2 de la norma EN 17128:2020.</p>
+    <p class="seccion">Sección 9. Sistemas de frenado</p>
+    <p class="parrafo_2">Todos los vehículos deberán disponer de dos frenos independientes, pudiendo ser accionados desde el mismo actuador.</p>
+    <p class="parrafo">En los VMP para transporte de mercancías u otros servicios, será necesario contar con actuadores independientes para cada eje.</p>
+    <p class="parrafo">Los frenos deben cumplir los siguientes requisitos:</p>
+    <p class="parrafo_2">– permiten desacelerar el vehículo hasta detenerse,</p>
+    <p class="parrafo">– pueden actuar cuando el vehículo alcanza la velocidad máxima,</p>
+    <p class="parrafo">– la desaceleración mínima es de 3,5 m/s<sup>2</sup>,</p>
+    <p class="parrafo">– en caso de fallo de un freno, el otro debe poder ejercer un mínimo de 44% del efecto de frenado sin afectar a la trayectoria del vehículo.</p>
+    <p class="parrafo_2">Es obligatorio que los vehículos de más de 2 ruedas dispongan de freno de estacionamiento. Este freno de estacionamiento deberá cumplir los requisitos establecidos en el apartado 15.4.2.6 de la norma EN 17128:2020.</p>
+    <p class="parrafo">Todos los dispositivos de frenado deberán estar protegidos frente a cambio involuntario o desajuste de los componentes de servicio durante su uso.</p>
+    <p class="seccion">Sección 10. Sistema de estabilización en aparcamiento</p>
+    <p class="parrafo_2">Los vehículos de movilidad personal con menos de 3 ruedas dispondrán de un sistema de estabilización para ser utilizado mientras están aparcados, consistente en una «pata de cabra» lateral o un caballete central u otro sistema que evite que se caigan al suelo.</p>
+    <p class="seccion">Sección 11. Ruedas</p>
+    <p class="parrafo_2">Los vehículos de movilidad personal deben equipar ruedas con diámetro mínimo, incluido el neumático, de 203,2 mm (8"), y compuestas por un material que permita la adherencia al terreno. En ningún caso se permitirá la utilización de neumático liso o tipo <em>slick</em>.</p>
+    <p class="parrafo">La máxima presión de hinchado de los neumáticos (en caso de ser de tipo hinchable) deberá estar marcada en el propio neumático, tal y como se indica en el apartado 19.2.4 de la norma EN 17128:2020.</p>
+    <p class="seccion">Sección 12. Dispositivos de iluminación y retro reflectantes</p>
+    <p class="parrafo_2">Los vehículos de movilidad personal deben estar equipados de catadióptricos frontal (blanco), en ambos laterales (blanco o color amarillo auto) y trasero (rojo) de acuerdo a los requisitos recogidos en el apartado 16.1.1 de la norma EN 17128:2020.</p>
+    <p class="parrafo">Asimismo, han de equipar un sistema de iluminación en la parte delantera (blanca) y trasera (roja), cumpliendo los requisitos recogidos en el apartado 16.1.2 de la norma EN 17128:2020.</p>
+    <p class="parrafo">También deberán incluir la función de luz de freno diferenciada o combinada con la luz trasera, con intensidad y distribución de luz de acuerdo con lo establecido por dicha norma.</p>
+    <p class="parrafo">Los VMP para transporte de mercancías u otros servicios deberán incluir reflectantes laterales de color amarillo auto y traseros de color rojo, en aristas y vértices de la carga, que permitan señalizar y distinguir claramente en situaciones de baja visibilidad tanto la altura como la anchura de la misma.</p>
+    <p class="centro_redonda">Imagen 1. Reflectantes laterales y traseros de carga</p>
+    <p class="imagen">
+      <img class="frame" data-pdf="01_REVISADO.pdf" src="/datos/imagenes/disp/2022/18/987_10976461_1.png" width="1162" height="538"/>
+    </p>
+    <p class="seccion">Sección 13. Indicadores de dirección</p>
+    <p class="parrafo_2">Los VMP para transporte de mercancías u otros servicios deberán tener instalados obligatoriamente tanto indicadores de dirección delanteros como traseros.</p>
+    <p class="parrafo">Los indicadores de dirección instalados en la parte frontal y/o en la trasera del vehículo deberán cumplir con los requerimientos de color de luz emitida recogidos en el Reglamento n.º 50 de la Comisión Económica para Europa de las Naciones Unidas (UNECE) o en la norma ISO 6742-1.</p>
+    <p class="parrafo">Los indicadores delanteros o traseros deben estar montados a una altura máxima igual a la del propio vehículo, y los indicadores traseros a una altura mínima de 150 mm, y el ángulo mínimo de visibilidad geométrica es de 25° respecto del plano horizontal.</p>
+    <p class="seccion">Sección 14. Dispositivos sonoros</p>
+    <p class="parrafo_2">Todos los vehículos de movilidad personal deben estar equipados de un avisador acústico. Dicho avisador deberá cumplir los requisitos establecidos en el apartado 16.2 de la norma EN 17128:2020.</p>
+    <p class="parrafo">Los VMP para transporte de mercancías u otros servicios deberán incluir además obligatoriamente un aviso sonoro de marcha atrás.</p>
+    <p class="seccion">Sección 15.  Integridad estructural</p>
+    <p class="parrafo_2">La integridad estructural quedará demostrada con el cumplimiento de los ensayos especificados en el Apéndice 1 apartado 3 Ensayos de integridad estructural.</p>
+    <p class="seccion">Sección 16. Requisitos eléctricos</p>
+    <p class="parrafo_2">1. Resistencia mecánica.</p>
+    <p class="parrafo_2">Los componentes eléctricos, incluyendo la batería, deben cumplir con los requisitos de diseño general de baterías o conjuntos de baterías que figuren en la regulación nacional o internacional de transportes, así como cualquier otra legislación aplicable, y han de tener una resistencia mecánica adecuada que se deberá comprobar mediante el ensayo definido en el Apéndice 1 apartado 6 Ensayos sobre los requisitos eléctricos.</p>
+    <p class="parrafo_2">2. Cables y conexiones eléctricas.</p>
+    <p class="parrafo_2">Se debe de cumplir los requisitos especificados en el apartado 6.3 de la norma EN 17128:2020.</p>
+    <p class="parrafo_2">3. Resistencia a la humedad.</p>
+    <p class="parrafo_2">Se deberán cumplir los requisitos a este respecto recogidos en el aparado 6.4 de la norma EN 17128:2020.</p>
+    <p class="seccion">Sección 17. Control de potencia y apagado</p>
+    <p class="parrafo_2">En relación al apagado del sistema de control del vehículo se deberá cumplir lo establecido en el apartado 6.2 de la norma EN 17128:2020.</p>
+    <p class="parrafo">En lo referente al control de potencia y aceleración los vehículos deben cumplir los requisitos establecidos en los apartados 7.1 y 7.2 de la norma EN 17128:2020.</p>
+    <p class="parrafo">En caso de disponer de un sistema electrónico antirrobo, su activación durante la marcha no deberá impedir la utilización normal del freno, ni suponer deceleraciones bruscas (mayores de 2 m/s<sup>2</sup>).</p>
+    <p class="parrafo">Se deberá garantizar que el vehículo no pueda iniciar la marcha mientras está siendo cargado, incluso si el mando del motor es activado.</p>
+    <p class="seccion">Sección 18. Indicadores de información</p>
+    <p class="parrafo_2">Se exige que los vehículos de movilidad personal lleven instalado un visualizador embarcado que indique el nivel de batería y la velocidad instantánea y que sea visible por el conductor de una forma sencilla, sin alterar la posición de conductor y sin riesgo para la seguridad vial.</p>
+    <p class="seccion">Sección 19. Compatibilidad electromagnética</p>
+    <p class="parrafo_2">Los vehículos deben cumplir los requisitos establecidos en el apartado 9 de la norma EN 17128:2020.</p>
+    <p class="seccion">Sección 20. Anti-manipulación</p>
+    <p class="parrafo_2">Las medidas anti-manipulación aplican a las modificaciones o manipulaciones que los usuarios llevan a cabo a la unidad de control, al sistema de transmisión u a otras partes del sistema de propulsión, utilizando herramientas, equipos u otros elementos.</p>
+    <p class="parrafo">Los fabricantes deberán garantizar a la hora de diseñar el vehículo el cumplimiento de los requisitos anti-manipulación, propios de ciclos con asistencia eléctrica (EPAC), detallados en la norma EN 15194:2018 (4.2.17 Medidas anti-manipulación).</p>
+    <p class="seccion">Sección 21. Protección de la batería</p>
+    <p class="parrafo_2">El fabricante deberá acreditar que los elementos electrónicos están dotados de sensores de temperatura con el objetivo de cortar la alimentación cuando se alcanzan temperaturas elevadas.</p>
+    <p class="parrafo">Será exigible el cumplimiento de los requisitos de seguridad descritos en el apartado 11 de la norma EN 17128:2020, así como los de seguridad del cargador de batería establecidos en el apartado 10 de la norma EN 17128:2020.</p>
+    <p class="parrafo">Adicionalmente, y en relación a la información a mostrar sobre la batería, se deberá cumplir con los requisitos recogidos en el apartado 19.2.3 de la norma EN 17128:2020.</p>
+    <p class="seccion">Sección 22. Sistema de cierre combinado</p>
+    <p class="parrafo_2">Los vehículos que dispongan de un sistema de plegado deben de disponer de un sistema de cierre combinado con un mínimo de dos niveles de seguridad independientes.</p>
+    <p class="parrafo">El mecanismo de plegado deberá cumplir los requisitos establecidos en el apartado 14.3 de la norma EN 17128:2020.</p>
+    <p class="seccion">Sección 23. Salientes exteriores</p>
+    <p class="parrafo_2">Se deberán cumplir los requisitos establecidos en el apartado 13 de la norma EN 17128:2020.</p>
+    <p class="seccion">Sección 24. Superficies calientes</p>
+    <p class="parrafo_2">Se cumplirán los requisitos establecidos en el apartado 18 de la norma EN 17128:2020.</p>
+    <p class="seccion">Sección 25. Reposapiés</p>
+    <p class="parrafo_2">Se cumplirán los requisitos establecidos en el apartado 15.1 de la norma EN 17128:2020.</p>
+    <p class="seccion">Sección 26. Información del producto y marcajes</p>
+    <p class="parrafo_2">Los vehículos tienen que llevar la siguiente información en un marcaje de fábrica único, permanente, legible, ubicado de forma claramente visible, y que no permita su reutilización en otro vehículo:</p>
+    <p class="parrafo_2">– Velocidad máxima.</p>
+    <p class="parrafo">– Número de serie o identificación.</p>
+    <p class="parrafo">– Número de certificado.</p>
+    <p class="parrafo">– Año de construcción.</p>
+    <p class="parrafo">– Marca y modelo.</p>
+    <p class="parrafo_2">La placa de marcaje se fabricará con material de aluminio aleación 1050 de un espesor de 1 ± 0,2 mm. El color del fondo de dicho marcaje será negro mate, y su tamaño de 104x30 mm, con una tolerancia de ± 2 mm en las dimensiones de la superficie. Las dimensiones de la placa y de los caracteres a inscribir se muestran en las siguientes imágenes:</p>
+    <p class="centro_redonda">Imagen 2. Marcaje de VMP</p>
+    <p class="imagen">
+      <img class="frame" data-pdf="02_REVISADO__BIS.pdf" src="/datos/imagenes/disp/2022/18/987_10997196_1.png" width="1519" height="585"/>
+    </p>
+    <p class="centro_redonda">Imagen 3. Tamaños del marcaje de VMP</p>
+    <p class="imagen">
+      <img class="frame" data-pdf="03_REVISADO.pdf" src="/datos/imagenes/disp/2022/18/987_10976465_1.png" width="1701" height="816"/>
+    </p>
+    <p class="parrafo_2">La impresión de los textos de la placa de marcaje será del color de fondo del aluminio y se utilizará la técnica del láser. El estilo de letra será Arial negrita, con una altura no superior a los 4 mm y con una tolerancia de ± 0,5 mm en la de los caracteres a inscribir. La placa de marcaje irá sujeta mediante remaches, no admitiéndose una sujeción mediante tornillos o adhesivos.</p>
+    <p class="parrafo">La documentación con la que se comercialice el vehículo deberá informar claramente que el vehículo pertenece a la categoría de Vehículos de Movilidad Personal, y los vehículos deberán cumplir con los requisitos sobre información de producto y marcajes recogidos en los apartados 19.1, 19.3, 19.4 y 19.5 de la norma EN 17128:2020.</p>
+    <p class="parrafo">El vehículo se deberá comercializar junto a la Ficha reducida de características generales para VMP, según el modelo y contenido de la misma incluido en el Apéndice 5.</p>
+    <p class="seccion">Sección 27.  Porta-identificador</p>
+    <p class="parrafo_2">El vehículo deberá disponer en la parte trasera del mismo de un espacio para llevar una identificación o etiqueta de registro, si es posible bajo la luz trasera, formando un ángulo de 30° con la vertical en la dirección de avance. El borde inferior de identificación o etiqueta de registro no deberá quedar a menos de 50 mm del plano del suelo. Las dimensiones mínimas del espacio para pegar la identificación o etiqueta deberán de ser de 52,8 mm de ancho y 65 mm de alto.</p>
+    <p class="parrafo">Las características de la etiqueta expedida por las autoridades locales que registren los VMP serán publicadas en la página web «http://www.dgt.es/vmp».</p>
+    <p class="seccion">Sección 28. Requisitos de carga para VMP para transporte de mercancías u otros servicios</p>
+    <p class="parrafo_2">El cajón, compartimento o plataforma de carga debe estar anclado de forma estable y segura al chasis del vehículo (sin balanceo), garantizando que el centro de gravedad de éste quede lo más bajo posible. Cada cajón, compartimento o plataforma de carga debe de estar marcado por el fabricante de forma visible con la carga útil máxima permitida. Este cajón no debe impedir la visibilidad del conductor, ni la maniobrabilidad o el frenado del vehículo.</p>
+    <p class="parrafo">Para el caso de que la caja de la carga sea móvil, la plataforma en la que se ubica debe ser antideslizante, y debe disponer de mecanismos de fijación o puntos de amarre que eviten su desplazamiento, que deben estar a su vez adecuadamente dimensionados y diseñados para anclar las cargas declaradas.</p>
+    <p class="parrafo">Las mercancías deberán estar adecuadamente estibadas en el interior de un cajón o compartimento cerrado.</p>
+    <p class="parrafo">Los elementos estructurales del vehículo de los VMP de transporte de mercancías u otros servicios deberán estar dimensionados y diseñados de acuerdo con su uso, durabilidad prevista y cargas declaradas.</p>
+    <p class="seccion">Sección 29. Retrovisores</p>
+    <p class="parrafo_2">Los VMP para transporte de mercancías u otros servicios deberán incluir obligatoriamente 2 retrovisores, a izquierda y derecha del vehículo, con el campo de visión que se especifica en la reglamentación vigente para los retrovisores de Clase L, y con una superficie útil cada uno de ellos de al menos 75 cm<sup>2</sup>.</p>
+    <p class="seccion">Sección 30 Asistente de marcha atrás</p>
+    <p class="parrafo_2">Los VMP para transporte de mercancías u otros servicios deberán incluir un modo de funcionamiento del vehículo en sentido marcha atrás, para facilitar este tipo de maniobra. Este modo de funcionamiento deberá cumplir los requisitos establecidos en el apartado 8.3 de la norma EN 17128:2020.</p>
+    <p class="seccion">Sección 31. Proceso de certificación de VMP</p>
+    <p class="parrafo_2">El proceso de certificación de VMP permite que el fabricante o representante autorizado, o de forma extraordinaria un propietario individual de un vehículo, obtengan un número de certificado que garantice que el modelo de vehículo cumple con requisitos para poder acogerse a esta categoría de vehículos. Esta certificación de VMP habilita fabricante o representante a inscribir el número de certificado de VMP en cada vehículo para ese modelo y versión.</p>
+    <p class="parrafo">Los ensayos necesarios para este proceso de certificación de VMP se realizarán en un laboratorio autorizado, designado como organismo competente por parte de la Subdirección General de Gestión de la Movilidad y Tecnología de la DGT, de acuerdo con el procedimiento descrito en la Sección 32.</p>
+    <p class="parrafo">El fabricante o representante autorizado deberá solicitar el número de certificación de VMP a dicho laboratorio según el procedimiento descrito a continuación:</p>
+    <p class="parrafo_2">1. Alta de fabricantes/representantes autorizados en el registro de la DGT.</p>
+    <p class="parrafo_2">De forma previa, y para poder solicitar la certificación de tipo de un VMP, los fabricantes o representantes autorizados deberán estar registrados como tales en el registro de la DGT, para lo cual deberán:</p>
+    <p class="parrafo_2">Solicitar el alta en el registro de fabricantes de la DGT para lo cual deberán remitir un correo a la dirección de correo electrónico<sup>(10)</sup> registro.vmp@dgt.es, con el asunto «Alta de fabricante VMP», y adjuntar al mismo:</p>
+    <p class="cita_con_pleca"><sup>(10)</sup> Desde esta dirección de correo electrónico no se responderán consultas, únicamente se admitirán solicitudes de alta fabricantes/representantes autorizados.</p>
+    <p class="parrafo_2">– Un cuadro con la siguiente información:</p>
+    <p class="centro_redonda">Tabla 3. Datos solicitud alta fabricantes/representantes autorizados en registro DGT</p>
+    <table class="tabla">
+      <colgroup>
+        <col width="45%"/>
+        <col width="30%"/>
+        <col width="25%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" colspan="3">Datos solicitud alta fabricantes/representantes autorizados en registro DGT</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Fabricante:</td>
+          <td class="cuerpo_tabla_izq">Razón social:</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">CIF/NIF:</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">País:</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="2">Representante autorizado (en su caso):</td>
+          <td class="cuerpo_tabla_izq">Razón social:</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">CIF/NIF:</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fecha de alta:</td>
+          <td class="cuerpo_tabla_izq" colspan="2"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dirección:</td>
+          <td class="cuerpo_tabla_izq" colspan="2"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Código Postal:</td>
+          <td class="cuerpo_tabla_izq" colspan="2"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Municipio:</td>
+          <td class="cuerpo_tabla_izq" colspan="2"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Provincia:</td>
+          <td class="cuerpo_tabla_izq" colspan="2"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">País:</td>
+          <td class="cuerpo_tabla_izq" colspan="2"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Correo electrónico:</td>
+          <td class="cuerpo_tabla_izq" colspan="2"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Teléfono:</td>
+          <td class="cuerpo_tabla_izq" colspan="2"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">N.º tasa del tipo IV.1 (12 dígitos):</td>
+          <td class="cuerpo_tabla_izq" colspan="2"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">CIF o NIF del pagador de la tasa:</td>
+          <td class="cuerpo_tabla_izq" colspan="2"> </td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">– Acreditación del pago de la tasa tipo IV.1.</p>
+    <p class="parrafo">– Acreditación de la certificación ISO 9001 del fabricante / representante autorizado, o una certificación de disponer de un sistema de gestión de la calidad equivalente validado por una autoridad de certificación independiente y de prestigio, que esté en vigor en el momento de realizar la solicitud de certificación de VMP. Se aceptará una declaración responsable de ser una organización con acreditación ISO 9001, o equivalente, y de conformidad de la producción.</p>
+    <p class="parrafo_2">La Subdirección General de Gestión de la Movilidad y Tecnología de la DGT revisará y, en su caso, resolverá incluir al fabricante/representante autorizado en el registro de fabricantes/representantes autorizados de la DGT, notificando la resolución al mismo a través del correo electrónico incluido en la solicitud dicha resolución.</p>
+    <p class="parrafo_2">2. Solicitud y pruebas.</p>
+    <p class="parrafo_2">Una vez dado de alta en el registro de fabricantes/ representantes autorizados de la DGT, para solicitar el número de certificación VMP, éste aportará dos prototipos al servicio técnico (laboratorio autorizado) junto con la Ficha reducida de características generales para VMP incluida en el Apéndice 5, declaración responsable anti-manipulación incluida en el Apéndice 4, declaración responsable de cumplimiento de requisitos y realización de ensayos por el fabricante/representante autorizado del Apéndice 2 (o Apéndice 3, según corresponda), el manual del usuario, y el resto de información que sea necesaria.</p>
+    <p class="parrafo">Si el fabricante/representante autorizado presenta documentación de haber obtenido la homologación VMP de forma satisfactoria en otro país de la UE, y siempre que existan acuerdos en vigor de reconocimiento recíproco de dicha homologación o certificación VMP con el citado país, el laboratorio autorizado emitirá el número de certificación VMP, sin necesidad de ensayos ni comprobaciones adicionales.</p>
+    <p class="parrafo">El fabricante/representante autorizado podrá aportar una declaración responsable (Apéndice 2 o Apéndice 3 Declaración responsable de cumplimiento de requisitos y realización de ensayos por el fabricante/representante autorizado) sobre el cumplimiento de algunos requisitos o ensayos, recogidos en el Apéndice 1. En esta declaración responsable se recogerán los requisitos o ensayos que el fabricante/representante autorizado haya realizado de forma satisfactoria.</p>
+    <p class="parrafo">En todo caso, el laboratorio autorizado para la certificación deberá realizar las comprobaciones que considere necesarias que le permitan garantizar el cumplimiento de todos los requisitos recogidos en el presente Manual y, en particular, deberá llevar a cabo como mínimo los siguientes ensayos de entre los recogidos en el Apéndice 1:</p>
+    <p class="parrafo_2">– 1 Ensayos de velocidad máxima.</p>
+    <p class="parrafo">– 2 Ensayos de frenado.</p>
+    <p class="parrafo">– 4 Ensayos de comportamiento dinámico.</p>
+    <p class="parrafo">– 6 Ensayos sobre los requisitos eléctricos - apartados A y B.</p>
+    <p class="parrafo">– 7 Ensayos de apagado eléctrico.</p>
+    <p class="parrafo">– 9 Ensayos de cierre combinado - apartado B.</p>
+    <p class="parrafo_2">El laboratorio autorizado para la certificación emitirá un informe técnico de las comprobaciones y pruebas realizadas y del cumplimiento de los requisitos, así como un modelo de certificado VMP con el resultado (positivo o negativo) de la certificación, según el modelo incluido en el Apéndice 6, y lo remitirá tanto al fabricante/representante autorizado como a la DGT. El número certificado obtenido, en caso de certificación positiva, seguirá el formato LXXXX<sup>(11)</sup>.</p>
+    <p class="cita_con_pleca"><sup>(11)</sup> LXXXX - L: letra que identificará al laboratorio autorizado que realiza la certificación y XXXX: Código numérico de 4 dígitos correlativo por laboratorio.</p>
+    <p class="parrafo_2">Para nuevas versiones, el laboratorio autorizado realizará los ensayos y comprobaciones correspondientes, y emitirá un nuevo informe técnico y certificado para esta versión.</p>
+    <p class="parrafo">La DGT hará público un listado con todos los VMP certificados que podrá ser consultado de forma electrónica en la página web «http://www.dgt.es/vmp», con el fin de garantizar la máxima seguridad al comprador.</p>
+    <p class="parrafo_2">3. Actualización de vehículos previamente certificados.</p>
+    <p class="parrafo_2">Cualquier actualización o modificación realizada en un modelo y versión de VMP certificado previamente deberá someterse a un nuevo proceso de certificación a través de un laboratorio autorizado tal y como se recoge anteriormente, indicando las modificaciones realizadas y el número de certificación anterior. El laboratorio deberá valorar qué ensayos deberán ser realizados de nuevo, y emitirá un informe técnico de las comprobaciones y pruebas realizadas al vehículo modificado y del cumplimiento por este de los requisitos asociados a dichos ensayos, y lo remitirá al solicitante, generando un nuevo número de certificado que será remitido a la DGT para su publicación.</p>
+    <p class="parrafo_2">4. Proceso de certificación extraordinario de un VMP.</p>
+    <p class="parrafo_2">El proceso de certificación extraordinario de un VMP sin certificado podrá ser solicitado por parte de su propietario a través de un laboratorio autorizado aportando el vehículo VMP y la información técnica que posea del mismo, a ser posible la ficha reducida de características técnicas y el manual del usuario, con el objetivo de realizar los ensayos correspondientes.</p>
+    <p class="parrafo">En este caso no se requerirá que éste esté dado de alta en el registro de fabricantes/representantes autorizados de la DGT.</p>
+    <p class="parrafo">El laboratorio autorizado para la certificación individual deberá realizar únicamente los ensayos que no sean destructivos de entre los recogidos en el Apéndice 1, y emitirá el informe técnico de las comprobaciones y pruebas realizadas y del cumplimiento de los requisitos, así como un modelo de certificado VMP con el resultado (positivo o negativo) de la certificación, según el modelo incluido en el Apéndice 6, y lo remitirá tanto al solicitante como a la DGT. El número certificado obtenido, en caso de certificación positiva, seguirá el formato LUXXXX<sup>(12)</sup>.</p>
+    <p class="cita_con_pleca"><sup>(12)</sup> LUXXXX - L: letra que identificará al laboratorio autorizado que realiza la certificación, U: letra fija para indicar que la certificación es de un único VMP, y XXXX: Código numérico de 4 dígitos correlativo por laboratorio.</p>
+    <p class="parrafo_2">El proceso de certificación deberá volver a realizarse siempre que se realice una modificación en el vehículo, aunque existiera una certificación previa, para garantizar que dicha modificación cumple con las características técnicas establecidas en el presente manual.</p>
+    <p class="seccion">Sección 32. Proceso de designación de laboratorio</p>
+    <p class="parrafo_2">La designación del laboratorio como Organismo Competente (laboratorio autorizado para la realización del proceso de certificación) es de ámbito nacional y establecerá los requisitos exigibles para dichos organismos en materia de autorización de vehículos de movilidad personal, cuyos informes y resoluciones tendrán validez nacional.</p>
+    <p class="parrafo_2">1. Requisitos.</p>
+    <p class="parrafo_2">El solicitante deberá cumplir los siguientes requisitos y demostrar evidencias de ello:</p>
+    <p class="parrafo_2">1. Ser Servicio Técnico designado para la homologación de tipo europeo de vehículos de categoría L según el Reglamento (UE) n.º 168/2013, por parte de alguna autoridad de homologación europea.</p>
+    <p class="parrafo">2. Disponer de la competencia técnica y medios materiales y humanos, así como las pistas y equipos de ensayo descritos a continuación:</p>
+    <p class="parrafo_2">a. Pista de ensayo nivelada con las siguientes características:</p>
+    <p class="parrafo_2">i. Superficie seca y no deslizante de hormigón o asfalto.</p>
+    <p class="parrafo">ii. Pendiente máxima ≤ 1%.</p>
+    <p class="parrafo">iii. Coeficiente de asimetría (skewness) ≤ 3%.</p>
+    <p class="parrafo_2">b. Equipo para medir la velocidad calibrado con las siguientes características:</p>
+    <p class="parrafo_2">i. Precisión ± 2 %.</p>
+    <p class="parrafo">ii. Resolución 0,1 km/h.</p>
+    <p class="parrafo_2">Adicionalmente, se deberá disponer de todos los equipamientos y tramos de circuito necesarios para la realización de los ensayos descritos y referenciados a lo largo del presente manual, o equipamientos y tramos de circuito equivalentes que permitan garantizar el cumplimiento de los requisitos recogidos en el mismo.</p>
+    <p class="parrafo">3. Tener experiencia demostrable en sistemas de legislación, reglamentación y certificación.</p>
+    <p class="parrafo_2">2. Presentación de las solicitudes.</p>
+    <p class="parrafo_2">Los laboratorios que cumplan los requisitos definidos solicitarán su acreditación ante la Subdirección General de Gestión de la Movilidad y Tecnología, para lo cual deberán:</p>
+    <p class="parrafo_2">– Remitir un correo a la dirección de correo electrónico<sup>(13)</sup> registro.vmp@dgt.es, con el asunto «Solicitud designación laboratorio VMP», y adjuntando un cuadro con la siguiente información:</p>
+    <p class="cita_con_pleca"><sup>(13)</sup> Desde esta dirección de correo electrónico no se responderán consultas, únicamente se admitirán solicitudes de designación de laboratorios VMP.</p>
+    <p class="centro_redonda">Tabla 4. Datos solicitud designación laboratorio VMP</p>
+    <table class="tabla">
+      <colgroup>
+        <col width="45%"/>
+        <col width="30%"/>
+        <col width="25%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" colspan="3">Datos solicitud designación laboratorio VMP</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq" rowspan="3">Laboratorio:</td>
+          <td class="cuerpo_tabla_izq">Razón social:</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">CIF/NIF:</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">País:</td>
+          <td> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fecha de alta:</td>
+          <td class="cuerpo_tabla_izq" colspan="2"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Dirección:</td>
+          <td class="cuerpo_tabla_izq" colspan="2"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Código Postal:</td>
+          <td class="cuerpo_tabla_izq" colspan="2"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Municipio:</td>
+          <td class="cuerpo_tabla_izq" colspan="2"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Provincia:</td>
+          <td class="cuerpo_tabla_izq" colspan="2"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">País:</td>
+          <td class="cuerpo_tabla_izq" colspan="2"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Correo electrónico:</td>
+          <td class="cuerpo_tabla_izq" colspan="2"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Teléfono:</td>
+          <td class="cuerpo_tabla_izq" colspan="2"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">N.º tasa del tipo IV.5 (12 dígitos):</td>
+          <td class="cuerpo_tabla_izq" colspan="2"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">CIF o NIF del pagador de la tasa:</td>
+          <td class="cuerpo_tabla_izq" colspan="2"> </td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">– Acompañar dicha solicitud de:</p>
+    <p class="parrafo_2">a) Pago de la tasa IV.5 Otras autorizaciones otorgadas por el organismo, de acuerdo con lo establecido en el artículo 6 de la Ley 16/1979, de 2 de octubre, sobre tasas de la Jefatura Central de Tráfico.</p>
+    <p class="parrafo">b) Pruebas fehacientes de cumplimiento de los requisitos definidos en el punto anterior.</p>
+    <p class="parrafo_2">3. Resolución de la autorización.</p>
+    <p class="parrafo_2">La resolución, concediendo o denegando la autorización solicitada, se mandará al laboratorio autorizado y será dictada por el Subdirector General de Gestión de la Movilidad y Tecnología en el plazo máximo de un mes desde la entrada en el registro de la DGT.</p>
+    <p class="seccion">Sección 33.  Régimen transitorio</p>
+    <p class="parrafo_2">De forma transitoria se establecerán los siguientes plazos para la exigencia del proceso de certificación de VMP:</p>
+    <p class="parrafo_2">Todos los modelos que se comercialicen a partir de 24 meses de la entrada en vigor del presente manual deberán contar con dicha certificación.</p>
+    <p class="parrafo">Los vehículos comercializados antes de la entrada en vigor del presente manual o durante el periodo transitorio establecido, podrán circular durante los 5 años siguientes a dicha entrada en vigor.</p>
+    <p class="centro_negrita">APÉNDICES</p>
+    <p class="centro_cursiva">Apéndice 1. Descripción de los Ensayos para la Certificación VMP</p>
+    <p class="parrafo_2">Los ensayos se deberán desarrollar bajo las siguientes condiciones generales:</p>
+    <p class="parrafo_2">1. La temperatura ambiente estará entre 0 °C y 45 °C.</p>
+    <p class="parrafo">2. Velocidad del viento inferior o igual a 3 m/s.</p>
+    <p class="parrafo">3. Al realizar el ensayo el nivel de la batería del vehículo será de al menos el 75%.</p>
+    <p class="parrafo">4. En caso de llevar neumáticos se ajustará antes de realizar el ensayo su presión de llenado al valor previsto por el fabricante para su funcionamiento normal.</p>
+    <p class="parrafo">5. La masa del vehículo debe corresponderse con la masa máxima técnicamente admisible (MMTA) declarada por el fabricante.</p>
+    <p class="parrafo">6. En los VMP para transporte de mercancías u otros servicios, la carga deberá estar distribuida para los ensayos de manera uniforme en todo el volumen de la caja o ubicación de la misma.</p>
+    <p class="parrafo">7. Para los ensayos deberá contarse con un conductor cuya masa sea de 70 kg a 100 kg.</p>
+    <p class="parrafo">8. El usuario debe colocarse en posición normal de conducción y mantenerla durante los ensayos.</p>
+    <p class="parrafo">9. Para la realización de los ensayos que impliquen aplicación de fuerzas en chasis, sistema de dirección, u otras partes del vehículo, y en el caso de que en la composición de las mismas se utilice un material plástico, se deberán pre acondicionar estas partes a una temperatura de (−5 ± 1) ºC durante 6 horas, empezando el ensayo como máximo un minuto después de ser retirado de esas condiciones, y completando el ensayo en un máximo de 5 minutos.</p>
+    <p class="parrafo_2">1. Ensayos de velocidad máxima.</p>
+    <p class="parrafo_2">Para obtener la velocidad máxima de diseño deberá recorrerse con el vehículo de ensayo una distancia de al menos 50 m con la potencia máxima de motor. Se medirá la velocidad máxima alcanzada en el trayecto. El ensayo se repetirá a continuación en sentido opuesto del trayecto.</p>
+    <p class="parrafo">La velocidad máxima del vehículo se expresará en km/h mediante un número entero que se aproxime lo más posible a la media aritmética de los valores de velocidad obtenidos en dos pruebas sucesivas, en cada uno de los dos sentidos de marcha, que no podrán diferir en más de un 10%. Si la media aritmética está exactamente en la mitad entre dos números enteros, se redondeará hacia el valor superior.</p>
+    <p class="parrafo">La velocidad máxima determinada durante los ensayos no diferirá en más de un 10% de la velocidad máxima de diseño indicada.</p>
+    <p class="parrafo">Podrá realizarse al mismo tiempo la comprobación de la precisión de la información que aparece en la pantalla del velocímetro del VMP, el cual, si tiene una precisión con una tolerancia de +/-10%, podrá utilizarse para las siguientes pruebas para las que la velocidad del vehículo sea relevante.</p>
+    <p class="parrafo">Si se utiliza un banco de pruebas, el ensayo sobre la verificación de la velocidad máxima de diseño se realizará de acuerdo con el procedimiento descrito en el apartado 8.2.2.2 de la norma EN 17128:2020.</p>
+    <p class="parrafo_2">2. Ensayos de frenado.</p>
+    <p class="parrafo_2">El vehículo se conducirá por el circuito de ensayo en línea recta a la velocidad máxima de diseño. En un punto determinado se reducirá la marcha al máximo con todos los dispositivos de desaceleración a la vez hasta llegar a la parada lo antes posible, siempre que esto sea factible sin riesgo de caída (p. ej. por el bloqueo de una rueda delantera en un vehículo de dos ruedas en línea). Si hay riesgo de caída, la fuerza de frenado aplicada deberá reducirse correspondientemente con el fin de que se mantenga el control del vehículo sin que se produzca una caída durante el proceso de frenado.</p>
+    <p class="parrafo">La distancia de detención necesaria se medirá en metros con dos decimales, y la medición se repetirá en al menos cinco ensayos sucesivos.</p>
+    <p class="parrafo">La desaceleración media alcanzada se calculará mediante la fórmula siguiente.</p>
+    <p class="centro_redonda">a = v² / 2s</p>
+    <p class="parrafo_2">Siendo:</p>
+    <p class="parrafo_2">a = desaceleración media [m/s²].</p>
+    <p class="parrafo">v = velocidad inicial [m/s].</p>
+    <p class="parrafo">s = distancia de frenado [m].</p>
+    <p class="parrafo_2">El valor de la desaceleración correspondiente se redondeará hasta el primer decimal.</p>
+    <p class="parrafo">Para comprobar la desaceleración mínima en caso de fallo del dispositivo de frenado se procederá del siguiente modo:</p>
+    <p class="parrafo_2">– si los frenos son de servicio independiente, se repetirá el ensayo previamente mencionado con la diferencia de que solo se accionará un freno en cada ocasión y se realizará al menos tres pruebas consecutivas;</p>
+    <p class="parrafo">– Cuando el dispositivo de frenado sea combinado, se anulará uno de los frenos de la manera adecuada y se repetirá el ensayo previamente mencionado.</p>
+    <p class="parrafo_2">3. Ensayos de integridad estructural.</p>
+    <p class="parrafo_2">Cargas estáticas en el chasis:</p>
+    <p class="parrafo_2">Se realizará uno de los siguientes ensayos correspondiente al tipo de vehículo.</p>
+    <p class="parrafo">El resultado del ensayo será favorable, si a la finalización del mismo no se aprecian fracturas o deformaciones permanentes.</p>
+    <p class="parrafo_2">a) VMP de dos ruedas en disposición longitudinal:</p>
+    <p class="parrafo_2">Se aplicará el procedimiento descrito en el apartado 12.2.1.2 de la norma EN 17128:2020.</p>
+    <p class="parrafo_2">b) VMP de tres ruedas:</p>
+    <p class="parrafo_2">Se aplicará el procedimiento descrito en el apartado 12.2.1.3 de la norma EN 17128:2020.</p>
+    <p class="parrafo_2">c) VMP de transporte de mercancías u otros servicios:</p>
+    <p class="parrafo_2">Se aplicará de forma progresiva una fuerza equivalente a dos veces la MMTA, durante 1 minuto, aplicando la fuerza en una base de 500 mm x 500 mm en la parte central de la plataforma donde se ubica la carga.</p>
+    <p class="parrafo_2">d) VMP dotados con autoequilibrado:</p>
+    <p class="parrafo_2">Se aplicará el procedimiento descrito en el apartado 12.2.1.4 de la norma EN 17128:2020.</p>
+    <p class="parrafo_2">Cargas estáticas en la columna de dirección y manillar:</p>
+    <p class="parrafo_2">Se aplicarán los procedimientos descritos en los apartados 12.2.2.1 y 12.2.2.2 de la norma EN 17128:2020.</p>
+    <p class="parrafo_2">Ensayo de torsión de la dirección:</p>
+    <p class="parrafo_2">Se aplicará el procedimiento descrito en el apartado 12.2.2.3 de la norma EN 17128:2020.</p>
+    <p class="parrafo_2">Empuñaduras:</p>
+    <p class="parrafo_2">Se aplicará el procedimiento descrito en el apartado 12.2.2.4 de la norma EN 17128:2020.</p>
+    <p class="parrafo_2">4. Ensayos de comportamiento dinámico.</p>
+    <p class="parrafo_2">Se deben cumplir con los requisitos siguientes relativos a los ensayos de comportamiento dinámico, realizándose dos veces cada ensayo: una vez a una velocidad de entrada igual a la velocidad máxima de diseño, y una segunda vez a una velocidad de 8 ± 2 km / h.</p>
+    <p class="parrafo">El vehículo debe superar el obstáculo sin comprender una pérdida de estabilidad o un peligro para el usuario. Se debe mantener la dirección de desplazamiento deseada, se permite una desviación máxima entre la trayectoria nominal y real de 20°. Los vehículos auto-equilibrados deben mantener su equilibrio durante las pruebas, y no deshabilitar repentinamente la función de auto-equilibrio:</p>
+    <p class="parrafo_2">– Ensayo 1 (depresión de la calzada): un receso al nivel de conducción con una longitud de al menos 1000 mm de longitud y 50 mm de profundidad con una pared vertical y otra con una inclinación de 45º:</p>
+    <p class="centro_redonda">Imagen 4. Depresión de la calzada</p>
+    <p class="imagen">
+      <img class="frame" data-pdf="04_REVISADO.pdf" src="/datos/imagenes/disp/2022/18/987_10976467_1.png" width="1402" height="603"/>
+    </p>
+    <p class="parrafo_2">– Ensayo 2 (escalón descendente y ascendente): un paso descendente y ascendente con una diferencia de altura de 20 mm con respecto al nivel de conducción, una longitud de 1.000 mm, y un ancho de 1.000 mm:</p>
+    <p class="centro_redonda">Imagen 5. Escalón descendente y ascendente</p>
+    <p class="imagen">
+      <img class="frame" data-pdf="05_REVISADO.pdf" src="/datos/imagenes/disp/2022/18/987_10976472_1.png" width="1533" height="603"/>
+    </p>
+    <p class="parrafo_2">– Ensayo 3 (pendiente lateral): Tramo en el plano de la calzada de 1000 mm de ancho con pendiente inclinada hacia el lateral con una profundidad de 100 mm, y una longitud de 1000 mm.</p>
+    <p class="centro_redonda">Imagen 6. Pendiente lateral</p>
+    <p class="imagen">
+      <img class="frame" data-pdf="06_REVISADO.pdf" src="/datos/imagenes/disp/2022/18/987_10976473_1.png" width="926" height="548"/>
+    </p>
+    <p class="parrafo_2">Se circulará con el vehículo de ensayo por el tramo con pendiente lateral una vez en cada sentido y según el sentido marcado.</p>
+    <p class="parrafo_2">– Ensayo 4 (perfil de bordillo): un escalón con una diferencia de altura de 30 mm y un canto superior del bordillo de radio de 20 mm.</p>
+    <p class="centro_redonda">Imagen 7. Perfil de bordillo</p>
+    <p class="imagen">
+      <img class="frame" data-pdf="07_REVISADO.pdf" src="/datos/imagenes/disp/2022/18/987_10976474_1.png" width="922" height="631"/>
+    </p>
+    <p class="parrafo_2">5. Ensayos de estabilidad de vuelco para VMP de transporte de mercancías u otros servicios.</p>
+    <p class="parrafo_2">Ensayo estático.</p>
+    <p class="parrafo_2">El ensayo se realizará en una superficie inclinada con un ángulo de inclinación α (véase la imagen 5) de al menos el 18%, y con el freno de estacionamiento del vehículo activado.</p>
+    <p class="parrafo">En ensayo se deberá realizar tanto:</p>
+    <p class="parrafo_2">a. aplicado el peso del conductor en el reposapiés, como,</p>
+    <p class="parrafo">b. con carga, pero sin aplicar el peso del conductor.</p>
+    <p class="centro_redonda">Imagen 8. Estabilidad de vuelco</p>
+    <p class="imagen">
+      <img class="frame" data-pdf="08_REVISADO.pdf" src="/datos/imagenes/disp/2022/18/987_10976475_1.png" width="1457" height="607"/>
+    </p>
+    <p class="parrafo_2">La prueba se considerará superada si, tanto en el caso longitudinal (realizándose este en la orientación más desfavorable entre ascendente y descendente) como en el transversal, y con o sin peso del conductor, el vehículo permanece parado y ninguna de las ruedas pierde contacto con la superficie.</p>
+    <p class="parrafo_2">Ensayo dinámico.</p>
+    <p class="parrafo_2">El ensayo consistirá en dar una vuelta completa describiendo un movimiento circular en una pista de superficie plana con un diámetro de la pista de ensayo de 8 m. El ensayo se realizará con conductor y a una velocidad de 10 km/h, iniciándose la vuelta completa al alcanzar dicha velocidad. La prueba se realizará con la máxima presión de los neumáticos (en caso de ser hinchables).</p>
+    <p class="parrafo">El ensayo deberá realizarse tanto sin carga, como con las condiciones de carga máxima del vehículo, repartiendo la misma de forma uniforme, y siempre respetando las instrucciones del fabricante en cuanto a la colocación de la misma.</p>
+    <p class="parrafo">En ensayo se considerará superado si se ha dado una vuelta completa y ninguna rueda pierde visiblemente el contacto con el suelo.</p>
+    <p class="parrafo_2">6. Ensayos sobre los requisitos eléctricos.</p>
+    <p class="parrafo_2">A. Resistencia mecánica.</p>
+    <p class="parrafo_2">El cumplimiento de los requisitos se comprobará sobre los componentes electrónicos que puedan ser desmontables o que estén montados de forma visible en la parte exterior del vehículo, efectuando los ensayos descritos en el apartado 6.1 de la norma EN 17128:2020.</p>
+    <p class="parrafo_2">B. Ensayos de los cables y conexiones eléctricas.</p>
+    <p class="parrafo_2">Se realizarán los ensayos especificados en el apartado 6.3 de la norma EN 17128:2020.</p>
+    <p class="parrafo_2">C. Resistencia a la humedad.</p>
+    <p class="parrafo_2">Se realizarán las comprobaciones relativas a la resistencia a la humedad descritas en el apartado 6.4 de la norma EN 17128:2020.</p>
+    <p class="parrafo_2">7. Ensayos de apagado eléctrico.</p>
+    <p class="parrafo_2">El vehículo se llevará por la pista de ensayo a velocidad de paso. La persona que conduce el vehículo se bajará a esta velocidad expresamente del vehículo retirando las manos del manillar de conducción o sujeción.</p>
+    <p class="parrafo">Debe poder observarse la desactivación automática del accionamiento del vehículo en el plazo de 1,0 s tras bajarse la persona del mismo y que el vehículo no siga con el motor en marcha y siga avanzando o inicie la marcha.</p>
+    <p class="parrafo">Para los vehículos auto-balanceados se realizará además el siguiente ensayo: El examinador se colocará al lado del vehículo y lo conectará en modo listo para la marcha. A continuación, el examinador levantará las manos del vehículo soltándolo. El accionamiento del vehículo no deberá activarse y el vehículo no podrá ponerse en marcha.</p>
+    <p class="parrafo_2">8. Ensayos de compatibilidad electromagnética.</p>
+    <p class="parrafo_2">Se deberán realizar las comprobaciones establecidas en el apartado 9 de la norma EN 17128:2020.</p>
+    <p class="parrafo_2">9. Ensayos de cierre combinado.</p>
+    <p class="parrafo_2">A. Repeticiones de apertura y cierre.</p>
+    <p class="parrafo_2">Se realizarán las comprobaciones descritas en el apartado 14.3.2.1 de la norma EN 17128:2020.</p>
+    <p class="parrafo_2">B. Aplicación de fuerzas y otros ensayos.</p>
+    <p class="parrafo_2">Se realizarán las comprobaciones descritas en el apartado 14.3.2.2 de la norma EN 17128:2020.</p>
+    <p class="parrafo_2">10. Ensayos de superficies calientes.</p>
+    <p class="parrafo_2">Se realizarán los ensayos descritos en el apartado 18.2 de la norma EN 17128:2020</p>
+    <p class="parrafo_2">11. Ensayos de marcajes.</p>
+    <p class="parrafo_2">Se realizarán las comprobaciones descritas en el apartado 19.2.2 de la norma EN 17128:2020.</p>
+    <p class="centro_cursiva">Apéndice 2. Declaración responsable de cumplimiento de requisitos y realización de ensayos por el fabricante/representante autorizado – VMP para trasporte personal</p>
+    <p class="centro_redonda">Declaración responsable del fabricante/representante autorizado sobre cumplimiento de requisitos y realización satisfactoria de ensayos en Vehículos de Movilidad Personal (VMP) para transporte personal</p>
+    <p class="parrafo_2">Declaración responsable del fabricante/representante autorizado del vehículo sobre el cumplimiento de requisitos y la realización de ensayos recogidos en el presente manual, relativa a:</p>
+    <p class="parrafo_2">– Disponer de la capacidad y medios necesarios para la realización de las comprobaciones de requisitos, así como de los ensayos correspondientes.</p>
+    <p class="parrafo">– Haber dimensionado y diseñado los elementos estructurales del vehículo de acuerdo con su uso, durabilidad prevista y cargas declaradas.</p>
+    <p class="parrafo">– Haber realizado las comprobaciones necesarias para poder acreditar el cumplimiento de requisitos técnicos recogidos en el Manual VMP.</p>
+    <p class="parrafo">– Realización del ensayo conforme a lo indicado en el Manual de características de los VMP, y superación de los requisitos establecidos en el mismo.</p>
+    <p class="parrafo_2">La ficha reducida deberá incluir una versión debidamente cumplimentada de la presente declaración responsable.</p>
+    <p class="parrafo_2">– Razón social y dirección del fabricante/representante autorizado: ______________</p>
+    <p class="parrafo">– Nombre y dirección del representante del fabricante (en su caso): _____________</p>
+    <p class="parrafo_2">Declara con respecto al vehículo:</p>
+    <p class="parrafo_2">– Marca (nombre comercial del fabricante/representante autorizado): ____________</p>
+    <p class="parrafo">– Modelo: ________________</p>
+    <p class="parrafo">– Versión: ________________</p>
+    <p class="parrafo_2">Haber realizado todas las comprobaciones para certificar el cumplimiento por parte del vehículo de los siguientes requisitos técnicos recogidos en el Manual VMP:</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" colspan="2">Requisitos técnicos</th>
+          <th class="cabeza_tabla">Certificación de cumplimiento</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="20%"/>
+        <col width="40%"/>
+        <col width="40%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sección 6.</td>
+          <td class="cuerpo_tabla_izq">Altura del sillín.</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sección 7.</td>
+          <td class="cuerpo_tabla_izq">Altura del manillar.</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sección 11.</td>
+          <td class="cuerpo_tabla_izq">Ruedas.</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sección 12.</td>
+          <td class="cuerpo_tabla_izq">Dispositivos de iluminación y retro reflectantes.</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sección 14.</td>
+          <td class="cuerpo_tabla_izq">Dispositivos sonoros.</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sección 20.</td>
+          <td class="cuerpo_tabla_izq">Anti-manipulación.</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sección 21.</td>
+          <td class="cuerpo_tabla_izq">Protección de la batería.</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sección 25.</td>
+          <td class="cuerpo_tabla_izq">Reposapiés.</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sección 27.</td>
+          <td class="cuerpo_tabla_izq">Porta-identificador.</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">Disponer de la capacidad y los medios necesarios y haber realizado sobre el citado vehículo los siguientes ensayos, tal y como se establece en el Manual VMP, con los siguientes resultados:</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" colspan="2">Ensayo</th>
+          <th class="cabeza_tabla">Ensayo superado satisfactoriamente</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="20%"/>
+        <col width="40%"/>
+        <col width="40%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Ensayos de integridad estructural.</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Ensayos sobre los requisitos eléctricos - apartado C (Resistencia a la humedad).</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">8</td>
+          <td class="cuerpo_tabla_izq">Ensayos de compatibilidad electromagnética.</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_izq">Ensayos de cierre combinado - apartado A (Repeticiones de apertura y cierre).</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">10</td>
+          <td class="cuerpo_tabla_izq">Ensayos de superficies calientes.</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">11</td>
+          <td class="cuerpo_tabla_izq">Ensayos de marcajes.</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">El abajo firmante garantiza la durabilidad de los componentes y que en el diseño de los sistemas y elementos del vehículo se ha tenido en cuenta los requisitos relacionados con la seguridad de su conducción y utilización.</p>
+    <p class="parrafo">El abajo firmante, además, acepta y garantiza que los análisis específicos del vehículo, así como de estructuras, componentes o piezas del mismo realizados al vehículo se pondrán puntualmente a disposición del laboratorio autorizado y de la Subdirección General de Gestión de la Movilidad y Tecnología de la DGT, previa petición.</p>
+    <p class="parrafo">El fabricante deberá conservar evidencias del análisis realizado de la estructura del vehículo, incluyendo reposapiés y plataformas de sujeción y apoyo, mediante cálculos, ensayos virtuales y / o ensayos estructurales, los cuales corroboren que estos elementos resisten a su uso y cargas declaradas, para el caso de que éstas sean requeridas por las autoridades competentes para su comprobación.</p>
+    <p class="parrafo">La presente declaración responsable se aplica a todos los vehículos incluidos en la Certificación VMP a cuya solicitud se adjunta.</p>
+    <p class="parrafo_2">Firma:</p>
+    <p class="parrafo_2">Nombre y cargo en la empresa: _______________________________________</p>
+    <p class="parrafo">Lugar: ____________________ Fecha: ___________________</p>
+    <p class="centro_cursiva">Apéndice 3. Declaración responsable de cumplimiento de requisitos y realización de ensayos por el fabricante/representante autorizado - VMP para transporte de mercancías u otros servicios</p>
+    <p class="centro_redonda">Declaración responsable del fabricante/representante autorizado sobre cumplimiento de requisitos y realización satisfactoria de ensayos en Vehículos de Movilidad Personal (VMP) para transporte de mercancías u otros servicios</p>
+    <p class="parrafo_2">Declaración responsable del fabricante o representante autorizado del vehículo sobre el cumplimiento de requisitos y la realización de ensayos recogidos en el presente manual, relativa a:</p>
+    <p class="parrafo_2">– Disponer de la capacidad y medios necesarios para la realización de las comprobaciones de requisitos, así como de los ensayos correspondientes.</p>
+    <p class="parrafo">– Haber dimensionado y diseñado los elementos estructurales del vehículo de acuerdo con su uso, durabilidad prevista y cargas declaradas.</p>
+    <p class="parrafo">– Haber realizado las comprobaciones necesarias para poder acreditar el cumplimiento de requisitos técnicos recogidos en el Manual VMP.</p>
+    <p class="parrafo">– Realización del ensayo conforme a lo indicado en el Manual de características de los VMP, y superación de los requisitos establecidos en el mismo.</p>
+    <p class="parrafo_2">La ficha reducida deberá incluir una versión debidamente cumplimentada de la presente declaración responsable.</p>
+    <p class="parrafo_2">– Razón social y dirección del fabricante/representante autorizado: _________</p>
+    <p class="parrafo">– Nombre y dirección del representante del fabricante (en su caso): _________</p>
+    <p class="parrafo_2">Declara con respecto al vehículo:</p>
+    <p class="parrafo_2">– Marca (nombre comercial del fabricante/representante autorizado): ________</p>
+    <p class="parrafo">– Modelo: ________________</p>
+    <p class="parrafo">– Versión: ________________</p>
+    <p class="parrafo_2">Haber realizado todas las comprobaciones para certificar el cumplimiento por parte del vehículo de los siguientes requisitos técnicos recogidos en el Manual VMP:</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" colspan="2">Requisitos técnicos</th>
+          <th class="cabeza_tabla">Certificación de cumplimiento</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="20%"/>
+        <col width="40%"/>
+        <col width="40%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sección 7.</td>
+          <td class="cuerpo_tabla_izq">Altura del manillar.</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sección 11.</td>
+          <td class="cuerpo_tabla_izq">Ruedas.</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sección 12.</td>
+          <td class="cuerpo_tabla_izq">Dispositivos de iluminación y retro reflectantes.</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sección 13.</td>
+          <td class="cuerpo_tabla_izq">Indicadores de dirección.</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sección 14.</td>
+          <td class="cuerpo_tabla_izq">Dispositivos sonoros.</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sección 20.</td>
+          <td class="cuerpo_tabla_izq">Anti-manipulación.</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sección 21.</td>
+          <td class="cuerpo_tabla_izq">Protección de la batería.</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sección 25.</td>
+          <td class="cuerpo_tabla_izq">Reposapiés.</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sección 27.</td>
+          <td class="cuerpo_tabla_izq">Porta-identificador.</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Sección 28.</td>
+          <td class="cuerpo_tabla_izq">Requisitos de carga para VMP para transporte de mercancías u otros servicios.</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo">Disponer de la capacidad y los medios necesarios y haber realizado sobre el citado vehículo los siguientes ensayos, tal y como se establece en el Manual VMP, con los siguientes resultados:</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" colspan="2">Ensayo</th>
+          <th class="cabeza_tabla">Ensayo superado satisfactoriamente</th>
+        </tr>
+      </thead>
+      <colgroup>
+        <col width="20%"/>
+        <col width="40%"/>
+        <col width="40%"/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Ensayos de integridad estructural.</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">5</td>
+          <td class="cuerpo_tabla_izq">Ensayos de estabilidad de vuelco para VMP de transporte de mercancías u otros.</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Ensayos sobre los requisitos eléctricos - apartado C (Resistencia a la humedad).</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">8</td>
+          <td class="cuerpo_tabla_izq">Ensayos de compatibilidad electromagnética.</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_izq">Ensayos de cierre combinado - apartado A (Repeticiones de apertura y cierre).</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">10</td>
+          <td class="cuerpo_tabla_izq">Ensayos de superficies calientes.</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">11</td>
+          <td class="cuerpo_tabla_izq">Ensayos de marcajes.</td>
+          <td class="cuerpo_tabla_centro">□</td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">El abajo firmante garantiza la durabilidad de los componentes y que en el diseño de los sistemas y elementos del vehículo se ha tenido en cuenta los requisitos relacionados con la seguridad de su conducción y utilización.</p>
+    <p class="parrafo">El abajo firmante, además, acepta y garantiza que los análisis específicos del vehículo, así como de estructuras, componentes o piezas del mismo realizados al vehículo se pondrán puntualmente a disposición del laboratorio autorizado y de la Subdirección General de Gestión de la Movilidad y Tecnología de la DGT, previa petición.</p>
+    <p class="parrafo">El fabricante deberá conservar evidencias del análisis realizado de la estructura del vehículo, incluyendo plataformas de carga y puntos de anclaje de carga, mediante cálculos, ensayos virtuales y / o ensayos estructurales, los cuales corroboren que estos elementos resisten a su uso y cargas declaradas, para el caso de que éstas sean requeridas por las autoridades competentes para su comprobación.</p>
+    <p class="parrafo_2">La presente declaración responsable se aplica a todos los vehículos incluidos en la Certificación VMP a cuya solicitud se adjunta.</p>
+    <p class="parrafo_2">Firma:</p>
+    <p class="parrafo_2">Nombre y cargo en la empresa: ________________</p>
+    <p class="parrafo">Lugar: ____________ Fecha: __________________</p>
+    <p class="centro_cursiva">Apéndice 4. Declaración responsable anti-manipulación</p>
+    <p class="centro_redonda">Declaración responsable del fabricante/representante autorizado sobre medidas para evitar la manipulación del grupo motopropulsor (antimanipulación) en Vehículos de Movilidad Personal (VMP)</p>
+    <p class="parrafo_2">Declaración responsable del fabricante/representante autorizado del vehículo sobre medidas para evitar la manipulación del grupo motopropulsor (antimanipulación), relativa a:</p>
+    <p class="parrafo_2">– La no comercialización de componentes intercambiables que puedan permitir que la unidad de propulsión supere los niveles de rendimiento aplicables a los VMP</p>
+    <p class="parrafo">– Modificaciones facilitadas por el fabricante que no aumenten el rendimiento de la unidad de propulsión del vehículo.</p>
+    <p class="parrafo">– Las modificaciones y la intercambiabilidad de piezas y componentes.</p>
+    <p class="parrafo_2">La ficha reducida deberá incluir una versión debidamente cumplimentada de la presente declaración responsable.</p>
+    <p class="parrafo_2">– Razón social y dirección del fabricante/representante autorizado: ____________</p>
+    <p class="parrafo">– Nombre y dirección del representante del fabricante (en su caso): ____________</p>
+    <p class="parrafo_2">Declara con respecto al vehículo:</p>
+    <p class="parrafo_2">– Marca (nombre comercial del fabricante/representante autorizado): ____________</p>
+    <p class="parrafo">– Modelo: _________________________</p>
+    <p class="parrafo">– Versión: _________________________</p>
+    <p class="parrafo_2">Que cumplirá con las siguientes condiciones:</p>
+    <p class="parrafo_2">1. Se compromete a no comercializar componentes intercambiables que puedan permitir que la unidad de propulsión supere los niveles de rendimiento aplicables a los VMP.</p>
+    <p class="parrafo">2. Los parámetros relevantes de anti-manipulación indicados a continuación deberán ser accesibles únicamente por los fabricantes o personal autorizado, y la modificación de los parámetros de configuración del software deberán realizarse mediante equipos no comerciales o altamente protegidos para evitar un fácil acceso. Estos parámetros son:</p>
+    <p class="parrafo_2">– Velocidad máxima del motor.</p>
+    <p class="parrafo">– Parámetros que afectan a la velocidad máxima del vehículo limitada por diseño.</p>
+    <p class="parrafo">– Relación de transmisión.</p>
+    <p class="parrafo">– Potencia máxima del motor.</p>
+    <p class="parrafo_2">En relación a esta protección, el fabricante deberá asegurar el origen de los componentes electrónicos y restringir la posibilidad de manipulación de estos y del software asociado, para evitar cualquier modificación de las características preestablecidas de fábrica del vehículo. Para ello dispondrá de diversas vías:</p>
+    <p class="parrafo_2">a. Si el vehículo no dispone de conectividad a dispositivos externos de usuario, el controlador electrónico del vehículo deberá tener algún distintivo o precinto original que solo el fabricante o un servicio técnico oficial especializado podrán manipular.</p>
+    <p class="parrafo">b. Si el vehículo dispone de conectividad a dispositivos externos se deberá asegurar mediante medios informáticos (cortafuegos, firmas electrónicas u otros elementos de seguridad) que las versiones del firmware que controla los parámetros relevantes antes citados, así como los valores de los mismos, son los previstos por el fabricante y no se puedan modificar. Se considera responsabilidad del fabricante establecer dichos elementos de seguridad que lo impidan.</p>
+    <p class="parrafo_2">3. Posibles modificaciones de la configuración certificada del vehículo deben ser prevenidas o compensadas por contramedidas efectivas, es decir, lógicas plausibles para detectar manipulaciones en sensores.</p>
+    <p class="parrafo">4. Conjunto cerrado de componentes (es decir, funcionamiento sólo con la batería desconectada).</p>
+    <p class="parrafo">5. Protección contra aberturas de los componentes accesibles sin evidencias de manipulación (precintados).</p>
+    <p class="parrafo_2">Firma:</p>
+    <p class="parrafo_2">Nombre y cargo en la empresa: _____________________________</p>
+    <p class="parrafo">Lugar: __________________ Fecha: _______________</p>
+    <p class="centro_cursiva">Apéndice 5. Ficha reducida VMP</p>
+    <p class="imagen">
+      <img class="frame" data-pdf="APENDICE_5_REVISADO.pdf" src="/datos/imagenes/disp/2022/18/987_10984097_1.png" width="1968" height="2466"/>
+    </p>
+    <p class="centro_redonda">FICHA REDUCIDA DE CARACTERÍSTICAS GENERALES (Reverso)</p>
+    <p class="parrafo_2">BASTIDOR:</p>
+    <p class="parrafo_2">Tipo:</p>
+    <p class="parrafo_2">SUSPENSIÓN:</p>
+    <p class="parrafo_2">Delantera:</p>
+    <p class="parrafo">Trasera:</p>
+    <p class="parrafo_2">TRANSMISIÓN:</p>
+    <p class="parrafo_2">Tipo:</p>
+    <p class="parrafo_2">MOTOR:</p>
+    <p class="parrafo_2">Marca:</p>
+    <p class="parrafo">Tipo:</p>
+    <p class="parrafo">Potencia nominal (W):</p>
+    <p class="parrafo">Tensión de trabajo:</p>
+    <p class="parrafo">Número de serie:</p>
+    <p class="parrafo">Asistente marcha atrás:</p>
+    <p class="parrafo_2">MASA:</p>
+    <p class="parrafo_2">Masa en orden de marcha (kg):</p>
+    <p class="parrafo">Masa máxima técnicamente admisible (kg):</p>
+    <p class="parrafo_2">ALUMBRADO Y SEÑALIZACIÓN:</p>
+    <p class="parrafo_2">Luz frontal:</p>
+    <p class="parrafo">Luz trasera:</p>
+    <p class="parrafo">Luz de freno:</p>
+    <p class="parrafo">Reflector frontal:</p>
+    <p class="parrafo">Reflectores posteriores:</p>
+    <p class="parrafo">Reflectores laterales:</p>
+    <p class="parrafo">Indicadores de dirección:</p>
+    <p class="parrafo_2">NEUMÁTICOS:</p>
+    <p class="parrafo_2">Número ruedas primer eje:</p>
+    <p class="parrafo">Número ruedas segundo eje:</p>
+    <p class="parrafo">Ø rueda primer eje:     Pres.:</p>
+    <p class="parrafo">Ø rueda segundo eje:     Pres.:</p>
+    <p class="parrafo">Índices mínimos de carga y velocidad</p>
+    <p class="parrafo">Primer eje:      Segundo eje:</p>
+    <p class="parrafo_2">LLANTAS:</p>
+    <p class="parrafo_2">Delanteras:</p>
+    <p class="parrafo">Traseras:</p>
+    <p class="parrafo_2">DISPOSITIVO DE FRENADO:</p>
+    <p class="parrafo_2">Breve descripción de instalación:</p>
+    <p class="parrafo">Delantero:</p>
+    <p class="parrafo">Trasero:</p>
+    <p class="parrafo">Combinado:</p>
+    <p class="parrafo">Parking:</p>
+    <p class="parrafo_2">BATERÍA:</p>
+    <p class="parrafo_2">Tensión:</p>
+    <p class="parrafo">Modelo:</p>
+    <p class="parrafo">Fabricante:</p>
+    <p class="parrafo">N.º de celdas:</p>
+    <p class="parrafo">Capacidad:</p>
+    <p class="parrafo">Autonomía (km):</p>
+    <p class="parrafo_2">VELOCÍMETRO:</p>
+    <p class="parrafo_2">Tipo:</p>
+    <p class="parrafo_2">DISPOSITIVOS SONOROS:</p>
+    <p class="parrafo_2">Tipo:</p>
+    <p class="parrafo">Potencia sonora dB(A):</p>
+    <p class="parrafo">Aviso marcha atrás:</p>
+    <p class="parrafo_2">CARGA (EN SU CASO):</p>
+    <p class="parrafo_2">Tipo de servicio:</p>
+    <p class="parrafo">Superficie plataforma (m<sup>2</sup>):</p>
+    <p class="parrafo">Volumen cajón (litros):</p>
+    <p class="parrafo">Señalización de la carga:</p>
+    <p class="parrafo">Fijación de la carga:</p>
+    <p class="parrafo_2">VARIOS:</p>
+    <p class="parrafo_2">Sistema de plegado:</p>
+    <p class="parrafo">Superficie reposapiés:</p>
+    <p class="parrafo">Potencia autoequilibrado:</p>
+    <p class="parrafo">Sillín:      Altura sillín (mm):</p>
+    <p class="parrafo">Conectividad:</p>
+    <p class="parrafo">Firmware actualizable:</p>
+    <p class="parrafo">Versión firmware fábrica:</p>
+    <p class="parrafo_2">FIRMA Y FECHA DEL FABRICANTE/INGENIERO:</p>
+    <p class="parrafo_2">El fabricante/representante autorizado deberá facilitar además la siguiente información:</p>
+    <p class="parrafo_2">– Esquema eléctrico.</p>
+    <p class="parrafo">– Aportar breve descripción identificando los posibles escenarios en los que pueda aparecer un paro en el sistema debido a una emergencia/fallo y sus estrategias.</p>
+    <p class="parrafo">– Identificación y ubicación de luces/reflectores.</p>
+    <p class="parrafo">– Declaración responsable anti-manipulación (se adjunta plantilla).</p>
+    <p class="parrafo_2">Definiciones conceptos. Ficha Reducida.</p>
+    <p class="parrafo_2">A continuación, se detallan las definiciones para los conceptos que aparecen en la Ficha Reducida, Apéndice 2.</p>
+    <p class="parrafo_2">a) Modelo: Grupo de vehículos, incluidas las versiones, de una categoría concreta que sean idénticos al menos en los siguientes aspectos esenciales:</p>
+    <p class="parrafo_2">– el fabricante;</p>
+    <p class="parrafo">– el bastidor, el cuadro, el sub-cuadro o la estructura a los que se adhieren los principales componentes;</p>
+    <p class="parrafo">– la designación del modelo establecido por el fabricante;</p>
+    <p class="parrafo">– la velocidad máxima;</p>
+    <p class="parrafo">– la potencia nominal continua máxima;</p>
+    <p class="parrafo">– el tipo de motor.</p>
+    <p class="parrafo_2">b) Versión: Grupo de vehículos con la misma combinación de elementos que figuran en la hoja de características.</p>
+    <p class="parrafo">c) Masa en orden de marcha: masa del vehículo tal y como se define en el artículo 5 del Reglamento (UE) n° 168/2013.</p>
+    <p class="parrafo">d) Masa máxima técnicamente admisible: la masa máxima asignada a un vehículo en función de sus características de fabricación y sus prestaciones nominales.</p>
+    <p class="parrafo">e) Potencia nominal máxima continua: Potencia de salida continua (o constante) especificada por el fabricante.</p>
+    <p class="centro_cursiva">Apéndice 6. Modelo de Certificado de VMP</p>
+    <p class="imagen">
+      <img class="frame" data-pdf="LOGO_LABORATORIO_REVISADO.pdf" src="/datos/imagenes/disp/2022/18/987_10978924_1.png" width="1979" height="2527"/>
+    </p>
+    <p class="centro_redonda">Condiciones adicionales y responsabilidades del fabricante / representante autorizado</p>
+    <p class="parrafo_2">Cada vehículo individual de la producción en serie debe coincidir exactamente con los documentos de aprobación. Los cambios en los productos individuales obligarán a pasar por un nuevo proceso de certificación.</p>
+    <p class="parrafo">La Dirección General de Tráfico debe ser informada inmediatamente de cualquier cambio en el nombre de la empresa, la dirección y las instalaciones de producción, así como un agente de entrega autorizado o representante autorizado nombrado cuando se otorgó la aprobación.</p>
+    <p class="parrafo">Las violaciones de estas disposiciones o el incumplimiento de los requisitos técnicos que han dado lugar al otorgamiento del certificado VMP darán como resultado la revocación del certificado de VMP.</p>
+    <p class="parrafo">La Dirección General de Tráfico, o la entidad que esta determine, pueden verificar en cualquier momento en el debido ejercicio de sus facultades, que la producción se está realizando de acuerdo con el permiso, para lo cual el fabricante o representante autorizado deberá facilitar el acceso a las instalaciones, así como suministrar los vehículos de muestra del modelo certificado que sean requeridos para la realización de las oportunas comprobaciones.</p>
+    <p class="parrafo">Esta certificación VMP es intransferible, debiéndose realizar, en su caso, los oportunos trámites de modificación del titular ante la Dirección General de Tráfico.</p>
+    <p class="parrafo">Cuando el laboratorio autorizado expida una certificación de VMP en la que conste que no queda acreditado que se cumplen las condiciones técnicas reglamentarias, el fabricante/representante autorizado podrá mostrar su disconformidad ante el laboratorio y, en caso de desacuerdo, ante la Subdirección General de Gestión de la Movilidad y Tecnología de la DGT. Esta Subdirección requerirá del laboratorio los antecedentes y practicará las comprobaciones que correspondan, dando audiencia al fabricante/representante autorizado en la forma prevista en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y dictará resolución en el plazo máximo de tres meses. En tanto no exista una revocación de la certificación negativa por parte de la Administración, el fabricante/representante no podrá presentar la misma solicitud de certificación en otro laboratorio.</p>
+    <p class="centro_cursiva">Apéndice 7. Cuadro de aplicabilidad de requisitos</p>
+    <p class="centro_redonda">Tabla 5. Cuadro de aplicabilidad de requisitos</p>
+    <table class="tabla">
+      <colgroup>
+        <col/>
+        <col/>
+        <col/>
+        <col/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla">Sección</th>
+          <th class="cabeza_tabla">Requisito Manual VMP</th>
+          <th class="cabeza_tabla">VMP de transporte personal</th>
+          <th class="cabeza_tabla">VMP de transporte de mercancías u otros servicios</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Plazas.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Motorización.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">1 y 2</td>
+          <td class="cuerpo_tabla_izq">Velocidad máxima.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">1</td>
+          <td class="cuerpo_tabla_izq">Batería Voltaje máx.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Potencia nominal máxima.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Masa en orden de marcha.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Longitud máxima.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Altura máxima.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">2</td>
+          <td class="cuerpo_tabla_izq">Anchura máxima.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Potencia nominal máxima.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Masa Máxima Técnicamente Admisible (MMTA).</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Longitud máxima.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Altura máxima.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Anchura máxima.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Limitaciones al tipo de mercancías.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">3</td>
+          <td class="cuerpo_tabla_izq">Exclusiones.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">6</td>
+          <td class="cuerpo_tabla_izq">Altura del sillín.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">7</td>
+          <td class="cuerpo_tabla_izq">Altura del manillar.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">8</td>
+          <td class="cuerpo_tabla_izq">Control de velocidad máxima.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">9</td>
+          <td class="cuerpo_tabla_izq">Sistemas de frenado.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X + Freno de estacionamiento (más de 2 ruedas) + Actuadores para cada eje</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">10</td>
+          <td class="cuerpo_tabla_izq">Sistema de estabilización en aparcamiento.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">11</td>
+          <td class="cuerpo_tabla_izq">Ruedas.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">12</td>
+          <td class="cuerpo_tabla_izq">Dispositivos luminosos.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">
+            <p class="cuerpo_tabla_centro">X + Reflectantes carga</p>
+            <p class="cuerpo_tabla_centro">+ Función luz de freno</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">13</td>
+          <td class="cuerpo_tabla_izq">Indicadores de dirección.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">14</td>
+          <td class="cuerpo_tabla_izq">Dispositivos sonoros.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X + Aviso marcha atrás</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">15</td>
+          <td class="cuerpo_tabla_izq">Integridad estructural.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">16</td>
+          <td class="cuerpo_tabla_izq">Requisitos eléctricos.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">17</td>
+          <td class="cuerpo_tabla_izq">Control de potencia y apagado.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">18</td>
+          <td class="cuerpo_tabla_izq">Indicadores de información.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">19</td>
+          <td class="cuerpo_tabla_izq">Compatibilidad electromagnética.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">20</td>
+          <td class="cuerpo_tabla_izq">Anti-manipulación.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">21</td>
+          <td class="cuerpo_tabla_izq">Protección de la batería.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">22</td>
+          <td class="cuerpo_tabla_izq">Sistema de cierre combinado.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">23</td>
+          <td class="cuerpo_tabla_izq">Salientes exteriores.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">24</td>
+          <td class="cuerpo_tabla_izq">Superficies calientes.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">25</td>
+          <td class="cuerpo_tabla_izq">Reposapiés.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">26</td>
+          <td class="cuerpo_tabla_izq">Información del producto y marcajes.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">27</td>
+          <td class="cuerpo_tabla_izq">Porta-identificador.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">28</td>
+          <td class="cuerpo_tabla_izq">Requisitos de la carga.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">29</td>
+          <td class="cuerpo_tabla_izq">Retrovisores.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">30</td>
+          <td class="cuerpo_tabla_izq">Asistente de marcha atrás.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">31</td>
+          <td class="cuerpo_tabla_izq">Proceso de certificación de VMP.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">Ap1-1</td>
+          <td class="cuerpo_tabla_izq">Ensayos de velocidad máxima.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">Ap1-2</td>
+          <td class="cuerpo_tabla_izq">Ensayos de frenado.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">Ap1-3</td>
+          <td class="cuerpo_tabla_izq">Ensayos de integridad estructural.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">Ap1-4</td>
+          <td class="cuerpo_tabla_izq">Ensayos de comportamiento dinámico.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">Ap1-5</td>
+          <td class="cuerpo_tabla_izq">Ensayos de estabilidad de vuelco.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">Ap1-6</td>
+          <td class="cuerpo_tabla_izq">Ensayos sobre los requisitos eléctricos.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">Ap1-7</td>
+          <td class="cuerpo_tabla_izq">Ensayos de apagado eléctrico.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">Ap1-8</td>
+          <td class="cuerpo_tabla_izq">Ensayos de compatibilidad electromagnética.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">Ap1-9</td>
+          <td class="cuerpo_tabla_izq">Ensayos de cierre combinado.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">Ap1-10</td>
+          <td class="cuerpo_tabla_izq">Ensayos de superficies calientes.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_centro">Ap1-11</td>
+          <td class="cuerpo_tabla_izq">Ensayos de marcajes.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>

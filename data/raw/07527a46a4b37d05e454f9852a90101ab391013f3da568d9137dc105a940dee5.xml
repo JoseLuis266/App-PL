@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <metadatos>
+      <fecha_actualizacion>20251217T115634Z</fecha_actualizacion>
+      <identificador>BOE-A-1986-6859</identificador>
+      <ambito codigo="1">Estatal</ambito>
+      <departamento codigo="7723">Jefatura del Estado</departamento>
+      <rango codigo="1290">Ley Orgánica</rango>
+      <fecha_disposicion>19860313</fecha_disposicion>
+      <numero_oficial>2/1986</numero_oficial>
+      <titulo>Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad.</titulo>
+      <diario>Boletín Oficial del Estado</diario>
+      <fecha_publicacion>19860314</fecha_publicacion>
+      <diario_numero>63</diario_numero>
+      <fecha_vigencia>19860403</fecha_vigencia>
+      <estatus_derogacion>N</estatus_derogacion>
+      <estatus_anulacion>N</estatus_anulacion>
+      <vigencia_agotada>N</vigencia_agotada>
+      <estado_consolidacion codigo="3">Finalizado</estado_consolidacion>
+      <url_eli>https://www.boe.es/eli/es/lo/1986/03/13/2</url_eli>
+      <url_html_consolidada>https://www.boe.es/buscar/act.php?id=BOE-A-1986-6859</url_html_consolidada>
+    </metadatos>
+  </data>
+</response>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a14" tipo="precepto" titulo="Artículo 14">
+      <version id_norma="BOE-A-2007-4233" fecha_publicacion="20070301" fecha_vigencia="20070302">
+        <p class="articulo">Artículo 14. Derechos en relación con las Administraciones públicas.</p>
+        <p class="parrafo">1. Sin perjuicio de lo que dispone la legislación básica del Estado, una ley del Parlamento de las Illes Balears regulará el derecho a una buena administración y al acceso a los archivos y registros administrativos de las instituciones y Administraciones públicas de las Illes Balears.</p>
+        <p class="parrafo">2. Todos los ciudadanos tienen derecho a que las Administraciones públicas de las Illes Balears traten sus asuntos de forma objetiva e imparcial y en un plazo razonable, a gozar de servicios públicos de calidad, así como a acceder a la función pública en condiciones de igualdad y según los principios constitucionales de mérito y capacidad.</p>
+        <p class="parrafo">3. Los ciudadanos de las Illes Balears tendrán derecho a dirigirse a la Administración de la Comunidad Autónoma en cualquiera de sus dos lenguas oficiales y a recibir respuesta en la misma lengua utilizada.</p>
+        <p class="parrafo">4. En el ámbito de sus competencias, la Comunidad Autónoma garantizará la calidad de los servicios de la Administración de Justicia, la atención a las víctimas y el acceso a la justicia gratuita.</p>
+        <p class="parrafo">5. Las Administraciones públicas de las Illes Balears garantizarán políticas de protección y defensa de consumidores y usuarios y de sus asociaciones, así como de su derecho a ser informados y a intervenir, directamente o a través de sus representantes, ante las Administraciones públicas de las Illes Balears de acuerdo con la legislación del Estado y las leyes del Parlamento.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20241015194040">
+  <metadatos>
+    <identificador>BOE-A-1978-13828</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7723">Jefatura del Estado</departamento>
+    <rango codigo="1300">Ley</rango>
+    <fecha_disposicion>19780526</fecha_disposicion>
+    <numero_oficial>28/1978</numero_oficial>
+    <titulo>Ley 28/1978, de 26 de mayo, sobre modificación de los artículos 746 y 850 de la Ley de Enjuiciamiento Criminal.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>19780530</fecha_publicacion>
+    <diario_numero>128</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>12442</pagina_inicial>
+    <pagina_final>12442</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/1978/05/30/pdfs/A12442-12442.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia>19780619</fecha_vigencia>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+  </metadatos>
+  <analisis>
+    <materias>
+      <materia codigo="3199" orden="1">Enjuiciamiento Criminal</materia>
+      <materia codigo="5894" orden="2">Recurso de Casación</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1882-6036" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>el art.. 746 y el 850 de la Ley de Enjuiciamiento Criminal aprobada por Real Decreto de 14 de septiembre de 1882 (Gazeta)</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas/>
+  </analisis>
+  <texto>
+    <p class="parrafo_2">De conformidad con la Ley aprobada por las Cortes, vengo en sancionar:</p>
+    <p class="articulo">Artículo primero.</p>
+    <p class="parrafo">Se agrega al artículo setecientos cuarenta y seis de la Ley de Enjuiciamiento Criminal, como último párrafo, el siguiente:</p>
+    <p class="sangrado_2">«No se suspenderá el juicio por la enfermedad o incomparecencia de alguno de los procesados citados personalmente, siempre que el Tribunal estimare, con audiencia de las partes y haciendo constar en el acta del juicio las razones de la decisión, que existen elementos suficientes para juzgarles con independencia.»</p>
+    <p class="articulo">Artículo segundo.</p>
+    <p class="parrafo">Se agrega al artículo ochocientos cincuenta de la Ley de Enjuiciamiento Criminal un párrafo quinto con el siguiente texto:</p>
+    <p class="sangrado_2">«Quinto. Cuando el Tribunal haya decidido no suspender el juicio para los procesados comparecidos. En el caso de no haber concurrido algún acusado, siempre que hubiere causa fundada que se oponga a juzgarles con independencia y no haya recaído declaración de rebeldía.»</p>
+    <p class="parrafo_2">Dada en Madrid a veintiséis de mayo de mil novecientos setenta y ocho.</p>
+    <p class="firma_rey">JUAN CARLOS</p>
+    <p class="firma_ministro">El Presidente de las Cortes,</p>
+    <p class="firma_ministro">ANTONIO HERNÁNDEZ GIL</p>
+  </texto>
+</documento>

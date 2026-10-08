@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a280" tipo="precepto" titulo="Artículo 280">
+      <version id_norma="BOE-A-1995-25444" fecha_publicacion="19951124" fecha_vigencia="19960524">
+        <p class="articulo">Artículo 280.</p>
+        <p class="parrafo">El que, con conocimiento de su origen ilícito, y sin haber tomado parte en su descubrimiento, realizare alguna de las conductas descritas en los dos artículos anteriores, será castigado con la pena de prisión de uno a tres años y multa de doce a veinticuatro meses.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

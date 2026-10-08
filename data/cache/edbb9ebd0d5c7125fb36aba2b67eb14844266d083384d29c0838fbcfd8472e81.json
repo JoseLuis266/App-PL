@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-1893/analisis",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-1893/analisis",
+  "sha256": "aeaccd4d96a0ab2e3d3902ca512767be780c81997bc1f493d746c9de2935d016",
+  "archivo": "data/raw/aeaccd4d96a0ab2e3d3902ca512767be780c81997bc1f493d746c9de2935d016.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:30:42.056653+00:00"
+}

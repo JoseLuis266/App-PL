@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2019-14727",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2019-14727",
+  "sha256": "c17730f0d635f2601ad238fc037af6d8f5064a6f626669bde3cf46bee3de7f0c",
+  "archivo": "data/raw/c17730f0d635f2601ad238fc037af6d8f5064a6f626669bde3cf46bee3de7f0c.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:26.315458+00:00"
+}

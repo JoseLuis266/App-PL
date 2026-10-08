@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20241019121808">
+  <metadatos>
+    <identificador>BOE-T-2008-14027</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="1410">Tribunal Constitucional</departamento>
+    <rango codigo="1240">Sentencia</rango>
+    <fecha_disposicion>20080717</fecha_disposicion>
+    <numero_oficial>83/2008</numero_oficial>
+    <titulo>Pleno. Sentencia 83/2008, de 17 de julio de 2008. Cuestión de inconstitucionalidad 5163-2006 y 19 más (acumuladas). Planteadas por el Juzgado de lo Penal núm. 4 de Murcia respecto al artículo 153.1 del Código penal en la redacción dada por la Ley Orgánica 1/2004, de 28 de diciembre, de medidas de protección integral contra la violencia de género. Supuesta vulneración de los principios de igualdad y de culpabilidad: STC 59/2008. Votos particulares.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>20080819</fecha_publicacion>
+    <diario_numero>200</diario_numero>
+    <seccion>T</seccion>
+    <subseccion/>
+    <pagina_inicial>23</pagina_inicial>
+    <pagina_final>26</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/2008/08/19/pdfs/T00023-00026.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia/>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>T</letra_imagen>
+    <suplemento_letra_imagen/>
+  </metadatos>
+  <analisis>
+    <materias>
+      <materia codigo="886" orden="">Código Penal</materia>
+      <materia codigo="2253" orden="">Cuestiones de inconstitucionalidad</materia>
+      <materia codigo="4845" orden="">Malos tratos</materia>
+      <materia codigo="6951" orden="">Tribunal Constitucional</materia>
+      <materia codigo="7928" orden="">Violencia de género</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2006-10967" orden="4005">
+          <palabra codigo="693">DICTADA</palabra>
+          <texto>en las CUESTIONES acumuladas 5163, 5439, 5937, 6034, 8109, 8231, 8232, 9154 y 9155/2006, 306, 4660, 6288, 7617, 8846, 8847, 8973, 9018, 9019, 9746/2007 y 483/2008</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2006-10969" orden="4006">
+          <palabra codigo="693">DICTADA</palabra>
+          <texto>,</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2006-11949" orden="4007">
+          <palabra codigo="693">DICTADA</palabra>
+          <texto>,</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2006-13093" orden="4008">
+          <palabra codigo="693">DICTADA</palabra>
+          <texto>,</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2006-17568" orden="4009">
+          <palabra codigo="693">DICTADA</palabra>
+          <texto>,</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2006-17569" orden="4010">
+          <palabra codigo="693">DICTADA</palabra>
+          <texto>,</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2006-17570" orden="4011">
+          <palabra codigo="693">DICTADA</palabra>
+          <texto>,</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2006-20152" orden="4012">
+          <palabra codigo="693">DICTADA</palabra>
+          <texto>,</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2006-19496" orden="4013">
+          <palabra codigo="693">DICTADA</palabra>
+          <texto>,</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2007-4365" orden="4014">
+          <palabra codigo="693">DICTADA</palabra>
+          <texto>,</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2007-13273" orden="4015">
+          <palabra codigo="693">DICTADA</palabra>
+          <texto>,</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2007-16790" orden="4016">
+          <palabra codigo="693">DICTADA</palabra>
+          <texto>,</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2007-19008" orden="4017">
+          <palabra codigo="693">DICTADA</palabra>
+          <texto>,</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2007-22522" orden="4018">
+          <palabra codigo="693">DICTADA</palabra>
+          <texto>,</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2007-22523" orden="4019">
+          <palabra codigo="693">DICTADA</palabra>
+          <texto>,</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2008-1619" orden="4020">
+          <palabra codigo="693">DICTADA</palabra>
+          <texto>,</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2008-3513" orden="4021">
+          <palabra codigo="693">DICTADA</palabra>
+          <texto>,</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2008-3514" orden="4022">
+          <palabra codigo="693">DICTADA</palabra>
+          <texto>,</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2008-4893" orden="4023">
+          <palabra codigo="693">DICTADA</palabra>
+          <texto>,</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2008-3521" orden="4024">
+          <palabra codigo="693">DICTADA</palabra>
+          <texto>,</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1995-25444" orden="4025">
+          <palabra codigo="470">DECLARA</palabra>
+          <texto>La DESESTIMACIÓN de las CUESTIONES planteadas en relación con el art. 153.1 de la Ley Orgánica 10/1995, de 23 de noviembre, en la redacción dada por LEY ORGÁNICA 1/2004, de 28 de diciembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2004-21760" orden="4026">
+          <palabra codigo="470">DECLARA</palabra>
+          <texto>,</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas>
+      <alerta codigo="111" orden="">Derecho Constitucional</alerta>
+      <alerta codigo="113" orden="">Derecho Penal</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="ATEXTO_NORMAL">
+El Pleno del Tribunal Constitucional, compuesto por doña María Emilia Casas Baamonde, Presidenta, don Guillermo Jiménez Sánchez, don Vicente Conde Martín de Hijas, don Javier Delgado Barrio, doña Elisa Pérez Vera, don Eugeni Gay Montalvo, don Jorge Rodríguez-Zapata Pérez, don Ramón Rodríguez Arribas, don Pascual Sala Sánchez, don Manuel Aragón Reyes y don Pablo Pérez Tremps, Magistrados, ha pronunciado
+</p>
+    <p class="RBC_RED_CENTRO">
+EN NOMBRE DEL REY
+</p>
+    <p class="RBF_SFRAN_SOLA">
+la siguiente
+</p>
+    <p class="RBC_RED_CENTRO">
+SENTENCIA
+</p>
+    <p class="ATEXTO_BLANCO_6">
+En las cuestiones de inconstitucionalidad acumuladas núms. 5163-2006, 5439-2006, 5937-2006, 6034-2006, 8109-2006, 8231-2006, 8232-2006, 9154-2006, 9155-2006, 306-2007, 4660-2007, 6288-2007, 7617-2007, 8846-2007, 8847-2007, 8973-2007, 9018-2007, 9019-2007, 9746-2007 y 483-2008, planteadas por el Juzgado de lo Penal núm. 4 de Murcia, respecto al art. 153.1 del Código penal en la redacción dada al mismo por el art. 37 de la Ley Orgánica 1/2004, de 28 de diciembre, de medidas de protección integral contra la violencia de género. Han comparecido el Abogado del Estado y el Fiscal General del Estado. Ha sido Ponente el Magistrado don Manuel Aragón Reyes, quien expresa el parecer del Tribunal.
+</p>
+    <p class="NBC_SUBCAPITULO">
+I. Antecedentes
+</p>
+    <p class="ATEXTO_BLANCO_6">
+1. El día 10 de mayo de 2006 tiene entrada en el Registro General de este Tribunal, con el núm. 5163-2006, un escrito del Juzgado de lo Penal núm. 4 de Murcia al que se acompaña, junto al testimonio del correspondiente procedimiento (procedimiento abreviado 519-2005), el Auto del referido Juzgado de 21 de abril de 2006 en el que se acuerda plantear cuestión de inconstitucionalidad respecto al art. 153.1 del Código penal por su posible contradicción con los arts. 10.1, 14 y 24.2 de la Constitución.
+</p>
+    <p class="ATEXTO_NORMAL">
+Este mismo planteamiento lo realiza el mismo Juzgado en otros procedimientos, con los siguientes números de registro y Autos de cuestionamiento: 5439-2006, Auto de 4 de mayo de 2006 (procedimiento abreviado 106-2006); 5937-2006, Auto de 11 de mayo de 2006 (procedimiento abreviado 121-2006); 6034-2006, Auto de 12 de mayo de 2006 (procedimiento abreviado 107-2006); 8109-2006, Auto de 16 de junio de 2006 (procedimiento abreviado 104-2006); 8231-2006, Auto de 31 de julio de 2006 (procedimiento abreviado 158-2006); 8232-2006, Auto de 17 de junio de 2006 (procedimiento abreviado 209-2006); 9154-2006, Auto de 17 de agosto de 2006 (procedimiento abreviado 205-2006); 9155-2006, Auto de 17 de agosto de 2006 (procedimiento abreviado 247-2006); 306-2007, Auto de 21 de diciembre de 2006 (procedimiento abreviado 376-2006); 4660-2007, Auto de 23 de abril de 2007 (procedimiento abreviado 433-2006); 6288-2007, Auto de 28 de junio de 2007 (procedimiento abreviado 17-2007); 7617-2007, Auto de 28 de junio de 2007 (procedimiento abreviado 190-2007); 8846-2007, Auto de 19 de octubre de 2007 (procedimiento abreviado 365-2007); 8847-2007, Auto de 6 de noviembre de 2007 (procedimiento abreviado 246-2007); 8973-2007, Auto de 11 de octubre de 2007 (procedimiento abreviado 101-2007); 9018-2007, Auto de 20 de septiembre de 2007 (procedimiento abreviado 389-2007); 9019-2007, Auto de 11 de octubre de 2007 (procedimiento abreviado 198-2007); 9746-2007, Auto de 12 de noviembre de 2007 (procedimiento abreviado 303-2007) y 483-2008, Auto de 16 de agosto de 2007 (procedimiento abreviado 253-2007).
+</p>
+    <p class="ATEXTO_BLANCO_4">
+2. En todos los procedimientos reseñados se celebró el juicio oral, y tras el mismo, se acordó oír a las partes y al Ministerio Fiscal, por el plazo común e improrrogable de diez días, para que pudieran alegar sobre la pertinencia de plantear cuestión de inconstitucionalidad respecto al art. 153.1 CP por posible vulneración de los artículos 10.1, 14 y 24.2 CE.
+3. Consideran los Autos de cuestionamiento que el art. 153.1 CP no satisface las exigencias de los arts. 14, 24.2 y 10.1 CE, en la medida en que establece una diferencia de trato punitivo en función del sexo de los sujetos activo y pasivo, sin que pueda reconocerse un criterio objetivo razonable que justifique tal diferenciación, de acuerdo con criterios o juicios de valor generalmente aceptados.
+</p>
+    <p class="ATEXTO_NORMAL">
+Tras analizar el cumplimiento de los requisitos establecidos en el art. 35.2 LOTC, formular el juicio de relevancia y relatar la evolución del precepto, los Autos precisan que la duda de constitucionalidad se suscita, tan sólo, en cuanto al primer inciso del párrafo 1 del art. 153, en cuanto hace referencia a la condición necesariamente femenina de la víctima y, correlativamente, masculina del agresor, como elemento de agravación de la pena de prisión que constituye uno de los términos de la alternativa y de la pena potestativa de inhabilitación para el ejercicio de patria potestad, tutela, curatela, guarda o acogimiento, con los efectos reflejos correspondientes descritos en cuanto a la agravación del párrafo 3, a la atenuación del último párrafo y al régimen de alternativas a la ejecución de penas privativas de libertad. No se cuestiona, por el contrario, la constitucionalidad de la agravación referida a la condición de persona especialmente vulnerable que conviva con el autor.
+El precepto cuestionado vulneraría el art. 14 CE «en razón de la discriminación por razón de sexo que dimana de la definición de los sujetos activo y pasivo en el precepto cuya constitucionalidad se cuestiona», si bien toda la argumentación se apoya en la Jurisprudencia de este Tribunal referida la cláusula general de igualdad.
+Constatada la diferencia de trato, se analiza la justificación de dicha diferencia desde la perspectiva de la doctrina de la «acción positiva», concluyendo que las medidas penales como la cuestionada, que endurecen la respuesta punitiva en atención a la diferenciación sexual, no tienen el carácter de «acciones positivas». Según el órgano promotor, no se alcanza a comprender cómo favorece la igualdad de oportunidades para la mujer, en la línea señalada por el Tribunal Constitucional (STC 229/1992), el castigo más severo de conductas como la enjuiciada cuando son cometidas por un hombre. Aún más incomprensible resulta esa hipótesis si se tiene en cuenta la insistencia del intérprete constitucional en la idea de eliminación de trabas para la mujer, más como agente de su realización personal que como sujeto protegido, lo que significa un superior respeto a la dignidad de la mujer como persona capaz de regir sus propios destinos en igualdad de condiciones, una vez eliminados esos obstáculos de acceso, a través de una política de promoción, que no de protección. Y tampoco pueden entenderse esta tipificación como una fórmula de «reparación o compensación» colectivas por pretéritas discriminaciones sufridas por las mujeres como grupo social, pues se traduciría en la imputación a cada acusado varón de una responsabilidad también colectiva, como «representante o heredero del grupo opresor», lo que chocaría frontalmente con el principio de culpabilidad que rige el Derecho penal. Se cuestiona, por tanto, la introducción de medidas positivas en un ámbito como el penal, ajeno a aquéllos en que se ha venido desarrollando la acción positiva, como el laboral, educativo o de representación política, y se pone en duda la legitimidad que, con tan errada etiqueta, se pretende revestir a estas medidas penales, insólitas en el Derecho comparado, dado que sólo se contemplan, en el ámbito europeo, en las legislaciones de España y Suecia.
+A continuación, se aborda el juicio de proporcionalidad entre la medida adoptada, el resultado producido y la finalidad pretendida, precisando que la cuestión se limita a la diferenciación de sujetos en relación con el subtipo agravado del art. 153.1 CP no tanto por la diferencia real de sustraer un tramo de pena alternativa de la consideración del Juez en la determinación de la pena, de extender el máximo de la pena potestativa de inhabilitación o de agravar el régimen de alternativas, sino por la propia naturaleza penal de las medidas, sin que ni la finalidad preventiva de las conductas, ni el «argumento estadístico» permitan justificar la agravación de la sanción penal ante conductas idénticas en atención al sexo masculino del autor y femenino de la víctima. Y en cuanto al fundamento de la agravación como medida antidiscriminatoria, exigiendo un móvil o ánimo discriminatorio, en conexión con la definición de violencia de género contenida en el art. 1.1 de la Ley Orgánica 1/2004, entiende la Juez que la vinculación del art. 153.1 CP con el concepto de violencia de género es arriesgada a la luz de los principios de legalidad y taxatividad de las normas penales, habida cuenta de que el legislador no ha empleado aquí el término «violencia de género», lo que introduce un muy relevante riesgo para la seguridad jurídica; que, en todo caso, ello implicaría realizar una interpretación conforme a la Constitución de la norma no literal y arriesgada; y que dicho móvil o ánimo discriminatorio es concebible, al menos en abstracto, tanto respecto de sujetos activos hombres como de sujetos activos mujeres. Además, una presunción de intención discriminatoria en la conducta penal descrita vulneraría el principio de culpabilidad, de responsabilidad por el hecho y de presunción de inocencia, recuperando el Derecho penal de autor. El sujeto activo se erige, por razón de su pertenencia al grupo identificado como opresor, en agresor cualificado, con independencia de que el sujeto, en concreto, realice o no la conducta «opresora» o discriminatoria, sin exigir que esa conducta concreta cometida por él, con nombre y apellidos y no por «un hombre», se revele discriminatoria. En definitiva, tan falsa es la afirmación de que sólo en las relaciones de afectividad conyugal o análoga, la violencia tiene motivación de género, como la de que, en todas esas relaciones cualquier conducta violenta, por más que sea dirigida del hombre a la mujer, lo tiene.
+Por otra parte, se alega que la limitación de la conducta típica a la violencia conyugal es sospechosa de arbitrariedad, pues la dominación violenta del hombre sobre la mujer puede darse en otro tipo de relaciones afectivas entre hombre y mujer, incluso con mayor virulencia, como sucedería en las paternofiliales. Y se argumenta asimismo que la selección de tipos en los que se procede a la diferenciación no parece objetiva y razonable, por la exclusión del tipo de maltrato habitual y los delitos contra la libertad, la libertad sexual y la vida, o los más graves contra la integridad física y psíquica. Si se pretendiese la presunción de la presencia de un componente discriminatorio o de género en algún tipo de conductas violentas, la misma debería referirse a aquéllas en las que se revela con claridad lo que se ha denominado «perfil del maltratador» o el «síndrome de mujer maltratada». Pretender que el desvalor específico adicional o el móvil discriminatorio, con diferencia de sexo, es razonable como justificación de la diferencia en sede de maltrato ocasional, sin ir acompañado de una previsión paralela en sede, mucho más evidente, de maltrato habitual, cuestiona severamente la razonabilidad misma del texto.
+El caso límite para contrastar las anteriores reflexiones sería el de los malos tratos recíprocos, donde la ley castiga más al hombre que a la mujer porque en la agresión del hombre a la mujer o existiría un móvil discriminatorio presunto o, en el mejor de los casos, precisado de prueba, sólo posible en esa agresión, o se valoraría, como implícito, un desvalor adicional discriminatorio, ausente por decisión del legislador en la agresión contraria. De tal modo que al hombre o se le castiga más por lo que es que por lo que hace, o se presume en lo que hace algo que no se corresponde necesariamente con la totalidad de casos, afirmaciones demasiado problemáticas para justificar razonable y objetivamente la desigualdad.
+Finalmente, bajo el epígrafe «la agravación y el abuso de superioridad», se rechaza tanto el abuso de superioridad como fundamento de la agravación, como la especial vulnerabilidad de la mujer frente al maltrato de su pareja, que considera contrario a la dignidad de la mujer como persona, consagrada en el art. 10 CE. La posibilidad de enlazar esta especial vulnerabilidad de la mujer con la identificación de un colectivo de riesgo en las mujeres respecto de sus parejas masculinas no podría utilizarse como justificación de la diferencia de trato en la norma legal cuestionada. Una cosa es identificar, a través de estadísticas, estudios o informes esa realidad sociológica, y de manera legítima y responsable adoptar medidas legislativas consecuentes con esa identificación, y otra, muy distinta, presumir que toda mujer víctima de un maltrato ocasional por parte de su pareja o ex pareja masculina, como perteneciente a ese colectivo identificado de riesgo, es especialmente vulnerable. El Tribunal Constitucional rechaza las medidas en las que predomina una «visión paternalista» de la mujer y en las que el privilegio instituido a su favor se revela como una forma encubierta de discriminación que se vuelve contra ella. Según se reseña en el Auto de planteamiento de esta cuestión, postulados normativos como el que se cuestiona, aunque pretendan lo contrario, no hacen sino incidir en la imagen de debilidad y postración de la mujer, como persona vulnerable o inferior, necesitada de una especial protección, ya provenga ésta, como sucedía en la convicción social de tiempos pasados, del padre o el marido, ya, como parece suceder ahora, del Estado.
+En definitiva, se concluye que la norma cuestionada establece una diferencia de trato punitivo en función del sexo de los sujetos activo y pasivo, carente de una justificación objetiva y razonable, de modo que la introducción de la desigualdad, por la naturaleza penal de la norma, se considera que tiene un coste inasumible para los valores constitucionales.
+</p>
+    <p class="ATEXTO_BLANCO_4">
+4. Este Tribunal acuerda, mediante las providencias respectivas, admitir a trámite las cuestiones que sobre la constitucionalidad del art. 153.1 CP ha planteado el Juzgado de lo Penal núm. 4 de Murcia, así como dar traslado de las actuaciones recibidas, de conformidad con el art. 37.2 LOTC, al Congreso de los Diputados y al Senado por conducto de sus Presidentes; al Gobierno, por conducto del Ministerio de Justicia; y al Fiscal General del Estado, al objeto de que en el plazo de quince días puedan personarse en el proceso correspondiente y formular las alegaciones que estimen convenientes. En las mismas resoluciones se acuerda publicar la incoación de las cuestiones en el Boletín Oficial del Estado.
+5. El Presidente del Senado comunica en los distintos procedimientos que la Mesa de la Cámara ha acordado personarse en los mismos y dar por ofrecida su colaboración a los efectos del art. 88.1 LOTC.
+6. El Presidente del Congreso de los Diputados comunica en los distintos procedimientos los Acuerdos de la Mesa de la Cámara relativos a la personación, poniendo a disposición del Tribunal las actuaciones que pudiera precisar.
+7. El Abogado del Estado se persona en los distintos procedimientos en nombre del Gobierno, solicitando en sus escritos de alegaciones la inadmisión o, en su defecto, la desestimación de todas las cuestiones.
+</p>
+    <p class="ATEXTO_NORMAL">
+El Abogado del Estado señala que todas ellas son sustancialmente idénticas a la planteada por el mismo Juzgado y por violación de los mismos preceptos constitucionales con el núm. 5939-2005, remitiéndose al escrito de alegaciones formulado en el referido procedimiento, que reproduce en algunos de sus escritos y da por reproducidas en otros.
+</p>
+    <p class="ATEXTO_BLANCO_4">
+8. En sus escritos de alegaciones en los correspondientes procedimientos, el Fiscal General del Estado concluye que la norma cuestionada no vulnera ninguna norma constitucional.
+</p>
+    <p class="ATEXTO_NORMAL">
+Tras señalar que los Autos de planteamiento son sustancialmente idénticos a los dictados en la cuestión de inconstitucionalidad núm. 5939-2005, planteada por la misma Magistrada, se remite a las alegaciones realizadas en aquélla, que da por reproducidas.
+</p>
+    <p class="ATEXTO_BLANCO_4">
+9. Mediante providencia de 22 de mayo de 2008, el Pleno de este Tribunal concede un plazo de diez días al Abogado del Estado y al Fiscal General del Estado para que pueden alegar lo que estimen conveniente en torno a la acumulación a la cuestión de inconstitucionalidad núm. 5163-2006 con las seguidas con los números 5439-2006, 5937-2006, 6034-2006, 8109-2006, 8231-2006, 8232-2006, 9154-2006, 9155-2006, 306-2007, 4660-2007, 6288-2007, 7617-2007, 8846-2007, 8847-2007, 8973-2007, 9018-2007, 9019-2007, 9746-2007 y 483-2008. El Abogado del Estado no se opone a la acumulación y el Fiscal General del Estado entiende que debe procederse a la misma, que se acuerda mediante Auto 1 de julio de 2008.
+10. Mediante providencia de 14 de julio de 2008 se señaló para deliberación y votación de la presente Sentencia el día 17 del mismo mes y año.
+</p>
+    <p class="NBC_SUBCAPITULO">
+II. Fundamentos jurídicos
+</p>
+    <p class="ATEXTO_BLANCO_6">
+Único. A través de veinte Autos de cuestionamiento, el Juzgado de lo Penal núm. 4 de Murcia considera que el art. 153.1 del Código penal (CP), en su vigente redacción, dada por el art. 37 de la Ley Orgánica 1/2004, de medidas de protección integral contra la violencia de género, puede ser contrario a los arts. 10.1, 14 y 24.2 CE, al establecer una discriminación por razón de sexo que dimanaría de la definición de los sujetos activo (varón) y pasivo (mujer) en el art. 153.1 CP y de la diferencia de trato punitivo que ello supone en relación con la misma conducta cuando el sujeto activo es una mujer y el pasivo un hombre con la misma relación entre ellos que la descrita en el tipo penal cuestionado (conyugal o análoga, sea en ambos casos presente o pretérita).
+</p>
+    <p class="ATEXTO_NORMAL">
+Tanto el Abogado del Estado como el Fiscal General del Estado, en sus escritos de alegaciones, destacan que todas las cuestiones son sustancialmente idénticas a la planteada por el mismo Juzgado y por violación de los mismos preceptos constitucionales con el núm. 5939-2005, remitiéndose a los escritos de alegaciones formulados en el referido procedimiento, en el que interesaban la inadmisión de la cuestión por incumplimiento de los requisitos procesales o, en su defecto, la desestimación de la cuestión promovida.
+Constatándose que las veinte cuestiones de inconstitucionalidad se plantean por el mismo Juzgado, por la misma Magistrada y mediante Autos sustancialmente idénticos al planteado en la cuestión de inconstitucionalidad núm. 5839-2005, ya resuelta por el Pleno de este Tribunal a través de la STC 59/2008, de 14 de mayo, desestimatoria de esa cuestión, ha de afirmarse que las dudas de constitucionalidad planteadas ya tienen respuesta en la citada Sentencia, a la que procede remitirse en su totalidad.
+</p>
+    <p class="RBC_RED_CENTRO">
+FALLO
+</p>
+    <p class="ATEXTO_BLANCO_6">
+En atención a todo lo expuesto, el Tribunal Constitucional, por la autoridad que le confiere la Constitución de la Nación Española,
+</p>
+    <p class="RBC_RED_CENTRO">
+Ha decidido
+</p>
+    <p class="ATEXTO_BLANCO_6">
+Desestimar las cuestiones de inconstitucionalidad núm. 5163-2006, 5439-2006, 5937-2006, 6034-2006, 8109-2006, 8231-2006, 8232-2006, 9154-2006, 9155-2006, 306-2007, 4660-2007, 6288-2007, 7617-2007, 8846-2007, 8847-2007, 8973-2007, 9018-2007, 9019-2007, 9746-2007 y 483-2008.
+</p>
+    <p class="ATEXTOySIG_BL_6">
+Publíquese esta Sentencia en el «Boletín Oficial del Estado».
+</p>
+    <p class="ATEXTO_BLANCO_6">
+Dada en Madrid, a diecisiete de julio de dos mil ocho.-María Emilia Casas Baamonde.-Guillermo Jiménez Sánchez.-Vicente Conde Martín de Hijas.-Javier Delgado Barrio.-Elisa Pérez Vera.-Eugeni Gay Montalvo.-Jorge Rodríguez-Zapata Pérez.-Ramón Rodríguez Arribas.-Pascual Sala Sánchez.-Manuel Aragón Reyes.-Pablo Pérez Tremps.-Firmado y rubricado.
+</p>
+    <p class="CBC_SUBSEC_BLANCO_4">
+Voto particular que formula el Magistrado don Vicente Conde Martín de Hijas respecto de la Sentencia de fecha 17 de julio de 2008, dictada en las cuestiones de inconstitucionalidad acumuladas núms. 5163-2006, 5439-2006, 5937-2006, 6034-2006, 8109-2006, 8231-2006, 8232-2006, 9154-2006, 9155-2006, 306-2007, 4660-2007, 6288-2007, 7617-2007, 8846-2007, 8847-2007, 8973-2007, 9018-2007, 9019-2007, 9746-2007 y 483-2008, planteadas por el Juzgado de lo Penal núm. 4 de Murcia, respecto al art. 153.1 del Código penal en la redacción dada al mismo por el art. 37 de la Ley Orgánica 1/2004, de 28 de diciembre, de medidas de protección integral contra la violencia de género
+</p>
+    <p class="ATEXTOySIG_BL_6">
+En la medida en que la Sentencia consiste en la explícita aplicación a las cuestiones de inconstitucionalidad acumuladas de la precedente STC 59/2008, de 14 de mayo, respecto de la que formulé Voto particular disidente, en coherencia con el mismo, ejercitando la facultad establecida en el art. 90.2 LOTC, reitero respecto a la actual la misma disidencia, remitiéndome a los argumentos del referido Voto, y todo ello proclamando mi respeto por la tesis de los Magistrados de cuyo criterio discrepo.
+</p>
+    <p class="ATEXTO_BLANCO_6">
+Madrid, a diecisiete de julio de dos mil ocho.-Vicente Conde Martín de Hijas.-Firmado y rubricado.
+</p>
+    <p class="CBC_SUBSEC_BLANCO_4">
+Voto particular que formula el Magistrado don Javier Delgado Barrio respecto de la Sentencia de 17 de julio de 2008, dictada en las cuestiones de inconstitucionalidad núms. 5163-2006, 5439-2006, 5937-2006, 6034-2006, 8109-2006, 8231-2006, 8232-2006, 9154-2006, 9155-2006, 306-2007, 4660-2007, 6288-2007, 7617-2007, 8846-2007, 8847-2007, 8973-2007, 9018-2007, 9019-2007, 9746-2007 y 483-2008
+</p>
+    <p class="ATEXTO_BLANCO_6">
+La indicada Sentencia reitera la doctrina sentada en la STC 59/2008, de 14 de mayo, dictada en la cuestión de inconstitucionalidad núm. 5939-2005, por lo que, puesto que mantengo mi discrepancia, me remito al Voto particular que formulé respecto de esta última.
+</p>
+    <p class="ATEXTOySIGUIENTE">
+Y este es mi parecer, del que dejo constancia con el máximo respeto a mis compañeros.
+</p>
+    <p class="ATEXTO_BLANCO_6">
+Madrid, a diecisiete de julio de dos mil ocho.-Javier Delgado Barrio.-Firmado y rubricado.
+</p>
+    <p class="CBC_SUBSEC_BLANCO_4">
+Voto particular que formula el Magistrado don Jorge Rodríguez-Zapata Pérez a la Sentencia del Pleno que resuelve las cuestiones de inconstitucionalidad acumuladas núms. 5163-2006, 5439-2006, 5937-2006, 6034-2006, 8109-2006, 8231-2006, 8232-2006, 9154-2006, 9155-2006, 306-2007, 4660-2007, 6288-2007, 7617-2007, 8846-2007, 8847-2007, 8973-2007, 9018-2007, 9019-2007, 9746-2007 y 483-2008, sobre el art. 153.1 del Código penal, en la redacción dada por la Ley Orgánica 1/2004, de 28 de diciembre
+</p>
+    <p class="ATEXTO_BLANCO_6">
+Haciendo uso de la facultad atribuida por el art. 90.2 LOTC expreso en este Voto particular mi discrepancia respecto de la fundamentación jurídica y la parte dispositiva de la Sentencia aprobada por el Pleno, que reitera la doctrina fijada en la STC 59/2008, de 14 de mayo, a la que formulé Voto particular.
+</p>
+    <p class="ATEXTO_NORMAL">
+Sostuve entonces, y ahora lo reitero, la constitucionalidad de las medidas penales que proporcionen un tratamiento diferenciado y agravado de la violencia de género. Pero mi discrepancia con la Sentencia se centra en cinco aspectos, desarrollados en el Voto particular al que me remito (BOE de 4 de junio de 2008), que ahora sintetizo:
+</p>
+    <p class="ATEXTO_BLANCO_4">
+a) La falta de identidad entre la redacción dada al precepto cuestionado y el propósito declarado por la Ley que lo introduce en el Código penal, genera una duda razonable acerca de cuál sea la conducta tipificada por el legislador, duda que ya por sí misma es incompatible con el imperativo de taxatividad -lex certa- que deriva del art. 25.1 CE.
+</p>
+    <p class="ATEXTO_NORMAL">
+b) La Sentencia, pese a su carácter interpretativo (FJ 4 ab initio), no cumple la función propia de esta clase de sentencias, incurriendo en una ambigüedad inaceptable, puesto que no delimita cuál es la interpretación incompatible con la Constitución, ni expone las razones por las que llega a tal conclusión, ni lo refleja en el fallo, ni tan siquiera concreta si son todos o alguno de los preceptos constitucionales invocados los que vedan la interpretación que tan apodícticamente se estigmatiza.
+c) Si lo que hubiera que someter a comparación fuera el mero maltrato que hombre y mujer pudieran infringirse recíprocamente, ciertamente habría que concluir que el primer inciso del art. 153.1 CP lesiona el art. 14 CE. Pero si se advierte que lo sancionado es el sexismo machista (cuando se traduce en maltrato ocasional) es cuando se comprende que estamos ante un delito especial que sólo puede ser cometido por el varón y del cual sólo puede ser víctima la mujer. En este sentido, no me parece que el art. 153.1 CP lesione el principio de igualdad. Sin embargo, lo que a mi juicio resulta incompatible con el derecho a la presunción de inocencia (art. 24.2 CE) es la presunción adversa de que todo maltrato ocasional cometido por un varón contra su pareja o ex pareja sea siempre una manifestación de sexismo que deba poner en actuación la tutela penal reforzada del art. 153.1 CP. A mi juicio, esta presunción es incompatible con los principios del Derecho penal moderno, que ha desarrollado criterios de atribución de responsabilidad «concretos», por el hecho propio y no por hechos ajenos. Entiendo que el principio de culpabilidad resulta infringido cuando indiscriminadamente se aplica el referido art. 153.1 CP a acciones que tengan su origen en otras posibles causas y, lo que es más grave, sin que se exija la necesidad de probar que se ha actuado abusando de esa situación de dominación.
+d) La Sentencia, quizá sin quererlo, se suma a un superado Derecho penal paternalista que promueve una concepción de la mujer como «sujeto vulnerable» que, por el solo hecho de iniciar una relación afectiva con un varón, incluso sin convivencia, se sitúa en una posición subordinada que requiere de una específica tutela penal, equiparada a la que el segundo inciso del art. 153.1 CP dispensa a toda «persona especialmente vulnerable». Al tiempo, resulta profundamente injusto considerar que todas las mujeres tienen el mismo riesgo de opresión, como si sólo el sexo incidiera en el origen del maltrato, cuando lo cierto es que las condiciones socio-económicas desempeñan un papel que la Sentencia silencia.
+</p>
+    <p class="ATEXTOySIGUIENTE">
+e) Estimo también que la Sentencia se adentra en el ámbito propio de la jurisdicción ordinaria cuando realiza afirmaciones innecesarias y discutibles acerca del sujeto activo del delito tipificado en el precepto cuestionado. Resulta improcedente el esfuerzo de la Sentencia en buscar una supuesta autoría femenina para el primer inciso del art. 153.1 CP, por cuanto significa avalar o propiciar una aplicación extensiva in malam partem de la norma punitiva.
+</p>
+    <p class="ATEXTO_BLANCO_6">
+Madrid, a diecisiete de julio de dos mil ocho.-Jorge Rodríguez-Zapata Pérez.-Firmado y rubricado.
+</p>
+    <p class="CBC_SUBSEC_BLANCO_4">
+Voto particular que formula el Magistrado don Ramón Rodríguez Arribas, respecto a la Sentencia del Pleno de fecha 17 de julio de 2008 dictada en la cuestión de inconstitucionalidad núm. 5163-2006 y acumuladas
+</p>
+    <p class="ATEXTO_BLANCO_6">
+En el ejercicio de la facultad que nos confiere el art. 90.2 LOTC y con el pleno respeto a la opinión de la mayoría, expreso mi discrepancia con la Sentencia que fundo en las siguientes consideraciones:
+</p>
+    <p class="ATEXTO_BLANCO_4">
+Parto de la base de que la cuestión planteada ante este Tribunal por la Magistrada Juez de lo Penal núm. 4 de Múrcia, sobre el art. 153.1 del Código penal, reformado por la Ley 1/2004, de 28 de diciembre, de medidas de protección integral contra la violencia de género, está formulada con gran rigor jurídico y asentada en sólidos argumentos, hasta el punto de que si la interpretación del precepto, que se hace razonablemente en el correspondiente Auto, fuera la única posible, conduciría inexorablemente a la declaración de inconstitucionalidad; conclusión a la que también llega la Sentencia de la mayoría en el FJ 4.
+</p>
+    <p class="ATEXTOySIGUIENTE">
+Discrepo abiertamente del fallo de la Sentencia en cuanto a la inadmisión de la cuestión de inconstitucionalidad núm. 5163-2006 y acumulados, en sentido contrario, remitiéndome al Voto particular que formulé en la cuestión de inconstitucionalidad 5939-2005.
+</p>
+    <p class="ATEXTO_BLANCO_6">
+Madrid, a diecisiete de julio de dos mil ocho.-Ramón Rodríguez Arribas.-Firmado y rubricado.</p>
+  </texto>
+</documento>

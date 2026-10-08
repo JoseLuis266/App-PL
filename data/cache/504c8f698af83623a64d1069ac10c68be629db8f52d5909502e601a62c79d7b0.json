@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-19992",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-19992",
+  "sha256": "ea1c8b2bdb3380f908a94a2143a3cf9c99e6d36e8ee6459b318573cefe65ac84",
+  "archivo": "data/raw/ea1c8b2bdb3380f908a94a2143a3cf9c99e6d36e8ee6459b318573cefe65ac84.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:03.585921+00:00"
+}

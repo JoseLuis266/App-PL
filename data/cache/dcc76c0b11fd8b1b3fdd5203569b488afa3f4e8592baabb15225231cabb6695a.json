@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-9129/texto/indice",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-9129/texto/indice",
+  "sha256": "2b7fc16f8e7691fcb905541def32dc5491f2054ebb7ce1dbef8c585466050061",
+  "archivo": "data/raw/2b7fc16f8e7691fcb905541def32dc5491f2054ebb7ce1dbef8c585466050061.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:31:06.009791+00:00"
+}

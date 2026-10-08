@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a4-2",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a4-2",
+  "sha256": "7c2d1084acf1c091e0a4c0fb25447b638c673078544f5ff493aca93daddd34f5",
+  "archivo": "data/raw/7c2d1084acf1c091e0a4c0fb25447b638c673078544f5ff493aca93daddd34f5.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:05:53.682281+00:00"
+}

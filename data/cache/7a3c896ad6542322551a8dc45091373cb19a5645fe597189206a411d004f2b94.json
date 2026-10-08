@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-13266",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-13266",
+  "sha256": "a164beb89588596d39b46dc15b4402685ed95d397e69cf45dac5f1ae8d847f7a",
+  "archivo": "data/raw/a164beb89588596d39b46dc15b4402685ed95d397e69cf45dac5f1ae8d847f7a.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:25.853294+00:00"
+}

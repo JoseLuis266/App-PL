@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1974-293",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1974-293",
+  "sha256": "8fba6291fb0ba8394069154b782ce81ff78e9479e3818ea97fd700ba3542404b",
+  "archivo": "data/raw/8fba6291fb0ba8394069154b782ce81ff78e9479e3818ea97fd700ba3542404b.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:19:39.317572+00:00"
+}

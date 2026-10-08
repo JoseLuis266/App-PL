@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20251216195601">
+  <metadatos>
+    <identificador>BOE-A-1983-11935</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7723">Jefatura del Estado</departamento>
+    <rango codigo="1290">Ley Orgánica</rango>
+    <fecha_disposicion>19830423</fecha_disposicion>
+    <numero_oficial>7/1983</numero_oficial>
+    <titulo>Ley Orgánica 7/1983, de 23 de abril, de reforma de los artículos 503 y 504 de la Ley de Enjuiciamiento Criminal.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>19830426</fecha_publicacion>
+    <diario_numero>99</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>11579</pagina_inicial>
+    <pagina_final>11579</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/1983/04/26/pdfs/A11579-11579.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia>19830427</fecha_vigencia>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/lo/1983/04/23/7</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/lo/1983/04/23/7">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/lo"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1983-11935</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1983-04-23</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</eli:number>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3199"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5698"/>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/lo/1983/04/23/7/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/lo"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1983-11935</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1983-04-23</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</eli:number>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3199"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5698"/>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/lo/1983/04/23/7"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/lo/1983/04/23/7/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ley Orgánica 7/1983, de 23 de abril, de reforma de los artículos 503 y 504 de la Ley de Enjuiciamiento Criminal.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1983-04-26</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/lo/1983/04/23/7/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/lo/1983/04/23/7/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/lo/1983/04/23/7/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/lo/1983/04/23/7/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/lo/1983/04/23/7/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/lo/1983/04/23/7/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/lo/1983/04/23/7/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="3199" orden="1">Enjuiciamiento Criminal</materia>
+      <materia codigo="5698" orden="2">Prisión provisional</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1882-6036" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>los arts. 503 y 504 de la Ley de Enjuiciamiento Criminal aprobada por Real Decreto de 14 de septiembre de 1882 (Gazeta)</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1980-8713" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Ley 16/1980, de 22 de abril</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas>
+      <alerta codigo="113" orden="1">Derecho Penal</alerta>
+    </alertas>
+  </analisis>
+  <texto/>
+</documento>

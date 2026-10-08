@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1994-6778",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1994-6778",
+  "sha256": "cf724a861778c731210ea5835cc8b465ef4577a762bb27b9b77c5955d4a84200",
+  "archivo": "data/raw/cf724a861778c731210ea5835cc8b465ef4577a762bb27b9b77c5955d4a84200.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:49.654116+00:00"
+}

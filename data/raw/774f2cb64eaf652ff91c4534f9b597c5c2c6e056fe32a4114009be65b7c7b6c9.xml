@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a41" tipo="precepto" titulo="Artículo 41">
+      <version id_norma="BOE-A-2009-9481" fecha_publicacion="20090608" fecha_vigencia="20091208">
+        <p class="articulo">Artículo 41. De la enseñanza de la conducción.</p>
+        <p class="parrafo">1. El aprendizaje de la conducción se realizará en escuelas de conductores autorizadas conforme a la normativa vigente.</p>
+        <p class="parrafo">2. En ningún caso podrá ser admitido a las pruebas de control de aptitudes y comportamientos en circulación en vías abiertas al tráfico general necesarias para obtener el permiso de conducción quien no haya realizado su formación de acuerdo con lo previsto en el apartado anterior, salvo que haya sido titular de un permiso de categoría equivalente o superior.</p>
+        <p class="parrafo">3. Se exceptúa de lo dispuesto en los apartados anteriores al personal examinador encargado de calificar las pruebas de control de aptitudes y comportamientos para la obtención de permisos y licencias de conducción, de acuerdo con lo establecido en el anexo VIII.</p>
+        <p class="parrafo">4. Asimismo, se podrá realizar el aprendizaje en la conducción mediante la obtención de una licencia de aprendizaje en los términos que se establezcan mediante Orden del Ministro del Interior.</p>
+        <p class="parrafo">La licencia de aprendizaje podrá otorgarse por una sola vez, siempre que el solicitante designe a la persona que habrá de acompañarle durante el aprendizaje y que estará, en su caso, a cargo del doble mando del vehículo.</p>
+      </version>
+      <version id_norma="BOE-A-2023-24843" fecha_publicacion="20231206" fecha_vigencia="20231207">
+        <p class="articulo">Artículo 41. De la enseñanza de la conducción.</p>
+        <p class="parrafo">1. El aprendizaje de la conducción se realizará en escuelas de conductores autorizadas conforme a la normativa vigente.</p>
+        <p class="parrafo">2. En ningún caso podrá ser admitido a las pruebas de control de aptitudes y comportamientos en circulación en vías abiertas al tráfico general necesarias para obtener el permiso de conducción quien no haya realizado su formación de acuerdo con lo previsto en el apartado anterior, salvo que haya sido titular de un permiso de categoría equivalente o superior.</p>
+        <p class="parrafo">3. Se exceptúa de lo dispuesto en los apartados anteriores al personal examinador encargado de calificar las pruebas de control de aptitudes y comportamientos para la obtención de permisos y licencias de conducción, de acuerdo con lo establecido en el anexo VIII.</p>
+        <p class="parrafo">4. Asimismo, se podrá realizar el aprendizaje en la conducción mediante la obtención de una licencia de aprendizaje en los términos que se establezcan mediante Orden del Ministro del Interior.</p>
+        <p class="parrafo">La licencia de aprendizaje podrá otorgarse por una sola vez, siempre que el solicitante designe a la persona que habrá de acompañarle durante el aprendizaje y que estará, en su caso, a cargo del doble mando del vehículo.</p>
+        <p class="parrafo">5. Asimismo, se exceptúa de lo dispuesto en los apartados 1 y 2 a los alumnos que, cursando el título de Técnico Superior en Formación para la movilidad segura y sostenible, hayan superado el módulo de Técnicas de conducción impartido por un profesor especialista que cumpla los requisitos del artículo 48.bis del Real Decreto 1295/2003, de 17 de octubre, por el que se aprueba el Reglamento regulador de escuelas particulares de conductores, en el marco de una formación profesional reglada.</p>
+        <p class="parrafo">Estos alumnos, superado el módulo de Técnicas de conducción, podrán presentarse a examen con el profesor que les haya impartido el citado módulo, quien les podrá acompañar durante las pruebas prácticas, responsabilizándose en la prueba de control de aptitudes y comportamientos en circulación en vías abiertas al tráfico, del doble mando del vehículo y de la seguridad de la circulación.</p>
+        <blockquote>
+          <p class="nota_pie">Se añade el apartado 5 por el art. 2.1 del Real Decreto 1010/2023, de 5 de diciembre. <a class="refPost">Ref. BOE-A-2023-24843</a></p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

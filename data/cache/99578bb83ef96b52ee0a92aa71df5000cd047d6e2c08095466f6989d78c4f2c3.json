@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-9129/texto/bloque/a105",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-9129/texto/bloque/a105",
+  "sha256": "34ef7a98583bb60921409c13e9c42905f3fb6fb6e9162d0d65b423f48236336c",
+  "archivo": "data/raw/34ef7a98583bb60921409c13e9c42905f3fb6fb6e9162d0d65b423f48236336c.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:06:14.513098+00:00"
+}

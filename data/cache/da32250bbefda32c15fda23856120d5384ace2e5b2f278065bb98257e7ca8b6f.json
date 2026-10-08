@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/texto/bloque/aquinto",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/texto/bloque/aquinto",
+  "sha256": "c0c6565b562e99b6690085da0e2b490946c1796d4110f03d857820804b75dbe5",
+  "archivo": "data/raw/c0c6565b562e99b6690085da0e2b490946c1796d4110f03d857820804b75dbe5.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:06:31.154315+00:00"
+}

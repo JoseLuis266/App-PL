@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1978-29842",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1978-29842",
+  "sha256": "e680ff07edaa9e876e23a7282c0cc11168210ca729b359a270565a8b746786b2",
+  "archivo": "data/raw/e680ff07edaa9e876e23a7282c0cc11168210ca729b359a270565a8b746786b2.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:20:25.770431+00:00"
+}

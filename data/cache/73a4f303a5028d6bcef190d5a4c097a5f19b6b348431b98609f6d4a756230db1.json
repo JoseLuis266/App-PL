@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-6412",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-6412",
+  "sha256": "f683f238a5ad98a11cd20786922317a00861e58d75f94fefe342bb4d1c5273ab",
+  "archivo": "data/raw/f683f238a5ad98a11cd20786922317a00861e58d75f94fefe342bb4d1c5273ab.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:54.358535+00:00"
+}

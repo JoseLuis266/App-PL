@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a105" tipo="precepto" titulo="Artículo 105">
+      <version id_norma="BOE-A-1978-31229" fecha_publicacion="19781229" fecha_vigencia="19781229">
+        <p class="articulo">Artículo 105</p>
+        <p class="parrafo">La ley regulará:</p>
+        <p class="parrafo_2">a) La audiencia de los ciudadanos, directamente o a través de las organizaciones y asociaciones reconocidas por la ley, en el procedimiento de elaboración de las disposiciones administrativas que les afecten.</p>
+        <p class="parrafo">b) El acceso de los ciudadanos a los archivos y registros administrativos, salvo en lo que afecte a la seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas.</p>
+        <p class="parrafo">c) El procedimiento a través del cual deben producirse los actos administrativos, garantizando, cuando proceda, la audiencia del interesado.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

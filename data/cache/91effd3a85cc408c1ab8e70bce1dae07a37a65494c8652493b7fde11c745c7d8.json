@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1980-8713",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1980-8713",
+  "sha256": "ffdc1ab30c4c888292cf26d2045b8be881e3566dfef49a18d20f7c5943e6a403",
+  "archivo": "data/raw/ffdc1ab30c4c888292cf26d2045b8be881e3566dfef49a18d20f7c5943e6a403.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:20:27.774827+00:00"
+}

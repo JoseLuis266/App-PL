@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a381" tipo="precepto" titulo="Artículo 381">
+      <version id_norma="BOE-A-1995-25444" fecha_publicacion="19951124" fecha_vigencia="19960524">
+        <p class="articulo">Artículo 381.</p>
+        <p class="parrafo">El que condujere un vehículo a motor o un ciclomotor con temeridad manifiesta y pusiera en concreto peligro la vida o la integridad de las personas, será castigado con las penas de prisión de seis meses a dos años y privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta seis años.</p>
+      </version>
+      <version id_norma="BOE-A-2003-21538" fecha_publicacion="20031126" fecha_vigencia="20041001">
+        <p class="articulo">Artículo 381.</p>
+        <p class="parrafo">El que condujere un vehículo a motor o un ciclomotor con temeridad manifiesta y pusiera en concreto peligro la vida o la integridad de las personas, será castigado con las penas de prisión de seis meses a dos años y privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta seis años.</p>
+        <p class="parrafo">En todo caso, se considerará que existe temeridad manifiesta y concreto peligro para la vida o la integridad de las personas en los casos de conducción bajo los efectos de bebidas alcohólicas con altas tasas de alcohol en sangre y con un exceso desproporcionado de velocidad respecto de los límites establecidos.</p>
+        <blockquote>
+          <p class="nota_pie">Se añade el párrafo 2 por el art. único.134 de la Ley Orgánica 15/2003, de 25 de noviembre. <a class="refPost">Ref. BOE-A-2003-21538</a></p>
+        </blockquote>
+      </version>
+      <version id_norma="BOE-A-2007-20636" fecha_publicacion="20071201" fecha_vigencia="20071202">
+        <p class="articulo">Artículo 381.</p>
+        <p class="parrafo">
+          <span class="parrafo">1. Será castigado con las penas de prisión de dos a cinco años, multa de doce a veinticuatro meses y privación del derecho a conducir vehículos a motor y ciclomotores durante un período de seis a diez años el que, con manifiesto desprecio por la vida de los demás, realizare la conducta descrita en el artículo anterior. </span>
+        </p>
+        <p class="parrafo">2. Cuando no se hubiere puesto en concreto peligro la vida o la integridad de las personas, las penas serán de prisión de uno a dos años, multa de seis a doce meses y privación del derecho a conducir vehículos a motor y ciclomotores por el tiempo previsto en el párrafo anterior.</p>
+        <p class="parrafo"><span class="parrafo">3. El vehículo a motor o ciclomotor utilizado en los hechos previstos en el presente precepto se considerará instrumento del delito a los efectos del artículo 127 de este Código</span>.</p>
+        <blockquote>
+          <p class="nota_pie">Se modifica por el art. único.5 de la Ley Orgánica 15/2007, de 30 de noviembre. <a class="refPost">Ref. BOE-A-2007-20636</a></p>
+          <p class="nota_pie">Se añade el párrafo 2 por el art. único.134 de la Ley Orgánica 15/2003, de 25 de noviembre. <a class="refPost">Ref. BOE-A-2003-21538</a></p>
+        </blockquote>
+      </version>
+      <version id_norma="BOE-A-2010-9953" fecha_publicacion="20100623" fecha_vigencia="20101223">
+        <p class="articulo">Artículo 381.</p>
+        <p class="parrafo">
+          <span class="parrafo">1. Será castigado con las penas de prisión de dos a cinco años, multa de doce a veinticuatro meses y privación del derecho a conducir vehículos a motor y ciclomotores durante un período de seis a diez años el que, con manifiesto desprecio por la vida de los demás, realizare la conducta descrita en el artículo anterior. </span>
+        </p>
+        <p class="parrafo">2. Cuando no se hubiere puesto en concreto peligro la vida o la integridad de las personas, las penas serán de prisión de uno a dos años, multa de seis a doce meses y privación del derecho a conducir vehículos a motor y ciclomotores por el tiempo previsto en el párrafo anterior.</p>
+        <blockquote>
+          <p class="nota_pie">Se suprime el apartado 3 por el art. único.109 de la Ley Orgánica 5/2010, de 22 de junio. <a class="refPost">Ref. BOE-A-2010-9953</a></p>
+          <p class="nota_pie">Se modifica por el art. único.5 de la Ley Orgánica 15/2007, de 30 de noviembre. <a class="refPost">Ref. BOE-A-2007-20636</a></p>
+          <p class="nota_pie">Se añade el párrafo 2 por el art. único.134 de la Ley Orgánica 15/2003, de 25 de noviembre. <a class="refPost">Ref. BOE-A-2003-21538</a></p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

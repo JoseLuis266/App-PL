@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2018-5802",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2018-5802",
+  "sha256": "c9b918e2b8479a66c8c42cee45a3e4e269091f0c4b7bb373f2570231759741e0",
+  "archivo": "data/raw/c9b918e2b8479a66c8c42cee45a3e4e269091f0c4b7bb373f2570231759741e0.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:25.150307+00:00"
+}

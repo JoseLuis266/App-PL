@@ -1,0 +1,1229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20251220202601">
+  <metadatos>
+    <identificador>BOE-A-2025-21711</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7320">Ministerio del Interior</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <fecha_disposicion>20251022</fecha_disposicion>
+    <numero_oficial/>
+    <titulo>Resolución de 22 de octubre de 2025, de la Dirección General de Tráfico, por la que se establece la red de itinerarios aptos para la circulación de los conjuntos euro-modulares.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>20251028</fecha_publicacion>
+    <diario_numero>259</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <pagina_inicial>140792</pagina_inicial>
+    <pagina_final>140798</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/2025/10/28/pdfs/BOE-A-2025-21711.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia>20251023</fecha_vigencia>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/res/2025/10/22/(1)</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2025/10/22/(1)">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2025-21711</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-22</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1)</eli:number>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/632"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/858"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1320"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4542"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6927"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/7116"/>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2025/10/22/(1)/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2025-21711</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-22</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1)</eli:number>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/632"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/858"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1320"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4542"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6927"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/7116"/>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/res/2025/10/22/(1)"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/res/2025/10/22/(1)/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resolución de 22 de octubre de 2025, de la Dirección General de Tráfico, por la que se establece la red de itinerarios aptos para la circulación de los conjuntos euro-modulares.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-28</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/res/2025/10/22/(1)/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2025/10/22/(1)/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2025/10/22/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2025/10/22/(1)/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2025/10/22/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2025/10/22/(1)/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2025/10/22/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="632" orden="1">Carreteras</materia>
+      <materia codigo="858" orden="1">Circulación vial</materia>
+      <materia codigo="1320" orden="1">Comunidades Autónomas</materia>
+      <materia codigo="4542" orden="1">Jefatura Central de Tráfico</materia>
+      <materia codigo="6927" orden="1">Transporte de mercancías</materia>
+      <materia codigo="7116" orden="1">Vehículos de motor</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1999-1826" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el Reglamento aprobado por Real Decreto 2822/1998, de 23 de diciembre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas>
+      <alerta codigo="132" orden="1">Transportes y tráfico</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="parrafo">La Orden PJC/780/2025, de 21 de julio, por la que se modifican los anexos II, IX, X y XVIII del Reglamento General de Vehículos, aprobado por el Real Decreto 2822/1998, de 23 de diciembre dispone, en su apartado «6. Condiciones de circulación de los conjuntos en configuración euro-modular» de su punto dos, que cada órgano competente en regulación, ordenación y gestión del tráfico deberá determinar y publicar en el «Boletín Oficial del Estado», previo informe vinculante de los titulares de las vías sobre las restricciones a tener en cuenta como consecuencia de las limitaciones geométricas, estructurales o de cualquier otra índole existentes en su red, la red itinerarios por los que podrán circular.</p>
+    <p class="parrafo">Así pues, de acuerdo a lo anterior y de conformidad con los titulares de las vías que forman parte de la red de itinerarios que se determina en el anexo I, así como del correspondiente informe del Consejo Superior de Tráfico, Seguridad Vial y Movilidad Sostenible, según lo dispuesto en el artículo 8.5.d) del texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial aprobado por Real Decreto Legislativo 6/2015, de 30 de octubre,</p>
+    <p class="parrafo">El Director General de Tráfico resuelve lo siguiente:</p>
+    <p class="articulo">Primero. Objeto y ámbito de aplicación.</p>
+    <p class="parrafo">La presente resolución tiene por objeto establecer, para el territorio donde el Organismo Autónomo Jefatura Central de Tráfico ejerce competencias de vigilancia y disciplina del tráfico, los tramos de carreteras que, de conformidad con el correspondiente informe vinculante de los titulares de las vías, formarán parte de la red de itinerarios aptos para la circulación de conjuntos euro-modulares, definidos tal y como se dispone en el punto 1.23 del apartado 1 del anexo IX del Reglamento General de Vehículos, aprobado por el Real Decreto 2822/1998, de 23 de diciembre.</p>
+    <p class="articulo">Segundo. Tramos de carreteras de la red de itinerarios.</p>
+    <p class="parrafo">Los tramos de carretera que formarán parte de la red de itinerarios por los que pueden circular los conjuntos euro-modulares serán los establecidos en el anexo I de esta resolución.</p>
+    <p class="parrafo">Además de los tramos incluidos en la red, los conjuntos euro-modulares podrán recorrer una distancia de un máximo de 10 kilómetros de longitud de tramos de carreteras no incluidos en la misma, siempre que ello sea necesario para poder unir dos tramos de carreteras que forman parte de la red o para acceder desde el lugar de origen del viaje a un tramo de la red o desde ésta al de destino. Esta distancia máxima será considerada, cada vez que el conjunto se salga de la red definida, desde el lugar donde éste se encuentre y el punto de salida o entrada a dicha red.</p>
+    <p class="parrafo">En todo caso, el titular del vehículo a motor del conjunto deberá cerciorarse, incluso recorriendo el itinerario previamente, de la viabilidad de la circulación del mismo por todos los tramos de este, especialmente en los ramales de los enlaces.</p>
+    <p class="articulo">Tercero. Restricciones a la circulación.</p>
+    <p class="parrafo">Las restricciones establecidas por los titulares de las vías en los informes vinculantes que han emitido debido a las limitaciones geométricas, estructurales o de cualquier otra índole existentes en su red, así como las dispuestas por razón de tráfico y seguridad vial, podrán ser consultadas en la página web de la Dirección General de Tráfico.</p>
+    <p class="parrafo">Además de lo anterior, antes del inicio de cada viaje, también se tendrán en cuenta las restricciones temporales relativas a incidencias de las vías por obras, condiciones meteorológicas u otras de naturaleza similar a éstas que puedan afectar al itinerario de ese viaje. Estas incidencias podrán ser consultadas en la página web de la Dirección General de Tráfico dedicada a la información sobre el estado de tráfico.</p>
+    <p class="articulo">Cuarto. Condiciones de circulación.</p>
+    <p class="parrafo">Los conjuntos euro-modulares solo podrán circular por los tramos de carreteras establecidos en el punto segundo de esta resolución. Fuera de lo dispuesto en el mismo, no estará permitida su circulación.</p>
+    <p class="parrafo">En todo caso, se respetarán las normas generales de circulación, así como las limitaciones paso, velocidad, masas y dimensiones señalizadas en la vía, que prevalecerán sobre lo dispuesto en esta resolución.</p>
+    <p class="articulo">Quinto. Supuesto excepcional de modificación de la red.</p>
+    <p class="parrafo">El Director General de Tráfico deberá aprobar, en el plazo máximo de 18 meses, una nueva resolución que actualice los tramos de carreteras de la red, así como las restricciones que dispongan los titulares de la vía.</p>
+    <p class="parrafo">No obstante, la red recogida en el anexo de esta resolución, podrá ser ampliada por resolución de quien sea titular de la Subdirección General de Gestión de la Movilidad y Tecnología de la Dirección General de Tráfico cuando las circunstancias así lo aconsejen, previo informe de los titulares de la vía. Estas ampliaciones serán publicadas en la página web de la Dirección General de Tráfico.</p>
+    <p class="articulo">Sexto. Entrada en vigor.</p>
+    <p class="parrafo">Esta resolución entrará en vigor el 23 de octubre de 2025.</p>
+    <p class="parrafo_2">Madrid, 22 de octubre de 2025.–El Director General de Tráfico, Pere Navarro Olivella.</p>
+    <p class="anexo">ANEXO I</p>
+    <table class="tabla_ancha" data-vertical-align="top">
+      <colgroup>
+        <col width="22%"/>
+        <col width="10%"/>
+        <col width="15%"/>
+        <col width="53%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" colspan="4">Andalucía</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">ALMERÍA.</td>
+          <td class="cuerpo_tabla_centro">A-92</td>
+          <td class="cuerpo_tabla_centro">375,580 - 392,820</td>
+          <td class="cuerpo_tabla_izq">De Tabernas a Almería (Viator A-7).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">CÁDIZ.</td>
+          <td class="cuerpo_tabla_centro">A-48</td>
+          <td class="cuerpo_tabla_centro">0,00 - 36,360</td>
+          <td class="cuerpo_tabla_izq">De San Fernando (CA-33 y A-4) a Vejer de la Frontera oeste (N-340).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">CÁDIZ.</td>
+          <td class="cuerpo_tabla_centro">CA-33</td>
+          <td class="cuerpo_tabla_centro">0,00 - 7,410</td>
+          <td class="cuerpo_tabla_izq">De Cádiz a San Fernando oeste.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">CÁDIZ.</td>
+          <td class="cuerpo_tabla_centro">CA-33</td>
+          <td class="cuerpo_tabla_centro">7,410 - 13,240</td>
+          <td class="cuerpo_tabla_izq">De San Fernando oeste a San Fernando (Int. A-48/Enl. A-4).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">CÁDIZ.</td>
+          <td class="cuerpo_tabla_centro">CA-35</td>
+          <td class="cuerpo_tabla_centro">0,00 - 2,05</td>
+          <td class="cuerpo_tabla_izq">De Puerto Real (AP-4 y CA-32) a Cádiz.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">CÁDIZ, MÁLAGA.</td>
+          <td class="cuerpo_tabla_centro">AP-7</td>
+          <td class="cuerpo_tabla_centro">133,480 - 229,320</td>
+          <td class="cuerpo_tabla_izq">De Guadiaro (A-7) a Málaga (MA-20).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">CÓRDOBA, MÁLAGA.</td>
+          <td class="cuerpo_tabla_centro">A-45</td>
+          <td class="cuerpo_tabla_centro">0,00 - 145,290</td>
+          <td class="cuerpo_tabla_izq">De Córdoba (CO-32) a Málaga.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">GRANADA.</td>
+          <td class="cuerpo_tabla_centro">GR-16</td>
+          <td class="cuerpo_tabla_centro">0,00 - 1,789</td>
+          <td class="cuerpo_tabla_izq">De El Puntalón (A-7) a N-340.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">GRANADA.</td>
+          <td class="cuerpo_tabla_centro">GR-16</td>
+          <td class="cuerpo_tabla_centro">1,789 - 3,00</td>
+          <td class="cuerpo_tabla_izq">De N-340 a Puerto de Motril (acceso este).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">JAÉN.</td>
+          <td class="cuerpo_tabla_centro">A-32</td>
+          <td class="cuerpo_tabla_centro">0,00 - 79,70</td>
+          <td class="cuerpo_tabla_izq">Bailén (enlace con A-44) – Villanueva del Arzobispo (enlace con N-322).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">JAÉN,GRANADA.</td>
+          <td class="cuerpo_tabla_centro">A-44</td>
+          <td class="cuerpo_tabla_centro">0,00 - 183,980</td>
+          <td class="cuerpo_tabla_izq">De Bailén (A-4) a Vélez de Benaudalla (A-7).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">MÁLAGA.</td>
+          <td class="cuerpo_tabla_centro">AP-46</td>
+          <td class="cuerpo_tabla_centro">0,00 - 25,663</td>
+          <td class="cuerpo_tabla_izq">De Villanueva de Cauche (A-45) a Málaga (A-7).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">SEVILLA.</td>
+          <td class="cuerpo_tabla_centro">SE-31</td>
+          <td class="cuerpo_tabla_centro">0,00 - 9,530</td>
+          <td class="cuerpo_tabla_izq">De SE-30 a SE-40 por los puentes móviles de la Esclusa Puerta del Mar.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">SEVILLA.</td>
+          <td class="cuerpo_tabla_centro">SE-40</td>
+          <td class="cuerpo_tabla_centro">0,00 - 23,900</td>
+          <td class="cuerpo_tabla_izq">De La Rinconada (A-4) a Dos Hermanas (A-4).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">SEVILLA, CÁDIZ.</td>
+          <td class="cuerpo_tabla_centro">AP-4</td>
+          <td class="cuerpo_tabla_centro">13,00 - 105,360</td>
+          <td class="cuerpo_tabla_izq">De Dos Hermanas sur (A-4) a Puerto Real (CA-35) (Autopista del Sur).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">SEVILLA, HUELVA.</td>
+          <td class="cuerpo_tabla_centro">A-49</td>
+          <td class="cuerpo_tabla_centro">0,00 - 132,860</td>
+          <td class="cuerpo_tabla_izq">De Sevilla (SE-30 y N-630) a Ayamonte (Frontera Portugal).</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla_ancha">
+      <colgroup>
+        <col width="22%"/>
+        <col width="10%"/>
+        <col width="15%"/>
+        <col width="53%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" colspan="4">Aragón</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">HUESCA.</td>
+          <td class="cuerpo_tabla_centro">A-22</td>
+          <td class="cuerpo_tabla_centro">19,173 - 107,230</td>
+          <td class="cuerpo_tabla_izq">L.P. Lleida - Huesca (A-23).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">HUESCA.</td>
+          <td class="cuerpo_tabla_centro">N-330</td>
+          <td class="cuerpo_tabla_centro">614,400 - 622,275</td>
+          <td class="cuerpo_tabla_izq">De Lanave (A-23) a Sabiñáñigo (A-23).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">TERUEL.</td>
+          <td class="cuerpo_tabla_centro">N-420</td>
+          <td class="cuerpo_tabla_centro">581,36 - 584,430</td>
+          <td class="cuerpo_tabla_izq">Teruel Norte (N-234 y A-23).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">ZARAGOZA.</td>
+          <td class="cuerpo_tabla_centro">Z-40</td>
+          <td class="cuerpo_tabla_centro">13,560 - 34,40</td>
+          <td class="cuerpo_tabla_izq">Circunvalación de Zaragoza (De A-2 salida 326 y A-23 a A-2 salida 312.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">ZARAGOZA, HUESCA.</td>
+          <td class="cuerpo_tabla_centro">A-21</td>
+          <td class="cuerpo_tabla_centro">51,810 - 101,237</td>
+          <td class="cuerpo_tabla_izq">De L.P. Navarra a Jaca oeste (N-240).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">ZARAGOZA, HUESCA.</td>
+          <td class="cuerpo_tabla_centro">AP-2</td>
+          <td class="cuerpo_tabla_centro">18,126 - 120,550</td>
+          <td class="cuerpo_tabla_izq">De Alfajarín (A-2 y N-2) a Fraga (L.P. Lleida).</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla_ancha">
+      <colgroup>
+        <col width="22%"/>
+        <col width="10%"/>
+        <col width="15%"/>
+        <col width="53%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" colspan="4">Asturias</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">ASTURIAS.</td>
+          <td class="cuerpo_tabla_centro">A-63</td>
+          <td class="cuerpo_tabla_centro">0,000 - 30, 600</td>
+          <td class="cuerpo_tabla_izq">De Oviedo (A-66) a Cornellana por Trubia.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">ASTURIAS.</td>
+          <td class="cuerpo_tabla_centro">A-64</td>
+          <td class="cuerpo_tabla_centro">0,00 - 32,200</td>
+          <td class="cuerpo_tabla_izq">De Grases (A-8) a Oviedo norte (A-66) por Pola de Siero.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">ASTURIAS.</td>
+          <td class="cuerpo_tabla_centro">A-66</td>
+          <td class="cuerpo_tabla_centro">11,240 - 65,80</td>
+          <td class="cuerpo_tabla_izq">De Serín (A-8) a Campomanes (AP-66 y N-630).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">ASTURIAS.</td>
+          <td class="cuerpo_tabla_centro">AS-117</td>
+          <td class="cuerpo_tabla_centro">0,000 - 4,800</td>
+          <td class="cuerpo_tabla_izq">De Riaño-Langreo (AS-I) a Sama de Langreo.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">ASTURIAS.</td>
+          <td class="cuerpo_tabla_centro">AS-17</td>
+          <td class="cuerpo_tabla_centro">19,650 - 36,930</td>
+          <td class="cuerpo_tabla_izq">De Posada de Llanera (AS-II) a Riaño-Langreo (AS-I).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">ASTURIAS.</td>
+          <td class="cuerpo_tabla_centro">AS-I</td>
+          <td class="cuerpo_tabla_centro">0,00 - 34,460</td>
+          <td class="cuerpo_tabla_izq">De Mieres (A-66) a Gijón (A-8) por El Berón-Siero (A-64).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">ASTURIAS.</td>
+          <td class="cuerpo_tabla_centro">AS-II</td>
+          <td class="cuerpo_tabla_centro">0,00 - 24,400</td>
+          <td class="cuerpo_tabla_izq">De Oviedo a Gijón (A-8) por Llanera.</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla_ancha" data-vertical-align="top">
+      <colgroup>
+        <col width="22%"/>
+        <col width="10%"/>
+        <col width="15%"/>
+        <col width="53%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" colspan="4">Cantabria</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">CANTABRIA.</td>
+          <td class="cuerpo_tabla_centro">S-10</td>
+          <td class="cuerpo_tabla_centro">0,00 - 14,500</td>
+          <td class="cuerpo_tabla_izq">De Santander (Zona portuaria) a Solares (A-8).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">CANTABRIA.</td>
+          <td class="cuerpo_tabla_centro">S-30</td>
+          <td class="cuerpo_tabla_centro">0,00 - 13,214</td>
+          <td class="cuerpo_tabla_izq">De Peñacastillo (S-20) a El Astillero sur (S-10) (Ronda de la Bahía de Santander).</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla_ancha" data-vertical-align="top">
+      <colgroup>
+        <col width="22%"/>
+        <col width="10%"/>
+        <col width="15%"/>
+        <col width="53%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" colspan="4">Castilla-La Mancha</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">ALBACETE.</td>
+          <td class="cuerpo_tabla_centro">A-32</td>
+          <td class="cuerpo_tabla_centro">217,426 - 228,148</td>
+          <td class="cuerpo_tabla_izq">De Albacete oeste (N-322) a Albacete sur (A-30).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">CIUDAD REAL.</td>
+          <td class="cuerpo_tabla_centro">A-41</td>
+          <td class="cuerpo_tabla_centro">159,700 - 196,860</td>
+          <td class="cuerpo_tabla_izq">De Ciudad Real (N-430) a Puertollano (PT-10).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">CIUDAD REAL.</td>
+          <td class="cuerpo_tabla_centro">CM-4134</td>
+          <td class="cuerpo_tabla_centro">0,00 - 10,0</td>
+          <td class="cuerpo_tabla_izq">De Puertollano (CR-503 P.K. 5.4) a Argamasilla de Calatrava (N-420 P.K. 164,3).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">CIUDAD REAL.</td>
+          <td class="cuerpo_tabla_centro">CM-45</td>
+          <td class="cuerpo_tabla_centro">0,00 - 30,220</td>
+          <td class="cuerpo_tabla_izq">De Ciudad Real (A-41) a Almagro (CM-412).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">CIUDAD REAL, ALBACETE, CUENCA.</td>
+          <td class="cuerpo_tabla_centro">A-43</td>
+          <td class="cuerpo_tabla_centro">0,00 - 175,110</td>
+          <td class="cuerpo_tabla_izq">De Ciudad Real (A-41) a Atalaya del Cañavate (A-3 y A-31).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">CUENCA.</td>
+          <td class="cuerpo_tabla_centro">CM-211</td>
+          <td class="cuerpo_tabla_centro">0,00 - 38,900</td>
+          <td class="cuerpo_tabla_izq">De Almodovar del Pinar (CM-220) a Minglanilla (A-3).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">CUENCA, GUADALAJARA.</td>
+          <td class="cuerpo_tabla_centro">N-320</td>
+          <td class="cuerpo_tabla_centro">134,00 - 272,370</td>
+          <td class="cuerpo_tabla_izq">De Cuenca sur (CM-220) a A-2 (Km 55).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">TOLEDO.</td>
+          <td class="cuerpo_tabla_centro">CM-40</td>
+          <td class="cuerpo_tabla_centro">0,00 - 23,400</td>
+          <td class="cuerpo_tabla_izq">Ronda suroeste de Toledo (de Bargas (A-40) a Burguillos de Toledo (CM-42 y N-401).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">TOLEDO.</td>
+          <td class="cuerpo_tabla_centro">CM-41</td>
+          <td class="cuerpo_tabla_centro">0,00 - 29,700</td>
+          <td class="cuerpo_tabla_izq">De Valmojado (A-5) a Illescas (A-42 y CM-43).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">TOLEDO.</td>
+          <td class="cuerpo_tabla_centro">TO-21</td>
+          <td class="cuerpo_tabla_centro">0,00 - 9,701</td>
+          <td class="cuerpo_tabla_izq">De río Guadarrama (A-40) a Toledo (TO-20).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">TOLEDO.</td>
+          <td class="cuerpo_tabla_centro">TO-22</td>
+          <td class="cuerpo_tabla_centro">0,00 - 9,750</td>
+          <td class="cuerpo_tabla_izq">De Mocejón (A-40) a Toledo (A-42).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">TOLEDO, CIUDAD REAL.</td>
+          <td class="cuerpo_tabla_centro">CM-42</td>
+          <td class="cuerpo_tabla_centro">0,00 - 127,300</td>
+          <td class="cuerpo_tabla_izq">De Toledo (N-401 y A-42) a Tomelloso (A-43).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">TOLEDO, CUENCA.</td>
+          <td class="cuerpo_tabla_centro">A-40</td>
+          <td class="cuerpo_tabla_centro">89,240 - 309,860</td>
+          <td class="cuerpo_tabla_izq">De Maqueda (A-5) a Cuenca.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">TOLEDO, CUENCA, ALBACETE.</td>
+          <td class="cuerpo_tabla_centro">AP-36</td>
+          <td class="cuerpo_tabla_centro">0,00 - 146,757</td>
+          <td class="cuerpo_tabla_izq">De Ocaña (A-4 y R-4) a La Roda (A-31).</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla_ancha" data-vertical-align="top">
+      <colgroup>
+        <col width="22%"/>
+        <col width="10%"/>
+        <col width="15%"/>
+        <col width="53%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" colspan="4">Castilla y León</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">ÁVILA.</td>
+          <td class="cuerpo_tabla_centro">CL-507</td>
+          <td class="cuerpo_tabla_centro">0,000 - 26,100</td>
+          <td class="cuerpo_tabla_izq">De Sanchidrián (AP-6) a San Pedro del Arroyo (enlace A-50).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">ÁVILA, SALAMANCA.</td>
+          <td class="cuerpo_tabla_centro">A-50</td>
+          <td class="cuerpo_tabla_centro">0,840 - 100,140</td>
+          <td class="cuerpo_tabla_izq">De Ávila (AV-20) a Salamanca (N-501).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">BURGOS.</td>
+          <td class="cuerpo_tabla_centro">A-1</td>
+          <td class="cuerpo_tabla_centro">329,400 - 336,700</td>
+          <td class="cuerpo_tabla_izq">De Treviño oeste (L.P. Alava) a Treviño este (L.P. Alava).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">BURGOS.</td>
+          <td class="cuerpo_tabla_centro">A-11</td>
+          <td class="cuerpo_tabla_centro">105,400 - 119,300</td>
+          <td class="cuerpo_tabla_izq">De Aranda de Duero (N-122) a Castrillo de la Vega (A-11R y BU-V-2031).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">BURGOS.</td>
+          <td class="cuerpo_tabla_centro">AP-1</td>
+          <td class="cuerpo_tabla_centro">1,650 - 77,200</td>
+          <td class="cuerpo_tabla_izq">Burgos (A-1) a Miranda de Ebro.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">BURGOS, PALENCIA, VALLADOLID, ZAMORA, SALAMANCA.</td>
+          <td class="cuerpo_tabla_centro">A-62</td>
+          <td class="cuerpo_tabla_centro">7,600 - 355,346</td>
+          <td class="cuerpo_tabla_izq">De Burgos (BU-30) a Fuentes de Oñoro (frontera Portugal).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">BURGOS, SORIA.</td>
+          <td class="cuerpo_tabla_centro">N-122</td>
+          <td class="cuerpo_tabla_centro">263,08 - 241,45</td>
+          <td class="cuerpo_tabla_izq">De Aranda de Duero (A-11) a Langa de Duero (A-11).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">BURGOS, VALLADOLID.</td>
+          <td class="cuerpo_tabla_centro">N-122</td>
+          <td class="cuerpo_tabla_centro">278,050 - 343,400</td>
+          <td class="cuerpo_tabla_izq">De Aranda del Duero (A-11) a Valladolid (A-11).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">LEÓN,PALENCIA, BURGOS.</td>
+          <td class="cuerpo_tabla_centro">A-231</td>
+          <td class="cuerpo_tabla_centro">0,00 - 157,0</td>
+          <td class="cuerpo_tabla_izq">De Onzonilla (A-66/LE-11 y LE-11) a Villalbilla de Burgos (BU-30R).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">PALENCIA.</td>
+          <td class="cuerpo_tabla_centro">A-65</td>
+          <td class="cuerpo_tabla_centro">0,230 - 11,380</td>
+          <td class="cuerpo_tabla_izq">Variante norte de Palencia (de A-67 a N-610).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">SORIA.</td>
+          <td class="cuerpo_tabla_centro">A-11</td>
+          <td class="cuerpo_tabla_centro">21,218 - 83,850</td>
+          <td class="cuerpo_tabla_izq">De La Mallona (N-122) a Langa de Duero (N-122).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">SORIA.</td>
+          <td class="cuerpo_tabla_centro">A-15</td>
+          <td class="cuerpo_tabla_centro">0,00 - 63,790</td>
+          <td class="cuerpo_tabla_izq">De Medinaceli (A-2) a Lubia norte (SO-20).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">SORIA.</td>
+          <td class="cuerpo_tabla_centro">A-15</td>
+          <td class="cuerpo_tabla_centro">98,160 - 107,430</td>
+          <td class="cuerpo_tabla_izq">Variante de Ágreda (de N-122 a N-122 y CL-101).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">SORIA.</td>
+          <td class="cuerpo_tabla_centro">CL-101</td>
+          <td class="cuerpo_tabla_centro">0,00 - 71,87</td>
+          <td class="cuerpo_tabla_izq">De Agreda (A-15) a Almazán (A-15).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">SORIA.</td>
+          <td class="cuerpo_tabla_centro">N-122</td>
+          <td class="cuerpo_tabla_centro">148,070- 107,540</td>
+          <td class="cuerpo_tabla_izq">De Ágreda (A-15) a Soria este (SO-20 y N-234).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">SORIA.</td>
+          <td class="cuerpo_tabla_centro">N-122</td>
+          <td class="cuerpo_tabla_centro">178,50 - 158,64</td>
+          <td class="cuerpo_tabla_izq">De la Mallona (A-11) a Soria Oeste (So-20).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">SORIA.</td>
+          <td class="cuerpo_tabla_centro">SO-20</td>
+          <td class="cuerpo_tabla_centro">0,00 - 22,540</td>
+          <td class="cuerpo_tabla_izq">De Los Rábanos (N-111) a Soria este (N-234 y N-122). Circunvalación de Soria.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">SORIA, LA RIOJA, ZARAGOZA.</td>
+          <td class="cuerpo_tabla_centro">N-113</td>
+          <td class="cuerpo_tabla_centro">57,77 - 68,18</td>
+          <td class="cuerpo_tabla_izq">De Ágreda (A-15) a Valverde (L.P. Navarra).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">VALLADOLID.</td>
+          <td class="cuerpo_tabla_centro">A-11</td>
+          <td class="cuerpo_tabla_centro">343,950 - 358,75</td>
+          <td class="cuerpo_tabla_izq">De Tudela de Duero (N-122) a Valladolid (VA-11).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">VALLADOLID, SEGOVIA.</td>
+          <td class="cuerpo_tabla_centro">A-601</td>
+          <td class="cuerpo_tabla_centro">4,313 - 108,570</td>
+          <td class="cuerpo_tabla_izq">De Valladolid (VA-30) a Segovia (SG-20 y CL-601).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">VALLADOLID, ZAMORA.</td>
+          <td class="cuerpo_tabla_centro">A-11</td>
+          <td class="cuerpo_tabla_centro">393,900 - 467,700</td>
+          <td class="cuerpo_tabla_izq">De Tordesillas (A-62) a Zamora oeste (N-122).</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla_ancha" data-vertical-align="top">
+      <colgroup>
+        <col width="22%"/>
+        <col width="10%"/>
+        <col width="15%"/>
+        <col width="53%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" colspan="4">Comunidad de Madrid</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">MADRID.</td>
+          <td class="cuerpo_tabla_centro">A-6</td>
+          <td class="cuerpo_tabla_centro">10,970 - 39,560</td>
+          <td class="cuerpo_tabla_izq">De Madrid (M-40) a Collado Villalba (AP-6 y N-6).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">MADRID.</td>
+          <td class="cuerpo_tabla_centro">M-40</td>
+          <td class="cuerpo_tabla_centro">0,00 - 61,130</td>
+          <td class="cuerpo_tabla_izq">Circunvalación de Madrid (de A-1 a A-1).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">MADRID.</td>
+          <td class="cuerpo_tabla_centro">M-50</td>
+          <td class="cuerpo_tabla_centro">0,00 - 85,440</td>
+          <td class="cuerpo_tabla_izq">De San Sebastián de los Reyes (A-1) a Las Rozas (A-6).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">MADRID.</td>
+          <td class="cuerpo_tabla_centro">R-3</td>
+          <td class="cuerpo_tabla_centro">0,00 - 29,530</td>
+          <td class="cuerpo_tabla_izq">De Madrid (M-40 y M-23) a Arganda del Rey (A-3).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">MADRID.</td>
+          <td class="cuerpo_tabla_centro">R-5</td>
+          <td class="cuerpo_tabla_centro">0,00 - 31,600</td>
+          <td class="cuerpo_tabla_izq">De Madrid (M-40) a Navalcarnero (A-5).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">MADRID, TOLEDO.</td>
+          <td class="cuerpo_tabla_centro">N-400</td>
+          <td class="cuerpo_tabla_centro">7,80 - 37,580</td>
+          <td class="cuerpo_tabla_izq">De Pol. Ind. Santa María de Benquerencia a Ontígola (A-4).</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla_ancha" data-vertical-align="top">
+      <colgroup>
+        <col width="22%"/>
+        <col width="10%"/>
+        <col width="15%"/>
+        <col width="53%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" colspan="4">Comunidad Valenciana</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">ALICANTE.</td>
+          <td class="cuerpo_tabla_centro">A-77</td>
+          <td class="cuerpo_tabla_centro">0,00 - 7,370</td>
+          <td class="cuerpo_tabla_izq">De Alicante (A-70) a San Vicente del Raspeig (A-7 y AP-7).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">ALICANTE.</td>
+          <td class="cuerpo_tabla_centro">N-338</td>
+          <td class="cuerpo_tabla_centro">0,00 - 5,150</td>
+          <td class="cuerpo_tabla_izq">De El Altet (N-332) a Alicante (A-70) por Aeropuerto de El Altet.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">CASTELLÓN.</td>
+          <td class="cuerpo_tabla_centro">CS-22</td>
+          <td class="cuerpo_tabla_centro">0,00 - 0,800</td>
+          <td class="cuerpo_tabla_izq">De Castellón de la Plana (N-340) a la N-340a.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">CASTELLÓN.</td>
+          <td class="cuerpo_tabla_centro">CS-22</td>
+          <td class="cuerpo_tabla_centro">0,800 - 10,220</td>
+          <td class="cuerpo_tabla_izq">De Enl. N-340a a El Grao de Castellón.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">CASTELLÓN.</td>
+          <td class="cuerpo_tabla_centro">CS-22</td>
+          <td class="cuerpo_tabla_centro">10,220 - 11,340</td>
+          <td class="cuerpo_tabla_izq">De El Grao de Castellón a Puerto Castellón.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">CASTELLÓN.</td>
+          <td class="cuerpo_tabla_centro">N-340</td>
+          <td class="cuerpo_tabla_centro">972,840 - 974,22</td>
+          <td class="cuerpo_tabla_izq">De CS-22 a AP-7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">VALENCIA.</td>
+          <td class="cuerpo_tabla_centro">A-38</td>
+          <td class="cuerpo_tabla_centro">0,00 - 24,00</td>
+          <td class="cuerpo_tabla_izq">De Sollana (AP-7) a Favara (N-332).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">VALENCIA.</td>
+          <td class="cuerpo_tabla_centro">V-21</td>
+          <td class="cuerpo_tabla_centro">0,00 - 18,800</td>
+          <td class="cuerpo_tabla_izq">De Puzol (A-7) a Valencia norte.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">VALENCIA.</td>
+          <td class="cuerpo_tabla_centro">V-23</td>
+          <td class="cuerpo_tabla_centro">0,00 - 10,540</td>
+          <td class="cuerpo_tabla_izq">De Puzol (A-7 y V-21) a Puerto de Sagunto.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">VALENCIA.</td>
+          <td class="cuerpo_tabla_centro">V-30</td>
+          <td class="cuerpo_tabla_centro">0,00 - 17,80</td>
+          <td class="cuerpo_tabla_izq">De Puerto de Valencia (Circunvalación Valencia sur) a Paterna (A-7).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">VALENCIA.</td>
+          <td class="cuerpo_tabla_centro">V-31</td>
+          <td class="cuerpo_tabla_centro">0,00 - 13,580</td>
+          <td class="cuerpo_tabla_izq">De Silla (A-7) a Valencia sur.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">ALICANTE.</td>
+          <td class="cuerpo_tabla_centro">A-33</td>
+          <td class="cuerpo_tabla_centro">78,078 - 90,700</td>
+          <td class="cuerpo_tabla_izq">De Font de la Figuera (A-35) a Villena (A-31).</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla_ancha" data-vertical-align="top">
+      <colgroup>
+        <col width="22%"/>
+        <col width="10%"/>
+        <col width="15%"/>
+        <col width="53%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" colspan="4">Extremadura</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">CÁCERES.</td>
+          <td class="cuerpo_tabla_centro">A-58</td>
+          <td class="cuerpo_tabla_centro">0,00 - 45,527</td>
+          <td class="cuerpo_tabla_izq">De Trujillo (A-5) a Cáceres (N-521).</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla_ancha" data-vertical-align="top">
+      <colgroup>
+        <col width="22%"/>
+        <col width="10%"/>
+        <col width="15%"/>
+        <col width="53%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" colspan="4">Galicia</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">A CORUÑA.</td>
+          <td class="cuerpo_tabla_centro">A-54</td>
+          <td class="cuerpo_tabla_centro">66,420 - 93,400</td>
+          <td class="cuerpo_tabla_izq">De Arzúa oeste (N-547 km 68) a Santiago de Compostela (SC-20).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">A CORUÑA.</td>
+          <td class="cuerpo_tabla_centro">AC-10</td>
+          <td class="cuerpo_tabla_centro">0,00 - 2,400</td>
+          <td class="cuerpo_tabla_izq">De puerto de A Coruña a AC-11.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">A CORUÑA.</td>
+          <td class="cuerpo_tabla_centro">AC-15</td>
+          <td class="cuerpo_tabla_centro">0,00 - 4,635</td>
+          <td class="cuerpo_tabla_izq">De Puerto Exterior de A Coruña a AG-55.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">A CORUÑA.</td>
+          <td class="cuerpo_tabla_centro">AG-11</td>
+          <td class="cuerpo_tabla_centro">0,00 - 40,60</td>
+          <td class="cuerpo_tabla_izq">De Padrón (N-550) a Ribeira (AC-550) (Autovía del Barbanza).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">A CORUÑA.</td>
+          <td class="cuerpo_tabla_centro">AG-55</td>
+          <td class="cuerpo_tabla_centro">2,830 - 35,260</td>
+          <td class="cuerpo_tabla_izq">De A Coruña (AC-552) a Carballo oeste (AC-552).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">A CORUÑA.</td>
+          <td class="cuerpo_tabla_centro">AG-56</td>
+          <td class="cuerpo_tabla_centro">0,00 - 12,580</td>
+          <td class="cuerpo_tabla_izq">De A Rocha (SC-20 y AP-9) a Brión (CG-1.5)).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">A CORUÑA.</td>
+          <td class="cuerpo_tabla_centro">AG-59</td>
+          <td class="cuerpo_tabla_centro">0,00 - 6,460</td>
+          <td class="cuerpo_tabla_izq">De Santiago de Compostela (AP-53) a A Pontevea (AC-841).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">A CORUÑA.</td>
+          <td class="cuerpo_tabla_centro">AP-9F</td>
+          <td class="cuerpo_tabla_centro">0,00 - 36,190</td>
+          <td class="cuerpo_tabla_izq">De Cecebre (AP-9) a Ferrol (FE-13 y FE-15).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">A CORUÑA.</td>
+          <td class="cuerpo_tabla_centro">FE-12</td>
+          <td class="cuerpo_tabla_centro">0,00 - 2,140</td>
+          <td class="cuerpo_tabla_izq">De Freixeiro (AP-9F) a polígono industrial Rio do Pozo (DP-5401).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">A CORUÑA.</td>
+          <td class="cuerpo_tabla_centro">FE-15</td>
+          <td class="cuerpo_tabla_centro">0,00 - 3,440</td>
+          <td class="cuerpo_tabla_izq">De Puerto de Ferrol a Ferrol (AP-9F y FE-13).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">A CORUÑA.</td>
+          <td class="cuerpo_tabla_centro">SC-21</td>
+          <td class="cuerpo_tabla_centro">0,00 - 1,195</td>
+          <td class="cuerpo_tabla_izq">De A-54 a Aeropuerto de Labacolla.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">A CORUÑA, LUGO.</td>
+          <td class="cuerpo_tabla_centro">AG-64</td>
+          <td class="cuerpo_tabla_centro">0,00 - 55,950</td>
+          <td class="cuerpo_tabla_izq">De Ferrol (AC-116) a Vilalba (A-8).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">A CORUÑA, PONTEVEDRA.</td>
+          <td class="cuerpo_tabla_centro">AP-53</td>
+          <td class="cuerpo_tabla_centro">0,00 - 56,600</td>
+          <td class="cuerpo_tabla_izq">De Santiago de Compostela (AP-9, SC-11 y N-525) a Dozón (AG-53).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">A CORUÑA, PONTEVEDRA.</td>
+          <td class="cuerpo_tabla_centro">AP-9</td>
+          <td class="cuerpo_tabla_centro">2,630 - 177,860</td>
+          <td class="cuerpo_tabla_izq">De A Coruña (AC-11) a Tui (A-55) (Autopista del Atlántico).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">LUGO.</td>
+          <td class="cuerpo_tabla_centro">A-54</td>
+          <td class="cuerpo_tabla_centro">0,00 - 45,4</td>
+          <td class="cuerpo_tabla_izq">De Nadela (A-6) a a Melide Sur (AC-840).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">LUGO, A CORUÑA.</td>
+          <td class="cuerpo_tabla_centro">N-547</td>
+          <td class="cuerpo_tabla_centro">35,91 - 44,98</td>
+          <td class="cuerpo_tabla_izq">De Palas de Rei (enlace A-54) a Melide.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">OURENSE.</td>
+          <td class="cuerpo_tabla_centro">A-75</td>
+          <td class="cuerpo_tabla_centro">0,00 - 12,722</td>
+          <td class="cuerpo_tabla_izq">De Verín a frontera de Portugal.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">OURENSE.</td>
+          <td class="cuerpo_tabla_centro">AG-31</td>
+          <td class="cuerpo_tabla_centro">0,00 - 18,90</td>
+          <td class="cuerpo_tabla_izq">De San Cibrao das Viñas (A-52) a Celanova sur (OU-540).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">PONTEVEDRA.</td>
+          <td class="cuerpo_tabla_centro">A-55</td>
+          <td class="cuerpo_tabla_centro">2,740 - 31,406</td>
+          <td class="cuerpo_tabla_izq">De Vigo (Lavadores) a Tui (Frontera Portugal).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">PONTEVEDRA.</td>
+          <td class="cuerpo_tabla_centro">AG-41</td>
+          <td class="cuerpo_tabla_centro">0,400 - 19,180</td>
+          <td class="cuerpo_tabla_izq">De Curro (AP-9) a Sanxenxo (VG-4.1 y PO-504).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">PONTEVEDRA.</td>
+          <td class="cuerpo_tabla_centro">AG-46</td>
+          <td class="cuerpo_tabla_centro">0,00 - 7,220</td>
+          <td class="cuerpo_tabla_izq">De Rande (AP-9) a Meira (CG-4.1).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">PONTEVEDRA.</td>
+          <td class="cuerpo_tabla_centro">AG-51</td>
+          <td class="cuerpo_tabla_centro">0,00 - 2,360</td>
+          <td class="cuerpo_tabla_izq">De Lira (A-52 salida 291 y EP-4102) a Currás (PO-402).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">PONTEVEDRA.</td>
+          <td class="cuerpo_tabla_centro">AG-57</td>
+          <td class="cuerpo_tabla_centro">0,00 - 22,900</td>
+          <td class="cuerpo_tabla_izq">De Baiona (PO-552) a Vigo sur (VG-20) (Autopista do Val Miñor).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">PONTEVEDRA.</td>
+          <td class="cuerpo_tabla_centro">PO-10</td>
+          <td class="cuerpo_tabla_centro">0,00 - 1,680</td>
+          <td class="cuerpo_tabla_izq">De Pontevedra (PO-11) a Pontevedra.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">PONTEVEDRA.</td>
+          <td class="cuerpo_tabla_centro">PO-11</td>
+          <td class="cuerpo_tabla_centro">0,00 - 5,574</td>
+          <td class="cuerpo_tabla_izq">De Pontevedra (PO-10) a Marín (Instalaciones portuarias).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">PONTEVEDRA.</td>
+          <td class="cuerpo_tabla_centro">VG-20</td>
+          <td class="cuerpo_tabla_centro">0,00 - 13,420</td>
+          <td class="cuerpo_tabla_izq">De Puerto de Vigo - Bouzas a Puxeiros (AP-9) (Circunvalación de Vigo).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">PONTEVEDRA.</td>
+          <td class="cuerpo_tabla_centro">VG-4.5</td>
+          <td class="cuerpo_tabla_centro">0,00 - 2,440</td>
+          <td class="cuerpo_tabla_izq">De Moaña (CG-4.1) a Cangas (PO-554.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">PONTEVEDRA, OURENSE.</td>
+          <td class="cuerpo_tabla_centro">AG-53</td>
+          <td class="cuerpo_tabla_centro">56,600 - 87,240</td>
+          <td class="cuerpo_tabla_izq">De Alto de Santo Domingo (AP-53) a Barbantes (A-52).</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla_ancha" data-vertical-align="top">
+      <colgroup>
+        <col width="22%"/>
+        <col width="10%"/>
+        <col width="15%"/>
+        <col width="53%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" colspan="4">La Rioja</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">LA RIOJA.</td>
+          <td class="cuerpo_tabla_centro">LO-20</td>
+          <td class="cuerpo_tabla_centro">0,00 - 18,164</td>
+          <td class="cuerpo_tabla_izq">De Recajo oeste (N-232) a Logroño Oeste (N-232).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">LA RIOJA.</td>
+          <td class="cuerpo_tabla_centro">A-12</td>
+          <td class="cuerpo_tabla_centro">78,167 - 131,888</td>
+          <td class="cuerpo_tabla_izq">De Viana (L.P. Navarra) a Logroño (LO-20).</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla_ancha" data-vertical-align="top">
+      <colgroup>
+        <col width="22%"/>
+        <col width="10%"/>
+        <col width="15%"/>
+        <col width="53%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" colspan="4">Región de Murcia</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">MURCIA.</td>
+          <td class="cuerpo_tabla_centro">A-30</td>
+          <td class="cuerpo_tabla_centro">150,500 - 191,94</td>
+          <td class="cuerpo_tabla_izq">De Albacete (A-31) a Cartagena (CT-33).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">MURCIA.</td>
+          <td class="cuerpo_tabla_centro">A-91</td>
+          <td class="cuerpo_tabla_centro">0,250 - 17,980</td>
+          <td class="cuerpo_tabla_izq">De L.P. Almería (A-92N) a Puerto Lumbreras (A-7) (Autovía).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">MURCIA.</td>
+          <td class="cuerpo_tabla_centro">CT-32</td>
+          <td class="cuerpo_tabla_centro">2,710 - 7,780</td>
+          <td class="cuerpo_tabla_izq">De Cartagena (CT-34 y A-30) a Los Beatos (AP-7R).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">MURCIA.</td>
+          <td class="cuerpo_tabla_centro">CT-33</td>
+          <td class="cuerpo_tabla_centro">0,00 - 2,330</td>
+          <td class="cuerpo_tabla_izq">De Cartagena (A-30) a Puerto de Cartagena.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">MURCIA.</td>
+          <td class="cuerpo_tabla_centro">CT-34</td>
+          <td class="cuerpo_tabla_centro">0,00 - 9,20</td>
+          <td class="cuerpo_tabla_izq">De A-30 a Escombreras (N-343) por Alumbres.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">MURCIA.</td>
+          <td class="cuerpo_tabla_centro">MU-30</td>
+          <td class="cuerpo_tabla_centro">17,00 - 23,453</td>
+          <td class="cuerpo_tabla_izq">De Murcia este (Avda. de Levante) a Tabala (RM-1).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">MURCIA.</td>
+          <td class="cuerpo_tabla_centro">MU-32</td>
+          <td class="cuerpo_tabla_centro">0,800 - 17,150</td>
+          <td class="cuerpo_tabla_izq">De A-30 a A-7.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">MURCIA.</td>
+          <td class="cuerpo_tabla_centro">MU-33</td>
+          <td class="cuerpo_tabla_centro">0,000 - 13,870</td>
+          <td class="cuerpo_tabla_izq">De A-7 a A-30.</td>
+        </tr>
+      </tbody>
+    </table>
+    <table class="tabla_ancha" data-vertical-align="top">
+      <colgroup>
+        <col width="22%"/>
+        <col width="10%"/>
+        <col width="15%"/>
+        <col width="53%"/>
+      </colgroup>
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" colspan="4">Tramos por más de una comunidad autónoma</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">ALBACETE, MURCIA.</td>
+          <td class="cuerpo_tabla_centro">A-30</td>
+          <td class="cuerpo_tabla_centro">0,280 - 120,000</td>
+          <td class="cuerpo_tabla_izq">De Albacete (A-31) a Archena (MU-32).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">ALBACETE, VALENCIA.</td>
+          <td class="cuerpo_tabla_centro">A-35</td>
+          <td class="cuerpo_tabla_centro">0,00 - 44,900</td>
+          <td class="cuerpo_tabla_izq">De Almansa (A-31) a Xátiva (A-7).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">ASTURIAS, LEÓN.</td>
+          <td class="cuerpo_tabla_centro">AP-66</td>
+          <td class="cuerpo_tabla_centro">65,00 - 143,100</td>
+          <td class="cuerpo_tabla_izq">De Campomanes (A-66) a Virgen del Camino (AP-71).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">BURGOS, LA RIOJA, NAVARRA, ZARAGOZA.</td>
+          <td class="cuerpo_tabla_centro">AP-68</td>
+          <td class="cuerpo_tabla_centro">77,597 - 291,830</td>
+          <td class="cuerpo_tabla_izq">De Zambrana (L.P. Alava) a Zaragoza oeste (A-68).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">CANTABRIA, ASTURIAS, LUGO.</td>
+          <td class="cuerpo_tabla_centro">A-8</td>
+          <td class="cuerpo_tabla_centro">139,270 - 593,40</td>
+          <td class="cuerpo_tabla_izq">De Ontón (L.P. Bizkaia) a Baamonde (A-6) (Autovía del Cantábrico).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">CASTELLÓN, VALENCIA, ALICANTE, MURCIA, ALMERÍA.</td>
+          <td class="cuerpo_tabla_centro">AP-7</td>
+          <td class="cuerpo_tabla_centro">344,980 - 911,284</td>
+          <td class="cuerpo_tabla_izq">De Ulldecona (L.P. Tarragona) a Vera (A-7).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">CASTELLÓN, VALENCIA, ALICANTE, MURCIA, ALMERÍA, GRANADA, MÁLAGA, CÁDIZ.</td>
+          <td class="cuerpo_tabla_centro">A-7</td>
+          <td class="cuerpo_tabla_centro">274,10 - 1122,600</td>
+          <td class="cuerpo_tabla_izq">De La Vilavella (CV-10) a Algeciras sur (N-340).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">CÓRDOBA, CIUDAD REAL.</td>
+          <td class="cuerpo_tabla_centro">N-420</td>
+          <td class="cuerpo_tabla_centro">48,740 - 161,150</td>
+          <td class="cuerpo_tabla_izq">De Montoro (A-4) a Argamasilla de Calatrava (A-41).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">CUENCA, ALBACETE, ALICANTE.</td>
+          <td class="cuerpo_tabla_centro">A-31</td>
+          <td class="cuerpo_tabla_centro">0,00 - 239,750</td>
+          <td class="cuerpo_tabla_izq">De Atalaya del Cañavate (A-3) a Alicante.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">LEÓN, ZAMORA, SALAMANCA, CÁCERES, BADAJOZ, HUELVA, SEVILLA.</td>
+          <td class="cuerpo_tabla_centro">A-66</td>
+          <td class="cuerpo_tabla_centro">143,100 - 809,740</td>
+          <td class="cuerpo_tabla_izq">De Virgen del Camino (AP-66 y AP-71) a Sevilla (SE-30).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">MADRID, CUENCA, VALENCIA.</td>
+          <td class="cuerpo_tabla_centro">A-3</td>
+          <td class="cuerpo_tabla_centro">14,460 - 352,50</td>
+          <td class="cuerpo_tabla_izq">De Madrid (M-50) a Valencia (V-30).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">MADRID, GUADALAJARA, SORIA, ZARAGOZA, HUESCA.</td>
+          <td class="cuerpo_tabla_centro">A-2</td>
+          <td class="cuerpo_tabla_centro">11,00 - 443,758</td>
+          <td class="cuerpo_tabla_izq">De Madrid (M-14) a L.P. Lleida.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">MADRID, SEGOVIA, ÁVILA.</td>
+          <td class="cuerpo_tabla_centro">AP-6</td>
+          <td class="cuerpo_tabla_centro">39,560 - 109,610</td>
+          <td class="cuerpo_tabla_izq">De Collado Villalba (A-6) a Adanero (A-6).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">MADRID, SEGOVIA, BURGOS.</td>
+          <td class="cuerpo_tabla_centro">A-1</td>
+          <td class="cuerpo_tabla_centro">12,00 - 252,800</td>
+          <td class="cuerpo_tabla_izq">De Madrid (M-40) a Miranda de Ebro.</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">MADRID, TOLEDO.</td>
+          <td class="cuerpo_tabla_centro">A-42</td>
+          <td class="cuerpo_tabla_centro">6,00 - 77, 470</td>
+          <td class="cuerpo_tabla_izq">De Madrid (_40) a Toledo sur (CM-40, CM-42 y N-401).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">MADRID, TOLEDO.</td>
+          <td class="cuerpo_tabla_centro">AP-41</td>
+          <td class="cuerpo_tabla_centro"> 0,00 - 47,610</td>
+          <td class="cuerpo_tabla_izq">De Moraleja de Enmedio (R-5) a Mocejón (A-40 y TO-22) (Autopista Madrid-Toledo).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">MADRID, TOLEDO.</td>
+          <td class="cuerpo_tabla_centro">R-4</td>
+          <td class="cuerpo_tabla_centro">0,00 - 52,450</td>
+          <td class="cuerpo_tabla_izq">De Madrid (M-50) a Ocaña (A-4).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">MADRID, TOLEDO, CÁCERES, BADAJOZ.</td>
+          <td class="cuerpo_tabla_centro">A-5</td>
+          <td class="cuerpo_tabla_centro">10,320 - 407,821</td>
+          <td class="cuerpo_tabla_izq">De Madrid (M-40) a Badajoz (Frontera Portugal).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">MADRID, TOLEDO, CIUDAD REAL, JAÉN, CÓRDOBA, SEVILLA, CÁDIZ.</td>
+          <td class="cuerpo_tabla_centro">A-4</td>
+          <td class="cuerpo_tabla_centro">3,720 - 669,190</td>
+          <td class="cuerpo_tabla_izq">De Madrid (M-30) a San Fernando (CA-33 y A-48).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">PALENCIA, CANTABRIA.</td>
+          <td class="cuerpo_tabla_centro">A-67</td>
+          <td class="cuerpo_tabla_centro">0,00 - 205,233</td>
+          <td class="cuerpo_tabla_izq">De Palencia (A-62) a Santander (Autovía Cantabria-Meseta).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">SEGOVIA, ÁVILA, VALLADOLID, ZAMORA, LEÓN, LUGO, A CORUÑA.</td>
+          <td class="cuerpo_tabla_centro">A-6</td>
+          <td class="cuerpo_tabla_centro">110,570 - 593,212</td>
+          <td class="cuerpo_tabla_izq">De Adanero (AP-6 y N-6) a Arteixo (AG-55 y AC-551).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">VALENCIA, CASTELLÓN, TERUEL, ZARAGOZA, HUESCA.</td>
+          <td class="cuerpo_tabla_centro">A-23</td>
+          <td class="cuerpo_tabla_centro">0,200 - 424,108</td>
+          <td class="cuerpo_tabla_izq">De Sagunto (V-23) a Jaca este (N-330).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">ZAMORA, OURENSE, PONTEVEDRA.</td>
+          <td class="cuerpo_tabla_centro">A-52</td>
+          <td class="cuerpo_tabla_centro">0,00 - 306,152</td>
+          <td class="cuerpo_tabla_izq">De Benavente (A-66) a Porriño (A-55).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">ZARAGOZA, SORIA.</td>
+          <td class="cuerpo_tabla_centro">N-234</td>
+          <td class="cuerpo_tabla_centro">221,30 - 320,750</td>
+          <td class="cuerpo_tabla_izq">De Daroca a CL-101 (solo sentido creciente de kilometraje).</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">ZARAGOZA, SORIA.</td>
+          <td class="cuerpo_tabla_centro">N-234</td>
+          <td class="cuerpo_tabla_centro">345,400 - 221,30</td>
+          <td class="cuerpo_tabla_izq">De Soria (SO-20) a Daroca (solo sentido decreciente de kilometraje).</td>
+        </tr>
+      </tbody>
+    </table>
+  </texto>
+</documento>

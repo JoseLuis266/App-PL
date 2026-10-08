@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-4900",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-4900",
+  "sha256": "30da196849db6346fd50470121f83cffb4fa2987a3795bb1adbcdcbd67ae8afd",
+  "archivo": "data/raw/30da196849db6346fd50470121f83cffb4fa2987a3795bb1adbcdcbd67ae8afd.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:14.893392+00:00"
+}

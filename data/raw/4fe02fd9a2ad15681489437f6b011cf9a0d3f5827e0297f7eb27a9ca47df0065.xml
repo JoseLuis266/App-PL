@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20251218225601">
+  <metadatos>
+    <identificador>BOE-A-2006-3149</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="5130">Ministerio de Economía y Hacienda</departamento>
+    <rango codigo="1350">Orden</rango>
+    <fecha_disposicion>20060214</fecha_disposicion>
+    <numero_oficial>EHA/444/2006</numero_oficial>
+    <titulo>Orden EHA/444/2006, de 14 de febrero, sobre documentación acreditativa para la importación de vehículos automóviles.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>20060223</fecha_publicacion>
+    <diario_numero>46</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>7293</pagina_inicial>
+    <pagina_final>7294</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/2006/02/23/pdfs/A07293-07294.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia>20060224</fecha_vigencia>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/o/2006/02/14/eha444</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/o/2006/02/14/eha444">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/o"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2006-3149</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-02-14</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">eha444</eli:number>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3084"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4056"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4899"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/7116"/>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/o/2006/02/14/eha444/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/o"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2006-3149</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-02-14</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">eha444</eli:number>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3084"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4056"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4899"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/7116"/>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:corrected_by rdf:resource="https://www.boe.es/eli/es/o/2006/02/14/eha444/corrigendum/20060321/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/o/2006/02/14/eha444"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/o/2006/02/14/eha444/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orden EHA/444/2006, de 14 de febrero, sobre documentación acreditativa para la importación de vehículos automóviles.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-02-23</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/o/2006/02/14/eha444/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2006/02/14/eha444/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2006/02/14/eha444/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2006/02/14/eha444/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2006/02/14/eha444/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2006/02/14/eha444/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2006/02/14/eha444/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="3084" orden="">Documento Único Administrativo</materia>
+      <materia codigo="4056" orden="">Importaciones</materia>
+      <materia codigo="4899" orden="">Matriculación de vehículos</materia>
+      <materia codigo="7116" orden="">Vehículos de motor</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1989-13732" orden="1010">
+          <palabra codigo="210">DEROGA</palabra>
+          <texto>la Orden de 30 de mayo de 1989</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1999-1826" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>la disposición final 3 del Reglamento aprobado por Real Decreto 2822/1998, de 23 de diciembre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores>
+        <posterior referencia="BOE-A-2006-5078" orden="">
+          <palabra codigo="201">CORRECCIÓN de errores</palabra>
+          <texto>en BOE núm. 68, de 21 de marzo de 2006</texto>
+        </posterior>
+      </posteriores>
+    </referencias>
+    <alertas>
+      <alerta codigo="105" orden="">Comercio</alerta>
+      <alerta codigo="132" orden="">Transportes y tráfico</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="ATEXTO_BLANCO_4">
+La Orden del Ministerio de Economía y Hacienda de 30 de mayo de 1989, sobre certificados para la matriculación de vehículos, estableció un procedimiento especial para acreditar la legal importación de los vehículos y aprobó el modelo de Certificado para Matrícula de Vehículos a Motor, Serie A-13, así como las condiciones para su expedición.
+</p>
+    <p class="ATEXTO_NORMAL">
+La citada norma, hasta enero de 1993, fue de aplicación a todos los vehículos procedentes de otros países y obligados, todos ellos, al despacho aduanero de importación.
+Sin embargo, la creación del Mercado interior supuso, entre otras medidas, la abolición de las fronteras fiscales, los controles en frontera y los despachos aduaneros de las mercancías procedentes del resto de Estados miembros de la Unión Europea que dejaron de ser consideradas importaciones, término aplicado únicamente a las mercancías procedentes de terceros países, para ser denominadas adquisiciones intracomunitarias. Para estas adquisiciones o introducciones de vehículos procedentes del resto de Estados comunitarios, el mencionado Certificado dejó de expedirse toda vez que los trámites aduaneros no tenían razón de ser.
+La utilización cada vez más generalizada que se ha venido produciendo de medios telemáticos en las Aduanas, sistema de despacho mediante Intercambio Electrónico de Datos (EDI), permite obtener documentos aduaneros a través de Teleproceso no sujetos a la firma de los funcionarios de aduanas actuantes con independencia de la comprobación a posteriori.
+Los Documentos Únicos Administrativos (DUAs), regulados en el Reglamento (CEE) n.º 2913/1992, del Consejo, de 12 de octubre de 1992, por el que se aprueba el Código aduanero comunitario, y el Reglamento (CEE) n.º 2454/1993, de la Comisión, de 2 de julio de 1993, por el que se fijan determinadas disposiciones de aplicación del Reglamento (CEE) n.º 2913/1992, del Consejo, por el que se establece el Código Aduanero Comunitario, que amparan vehículos automóviles de importación, son los documentos que realmente justifican la legal importación de cualquier mercancía y, en este caso, deberán contener todos los datos identificativos de los vehículos.
+La expedición del Certificado para Matrícula de Vehículos a Motor no aporta datos complementarios sobre el vehículo objeto de importación pero sí entorpece el despacho del mismo por la necesidad inmediata, y previa a la salida del vehículo del recinto aduanero, de obtener el facsímil del número del bastidor que no siempre figura troquelado en dicho elemento, acto que, en estos casos, no compete a los servicios aduaneros. Es de destacar además que estos Certificados, sujetos a caducidad, representan un problema añadido para la futura matriculación en las correspondientes Jefaturas Provinciales de Tráfico.
+Por otra parte la Orden de 30 de mayo de 1989 permite al Departamento de Aduanas e Impuestos Especiales eximir a los importadores oficiales de vehículos automóviles de la expedición de dicho Certificado siempre y cuando aquéllos estén autorizados por el Ministerio de Industria, Turismo y Comercio a expedir directamente las tarjetas de Inspección Técnica de Vehículos (ITV).
+Se considera igualmente necesario suprimir el denominado Certificado de Adeudo que únicamente se emite para los vehículos procedentes de Canarias y para formalizar la venta de vehículos despachados en régimen diplomático, consular o de organismos internacionales. Dicho documento, es un mero soporte o ampliación del documento aduanero de despacho en el caso de los coches procedentes de Canarias y una Certificación que apoya la cancelación del régimen diplomático para aquellos ve-hículos comunitarios que han sido vendidos en la Península e Islas Baleares previo pago del Impuesto sobre el Valor Añadido teniendo como soporte documental el Modelo 380 establecido para «Operaciones asimiladas a las importaciones».
+En consonancia con lo expuesto y teniendo en cuenta lo dispuesto en la disposición final tercera del Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento General de Vehículos, corresponde la derogación de la Orden de 30 de mayo de 1989 a este Ministerio de Economía y Hacienda.
+En su virtud, dispongo:
+</p>
+    <p class="RBF_SFRANySIG_ARTICULO">
+Artículo 1. Documentación a la importación.
+</p>
+    <p class="ATEXTO_BLANCO_4">
+La legal importación de los vehículos automóviles se acreditará exclusivamente mediante la expedición del correspondiente Documento Único Administrativo (DUA) de importación despachado por la Aduana.
+</p>
+    <p class="ATEXTO_NORMAL">
+A partir de la entrada en vigor de la presente Orden se entenderá como certificado para matrícula de vehículos a motor o certificado de adeudo, al que se refieren los anexos XIII y XVII del Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento General de Vehículos, el DUA de importación.
+</p>
+    <p class="RBF_SFRANySIG_ARTICULO">
+Artículo 2. Identificación del vehículo automóvil.
+</p>
+    <p class="ATEXTO_BLANCO_4">
+En los DUAS de importación, Casilla 31, se hará constar la marca, clase, modelo, año de fabricación, número de chasis o bastidor del vehículo de que se trate, así como cualquier otro dato que pueda facilitar su perfecta identificación y posterior matriculación.
+</p>
+    <p class="RBF_SFRANySIG_ARTICULO">
+Artículo 3. Importaciones por traslado de residencia.
+</p>
+    <p class="ATEXTO_BLANCO_4">
+Se hará constar igualmente, en la citada Casilla 31 del DUA, cuando se trate de importaciones de vehículos automóviles por traslado de residencia, de forma clara y preferente el concepto «VEHÍCULO IMPORTADO POR TRASLADO DE RESIDENCIA», y sólo en el caso en que dicha importación se hubiese realizado con franquicia de derechos e impuestos a la importación, conforme a lo establecido en el artículo 7 del Reglamento (CEE) n.º 918/1983, del Consejo, de 28 de marzo, relativo al establecimiento de un régimen comunitario de franquicias aduaneras, en el artículo 28. Dos. 6.º de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido; artículo 9 de la Ley 8/1991, de 25 de marzo, del Impuesto sobre la Producción, los Servicios y la Importación en las Ciudades de Ceuta y Melilla, y artículo 14 de la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias, deberá igualmente, incluirse la mención: «ESTE VEHÍCULO NO PODRÁ SER TRANSMITIDO, CEDIDO O ARRENDADO DURANTE EL PLAZO DE DOCE MESES POSTERIORES A SU IMPORTACIÓN». Cualquiera de estas operaciones, que pudieran pretenderse antes de dicho plazo, deberá ser autorizada por la Aduana que haya tramitado la importación.
+</p>
+    <p class="RBF_SFRANySIG_ARTICULO">
+Artículo 4. Importaciones en régimen diplomático, consular o de organismos internacionales.
+</p>
+    <p class="ATEXTO_BLANCO_4">
+Cuando se trate de vehículos automóviles importados con franquicia de derechos e impuestos al amparo del régimen diplomático, consular o de organismos internacionales, conforme a lo establecido en el Real Decreto 3485/2000, de 29 de diciembre, sobre franquicias y exenciones en régimen diplomático, consular y de organismos internacionales y de modificación del Reglamento General de Vehículos, aprobado por el Real Decreto 2822/1990, de 23 de diciembre, se indicará dicho extremo mediante la mención «VEHÍCULO IMPORTADO EN REGIMEN DE FRANQUICIA DIPLOMÁTICA».
+</p>
+    <p class="ATEXTO_NORMAL">
+De igual forma los vehículos importados al amparo del Acuerdo entre el Reino de España y la Organización del Tratado del Atlántico Norte, de 28 de febrero de 2000, se hará constar en el DUA de importación la mención: «VEHÍCULO IMPORTADO EN REGIMEN DE FRANQUICIA CUARTEL GENERAL OTAN».
+En ambos casos, deberá añadirse la leyenda: «ESTE VEHÍCULO NO SERÁ TRANSFERIDO, CEDIDO O ARRENDADO SIN AUTORIZACIÓN EXPRESA DEL DEPARTAMENTO DE ADUANAS E IMPUESTOS ESPECIALES».
+</p>
+    <p class="RBF_SFRANySIG_ARTICULO">
+Artículo 5. Importaciones por representantes exclusivos de marcas extranjeras.
+</p>
+    <p class="ATEXTO_BLANCO_4">
+Los representantes legales o importadores exclusivos de vehículos de terceros países, que estén autorizados para expedir directamente las Tarjetas ITV, harán constar en éstas el número del DUA de importación, la fecha y la Aduana por la que se haya efectuado el despacho.
+</p>
+    <p class="RBF_SFRANySIG_ARTICULO">
+Artículo 6. Subastas de vehículos-automóviles importados.
+</p>
+    <p class="ATEXTO_BLANCO_4">
+En el caso de importación de vehículos-automóviles que, por cualquier causa, hayan de subastarse y su valor de tasación permita su posterior matriculación, se expedirá por la Aduana correspondiente un Certificado de Adjudicación de Subasta en el que se harán constar los mismos datos que los que se indican en el punto tercero anterior. En caso contrario serán vendidos como deshecho para desguace.
+</p>
+    <p class="RBF_SFRANySIG_ARTICULO">
+Disposición derogatoria única. Derogación normativa.
+</p>
+    <p class="ATEXTO_BLANCO_4">
+Queda derogada la Orden de 30 de mayo de 1989, del Ministerio de Economía y Hacienda, sobre certificados para matriculación de vehículos, y cualquier otra disposición de rango igual o inferior que se oponga a lo establecido en esta Orden, y se suprimen los modelos de Certificado para Matrícula de Vehículos a Motor (Serie A-13) y de Certificado de Adeudo.
+</p>
+    <p class="RBF_SFRANySIG_ARTICULO">
+Disposición final única. Entrada en vigor.
+</p>
+    <p class="ATEXTOySIGUIENTE">
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+</p>
+    <p class="ATEXTO_BLANCO_6">
+Madrid, 14 de febrero de 2006.
+</p>
+    <p class="RVD_FIRMA">
+Solbes Mira</p>
+  </texto>
+</documento>

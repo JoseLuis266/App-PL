@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20241019111158">
+  <metadatos>
+    <identificador>BOE-A-2006-4503</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="1410">Tribunal Constitucional</departamento>
+    <rango codigo="63">Providencia</rango>
+    <fecha_disposicion>20060228</fecha_disposicion>
+    <numero_oficial>208/2006</numero_oficial>
+    <titulo>Cuestión de inconstitucionalidad número 208-2006, en relación con el art. 171.4 del Código Penal, en la redacción dada por la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>20060313</fecha_publicacion>
+    <diario_numero>61</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>9937</pagina_inicial>
+    <pagina_final>9937</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/2006/03/13/pdfs/A09937-09937.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia/>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+  </metadatos>
+  <analisis>
+    <materias>
+      <materia codigo="886" orden="">Código Penal</materia>
+      <materia codigo="2253" orden="">Cuestiones de inconstitucionalidad</materia>
+      <materia codigo="2365" orden="">Delitos contra la libertad</materia>
+      <materia codigo="7928" orden="">Violencia de género</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1995-25444" orden="4040">
+          <palabra codigo="530">Cuestión promovida por supuesta inconstitucionalidad</palabra>
+          <texto>del art. 171.4 de la Ley Orgánica 10/1995, de 23 de noviembre, en la redacción dada por la LEY ORGÁNICA 1/2004, de 28 de diciembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2004-21760" orden="4041">
+          <palabra codigo="530">Cuestión promovida por supuesta inconstitucionalidad</palabra>
+          <texto>,</texto>
+        </anterior>
+      </anteriores>
+      <posteriores>
+        <posterior referencia="BOE-A-2009-12514" orden="">
+          <palabra codigo="693">SE DICTA</palabra>
+          <texto>en la misma y SE DECLARA su DESESTIMACIÓN, por Sentencia 151/2009, de 25 de junio</texto>
+        </posterior>
+      </posteriores>
+    </referencias>
+    <alertas>
+      <alerta codigo="111" orden="">Derecho Constitucional</alerta>
+      <alerta codigo="113" orden="">Derecho Penal</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="ATEXTOySIGUIENTE">
+El Tribunal Constitucional, por providencia 28 de febrero actual, ha admitido a trámite la cuestión de inconstitucionalidad número 208-2006 planteada por el Juzgado de lo Penal núm. 1 de Orihuela, en relación con el art. 171.4 del Código Penal, en la redacción dada por la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, por posible vulneración de los arts. 9.3, 14, 17.1 y 25 de la Constitución.
+</p>
+    <p class="ATEXTO_BLANCO_6">
+Madrid, 28 de febrero de 2006.-La Secretaria de Justicia del Pleno, Herminia Palencia Guerra.</p>
+  </texto>
+</documento>

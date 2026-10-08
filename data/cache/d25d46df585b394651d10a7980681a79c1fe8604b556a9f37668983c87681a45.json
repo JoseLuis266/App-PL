@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1985-5128",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1985-5128",
+  "sha256": "873f2079dfa23eb20d4aaa7fa073cb4196d77e564679fa8085c942929a2fc349",
+  "archivo": "data/raw/873f2079dfa23eb20d4aaa7fa073cb4196d77e564679fa8085c942929a2fc349.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:20:34.115286+00:00"
+}

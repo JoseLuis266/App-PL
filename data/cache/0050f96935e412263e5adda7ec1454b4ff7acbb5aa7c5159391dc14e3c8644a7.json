@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-4365",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-4365",
+  "sha256": "9190d7e7194e2117a12f5c97cd7257c5cccb3e649db1ce7d34e6cfd6b07f265e",
+  "archivo": "data/raw/9190d7e7194e2117a12f5c97cd7257c5cccb3e649db1ce7d34e6cfd6b07f265e.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:53.315230+00:00"
+}

@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-11678",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-11678",
+  "sha256": "11fb8f2e540a285d371e26082b42fe205732b7e6fdac38f2fcbee4cf8b76cf3a",
+  "archivo": "data/raw/11fb8f2e540a285d371e26082b42fe205732b7e6fdac38f2fcbee4cf8b76cf3a.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:17.813509+00:00"
+}

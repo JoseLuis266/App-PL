@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a44" tipo="precepto" titulo="Artículo 44">
+      <version id_norma="BOE-A-2009-9481" fecha_publicacion="20090608" fecha_vigencia="20091208">
+        <p class="articulo">Artículo 44. Personas obligadas a someterse a las pruebas.</p>
+        <p class="parrafo">1. Deberán someterse a las pruebas y exploraciones necesarias para determinar si reúnen las aptitudes psicofísicas requeridas, todas las personas que pretendan obtener o prorrogar cualquier permiso o licencia de conducción y las que, en relación con las tareas de conducción o con su enseñanza, estén obligadas a ello.</p>
+        <p class="parrafo">Las pruebas y exploraciones a que se refiere el párrafo anterior serán practicadas por los centros de reconocimiento de conductores autorizados, los cuales emitirán un informe de aptitud psicofísica.</p>
+        <p class="parrafo">Dicho informe podrá ser complementado por el reconocimiento efectuado por los servicios sanitarios competentes cuando la Jefatura Provincial de Tráfico así lo acuerde en los supuestos en que, con ocasión de la práctica de las pruebas de aptitud para obtener licencia o permiso o en cualquier otro momento del procedimiento, se adviertan en el aspirante indicios racionales de deficiencias psicofísicas que lo aconsejen.</p>
+        <p class="parrafo">2. Las aptitudes psicofísicas requeridas para obtener o prorrogar el permiso o la licencia de conducción son las que se establecen en el anexo IV.</p>
+        <p class="parrafo">3. No obstante lo dispuesto en el apartado anterior, si el centro que estuviese realizando el reconocimiento detectase que un solicitante, pese a no estar incluido en algunas de las deficiencias o enfermedades relacionadas en el anexo IV, no estuviese en condiciones para que le fuera expedido un permiso o licencia de conducción, o prorrogada su vigencia, lo comunicará, indicando las causas, a la Jefatura Provincial de Tráfico correspondiente para que resuelva, previo informe de los servicios sanitarios competentes, lo que proceda.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

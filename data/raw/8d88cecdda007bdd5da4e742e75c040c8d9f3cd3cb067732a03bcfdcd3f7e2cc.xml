@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a151" tipo="precepto" titulo="Artículo 151">
+      <version id_norma="BOE-A-2007-1893" fecha_publicacion="20061227" fecha_vigencia="20061231">
+        <p class="articulo">Artículo 151. Servicios públicos locales.</p>
+        <p class="parrafo_2">1. Son servicios públicos locales los que prestan las entidades locales en el ámbito de sus competencias.</p>
+        <p class="parrafo">2. Las entidades locales tienen plena libertad para constituir, regular, modificar y suprimir los servicios de su competencia de acuerdo con las leyes. Garantizarán en todo caso el funcionamiento de los servicios obligatorios municipales, salvo en los supuestos de dispensa.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

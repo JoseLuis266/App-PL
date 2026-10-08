@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-1893/texto/bloque/a94",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-1893/texto/bloque/a94",
+  "sha256": "bc57de67be7dd4eb62c344ff55fabb514557b61e9020c0044be73830e95907d2",
+  "archivo": "data/raw/bc57de67be7dd4eb62c344ff55fabb514557b61e9020c0044be73830e95907d2.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:05:11.426394+00:00"
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a94" tipo="precepto" titulo="Artículo 94">
+      <version id_norma="BOE-A-2007-1893" fecha_publicacion="20061227" fecha_vigencia="20061231">
+        <p class="articulo">Artículo 94. Quórum de adopción de acuerdos.</p>
+        <p class="parrafo_2">1. Los acuerdos se adoptan, como regla general, por mayoría simple de los miembros presentes. Existe mayoría simple cuando los votos afirmativos son más que los negativos. Se entiende por mayoría absoluta cuando los votos afirmativos son más de la mitad del número legal de miembros de la corporación.</p>
+        <p class="parrafo">2. Cuando se produzcan votaciones con resultado de empate, se efectuará una nueva votación y, si persistiese el empate, decidirá el voto de calidad del presidente o de la presidenta, sin perjuicio del deber de abstención en los supuestos previstos en la ley.</p>
+        <p class="parrafo">3. Se requiere el voto favorable de la mayoría absoluta del número legal de miembros de la corporación para la adopción de los acuerdos siguientes:</p>
+        <p class="parrafo_2">a) Creación y supresión de municipios y alteración de términos municipales.</p>
+        <p class="parrafo">b) Creación, modificación y supresión de entidades de administración descentralizada.</p>
+        <p class="parrafo">c) Aprobación de la delimitación del término municipal.</p>
+        <p class="parrafo">d) Alteración del nombre o de la capitalidad del municipio.</p>
+        <p class="parrafo">e) Aprobación y modificación del reglamento orgánico propio de la corporación.</p>
+        <p class="parrafo">f) Creación y regulación de los órganos complementarios.</p>
+        <p class="parrafo">g) Creación, modificación o disolución de mancomunidades u otras organizaciones asociativas, así como adhesión a las mismas y aprobación y modificación de sus estatutos.</p>
+        <p class="parrafo">h) Transferencia de funciones o actividades a otras administraciones públicas, así como aceptación de las delegaciones o encomiendas de gestión realizadas por otras administraciones, salvo que por ley se impongan obligatoriamente.</p>
+        <p class="parrafo">i) Aprobación de las ordenanzas reguladoras de los aprovechamientos de bienes comunales, así como cesión, por cualquier título, de su aprovechamiento.</p>
+        <p class="parrafo">j) Concesión de bienes o servicios por más cinco años, siempre que su cuantía exceda el veinte por ciento de los recursos ordinarios de su presupuesto.</p>
+        <p class="parrafo">k) Ejercicio de actividades económicas en régimen de monopolio y aprobación de la forma concreta de gestión del servicio correspondiente.</p>
+        <p class="parrafo">l) Aprobación de operaciones financieras o de crédito y concesión de quitas o esperas, si su importe excede de el diez por ciento de los recursos ordinarios del presupuesto, así como operaciones de crédito previstas excepcionalmente para financiar operaciones corrientes de conformidad con lo previsto en la legislación de las haciendas locales, a excepción de las operaciones de tesorería.</p>
+        <p class="parrafo">m) Acuerdos que corresponda adoptar a la corporación en la tramitación de los instrumentos de planeamiento general previstos en la legislación urbanística.</p>
+        <p class="parrafo">n) Enajenación de bienes, si su cuantía excede el veinte por ciento de los recursos ordinarios del presupuesto.</p>
+        <p class="parrafo">o) Alteración de la calificación jurídica de los bienes demaniales o comunales.</p>
+        <p class="parrafo">p) Cesión gratuita de bienes a otras administraciones o instituciones públicas.</p>
+        <p class="parrafo">q) Solicitud de la dispensa de servicios obligatorios.</p>
+        <p class="parrafo">r) En los demás casos en que así lo exijan las leyes.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

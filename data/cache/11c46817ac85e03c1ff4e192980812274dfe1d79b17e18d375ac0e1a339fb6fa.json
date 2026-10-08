@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-11722/texto/bloque/a98",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-11722/texto/bloque/a98",
+  "sha256": "a9706ffbb10104946627f394372d6aa5489d6e1b6c7147134a9fcf49c181c6e7",
+  "archivo": "data/raw/a9706ffbb10104946627f394372d6aa5489d6e1b6c7147134a9fcf49c181c6e7.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:05:21.985298+00:00"
+}

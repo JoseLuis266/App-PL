@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <analisis>
+      <materias>
+        <materia codigo="327">Asistencia sanitaria</materia>
+        <materia codigo="329">Asistencia social</materia>
+        <materia codigo="433">Baleares</materia>
+        <materia codigo="1589">Consejos consultivos</materia>
+        <materia codigo="2463">Derechos de los ciudadanos</materia>
+        <materia codigo="3060">Discriminación</materia>
+        <materia codigo="3455">Estadística</materia>
+        <materia codigo="4051">Igualdad de oportunidades</materia>
+      </materias>
+      <notas>
+        <nota>Publicada en el BOIB núm. 69 de 2 de junio de 2016.</nota>
+      </notas>
+      <referencias>
+        <anteriores>
+          <anterior>
+            <id_norma>BOE-A-2007-4233</id_norma>
+            <relacion codigo="440">DE CONFORMIDAD con</relacion>
+            <texto>el art. 17 del Estatuto aprobado por Ley Orgánica 1/2007, de 28 de febrero</texto>
+          </anterior>
+        </anteriores>
+      </referencias>
+    </analisis>
+  </data>
+</response>

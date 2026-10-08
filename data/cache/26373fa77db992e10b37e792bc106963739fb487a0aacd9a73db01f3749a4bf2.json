@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/aveintiseis",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/aveintiseis",
+  "sha256": "d2e16af0703444f806fe8507ad090c9ceb92d0a4fd8853a5e591fc3b909f6b55",
+  "archivo": "data/raw/d2e16af0703444f806fe8507ad090c9ceb92d0a4fd8853a5e591fc3b909f6b55.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:06:22.570216+00:00"
+}

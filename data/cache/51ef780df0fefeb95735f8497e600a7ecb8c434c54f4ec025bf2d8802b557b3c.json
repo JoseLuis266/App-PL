@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-19008",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-19008",
+  "sha256": "ad4bfb27efadeb9613d90a021f84787b587f7582d7a12b7dee4daaac6dfc422f",
+  "archivo": "data/raw/ad4bfb27efadeb9613d90a021f84787b587f7582d7a12b7dee4daaac6dfc422f.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:42.753297+00:00"
+}

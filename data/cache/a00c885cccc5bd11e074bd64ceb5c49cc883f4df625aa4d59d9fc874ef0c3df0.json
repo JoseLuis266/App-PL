@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1978-12341",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1978-12341",
+  "sha256": "b54689e9b2c278ad9b2a8f59b29580cbb4a82a3ced2fb77709ef8eee4f6a90ff",
+  "archivo": "data/raw/b54689e9b2c278ad9b2a8f59b29580cbb4a82a3ced2fb77709ef8eee4f6a90ff.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:19:46.330659+00:00"
+}

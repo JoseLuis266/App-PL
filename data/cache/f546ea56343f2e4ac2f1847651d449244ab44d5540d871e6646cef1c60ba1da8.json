@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2015-1891",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2015-1891",
+  "sha256": "c4b3fc636ed74ab28a1624df7d73f46db22b9b674989d9d51d6b53f9f63e8459",
+  "archivo": "data/raw/c4b3fc636ed74ab28a1624df7d73f46db22b9b674989d9d51d6b53f9f63e8459.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:17.747551+00:00"
+}

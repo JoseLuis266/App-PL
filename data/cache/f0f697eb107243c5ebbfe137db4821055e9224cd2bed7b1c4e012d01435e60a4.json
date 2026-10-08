@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/indice",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/indice",
+  "sha256": "817f85e952f67a992f9afa58e20dfd51bda39214e2793db9de7eba273f7ee159",
+  "archivo": "data/raw/817f85e952f67a992f9afa58e20dfd51bda39214e2793db9de7eba273f7ee159.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:31:47.237865+00:00"
+}

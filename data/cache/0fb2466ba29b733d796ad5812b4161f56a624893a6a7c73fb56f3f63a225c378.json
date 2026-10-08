@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2012-3813",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2012-3813",
+  "sha256": "e6aefcc12c00724385861f804b06fabd41ec281bcf9d764c34d92b91847e5382",
+  "archivo": "data/raw/e6aefcc12c00724385861f804b06fabd41ec281bcf9d764c34d92b91847e5382.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:11.439282+00:00"
+}

@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20251218145601">
+  <metadatos>
+    <identificador>BOE-A-1995-24958</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7723">Jefatura del Estado</departamento>
+    <rango codigo="1290">Ley Orgánica</rango>
+    <fecha_disposicion>19951116</fecha_disposicion>
+    <numero_oficial>8/1995</numero_oficial>
+    <titulo>Ley Orgánica 8/1995, de 16 de noviembre, por la que se modifica la Ley Orgánica 5/1995, de 22 de mayo, del Tribunal del Jurado.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>19951117</fecha_publicacion>
+    <diario_numero>275</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>33162</pagina_inicial>
+    <pagina_final>33165</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/1995/11/17/pdfs/A33162-33165.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan>/boe_catalan/dias/1995/12/31/pdfs/A00287-00289.pdf</url_pdf_catalan>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia>19951118</fecha_vigencia>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/lo/1995/11/16/8</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/lo/1995/11/16/8">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/lo"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1995-24958</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1995-11-16</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</eli:number>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/78"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/383"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3199"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4696"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4715"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4725"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5010"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5893"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5894"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5899"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6962"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6974"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6980"/>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/lo/1995/11/16/8/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/lo"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1995-24958</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1995-11-16</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</eli:number>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/78"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/383"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3199"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4696"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4715"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4725"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5010"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5893"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5894"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5899"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6962"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6974"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6980"/>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:corrected_by rdf:resource="https://www.boe.es/eli/es/lo/1995/11/16/8/corrigendum/19951121/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/lo/1995/11/16/8"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/lo/1995/11/16/8/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ley Orgánica 8/1995, de 16 de noviembre, por la que se modifica la Ley Orgánica 5/1995, de 22 de mayo, del Tribunal del Jurado.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1995-11-17</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/lo/1995/11/16/8/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/lo/1995/11/16/8/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/lo/1995/11/16/8/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/lo/1995/11/16/8/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/lo/1995/11/16/8/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/lo/1995/11/16/8/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/lo/1995/11/16/8/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/lo/1995/11/16/8/dof/cat">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/cat"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Llei orgànica 8/1995, de 16 de novembre, per la qual es modifica la Llei orgànica 5/1995, de 22 de maig, del tribunal del jurat. («BOE» 275, de 17-11-1995, i «BOE» 278, de 21-11-1995.)</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1995-12-31</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/lo/1995/11/16/8/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/lo/1995/11/16/8/dof/cat/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/lo/1995/11/16/8/dof/cat"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="78" orden="1">Administración de Justicia</materia>
+      <materia codigo="383" orden="2">Audiencias Provinciales</materia>
+      <materia codigo="3199" orden="3">Enjuiciamiento Criminal</materia>
+      <materia codigo="4696" orden="4">Jurado</materia>
+      <materia codigo="4715" orden="5">Juzgados de Instrucción</materia>
+      <materia codigo="4725" orden="6">Juzgados de Primera Instancia e Instrucción</materia>
+      <materia codigo="5010" orden="7">Ministerio Fiscal</materia>
+      <materia codigo="5893" orden="8">Recurso de Apelación</materia>
+      <materia codigo="5894" orden="9">Recurso de Casación</materia>
+      <materia codigo="5899" orden="10">Recurso de Revisión</materia>
+      <materia codigo="6962" orden="11">Tribunal del Jurado</materia>
+      <materia codigo="6974" orden="12">Tribunal Supremo</materia>
+      <materia codigo="6980" orden="13">Tribunales Superiores de Justicia</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1995-12095" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>la Ley Orgánica 5/1995, de 22 de mayo</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1882-6036" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>arts. 504 bis 2, 846 bis A), 846 bis B), 846 bis F) y 847 de la Ley de Enjuiciamiento Criminal aprobada por Real Decreto de 14 de septiembre de 1882 (Gazeta)</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1985-12666" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Ley Orgánica 6/1985, de 1 de julio</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1973-1715" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Código Penal, texto refundido aprobado por Decreto 3096/1973, de 14 de septiembre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores>
+        <posterior referencia="BOE-A-1995-25203" orden="1">
+          <palabra codigo="202">CORRECCIÓN de erratas</palabra>
+          <texto>en BOE núm. 278, de 21 de noviembre de 1995</texto>
+        </posterior>
+      </posteriores>
+    </referencias>
+    <alertas>
+      <alerta codigo="111" orden="1">Derecho Constitucional</alerta>
+      <alerta codigo="113" orden="2">Derecho Penal</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="centro_redonda">JUAN CARLOS I</p>
+    <p class="centro_redonda">REY DE ESPAÑA</p>
+    <p class="parrafo_2">A todos los que la presente vieren y entendieren.</p>
+    <p class="parrafo">Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica:</p>
+    <p class="centro_redonda">EXPOSICION DE MOTIVOS</p>
+    <p class="parrafo_2">En la sesión celebrada el 11 de mayo de 1995 por el Pleno del Congreso de los Diputados se aprobó la Ley Orgánica del Tribunal del Jurado, si bien no se incorporaron a su texto las enmiendas aprobadas por el Senado, dado el resultado obtenido por la votación de conjunto, que significó el rechazo de aquellas enmiendas, a pesar de que previamente habían sido muy favorablemente valoradas y casi unánimemente aceptadas por el Pleno del Congreso.</p>
+    <p class="parrafo">En razón a esta valoración y aceptación previas, se considera oportuno el introducir ahora en la Ley Orgánica del Tribunal del Jurado las modificaciones precisas que adecúen su contenido al de las enmiendas en su momento formuladas por el Senado y que, dado el alcance de las mismas, sin duda contribuirán a regular de una forma más precisa y eficaz la institución que mediante dicha Ley Orgánica se pone en funcionamiento.</p>
+    <p class="articulo">Artículo primero.</p>
+    <p class="parrafo">La Ley Orgánica 5/1995, de 22 de mayo, del Tribunal del Jurado, queda modificada en los términos siguientes:</p>
+    <p class="parrafo_2">1. En la Exposición de Motivos II, párrafo cuarto, se modifica la expresión «el futuro legislador» por «el legislador en el futuro».</p>
+    <p class="parrafo">2. En la Exposición de Motivos III, apartado 2, letra a), párrafo segundo, se modifica la frase «previa confirmación de su verosimilitud», por «previa valoración de su verosimilitud».</p>
+    <p class="parrafo">3. En la Exposición de Motivos V, apartado 1, párrafo sexto, se modifica la frase «sólo es posible», por «sólo es susceptible».</p>
+    <p class="parrafo">4. En la Exposición de Motivos V, apartado 1, letra f), se sustituye la expresión «a medio de la oportuna audiencia», por «mediando la oportuna audiencia».</p>
+    <p class="parrafo">5. Se suprime el apartado 1 de la Exposición de Motivos VIl, con el consiguiente desplazamiento del resto.</p>
+    <p class="parrafo">6. Los apartados 1 y 2 del artículo 1 quedan redactados como sigue:</p>
+    <p class="sangrado_2">«1. El Tribunal del Jurado, como institución para la participación de los ciudadanos en la Administración de Justicia, tendrá competencia para el enjuiciamiento de los delitos atribuidos a su conocimiento y fallo por esta u otra Ley respecto de los contenidos en las siguientes rúbricas:</p>
+    <p class="sangrado_2">a) Delitos contra las personas.</p>
+    <p class="sangrado">b) Delitos cometidos por los funcionarios públicos en el ejercicio de sus cargos.</p>
+    <p class="sangrado">c) Delitos contra el honor.</p>
+    <p class="sangrado">d) Delitos contra la libertad y la seguridad.</p>
+    <p class="sangrado">e) Delitos de incendios.</p>
+    <p class="sangrado_2">2. Dentro del ámbito de enjuiciamiento previsto en el apartado anterior, el Tribunal del Jurado será competente para el conocimiento y fallo de las causas por tos delitos tipificados en tos siguientes preceptos del Código Penal:</p>
+    <p class="sangrado_2">a) Artículo 405 (parricidio).</p>
+    <p class="sangrado">b) Artículo 406 (asesinato).</p>
+    <p class="sangrado">c) Artículo 407 (homicidio).</p>
+    <p class="sangrado">d) Artículo 409 (auxilio o inducción al suicidio).</p>
+    <p class="sangrado">e) Artículo 410 (infanticidio).</p>
+    <p class="sangrado">f) Artículos 362 y 363 (infidelidad en la custodia de presos).</p>
+    <p class="sangrado">g) Artículos 364 a 366, ambos inclusive (infidelidad en la custodia de documentos).</p>
+    <p class="sangrado">h) Artículos 385 a 393, ambos inclusive (cohecho).</p>
+    <p class="sangrado">i) Artículos 394 a 396, ambos inclusive (malversación de caudales públicos).</p>
+    <p class="sangrado">j) Artículos 400 a 403, ambos inclusive (fraudes y exacciones ilegales).</p>
+    <p class="sangrado">k) Artículo 404 (negociaciones prohibidas a funcionarios públicos).</p>
+    <p class="sangrado">l) Artículos 404 bis a) a 404 bis c), ambos inclusive (tráfico de influencias).</p>
+    <p class="sangrado">m) Artículo 489 ter (omisión del deber de socorro).</p>
+    <p class="sangrado">n) Artículos 490 a 492 bis, ambos inclusive (allanamiento de morada).</p>
+    <p class="sangrado">ñ) Artículo 493.1.º (amenazas).</p>
+    <p class="sangrado">o) Artículos 553 bis a) a 553 bis c), ambos inclusive (incendios forestales).»</p>
+    <p class="parrafo_2">7. En el apartado 3 del artículo 1 se modifica el término «corresponda» por «correspondan».</p>
+    <p class="parrafo">8. El párrafo segundo del apartado 1 del artículo 2 queda redactado de la siguiente forma:</p>
+    <p class="sangrado_2">«Si, por razón del aforamiento del acusado, el juicio del Jurado debe celebrarse en el ámbito del Tribunal Supremo o de un Tribunal Superior de Justicia, el Magistrado-Presidente del Tribunal del Jurado será un Magistrado de la Sala de lo Penal del Tribunal Supremo o de la Sala de lo Civil y Penal del Tribunal Superior de Justicia, respectivamente.»</p>
+    <p class="parrafo_2">9. El apartado 4 del artículo 3 queda redactado de la siguiente forma:</p>
+    <p class="sangrado_2">«4. Los jurados que en el ejercicio de su función se consideren inquietados o perturbados en su independencia, en los términos del artículo 14 de la Ley Orgánica del Poder Judicial, podrán dirigirse al Magistrado-Presidente para que les ampare en el desempeño de su cargo.»</p>
+    <p class="parrafo_2">10. En el apartado 1 del artículo 5 se suprime la expresión «a la pena en abstracto que corresponda».</p>
+    <p class="parrafo">11. El párrafo segundo del apartado 2 del artículo 5 queda redactado de la siguiente forma:</p>
+    <p class="sangrado_2">«No obstante lo anterior, y sin perjuicio de lo previsto en el artículo 1 de la presente Ley, en ningún caso podrá enjuiciarse por conexión el delito de prevaricación, así como aquellos delitos conexos cuyo enjuiciamiento pueda efectuarse por separado sin que se rompa la continencia de la causa.»</p>
+    <p class="parrafo_2">12. El apartado 5 del artículo 8 queda redactado de la siguiente forma:</p>
+    <p class="sangrado_2">«5. No estar impedido física, psíquica o sensorialmente para el desempeño de la función de Jurado.»</p>
+    <p class="parrafo_2">13. En el apartado 7 del artículo 10 se suprime la expresión «y los Agentes de la Administración de Justicia».</p>
+    <p class="parrafo">14. El apartado 8 del artículo 10 queda redactado de la siguiente forma:</p>
+    <p class="sangrado_2">«8. Los Delegados del Gobierno en las Comunidades Autónomas, en las Autonomías de Ceuta y Melilla, los Delegados insulares del Gobierno y los Gobernadores civiles.»</p>
+    <p class="parrafo_2">15. El apartado 9 del artículo 10 queda redactado de la siguiente forma:</p>
+    <p class="sangrado_2">«Los letrados en activo al servicio de los órganos constitucionales y de las Administraciones públicas o de cualesquiera Tribunales, y los abogados y procuradores en ejercicio. Los profesores universitarios de disciplinas jurídicas o de medicina legal.»</p>
+    <p class="parrafo_2">16. El apartado 3 del artículo 11 queda redactado de la siguiente forma:</p>
+    <p class="sangrado_2">«3. Tenga con el Magistrado-Presidente del Tribunal, miembro del Ministerio Fiscal o Secretario Judicial que intervenga en la causa o con los abogados o procuradores el vínculo de parentesco o relación a que se refieren los apartados 1, 2, 3, 4, 7, 8 y 11 del artículo 219 de la Ley Orgánica del Poder Judicial.»</p>
+    <p class="parrafo_2">17. En el artículo 18 se sustituye su título por el de «Designación de candidatos a jurados para cada causa» y se sustituye, en su texto, la expresión «habiendo citado al Ministerio Fiscal y representantes de las partes» por la de «habiendo citado a las partes», así como la expresión «36 jurados» por la de «36 candidatos a jurados».</p>
+    <p class="parrafo">18. En el artículo 19 se sustituye su título por el de «Citación de los candidatos a jurados designados para una causa» y se sustituye, en su apartado 1, la expresión «notificación a los jurados» por la de «notificación a los candidatos a jurados», y en su apartado 2, el término «jurados» por la expresión «candidatos a jurados designados».</p>
+    <p class="parrafo">19. Se suprime el apartado 4 del artículo 19.</p>
+    <p class="parrafo">20. El artículo 20 queda redactado de la siguiente forma:</p>
+    <p class="sangrado_articulo">«Artículo 20. <em>Devolución del cuestionario.</em></p>
+    <p class="sangrado">Dentro de los cinco días siguientes a la recepción del cuestionario, los candidatos a jurados designados lo devolverán, por correo con franqueo oficial, debidamente cumplimentado y acompañado de las justificaciones documentales que estimen oportunas, al Magistrado que haya de presidir el Tribunal del Jurado.»</p>
+    <p class="parrafo_2">21. El párrafo primero del artículo 21 queda redactado de la siguiente forma:</p>
+    <p class="sangrado_2">«El Ministerio Fiscal y las demás partes, a quienes se ha debido entregar previamente el cuestionario cumplimentado por los candidatos a jurados, podrán formular recusación, dentro de los cinco días siguientes al de dicha entrega, por concurrir falta de requisitos o cualquiera de las causas de incapacidad, incompatibilidad o prohibición previstas en esta Ley. También propondrán la prueba de que intenten valerse.»</p>
+    <p class="parrafo_2">22. El artículo 22 queda redactado de la siguiente forma:</p>
+    <p class="sangrado_2">«El Magistrado-Presidente señalará día para la vista de la excusa, advertencia o recusación presentada, citando a las partes y a quienes hayan expresado advertencia o excusa. Practicadas en el acto las diligencias propuestas, resolverá dentro de los tres días siguientes.»</p>
+    <p class="parrafo_2">23. En el artículo 23 se sustituye su título por el de «Nuevo sorteo para completar la lista de candidatos a jurados designados para una causa», y se sustituye, en su apartado 1, la expresión «jurados de la causa» por la de «candidatos a jurados designados para una causa», y la expresión «jurados necesarios» por la de «candidatos a jurados necesarios». Asimismo, en el apartado 2, se sustituye el término «jurados» por la expresión «candidatos a jurados».</p>
+    <p class="parrafo">24. En el apartado 1 del artículo 24 se sustituye la expresión «previa confirmación de su verosimilitud» por la de «previa valoración de su verosimilitud».</p>
+    <p class="parrafo">25. En el segundo inciso del apartado 1 del artículo 25 se sustituye la expresión «A tal efecto» por la de «Con objeto de concretar la imputación».</p>
+    <p class="parrafo">26. El apartado 1 del artículo 26 queda redactado de la siguiente forma:</p>
+    <p class="sangrado_2">«1. Oídas las partes, el Juez de Instrucción decidirá la continuación del procedimiento, o el sobreseimiento, si hubiera causa para ello, conforme a lo dispuesto en los artículos 637 ó 641 de la Ley de Enjuiciamiento Criminal.»</p>
+    <p class="parrafo_2">27. El apartado 1 del artículo 27 queda redactado de la siguiente forma:</p>
+    <p class="sangrado_2">«1. Si el Juez de Instrucción acordase la Continuación del procedimiento, resolverá sobre la pertinencia de las diligencias solicitadas por las partes, ordenando practicar o practicando por sí solamente las que considere imprescindibles para decidir sobre la procedencia de la apertura del juicio oral y no pudiesen practicarse directamente en la audiencia preliminar prevista en la presente Ley.»</p>
+    <p class="parrafo_2">28. En el apartado 2 del artículo 27 se suprime la expresión «el Ministerio Fiscal y» y se sustituye la expresión «tres días» por la de «cinco días».</p>
+    <p class="parrafo">29. El apartado 3 del artículo 27 queda redactado de la siguiente forma:</p>
+    <p class="sangrado_2">«3. Además podrá el Juez ordenar, como complemento de las solicitadas por las partes, las diligencias que estime necesarias, limitadas a la comprobación del hecho justiciable y respecto de las personas objeto de imputación por las partes acusadoras.»</p>
+    <p class="parrafo_2">30. Se sustituye el apartado 4 del artículo 27 por un nuevo apartado 4, con la siguiente redacción:</p>
+    <p class="sangrado_2">«4. Si el Juez considerase improcedentes las solicitadas y no ordenase ninguna de oficio, conferirá nuevo traslado a las partes a fin de que insten, en el plazo de cinco días, lo que estimen oportuno respecto a la apertura del juicio oral, formulando escrito de conclusiones provisionales. Lo mismo mandará el Juez cuando estime innecesaria la práctica de más diligencias, aun cuando no haya finalizado la práctica de las ya ordenadas.»</p>
+    <p class="parrafo_2">31. El artículo 28 queda redactado de la siguiente forma:</p>
+    <p class="sangrado_articulo">«Artículo 28. <em>Indicios de distinto delito.</em></p>
+    <p class="sangrado">Si de las diligencias practicadas resultaren indicios racionales de delito distinto del que es objeto de procedimiento o la participación de personas distintas de las inicialmente imputadas, se actuará en la forma establecida en el artículo 25 de esta Ley o, en su caso, se incoará el procedimiento que corresponda si el delito no fuese de los atribuidos al Tribunal del Jurado.»</p>
+    <p class="parrafo_2">32. El párrafo primero del apartado 5 del artículo 29 queda redactado de la siguiente forma:</p>
+    <p class="sangrado_2">«5. Las partes, cuando entiendan que todos los hechos delictivos objeto de acusación no son de los que tienen atribuido su enjuiciamiento al Tribunal del Jurado, instarán en sus respectivos escritos de solicitud de juicio oral la pertinente adecuación del procedimiento.»</p>
+    <p class="parrafo_2">33. En el apartado 1 del artículo 30 se sustituye la expresión «Inmediatamente que el Ministerio Fiscal o una parte acusadora insten en los términos del artículo anterior la apertura del juicio oral», por la de «Una vez presentado el escrito de calificación de la defensa,».</p>
+    <p class="parrafo">34. La letra c) del artículo 33 queda redactada de la siguiente forma:</p>
+    <p class="sangrado_2">«c) La fundamentación de la procedencia de la apertura del juicio con indicación de las disposiciones legales aplicables.»</p>
+    <p class="parrafo_2">35. El párrafo primero del apartado 1 del artículo 34 queda redactado de la siguiente forma:</p>
+    <p class="sangrado_2">«1. En la misma resolución, el Juez acordará que se deduzca testimonio de:»</p>
+    <p class="parrafo_2">36. Se añade una nueva letra c) al artículo 37, con el siguiente contenido:</p>
+    <p class="sangrado_2">«c) A continuación, determinará el delito o delitos que dichos hechos constituyan.»</p>
+    <p class="parrafo_2">Los actuales contenidos de las letras c) y d) pasan a designarse con las letras d) y e), respectivamente.</p>
+    <p class="parrafo">37. En el título y apartados 1 y 2 del artículo 38 se sustituye el término «jurados» por «candidatos a jurados». Asimismo, en el apartado 2 de dicho precepto se añade la expresión «falta de requisitos» después de la expresión «por si en ellos concurriera».</p>
+    <p class="parrafo">38. En el título y apartados 1 y 3 del artículo 39 se sustituye el término «jurados» por el de «candidatos a jurados». Igualmente, en el apartado 2 de dicho artículo se sustituye el término «jurado» por el de «candidato a jurado» En el párrafo segundo del apartado 2 se sustituye «les advertirá» por «acordará que se les advierta».</p>
+    <p class="parrafo">39. En los apartados 1, 2 y 3 del artículo 40 se sustituye el término «jurados» por el de «candidatos a jurados».</p>
+    <p class="parrafo">40. En el apartado 1 del artículo 40 se añade el término «jurados» después de la palabra «nueve».</p>
+    <p class="parrafo">41. En el primer párrafo del apartado 3 del artículo 40 se sustituye el término «designado» por «nombrado», y las expresiones «hasta tres» y «otros tres» por «hasta cuatro» y «otros cuatro», respectivamente.</p>
+    <p class="parrafo">42. Los apartados 1 y 3 del artículo 41 quedan redactados de la siguiente forma:</p>
+    <p class="sangrado_2">«1. Una vez que el Tribunal se haya constituido, se procederá a recibir juramento o promesa a los seleccionados para actuar como jurados. Puestos en pie el Magistrado-Presidente dirá:</p>
+    <p class="sangrado_2">"¿Juran o prometen desempeñar bien y fielmente la función del jurado, con imparcialidad, sin odio ni afecto, examinando la acusación, apreciando las pruebas y resolviendo si son culpables o no culpables de los delitos objeto del procedimiento los acusados..., así como guardar secreto de las deliberaciones?".»</p>
+    <p class="sangrado_2">«3. El Magistrado-Presidente, cuando todos hayan jurado o prometido, mandará comenzar la audiencia pública.»</p>
+    <p class="parrafo_2">43. En el párrafo primero del artículo 44 se modifican los términos «prioridad ante» por «prioridad frente a».</p>
+    <p class="parrafo">44. El primer párrafo de la letra g) del apartado 1 del artículo 52 queda redactado de la siguiente forma:</p>
+    <p class="sangrado_2">«El Magistrado-Presidente, a la vista del resultado de la prueba, podrá añadir hechos o calificaciones jurídicas favorables al acusado siempre que no impliquen una variación sustancial del hecho justiciable, ni ocasionen indefensión.»</p>
+    <p class="parrafo_2">45. El apartado 2 del artículo 52 queda redactado de la siguiente forma:</p>
+    <p class="sangrado_2">«2. Asimismo, el Magistrado-Presidente recabará, en su caso, el criterio del jurado sobre la aplicación de los beneficios de remisión condicional de la pena y la petición o no de indulto en la propia sentencia.»</p>
+    <p class="parrafo_2">46. Al final del apartado 2 del artículo 54 quedan suprimidos los términos «y delitos».</p>
+    <p class="parrafo">47. En el apartado 2 del artículo 56 se sustituyen los términos «por si» por «de oficio».</p>
+    <p class="parrafo">48. En el apartado 1 del artículo 60 y en el primer párrafo de la letra c) del apartado 1 del artículo 61 se sustituye el término «delito» por «hecho delictivo».</p>
+    <p class="parrafo">49. En la disposición final cuarta se introduce como título el de «Futuras reformas procesales».</p>
+    <p class="parrafo">50. Se modifica con carácter general en todo el texto de la Ley 5/1995, Orgánica del Tribunal del Jurado, el término «Magistrado-presidente» por «Magistrado-Presidente».</p>
+    <p class="articulo">Artículo segundo.</p>
+    <p class="parrafo">Los artículos que a continuación se relacionan de la Ley de Enjuiciamiento Criminal, introducidos por la disposición final segunda de la Ley Orgánica del Tribunal del Jurado, quedan modificados en los términos siguientes:</p>
+    <p class="parrafo_2">1. El primer párrafo del artículo 504 bis 2 queda redactado de la siguiente forma:</p>
+    <p class="sangrado_2">«Desde que el detenido es puesto a disposición del Juez de Instrucción o Tribunal que deba conocer de la causa, éste, salvo que decrete su libertad provisional sin fianza, convocará a audiencia, dentro de las setenta y dos horas siguientes, al Ministerio Fiscal, demás partes personadas y al imputado, que deberá estar asistido de letrado por él elegido o designado de oficio. El Ministerio Fiscal y el imputado, asistido de su letrado, tendrán obligación de comparecer.»</p>
+    <p class="parrafo_2">2. En el párrafo segundo del artículo 846 bis a) se suprime la siguiente frase: «cuando acuerden el sobreseimiento, cualquiera que sea su clase, y los».</p>
+    <p class="parrafo">3. En el artículo 846 bis b) se añade un segundo párrafo, con el siguiente contenido:</p>
+    <p class="sangrado_2">«También podrá recurrir el declarado exento de responsabilidad criminal si se le impusiere una medida de seguridad o se declarase su responsabilidad civil conforme a lo dispuesto en el Código Penal.»</p>
+    <p class="parrafo_2">El contenido del actual párrafo segundo de dicho precepto pasa a integrar un tercer párrafo del mismo.</p>
+    <p class="parrafo">4. En el artículo 846 bis f) se sustituye la referencia al «art. 846 bis 3» por la del «art. 846 bis c)».</p>
+    <p class="parrafo">5. El apartado b) del artículo 847 queda redactado de la siguiente forma:</p>
+    <p class="sangrado_2">«b) Las sentencias dictadas por las Audiencias en juicio oral y única instancia.»</p>
+    <p class="articulo">Disposición final única.</p>
+    <p class="parrafo">1. Los apartados 24 a 43, ambos inclusive, del artículo primero y los apartados 2, 3, 4 y 5 del artículo segundo tienen el carácter de Ley Orgánica.</p>
+    <p class="parrafo">2. La presente Ley Orgánica entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo_2">Por tanto,</p>
+    <p class="parrafo">Mando a todos los españoles, particulares y autoridades que guarden y hagan guardar esta Ley Orgánica.</p>
+    <p class="parrafo_2">Madrid, 16 de noviembre de 1995.</p>
+    <p class="firma_rey">JUAN CARLOS R.</p>
+    <p class="firma_ministro">El Presidente del Gobierno,</p>
+    <p class="firma_ministro">FELIPE GONZALEZ MARQUEZ</p>
+  </texto>
+</documento>

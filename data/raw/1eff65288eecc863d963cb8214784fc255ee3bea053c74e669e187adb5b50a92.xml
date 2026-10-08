@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a317" tipo="precepto" titulo="Artículo 317">
+      <version id_norma="BOE-A-1995-25444" fecha_publicacion="19951124" fecha_vigencia="19960524">
+        <p class="articulo">Artículo 317.</p>
+        <p class="parrafo">Cuando el delito a que se refiere el artículo anterior se cometa por imprudencia grave, será castigado con la pena inferior en grado.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-9481/metadatos",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-9481/metadatos",
+  "sha256": "a19e3081c7906cb035f4aa2a6cd28fa69f678f08000ec8a3171ddb0e027340ce",
+  "archivo": "data/raw/a19e3081c7906cb035f4aa2a6cd28fa69f678f08000ec8a3171ddb0e027340ce.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:30:53.436914+00:00"
+}

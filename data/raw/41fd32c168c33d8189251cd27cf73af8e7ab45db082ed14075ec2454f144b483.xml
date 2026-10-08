@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a111" tipo="precepto" titulo="Artículo 111">
+      <version id_norma="BOE-A-2015-11722" fecha_publicacion="20151031" fecha_vigencia="20160131">
+        <p class="articulo">Artículo 111. Responsables subsidiarios del pago de multas.</p>
+        <p class="parrafo">1. Los titulares de los vehículos con los que se haya cometido una infracción serán responsables subsidiarios en caso de impago de la multa impuesta al conductor, salvo en los siguientes supuestos:</p>
+        <p class="parrafo_2">a) Robo, hurto o cualquier otro uso en el que quede acreditado que el vehículo fue utilizado en contra de su voluntad.</p>
+        <p class="parrafo">b) Cuando el titular sea una empresa de alquiler sin conductor.</p>
+        <p class="parrafo">c) Cuando el vehículo tenga designado un arrendatario a largo plazo en el momento de cometerse la infracción. En este caso, la responsabilidad recaerá en aquel.</p>
+        <p class="parrafo">d) Cuando el vehículo tenga designado un conductor habitual en el momento de cometerse la infracción. En este caso, la responsabilidad recaerá en aquel.</p>
+        <p class="parrafo_2">2. La declaración de responsabilidad subsidiaria y sus consecuencias, incluida la posibilidad de adoptar medidas cautelares, se regirán por lo dispuesto en la normativa tributaria.</p>
+        <p class="parrafo">3. El responsable que haya satisfecho la multa tiene derecho de reembolso contra el infractor por la totalidad de lo que haya satisfecho.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

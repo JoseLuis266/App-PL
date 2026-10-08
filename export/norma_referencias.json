@@ -1,0 +1,902 @@
+[
+  {
+    "id_norma": "estatuto",
+    "norma_modificadora": "BOE-A-2015-1061",
+    "fecha": "20150205",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1061",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": ", con el art. 31.13, sobre aplicación de la Ley 27/2013, de 27 de diciembre, de Administración Local: Decreto-ley 2/2014, de 21 de noviembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "estatuto",
+    "norma_modificadora": "BOE-A-2010-10715",
+    "fecha": "20100706",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10715",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": "regulando el Consejo Consultivo: Ley 5/2010, de 16 de junio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "estatuto",
+    "norma_modificadora": "BOE-A-2010-1399",
+    "fecha": "20100130",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1399",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": ", regulando el régimen electoral de los Consejos Insulares: Ley 7/2009, de 11 de diciembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "trafico",
+    "norma_modificadora": "BOE-A-2025-4407",
+    "fecha": "20250306",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-4407",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": "con el art. 63.5 y regula los cursos de conducción para la recuperación o bonificación de puntos: Orden INT/209/2025, de 27 de febrero",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "circulacion",
+    "norma_modificadora": "BOE-A-2022-987",
+    "fecha": "20220121",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-987",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": "y se aprueba el manual de características de los vehículos de movilidad personal, por Resolución  de 12 de enero de 2022",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "circulacion",
+    "norma_modificadora": "BOE-A-2009-9838",
+    "fecha": "20090613",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2009-9838",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": ", aprobando el manual de señalización variable: Resolución de 1 de junio de 2009",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "conductores",
+    "norma_modificadora": "BOE-A-2025-4408",
+    "fecha": "20250306",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-4408",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": "sobre formación para acceso progresivo al permiso clase A: Orden INT/210/2025, de 27 de febrero",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "conductores",
+    "norma_modificadora": "BOE-A-2011-14246",
+    "fecha": "20110831",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2011-14246",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": "sobre formación para acceso progresivo al permiso clase A: Orden INT/2323/2011, de 29 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2025-24103",
+    "fecha": "20251127",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24103",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": "y se establece la red de itinerarios aptos para la circulación de los conjuntos euro-modulares por las vías de la Comunidad Foral de Navarra: Resolución 16E/2025, de 5 de noviembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2025-21711",
+    "fecha": "20251028",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-21711",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": "y se establece la red de itinerarios aptos para la circulación de los conjuntos euro-modulares: Resolución de 22 de octubre de 2025",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2022-987",
+    "fecha": "20220121",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-987",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": ", y se aprueba el manual de características de los vehículos de movilidad personal, por  Resolución  de 12 de enero de 2022",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2012-9868",
+    "fecha": "20120724",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9868",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": "regulando la homologación de placas de matrícula para vehículos de motor y remolques: Orden IET/1624/2012, de 16 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2012-3813",
+    "fecha": "20120317",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2012-3813",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": "sobre las condiciones técnicas de los filtros de rayos ultravioleta para ser instalados en los vidrios de los vehículos destinados a ser conducidos por personas con lupus: Orden IET/543/2012, de 14 de marzo",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2009-11678",
+    "fecha": "20090715",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2009-11678",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": "sobre caracterización y registro de maquinaria agrícola: Real Decreto 1013/2009, de 19 de junio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2006-3149",
+    "fecha": "20060223",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2006-3149",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": "con la disposición final 3, sobre documentación acreditativa para la importación de vehículos automóviles.: Orden EHA/444/2006, de 14 de febrero",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2001-11659",
+    "fecha": "20010619",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2001-11659",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": "con los arts. 11 y 12, sobre láminas de material plástico adheridas a los vidrios: Orden de 6 de junio de 2001",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2002-3783",
+    "fecha": "20020225",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2002-3783",
+    "relacion": "SE DICTA EN RELACIÓN",
+    "descripcion_literal": ", sobre actuación de los Registradores de bienes muebles en las transmisiones de vehículos grabados: Instrucción de 19 de febrero de 2002",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-1999-24787",
+    "fecha": "19991230",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24787",
+    "relacion": "SE DICTA EN RELACIÓN",
+    "descripcion_literal": ", disponiendo que entrará en vigor el 1 de enero de 2001 la disposición derogatoria 2.a): Real Decreto 1965/1999, de 23 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-2011-7173",
+    "fecha": "20110421",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2011-7173",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": "sobre régimen electoral del Consejo de Policía: Real Decreto 555/2011, de 20 de abril",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-2010-17664",
+    "fecha": "20101117",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-17664",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": "determinando las condiciones para la Asociación de Municipios para prestar servicios de Policía local: Orden INT/2944/2010, de 10 de noviembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-2010-14479",
+    "fecha": "20100921",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-14479",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": "aprobando el Reglamento de las Juntas locales de Seguridad: Real Decreto 1087/2010, de 3 de septiembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-2007-18391",
+    "fecha": "20071023",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-18391",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": ", regulando los derechos y deberes de los miembros de la Guardia Civil: Ley Orgánica 11/2007, de 22 de octubre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-2005-13122",
+    "fecha": "20050730",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2005-13122",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": ", sobre retribuciones: Real Decreto 950/2005, de 29 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-1997-20262",
+    "fecha": "19970923",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1997-20262",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": ", aprobando el Reglamento general de adquisición y pérdida de la condición de militar de carrera del cuerpo de la Guardia Civil: el Real Decreto 1429/1997, de 15 de septiembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-1997-20259",
+    "fecha": "19970923",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1997-20259",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": ", aprobando el Reglamento general de evaluaciones, clasificaciones y ascensos del personal de la Guardia Civil: el Real Decreto 1424/1997, de 15 de septiembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-1996-28337",
+    "fecha": "19961219",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1996-28337",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": ", aprobando el régimen del alumnado de los centros docentes militares de formación de la Guardia Civil, por la Orden de 13 de diciembre de 1996",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-1995-11719",
+    "fecha": "19950518",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1995-11719",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": ", aprobando el Reglamento de procesos selectivos y de formación: el Real Decreto 614/1995, de 21 de abril",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-1994-22921",
+    "fecha": "19941019",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1994-22921",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": ", completando el régimen personal del Cuerpo de la Guardia Civil: Ley 28/1994, de 18 de octubre de 1994",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-1991-15527",
+    "fecha": "19910618",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1991-15527",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": "con el art. 15.1, sobre régimen disciplinario de la Guardia Civil: Ley Orgánica 11/1991, de 17 de junio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-1991-5780",
+    "fecha": "19910301",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1991-5780",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": "con el art. 11.1 y 2.B), regulando e servicio marítimo de la Guardia Civil: Real Decreto 246/1991, de 22 de febrero",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-1991-5287",
+    "fecha": "19910226",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1991-5287",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": "con el art. 47, regulando la organización de unidades del Cuerpo Nacional de Policía adscritas a las comunidades autónomas: el Real Decreto 221/1991, de 22 de febrero",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-1989-18727",
+    "fecha": "19890804",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1989-18727",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": "aprobando el Reglamento de provisión de puestos de trabajo de la Dirección General dela policía: el Real Decreto 997/1989, de 28 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-1989-17118",
+    "fecha": "19890719",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1989-17118",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": "aprobando el Reglamento de régimen disciplinario del Cuerpo Nacional de policía: el Real Decreto 884/1989, de 14 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-1988-12744",
+    "fecha": "19880524",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1988-12744",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": "sobre reorganización de la Dirección General de la Guardia Civil: Orden de 20 de mayo de 1988",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-1988-8681",
+    "fecha": "19880407",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1988-8681",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": ", sobre retribuciones de los cuerpos de seguridad: Real Decreto 311/1988, de 30 de marzo",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-1987-27143",
+    "fecha": "19871205",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-27143",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": "sobre normas generales relativas a escalas, categorías, personal, uniformes, distintivos y armamento del Cuerpo Nacional de Policía: Real Decreto 1484/1987, de 4 de diciembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-1987-14578",
+    "fecha": "19870624",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-14578",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": ", regulando la Policía judicial: el Real Decreto 769/1987, de 19 de junio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-1987-5471",
+    "fecha": "19870303",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-5471",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": ", sobre normas para la celebración de elecciones de representantes del Cuerpo Nacional de Policía en el Consejo de Policía: Real Decreto 315/1987, de 27 de febrero",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-1986-23791",
+    "fecha": "19860904",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1986-23791",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": "con la disposición transitoria 1.3, sobre alcance y efectos de la opción en favor de los miembros de la Fuerzas Armadas que prestaban servicio en el Cuerpo Nacional de Policía: Real Decreto 1795/1986, de 29 de agosto",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-2006-624",
+    "fecha": "20060117",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2006-624",
+    "relacion": "SE DICTA EN RELACIÓN",
+    "descripcion_literal": ", sobre prevención de riesgos laborales en el Cuerpo Nacional de Policía: Real Decreto 2/2006, de 16 de enero",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-2005-3241",
+    "fecha": "20050226",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2005-3241",
+    "relacion": "SE DICTA EN RELACIÓN",
+    "descripcion_literal": "sobre prevención de riesgos laborales en la Guardia Civil: Real Decreto 179/2005, de 18 de febrero",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-1986-19505",
+    "fecha": "19860721",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1986-19505",
+    "relacion": "Cuestión",
+    "descripcion_literal": "487/1986 promovida por supuesta inconstitucionalidad de del art. 8, epígrafe 1, párrafo 2",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2009-2073",
+    "fecha": "20090207",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2073",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": "la disposición adicional 2, en relación a la información del sistema de de registros de apoyo a la administración de justicia: Real Decreto 95/2009, de 6 de febrero",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2008-19992",
+    "fecha": "20081211",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2008-19992",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": "con la disposición adicional 3, regulando la composición y funciones de la comisión nacional para uso forense del ADN: Real Decreto 1977/2008, de 28 de noviembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2020-6742",
+    "fecha": "20200626",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6742",
+    "relacion": "Cuestión",
+    "descripcion_literal": "promovida por supuesta inconstitucionalidad del art. 238 bis, en la redacción dada por la Ley 13/2009, de 3 de noviembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2011-10598",
+    "fecha": "20110618",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10598",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": "sobre ejecución de las penas de trabajo y localización permanente en centro penitenciario: Real Decreto 840/2011, de 17 de junio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2005-7426",
+    "fecha": "20050507",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2005-7426",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": ", sobre circunstancias de ejecución de las penas y las medidas de seguridad: Real Decreto 515/2005, de 6 de mayo",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-1996-10993",
+    "fecha": "19960517",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1996-10993",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": "con los arts. 37 y 49, sobre Ejecución de Penas de Trabajo en Beneficio de la Comunidad y Arresto de Fin de Semana: Real Decreto 690/1996, de 26 de abril",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2024-25863",
+    "fecha": "20241212",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-25863",
+    "relacion": "Cuestión",
+    "descripcion_literal": "6596/2024 promovida por supuesta inconstitucionalidad del art. 130.1, en la redacción dada por la disposición final 2 de la Ley Orgánica 1/2024, de 10 de junio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2010-1",
+    "fecha": "20100101",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1",
+    "relacion": "Cuestión",
+    "descripcion_literal": "9610/2009 promovida por supuesta inconstitucionalidad del art. 57.2",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2008-4902",
+    "fecha": "20080314",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2008-4902",
+    "relacion": "Cuestión",
+    "descripcion_literal": "1038/2008 promovida por supuesta inconstitucionalidad de los arts. 153.1 y 171.4",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2008-4900",
+    "fecha": "20080314",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2008-4900",
+    "relacion": "Cuestión",
+    "descripcion_literal": "1036/2008 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2008-4895",
+    "fecha": "20080314",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2008-4895",
+    "relacion": "Cuestión",
+    "descripcion_literal": "543/2008 promovida por supuesta inconstitucionalidad del artículo 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2008-4893",
+    "fecha": "20080314",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2008-4893",
+    "relacion": "Cuestión",
+    "descripcion_literal": "9746/2007 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2008-3521",
+    "fecha": "20080225",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3521",
+    "relacion": "Cuestión",
+    "descripcion_literal": "483/2008 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2008-3520",
+    "fecha": "20080225",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3520",
+    "relacion": "Cuestión",
+    "descripcion_literal": "85/2008 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2008-3518",
+    "fecha": "20080225",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3518",
+    "relacion": "Cuestión",
+    "descripcion_literal": "9744/2007 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2008-3515",
+    "fecha": "20080225",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3515",
+    "relacion": "Cuestión",
+    "descripcion_literal": "9318/2007 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2008-3514",
+    "fecha": "20080225",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3514",
+    "relacion": "Cuestión",
+    "descripcion_literal": "9019/2007 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2008-3513",
+    "fecha": "20080225",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3513",
+    "relacion": "Cuestión",
+    "descripcion_literal": "9018/2007 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2008-2329",
+    "fecha": "20080211",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2008-2329",
+    "relacion": "Cuestión",
+    "descripcion_literal": "9424/2007 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2008-1623",
+    "fecha": "20080131",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2008-1623",
+    "relacion": "Cuestión",
+    "descripcion_literal": "9423/2007 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2008-1621",
+    "fecha": "20080131",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2008-1621",
+    "relacion": "Cuestión",
+    "descripcion_literal": "9368/2007 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2008-1619",
+    "fecha": "20080131",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2008-1619",
+    "relacion": "Cuestión",
+    "descripcion_literal": "8973/2007 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-22523",
+    "fecha": "20071231",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-22523",
+    "relacion": "Cuestión",
+    "descripcion_literal": "8847/2007 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-22522",
+    "fecha": "20071231",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-22522",
+    "relacion": "Cuestión",
+    "descripcion_literal": "8846/2007 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-22521",
+    "fecha": "20071231",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-22521",
+    "relacion": "Cuestión",
+    "descripcion_literal": "8622/2007 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-20264",
+    "fecha": "20071126",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20264",
+    "relacion": "Cuestión",
+    "descripcion_literal": "6663/2007 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-20263",
+    "fecha": "20071126",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20263",
+    "relacion": "Cuestión",
+    "descripcion_literal": "5925/2007 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-19008",
+    "fecha": "20071102",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-19008",
+    "relacion": "Cuestión",
+    "descripcion_literal": "7617/2007 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-18533",
+    "fecha": "20071025",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-18533",
+    "relacion": "Cuestión",
+    "descripcion_literal": "6883/2007 promovida por supuesta inconstitucionalidad del art. 153.1, inciso 1 y 171.4",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-17574",
+    "fecha": "20071008",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-17574",
+    "relacion": "Cuestión",
+    "descripcion_literal": "6662/2007 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-16791",
+    "fecha": "20070924",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-16791",
+    "relacion": "Cuestión",
+    "descripcion_literal": "6360/2007 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-16790",
+    "fecha": "20070924",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-16790",
+    "relacion": "Cuestión",
+    "descripcion_literal": "6288/2007 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-16788",
+    "fecha": "20070924",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-16788",
+    "relacion": "Cuestión",
+    "descripcion_literal": "5926/2007 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-16787",
+    "fecha": "20070924",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-16787",
+    "relacion": "Cuestión",
+    "descripcion_literal": "5924/2007 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-16785",
+    "fecha": "20070924",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-16785",
+    "relacion": "Cuestión",
+    "descripcion_literal": "5256/2007 promovida por supuesta inconstitucionalidad del art. 57.2",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-16784",
+    "fecha": "20070924",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-16784",
+    "relacion": "Cuestión",
+    "descripcion_literal": "4815/2007 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-16782",
+    "fecha": "20070924",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-16782",
+    "relacion": "Cuestión",
+    "descripcion_literal": "51/2007 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-16781",
+    "fecha": "20070924",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-16781",
+    "relacion": "Cuestión",
+    "descripcion_literal": "10661/2006 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-14326",
+    "fecha": "20070726",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-14326",
+    "relacion": "Cuestión",
+    "descripcion_literal": "4763/2007 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-13273",
+    "fecha": "20070710",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13273",
+    "relacion": "Cuestión",
+    "descripcion_literal": "4660/2007 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-13270",
+    "fecha": "20070710",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13270",
+    "relacion": "Cuestión",
+    "descripcion_literal": "2922/2007 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-13264",
+    "fecha": "20070710",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13264",
+    "relacion": "Cuestión",
+    "descripcion_literal": "4616/2007 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-13263",
+    "fecha": "20070710",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13263",
+    "relacion": "Cuestión",
+    "descripcion_literal": "4615/2007 promovida por supuesta inconstitucionalidad de los arts. 153.1 y 171.4",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-11311",
+    "fecha": "20070608",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-11311",
+    "relacion": "Cuestión",
+    "descripcion_literal": "10662/2006 promovida por supuesta inconstitucionalidad de los arts. 153.1 y 171.4",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-6413",
+    "fecha": "20070327",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-6413",
+    "relacion": "Cuestión",
+    "descripcion_literal": "1219/2007 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-6412",
+    "fecha": "20070327",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-6412",
+    "relacion": "Cuestión",
+    "descripcion_literal": "1218/2007 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-4365",
+    "fecha": "20070302",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-4365",
+    "relacion": "Cuestión",
+    "descripcion_literal": "306/2007 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-4364",
+    "fecha": "20070302",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-4364",
+    "relacion": "Cuestión",
+    "descripcion_literal": "47/2007 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-4362",
+    "fecha": "20070302",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-4362",
+    "relacion": "Cuestión",
+    "descripcion_literal": "11334/2006 promovida por supuesta inconstitucionalidad de los arts. 153.1 y 171.4",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-2388",
+    "fecha": "20070205",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-2388",
+    "relacion": "Cuestión",
+    "descripcion_literal": "10596/2006 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-2386",
+    "fecha": "20070205",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-2386",
+    "relacion": "Cuestión",
+    "descripcion_literal": "8261/2006 promovida por supuesta inconstitucionalidad del art. 153.1",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2006-16776",
+    "fecha": "20060926",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2006-16776",
+    "relacion": "Cuestión",
+    "descripcion_literal": "6812/2006 promovida por supuesta inconstitucionalidad de los arts. 153.1 y 171.4",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2006-4503",
+    "fecha": "20060313",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2006-4503",
+    "relacion": "Cuestión",
+    "descripcion_literal": "208/2006 promovida por supuesta inconstitucionalidad del art. 171.4",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-1997-4837",
+    "fecha": "19970306",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1997-4837",
+    "relacion": "Cuestión",
+    "descripcion_literal": "582/1997 por supuesta inconstitucionalidad del art. 380",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2023-15067",
+    "fecha": "20230628",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15067",
+    "relacion": "Recurso",
+    "descripcion_literal": "3630/2023 promovido contra el art. 145 bis, en la redacción dada por la Ley Orgánica 1/2023, de 28 de febrero",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2022-16279",
+    "fecha": "20221006",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-16279",
+    "relacion": "Recurso",
+    "descripcion_literal": "5041/2022, promovido contra el art. 172 quater, en la redacción dada por el art. único de la Ley Orgánica 4/2022, de 12 de abril",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2008-2326",
+    "fecha": "20080211",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2008-2326",
+    "relacion": "Recurso",
+    "descripcion_literal": "6316/2007 promovido contra el art. 57.2",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "datos",
+    "norma_modificadora": "BOE-A-2021-9175",
+    "fecha": "20210602",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9175",
+    "relacion": "SE DICTA DE CONFORMIDAD",
+    "descripcion_literal": "con el art. 45.2 y disposición final 15, y aprueba el Estatuto de la Agencia Española de protección de Datos: Real Decreto 389/2021, de 1 de junio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  }
+]

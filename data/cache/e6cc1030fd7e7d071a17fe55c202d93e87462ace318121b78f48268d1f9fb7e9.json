@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1988-12909",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1988-12909",
+  "sha256": "c2e2f09a33c2b8411e7255d24f51364d958c737c9e70b17932ac5337bb84ba3e",
+  "archivo": "data/raw/c2e2f09a33c2b8411e7255d24f51364d958c737c9e70b17932ac5337bb84ba3e.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:20:43.744429+00:00"
+}

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <analisis>
+      <materias>
+        <materia codigo="78">Administración de Justicia</materia>
+        <materia codigo="85">Administración Local</materia>
+        <materia codigo="421">Ayuntamientos</materia>
+        <materia codigo="665">Cataluña</materia>
+        <materia codigo="1320">Comunidades Autónomas</materia>
+        <materia codigo="1428">Consejo de Policía</materia>
+        <materia codigo="1429">Consejo de Política de Seguridad</materia>
+        <materia codigo="1983">Cuerpo de la Guardia Civil</materia>
+        <materia codigo="1984">Cuerpo de la Policía Nacional</materia>
+        <materia codigo="2202">Cuerpo Nacional de Policía</materia>
+        <materia codigo="2222">Cuerpo Superior de Policía</materia>
+        <materia codigo="2514">Dirección de Seguridad del Estado</materia>
+        <materia codigo="2745">Dirección General de la Guardia Civil</materia>
+        <materia codigo="2753">Dirección General de la Policía</materia>
+        <materia codigo="3841">Fuerzas y Cuerpos de Seguridad del Estado</materia>
+        <materia codigo="3848">Funcionarios de la Administración Local</materia>
+        <materia codigo="3939">Gobiernos civiles</materia>
+        <materia codigo="4039">Huelga</materia>
+        <materia codigo="4134">Incompatibilidades</materia>
+        <materia codigo="4969">Ministerio de Defensa</materia>
+        <materia codigo="5008">Ministerio del Interior</materia>
+        <materia codigo="5010">Ministerio Fiscal</materia>
+        <materia codigo="5143">Navarra</materia>
+        <materia codigo="5247">Oposiciones y concursos</materia>
+        <materia codigo="5345">País Vasco</materia>
+        <materia codigo="5618">Plantillas</materia>
+        <materia codigo="5635">Policía</materia>
+        <materia codigo="5636">Policía Judicial</materia>
+        <materia codigo="6649">Sindicatos</materia>
+      </materias>
+      <referencias>
+        <anteriores>
+          <anterior>
+            <id_norma>BOE-A-1978-29844</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>la Ley 55/1978, de 4 de diciembre</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1970-1315</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>la Ley 24/1970, de 2 de diciembre</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1941-8760</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>la Ley sobre funcionamiento de las Jefaturas Superiores de Policía, de 2 de septiembre de 1941 (Gazeta)</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1940-12141</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>la Ley disponiendo que el cargo de Director General de la Guardia Civil sea ejercido por un Teniente General, de 23 de noviembre de 1940 (Gazeta)</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1940-2688</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>la Ley reorganizando el benemérito Cuerpo de la Guardia Civil, de 15 de marzo de 1940 (Gazeta)</texto>
+          </anterior>
+        </anteriores>
+        <posteriores>
+          <posterior>
+            <id_norma>BOE-A-2015-8468</id_norma>
+            <relacion codigo="210">SE DEROGA</relacion>
+            <texto>los arts. 16 al 26 y las disposiciones adicionales 1, 2, 6 y 7; SE MODIFICA la disposición final 5 y SE AÑADE la disposición final 6, por Ley Orgánica 9/2015, de 28 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2010-8115</id_norma>
+            <relacion codigo="210">SE DEROGA</relacion>
+            <texto>los arts. 27, 28 y se añade una disposición adicional 5, por Ley Orgánica 4/2010, de 20 de mayo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1994-21315</id_norma>
+            <relacion codigo="210">SE DEROGA</relacion>
+            <texto>las disposiciones transitorias 1.8 y 4.1, por la Ley 26/1994, de 29 de septiembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2013-13425</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 53.3, por Ley Orgánica 9/2013, de 20 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2011-4551</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>la disposición adicional 5 y se añade la disposición adicional 7, por Ley Orgánica 4/2011, de 11 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-18392</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 15.1, por Ley Orgánica 12/2007, de 22 de octubre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2003-23644</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 53, por Ley Orgánica 19/2003, de 23 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2003-4923</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 42 y 51, por Ley Orgánica 1/2003, de 10 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-21489</id_norma>
+            <relacion codigo="407">SE AÑADE</relacion>
+            <texto>una disposición adicional 5, por Ley Orgánica 16/2007, de 13 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1986-33382</id_norma>
+            <relacion codigo="401">SE PRORROGA</relacion>
+            <texto>la disposición transitoria 1, por Ley 21/1986, de 23 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2011-7173</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>sobre régimen electoral del Consejo de Policía: Real Decreto 555/2011, de 20 de abril</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2010-17664</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>determinando las condiciones para la Asociación de Municipios para prestar servicios de Policía local: Orden INT/2944/2010, de 10 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2010-14479</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>aprobando el Reglamento de las Juntas locales de Seguridad: Real Decreto 1087/2010, de 3 de septiembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-18391</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>, regulando los derechos y deberes de los miembros de la Guardia Civil: Ley Orgánica 11/2007, de 22 de octubre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2005-13122</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>, sobre retribuciones: Real Decreto 950/2005, de 29 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1997-20262</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>, aprobando el Reglamento general de adquisición y pérdida de la condición de militar de carrera del cuerpo de la Guardia Civil: el Real Decreto 1429/1997, de 15 de septiembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1997-20259</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>, aprobando el Reglamento general de evaluaciones, clasificaciones y ascensos del personal de la Guardia Civil: el Real Decreto 1424/1997, de 15 de septiembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1996-28337</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>, aprobando el régimen del alumnado de los centros docentes militares de formación de la Guardia Civil, por la Orden de 13 de diciembre de 1996</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1995-11719</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>, aprobando el Reglamento de procesos selectivos y de formación: el Real Decreto 614/1995, de 21 de abril</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1994-22921</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>, completando el régimen personal del Cuerpo de la Guardia Civil: Ley 28/1994, de 18 de octubre de 1994</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1991-15527</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>con el art. 15.1, sobre régimen disciplinario de la Guardia Civil: Ley Orgánica 11/1991, de 17 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1991-5780</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>con el art. 11.1 y 2.B), regulando e servicio marítimo de la Guardia Civil: Real Decreto 246/1991, de 22 de febrero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1991-5287</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>con el art. 47, regulando la organización de unidades del Cuerpo Nacional de Policía adscritas a las comunidades autónomas: el Real Decreto 221/1991, de 22 de febrero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1989-18727</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>aprobando el Reglamento de provisión de puestos de trabajo de la Dirección General dela policía: el Real Decreto 997/1989, de 28 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1989-17118</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>aprobando el Reglamento de régimen disciplinario del Cuerpo Nacional de policía: el Real Decreto 884/1989, de 14 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1988-12744</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>sobre reorganización de la Dirección General de la Guardia Civil: Orden de 20 de mayo de 1988</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1988-8681</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>, sobre retribuciones de los cuerpos de seguridad: Real Decreto 311/1988, de 30 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1987-27143</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>sobre normas generales relativas a escalas, categorías, personal, uniformes, distintivos y armamento del Cuerpo Nacional de Policía: Real Decreto 1484/1987, de 4 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1987-14578</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>, regulando la Policía judicial: el Real Decreto 769/1987, de 19 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1987-5471</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>, sobre normas para la celebración de elecciones de representantes del Cuerpo Nacional de Policía en el Consejo de Policía: Real Decreto 315/1987, de 27 de febrero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1986-23791</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>con la disposición transitoria 1.3, sobre alcance y efectos de la opción en favor de los miembros de la Fuerzas Armadas que prestaban servicio en el Cuerpo Nacional de Policía: Real Decreto 1795/1986, de 29 de agosto</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2006-624</id_norma>
+            <relacion codigo="331">SE DICTA EN RELACIÓN</relacion>
+            <texto>, sobre prevención de riesgos laborales en el Cuerpo Nacional de Policía: Real Decreto 2/2006, de 16 de enero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2005-3241</id_norma>
+            <relacion codigo="331">SE DICTA EN RELACIÓN</relacion>
+            <texto>sobre prevención de riesgos laborales en la Guardia Civil: Real Decreto 179/2005, de 18 de febrero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2010-19818</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en la Cuestión 5085/2009,  la inconstitucionalidad de los artículos 25.3, párrafo segundo, 26.1, párrafo segundo, y 26.2, párrafo primero, por Sentencia 120/2010, de 24 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-T-2005-13466</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en la Cuestión 2629/1996 (1996/16625), la inconstitucionalidad del art. 27.3.j), por Sentencia 188/2005, de 7 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-T-1994-6780</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en la Cuestión 2222/1990,  la constitucionalidad de la disposición transitoria 4, por Sentencia 73/1994, de 3 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-T-1990-9176</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en las Cuestiones 158/1987, 495/1987 y 510/1987, su desestimación y en la Cuestión 487/1986,  la inconstitucionalidad y nulidad del art. 8.1, párrafo segundo, por Sentencia 55/1990, de 28 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1986-19505</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>487/1986 promovida por supuesta inconstitucionalidad de del art. 8, epígrafe 1, párrafo 2</texto>
+          </posterior>
+        </posteriores>
+      </referencias>
+    </analisis>
+  </data>
+</response>

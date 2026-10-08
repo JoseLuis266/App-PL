@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-22523",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-22523",
+  "sha256": "abe8bfe7dd127d475ea0b5b41e0c16372f7a364a32ba1349574837b45d602fc3",
+  "archivo": "data/raw/abe8bfe7dd127d475ea0b5b41e0c16372f7a364a32ba1349574837b45d602fc3.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:48.012495+00:00"
+}

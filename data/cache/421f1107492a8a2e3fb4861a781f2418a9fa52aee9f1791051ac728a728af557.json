@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-14039",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-14039",
+  "sha256": "1e099ef342a147b8a995e07e2e4c0cc944cb89f37c6db54efcaeedd765c1568b",
+  "archivo": "data/raw/1e099ef342a147b8a995e07e2e4c0cc944cb89f37c6db54efcaeedd765c1568b.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:24:04.212732+00:00"
+}

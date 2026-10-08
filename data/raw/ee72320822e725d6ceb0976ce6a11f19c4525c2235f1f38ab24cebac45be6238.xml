@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a3-2" tipo="precepto" titulo="Artículo 30">
+      <version id_norma="BOE-A-2016-6310" fecha_publicacion="20160602" fecha_vigencia="20160603">
+        <p class="articulo">Artículo 30. Inversión de la carga de la prueba.</p>
+        <p class="parrafo">1. De acuerdo con lo que establecen las leyes procesales y reguladoras de los procedimientos administrativos, cuando la parte actora o la interesada aleguen discriminación por razón de orientación sexual, identidad de género o expresión de género y aporten indicios fundamentados, corresponde a la parte demandada o a quien se impute la situación discriminatoria, la aportación de una justificación objetiva y razonable, suficientemente probada, de las medidas adoptadas y de su proporcionalidad.</p>
+        <p class="parrafo">2. Los hechos o los indicios por los cuales se puede presumir la existencia de discriminación por razón de orientación sexual, identidad de género o expresión de género pueden ser probados por cualquier prueba admitida en derecho, sin perjuicio de los procedimientos que se tramiten y de las medidas adoptadas al amparo de las normas de organización, convivencia o disciplina de las instituciones y de los servicios públicos. También se pueden tener en cuenta pruebas estadísticas y tests de situación. Se establecerán por reglamento las condiciones y garantías de aplicación.</p>
+        <p class="parrafo">3. El órgano administrativo o sancionador, de oficio o a instancia de parte, puede solicitar informes o dictámenes a los órganos competentes en materia de igualdad.</p>
+        <p class="parrafo">4. Lo que establece el apartado 1 anterior no es aplicable en los procesos penales ni a los procedimientos administrativos sancionadores.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

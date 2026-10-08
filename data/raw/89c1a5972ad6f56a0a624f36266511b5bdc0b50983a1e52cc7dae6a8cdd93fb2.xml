@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a614" tipo="precepto" titulo="Artículo 614">
+      <version id_norma="BOE-A-1995-25444" fecha_publicacion="19951124" fecha_vigencia="19960524">
+        <p class="articulo">Artículo 614.</p>
+        <p class="parrafo">El que, con ocasión de un conflicto armado, realizare u ordenare realizar cualesquiera otras infracciones o actos contrarios a las prescripciones de los Tratados internacionales en los que España fuere parte y relativos a la conducción de las hostilidades, protección de los heridos, enfermos y náufragos, trato a los prisioneros de guerra, protección de las personas civiles y protección de los bienes culturales en caso de conflicto armado, será castigado con la pena de prisión de seis meses a dos años.</p>
+      </version>
+      <version id_norma="BOE-A-2010-9953" fecha_publicacion="20100623" fecha_vigencia="20101223">
+        <p class="articulo">Artículo 614.</p>
+        <p class="parrafo">El que, con ocasión de un conflicto armado, realice u ordene realizar cualesquiera otras infracciones o actos contrarios a las prescripciones de los tratados internacionales en los que España fuere parte y relativos a la conducción de las hostilidades, regulación de los medios y métodos de combate, protección de los heridos, enfermos y náufragos, trato debido a los prisioneros de guerra, protección de las personas civiles y protección de los bienes culturales en caso de conflicto armado, será castigado con la pena de prisión de seis meses a dos años.</p>
+        <blockquote>
+          <p class="nota_pie">Se modifica por el art. único.160 de la Ley Orgánica 5/2010, de 22 de junio. <a class="refPost">Ref. BOE-A-2010-9953</a></p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

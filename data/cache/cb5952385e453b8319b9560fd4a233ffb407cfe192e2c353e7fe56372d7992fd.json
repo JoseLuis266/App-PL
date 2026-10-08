@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-10715",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-10715",
+  "sha256": "1f71249ac8e6e95f6a18d7dc46d8468e237b041b6d649382e2fc75d2c24e1049",
+  "archivo": "data/raw/1f71249ac8e6e95f6a18d7dc46d8468e237b041b6d649382e2fc75d2c24e1049.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:38.871799+00:00"
+}

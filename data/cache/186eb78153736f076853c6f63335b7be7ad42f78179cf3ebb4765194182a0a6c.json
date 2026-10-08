@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto/bloque/a379",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto/bloque/a379",
+  "sha256": "f5c2c50ae235e69834ff1457d0af9935976b0c4fb48e4b951c617ac5ca486759",
+  "archivo": "data/raw/f5c2c50ae235e69834ff1457d0af9935976b0c4fb48e4b951c617ac5ca486759.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T18:10:22.678152+00:00"
+}

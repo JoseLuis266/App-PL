@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a95" tipo="precepto" titulo="Artículo 95">
+      <version id_norma="BOE-A-2007-4233" fecha_publicacion="20070301" fecha_vigencia="20070302">
+        <p class="articulo">Artículo 95. El Presidente o la Presidenta del Tribunal Superior de Justicia de las Illes Balears.</p>
+        <p class="parrafo">1. El Presidente del Tribunal Superior de Justicia de las Illes Balears será nombrado por el Rey a propuesta del Consejo General del Poder Judicial. El Presidente de la Comunidad Autónoma ordenará la publicación de este nombramiento en el Butlletí Oficial de les Illes Balears.</p>
+        <p class="parrafo">2. El nombramiento de magistrados, jueces, fiscales y secretarios que deban prestar servicios en las Illes Balears se efectuará en la forma prevista en la Ley Orgánica del Poder Judicial a que hace referencia el artículo 122 de la Constitución.</p>
+        <p class="parrafo">3. La memoria anual del Tribunal Superior de Justicia será presentada por su Presidente o Presidenta ante el Parlamento de las Illes Balears.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

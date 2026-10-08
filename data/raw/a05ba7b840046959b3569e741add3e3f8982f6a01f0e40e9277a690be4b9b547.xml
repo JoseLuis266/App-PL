@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20241020190635">
+  <metadatos>
+    <identificador>BOE-A-2023-15067</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="1410">Tribunal Constitucional</departamento>
+    <rango codigo="63">Providencia</rango>
+    <fecha_disposicion>20230620</fecha_disposicion>
+    <numero_oficial>3630/2023</numero_oficial>
+    <titulo>Recurso de inconstitucionalidad n.º 3630-2023, contra diversos preceptos de la Ley Orgánica 1/2023, de 28 de febrero, por la que se modifica la Ley Orgánica 2/2010, de 3 de marzo, de salud sexual y reproductiva y de la interrupción voluntaria del embarazo.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>20230628</fecha_publicacion>
+    <diario_numero>153</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>90249</pagina_inicial>
+    <pagina_final>90249</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/2023/06/28/pdfs/BOE-A-2023-15067.pdf</url_pdf>
+    <url_epub>
+      <url_epub>https://www.boe.es/diario_boe/epub.php?id=BOE-A-2023-15067</url_epub>
+    </url_epub>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia/>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+  </metadatos>
+  <analisis>
+    <materias>
+      <materia codigo="11" orden="1">Aborto</materia>
+      <materia codigo="3114" orden="1">Educación</materia>
+      <materia codigo="5066" orden="1">Mujer</materia>
+      <materia codigo="5904" orden="1">Recursos de inconstitucionalidad</materia>
+      <materia codigo="6015" orden="1">Registros administrativos</materia>
+      <materia codigo="6278" orden="1">Sanidad</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2010-3514" orden="4050">
+          <palabra codigo="552">Recurso promovido contra</palabra>
+          <texto>determinados preceptos de las Leyes Orgánicas 2/2010, de 3 de marzo y 10/1995, de 10 de noviembre, en la redacción dada por la Ley Orgánica 1/2023, de 28 de febrero</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1995-25444" orden="4051">
+          <palabra codigo="552">Recurso promovido contra</palabra>
+          <texto>,</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2023-5364" orden="4052">
+          <palabra codigo="552">Recurso promovido contra</palabra>
+          <texto>,</texto>
+        </anterior>
+      </anteriores>
+      <posteriores>
+        <posterior referencia="BOE-A-2024-15427" orden="">
+          <palabra codigo="693">SE DICTA</palabra>
+          <texto>en el mismo y SE DECLARA su desestimación, por Sentencia 92/2024, de 18 de junio</texto>
+        </posterior>
+      </posteriores>
+    </referencias>
+    <alertas>
+      <alerta codigo="104" orden="1">Asuntos sociales</alerta>
+      <alerta codigo="109" orden="1">Derecho Administrativo</alerta>
+      <alerta codigo="111" orden="1">Derecho Constitucional</alerta>
+      <alerta codigo="124" orden="1">Sanidad</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="parrafo">El Pleno del Tribunal Constitucional, por providencia de 20 de junio de 2023, ha acordado admitir a trámite el recurso de inconstitucionalidad número 3630-2023, promovido por cincuenta diputados del Grupo Parlamentario Vox en el Congreso, contra los siguientes preceptos de la Ley Orgánica 1/2023, de 28 de febrero, por la que se modifica la Ley Orgánica 2/2010, de 3 de marzo, de salud sexual y reproductiva y de la interrupción voluntaria del embarazo: artículo único, apartados tres, seis, siete, ocho y nueve [correspondientes con los arts. 3.1.c), 5.1.f), 7 bis k), 10 ter, 11.3 y 4 párrafo segundo y 11 bis 1 y 2 LO 2/2010]; apartados seis y veintidós (correspondientes con los arts. 6 y 26, incisos finales, LO 2/2010); apartado ocho [correspondiente con el art. 9.1.a) LO 2/2010]; apartado once (correspondiente con el art. 13 bis 1 LO 2/2010); apartado doce (correspondiente con el art. 14 LO 2/2010), disposición final segunda (modificación del art. 145 bis de la Ley Orgánica 10/1995, de 10 de noviembre, del Código Penal); apartado trece (correspondiente con el art. 16.1 inciso final LO 2/2010); apartado catorce (correspondiente con el art. 17.2, 3 y 5 segundo párrafo LO 2/2010); y apartado diecinueve (correspondiente con el art. 19 ter 1 y 3 LO 2/2010).</p>
+    <p class="parrafo_2">Madrid, 20 de junio de 2023.–El Secretario de Justicia del Pleno del Tribunal Constitucional, Alfonso Pérez Camino.</p>
+  </texto>
+</documento>

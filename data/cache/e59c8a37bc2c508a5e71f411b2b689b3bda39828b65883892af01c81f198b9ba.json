@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-14326",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-14326",
+  "sha256": "aa0358b6407cafeb34c771491d3ff22e4b8a8362b8d2bd0268ad7c73315e7b7f",
+  "archivo": "data/raw/aa0358b6407cafeb34c771491d3ff22e4b8a8362b8d2bd0268ad7c73315e7b7f.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:30.085842+00:00"
+}

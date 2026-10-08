@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a22",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a22",
+  "sha256": "610895ac9ac5a35a2e7ba4eb7abeeaf9991e022446b97743ecb42e4dc3cb90e7",
+  "archivo": "data/raw/610895ac9ac5a35a2e7ba4eb7abeeaf9991e022446b97743ecb42e4dc3cb90e7.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T18:10:08.881024+00:00"
+}

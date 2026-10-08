@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20251217182602">
+  <metadatos>
+    <identificador>BOE-A-1988-8681</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7730">Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno</departamento>
+    <rango codigo="1340">Real Decreto</rango>
+    <fecha_disposicion>19880330</fecha_disposicion>
+    <numero_oficial>311/1988</numero_oficial>
+    <titulo>Real Decreto 311/1988, de 30 de marzo, de Retribucines del Personal de las Fuerzas y Cuerpos de Seguridad del Estado.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>19880407</fecha_publicacion>
+    <diario_numero>84</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>10476</pagina_inicial>
+    <pagina_final>10478</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/1988/04/07/pdfs/A10476-10478.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia>19880408</fecha_vigencia>
+    <estatus_derogacion>S</estatus_derogacion>
+    <fecha_derogacion>20050731</fecha_derogacion>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>S</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/rd/1988/03/30/311</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/rd/1988/03/30/311">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/rd"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1988-8681</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-03-30</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">311</eli:number>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1983"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/2202"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3841"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5541"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6231"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6234"/>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/rd/1988/03/30/311/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/rd"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1988-8681</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-03-30</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">311</eli:number>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1983"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/2202"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3841"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5541"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6231"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6234"/>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/rd/1988/03/30/311"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/rd/1988/03/30/311/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Real Decreto 311/1988, de 30 de marzo, de Retribucines del Personal de las Fuerzas y Cuerpos de Seguridad del Estado.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-04-07</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/rd/1988/03/30/311/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rd/1988/03/30/311/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rd/1988/03/30/311/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rd/1988/03/30/311/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rd/1988/03/30/311/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rd/1988/03/30/311/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rd/1988/03/30/311/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="1983" orden="1">Cuerpo de la Guardia Civil</materia>
+      <materia codigo="2202" orden="2">Cuerpo Nacional de Policía</materia>
+      <materia codigo="3841" orden="3">Fuerzas y Cuerpos de Seguridad del Estado</materia>
+      <materia codigo="5541" orden="4">Pensiones</materia>
+      <materia codigo="6231" orden="5">Retribuciones Administración Civil</materia>
+      <materia codigo="6234" orden="6">Retribuciones Administración Militar</materia>
+    </materias>
+    <notas>
+      <nota codigo="6" orden="240">Efectos económicos desde el 1 de enero de 1988.</nota>
+    </notas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1984-15883" orden="2040">
+          <palabra codigo="407">AÑADE</palabra>
+          <texto>las Retribuciones fijadas por Real Decreto 9/1984, de 15 de julio</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1986-6859" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>Ley Orgánica 2/1986, de 13 de marzo</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1984-17387" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>la Ley 30/1984, de 2 de agosto</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1987-28404" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Ley 33/1987, de 23 de diciembre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores>
+        <posterior referencia="BOE-A-2005-13122" orden="">
+          <palabra codigo="210">SE DEROGA</palabra>
+          <texto>, por Real Decreto 950/2005, de 29 de julio</texto>
+        </posterior>
+        <posterior referencia="BOE-A-2004-21500" orden="">
+          <palabra codigo="270">SE MODIFICA</palabra>
+          <texto>los anexos III.A) y IV.A), por Real Decreto 2298/2004, de 10 de diciembre</texto>
+        </posterior>
+        <posterior referencia="BOE-A-1996-17391" orden="3">
+          <palabra codigo="270">SE MODIFICA</palabra>
+          <texto>lo indicado del art. 4, por Real Decreto 1847/1996, de 26 de julio</texto>
+        </posterior>
+        <posterior referencia="BOE-A-1995-1165" orden="4">
+          <palabra codigo="245">SE SUSTITUYE</palabra>
+          <texto>los Anexos I, II y III y se modifica el art. 4, por Real Decreto 8/1995, de 13 de enero</texto>
+        </posterior>
+        <posterior referencia="BOE-A-2001-23526" orden="1">
+          <palabra codigo="331">SE DICTA EN RELACIÓN</palabra>
+          <texto>con el art. 6, sobre retribuciones de los alumnos de la escala Superior de oficiales de la Guardia Civil: Real Decreto 1318/2001, de 30 de noviembre</texto>
+        </posterior>
+        <posterior referencia="BOE-A-2000-4611" orden="2">
+          <palabra codigo="331">SE DICTA EN RELACIÓN</palabra>
+          <texto>, estableciendo las retribuciones de los alumnos de la escala de Cabos y Guardias de la Guardia Civil: Real Decreto 325/2000, de 3 de marzo</texto>
+        </posterior>
+      </posteriores>
+    </referencias>
+    <alertas>
+      <alerta codigo="116" orden="1">Función Pública</alerta>
+      <alerta codigo="126" orden="2">Seguridad y Defensa</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="parrafo">La Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, en el apartado 4 de su artículo 6.º, reconoce el derecho de los miembros de dichas Fuerzas y Cuerpos a una remuneración justa, que contemple su nivel de formación, régimen de incompatibilidades, movilidad por razones de servicio, dedicación y el riesgo que comporta su misión, así como la especificidad de los horarios de trabajo y su peculiar estructura.</p>
+    <p class="parrafo">En congruencia con ello, la disposición final cuarta de la Ley 33/1987, de 23 de diciembre, de Presupuestos Generales del Estado para 1988, autoriza al Gobierno para adecuar el sistema retributivo del personal de las Fuerzas y Cuerpos de Seguridad del Estado a la singular dedicación, responsabilidad, peligrosidad y penosidad inherentes a la función que desempeñan.</p>
+    <p class="parrafo">La citada Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, en su artículo 9.º, dispone que las Fuerzas y Cuerpos de Seguridad del Estado están integradas por el Cuerpo Nacional de Policía y la Guardia Civil, procediendo establecer para ambos Cuerpos un mismo marco retributivo en coherencia con la identidad de sus funciones y normativa por la que se rigen, así como por el tradicional precedente en materia de retribuciones y su adscripción al mismo Departamento a estos efectos.</p>
+    <p class="parrafo">Este nuevo marco retributivo se ha homologado al sistema general que rige para la Función Pública en virtud de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, sin perjuicio de considerar las singularidades que concurren en los mencionados Cuerpos y en la naturaleza militar de la Guardia Civil.</p>
+    <p class="parrafo">En su virtud, a propuesta de los Ministros de Economía y Hacienda y para las Administraciones Públicas y a iniciativa del Ministro del Interior, previos los informes del Consejo de Policía y de la Comisión Interministerial de Retribuciones, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 30 de marzo de 1988,</p>
+    <p class="centro_redonda">DISPONGO:</p>
+    <p class="articulo">Artículo 1.º</p>
+    <p class="parrafo_2">El presente Real Decreto de Retribuciones de las Fuerzas y Cuerpos de Seguridad del Estado, será de aplicación al personal perteneciente o destinado en el Cuerpo de la Guardia Civil, de carácter profesional o asimilado, y a los miembros del Cuerpo Nacional de Policía que desempeñen puestos de trabajo relativos a la función pública asignada al mismo.</p>
+    <p class="articulo">Art. 2.º</p>
+    <p class="parrafo_2">El personal a que se refiere el artículo anterior sólo podrá ser retribuido por los conceptos que se regulan en este Real Decreto.</p>
+    <p class="articulo">Art. 3.º</p>
+    <p class="parrafo_2">Las retribuciones básicas serán las establecidas para los funcionarios del Estado incluidos en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, de acuerdo con el Grupo de Clasificación que se detalla en el anexo I del presente Real Decreto.</p>
+    <p class="articulo">Art. 4.º</p>
+    <p class="parrafo_2">Las retribuciones complementarias serán las siguientes:</p>
+    <p class="centro_cursiva">I. Complemento de destino</p>
+    <p class="parrafo_2">1. Tendrá las mismas cuantías establecidas para los funcionarios del Estado incluidos en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, de acuerdo con los niveles que para el personal de la Guardia Civil se detallan en el anexo II de este Real Decreto, y, por lo que respecta a los miembros del Cuerpo Nacional de Policía, con los que tengan asignados los puestos de trabajo que desempeñen, salvo que fueran inferiores a los que figuren en dicho anexo II, en cuyo caso procederá aplicar estos últimos.</p>
+    <p class="parrafo">2. Los niveles de complemento de destino de los puestos de trabajo de las Fuerzas y Cuerpos de Seguridad del Estado serán aprobados conjuntamente por los Ministerios de Economía y Hacienda y para las Administraciones Públicas, a través de la Comisión Ejecutiva de la Comisión Interministerial de Retribuciones, a propuesta del Ministerio del Interior.</p>
+    <p class="parrafo">3. Dichos puestos de trabajo estarán adscritos con carácter exclusivo a los miembros de las mencionadas Fuerzas y Cuerpos de Seguridad del Estado, sin perjuicio de los que, excepcionalmente, y por la naturaleza y función a desempeñar, puedan declararse de adscripción indistinta.</p>
+    <p class="centro_cursiva">II. Complemento específico</p>
+    <p class="parrafo_2">1. Remunerará el riesgo, dedicación y demás peculiaridades que implica la función policial, de acuerdo con las previsiones contenidas en la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, y la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad.</p>
+    <p class="parrafo">2. El complemento específico estará integrado por los siguientes componentes:</p>
+    <p class="parrafo_2">– Componente general, en la cuantía que se fija en el anexo III de este Real Decreto.</p>
+    <p class="parrafo">– Componente singular, destinado a retribuir las condiciones particulares de algunos puestos de trabajo, en los casos y cuantías que, a propuesta del Ministerio del Interior, se autoricen conjuntamente por los Ministerios de Economía y Hacienda y para las Administraciones Públicas, a través de la Comisión Ejecutiva de la Comisión Interministerial de Retribuciones.</p>
+    <p class="parrafo_2">3. En el caso de que algunos puestos de trabajo tuvieran asignados más de un componente singular, únicamente podrá percibirse el de mayor cuantía, a excepción del que pudiera corresponder por zona conflictiva.</p>
+    <p class="parrafo">4. Ambos componentes del complemento específico serán compatibles, a excepción de los puestos de trabajo que tuvieren asignados niveles 30 y 29, cuyos componentes singulares absorberán los generales que pudieran corresponder por empleo o categoría.</p>
+    <p class="centro_cursiva">III. Complemento de productividad</p>
+    <p class="parrafo_2">Estará destinado a retribuir el especial rendimiento, la actividad y dedicación extraordinarinarias no contempladas a través del complemento específico, y el interés o iniciativa en el desempeño de los puestos de trabajo, siempre que redunden en mejorar el resultado de los mismos. Su cuantía individual se determinará por el Ministerio del Interior, dentro de los créditos que se asignen para esta finalidad, y de acuerdo con las mismas normas establecidas para los funcionarios incluidos en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.</p>
+    <p class="centro_cursiva">IV. Gratificaciones por servicios extraordinarios</p>
+    <p class="parrafo_2">En ningún caso podrán ser fijas en su cuantía ni periódicas en su devengo. Se concederán por el Ministerio del Interior dentro de los créditos asignados a tal fin.</p>
+    <p class="articulo">Art. 5.º</p>
+    <p class="parrafo_2">El personal a que se refiere este Real Decreto percibirá en su caso, las indemnizaciones correspondientes por razón de servicio, la ayuda familiar, la indemnización por residencia, las indemnizaciones de vestuario y las pensiones de recompensas y de mutilación o invalidez, de acuerdo con las condiciones y cuantías fijadas en sus respectivas normas específicas.</p>
+    <p class="articulo">Art. 6.º</p>
+    <p class="parrafo_2">Las retribuciones de los alumnos de las academias y centros de enseñanza de las Fuerzas y Cuerpos de Seguridad del Estado, durante los cursos y prácticas para su ingreso en los mismos, se regirán por lo dispuesto en su normativa específica.</p>
+    <p class="articulo">Art. 7.º</p>
+    <p class="parrafo_2">Las retribuciones señaladas en el presente Real Decreto absorben la totalidad de las correspondientes al anterior régimen retributivo fijado por el Real Decreto-ley 9/1984, de 15 de julio, y disposiciones complementarias al mismo, incluida la indemnización por pabellón y los complementos personales y transitorios reconocidos hasta la entrada en vigor de los efectos económicos del presente Real Decreto.</p>
+    <p class="capitulo">DISPOSICIONES ADICIONALES</p>
+    <p class="articulo">Primera.</p>
+    <p class="parrafo_2">El grado personal de los miembros del Cuerpo Nacional de Policía, que comenzará a adquirirse a partir de la entrada en vigor de la Ley Orgánica 2/1986, de 13 de marzo, se regirá por lo dispuesto en la Ley 30/1984, de 2 de agosto, y en las normas dictadas para su desarrollo, que tendrán asimismo carácter supletorio en los casos no previstos en el presente Real Decreto, sin perjuicio de que dicho personal pueda ser designado para puestos de trabajo superiores en más de dos niveles al de su grado personal, siempre que no exceda del nivel máximo del intervalo asignado a cada Grupo de Clasificación de acuerdo con la normativa vigente en cada momento para los funcionarios incluidos en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto.</p>
+    <p class="parrafo_2">Los funcionarios que de acuerdo con lo previsto en el párrafo anterior sean designados para un puesto de trabajo superior en más de dos niveles al correspondiente a su grado personal, consolidarán cada dos años de servicios continuados el grado superior en dos niveles al que se posea, sin que en ningún caso puedan superar el correspondiente al del puesto desempeñado.</p>
+    <p class="articulo">Segunda.</p>
+    <p class="parrafo_2">El personal de las Fuerzas y Cuerpos de Seguridad del Estado que desempeñe puestos de trabajo en la Administración del Estado y sus Organismos autónomos no incluidos en el ámbito de aplicación del presente Real Decreto, percibirá las retribuciones que correspondan al puesto de trabajo que desempeñe, sin perjuicio de continuar devengando las pensiones de recompensas y de mutilación o invalidez, de acuerdo con las condiciones y cuantías fijadas en las respectivas normas específicas.</p>
+    <p class="parrafo">No obstante lo anterior, en los casos en que esté previsto que dichos puestos, por sus características peculiares, sean desempeñados por miembros de las Fuerzas y Cuerpos de Seguridad del Estado por el ejercicio de las funciones legalmente atribuidas a los mismos, estos funcionarios estarán sujetos al régimen retributivo regulado por el presente Real Decreto, correspondiéndoles percibir por el componente singular del complemento específico a que se refiere su artículo 4.º, II, 2, el complemento específico que, en su caso, tenga asignado el puesto de trabajo que desempeñe.</p>
+    <p class="articulo">Tercera.</p>
+    <p class="parrafo_2">Los funcionarios que desempeñen puestos de trabajo a los que se refiere el apartado I,3, del artículo 4.º del presente Real Decreto no adscritos con carácter exclusivo a los miembros de las Fuerzas y Cuerpos de Seguridad del Estado y que no pertenezcan a los mismos, percibirán las retribuciones básicas que corresponden según el Cuerpo de pertenencia y las retribuciones complementarias establecidas en el presente Real Decreto, salvo el componente general del complemento específico.</p>
+    <p class="capitulo">DISPOSICIONES TRANSITORIAS</p>
+    <p class="articulo">Primera.</p>
+    <p class="parrafo_2">De conformidad con lo establecido en el número dos de la disposición transitoria segunda de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, los Oficiales integrados en la Escala Ejecutiva del Cuerpo Nacional de Policía que hubieren alcanzado títulos del grupo «A», mantendrán las retribuciones básicas correspondientes a dichos títulos, pero el exceso que el sueldo, referido a catorce mensualidades, del grupo «A» suponga sobre el del grupo «B», se deducirá del componente general de su complemento específico.</p>
+    <p class="articulo">Segunda.</p>
+    <p class="parrafo_2">Mientras no se proceda al desarrollo de las situaciones de reserva activa y de segunda actividad de los miembros de las Fuerzas y Cuerpos de Seguridad del Estado, las retribuciones de reserva activa y de segunda actividad sin ocupar destino, estarán integradas por la totalidad de las retribuciones básicas que se establecen para cada empleo y categoría en el anexo I, y por un complemento de disponibilidad cuya cuantía será aquella que permita que el global de las retribuciones en dichas situaciones mantenga la adecuada proporción de retribuciones con las de los funcionarios en activo, existente a la entrada en vigor de este Real Decreto y cuya cuantía figura en el anexo IV. El citado personal que ocupará destino, percibirá en su totalidad las retribuciones inherentes al mismo.</p>
+    <p class="articulo">Tercera.</p>
+    <p class="parrafo_2">Si como consecuencia de la aplicación del régimen retributivo a que se refiere el presente Real Decreto se produjera para algún funcionario una minoración en sus remuneraciones globales en relación con las que actualmente percibe, se establecerán para el personal afectado complementos personales y transitorios en cuantía equivalente a la difernecia de retribuciones padecida.</p>
+    <p class="parrafo">A estos efectos, en el cómputo de ambas cantidades no se tendrán en cuenta aquellos complementos que específicamente retribuyan una actividad o destino concretos cuya percepción no sea de carácter general por todos los funcionarios, con la sola excepción del complemento personal y transitorio configurado por las incentivaciones establecidas para los puestos de trabajo en el Servicio de Helicópteros (personal de tierra), Servicio de Radio-Patrullas y Motos y Compañías de Reserva General, que se computará entre las retribuciones globales del régimen retributivo anterior al que se regula en el presente Real Decreto, a efectos de determinar, en su caso, los correspondientes complementos personales y transitorios.</p>
+    <p class="parrafo">Estos complementos personales y transitorios serán absorbidos de acuerdo con las mismas normas establecidas para los funcionarios incluidos en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto.</p>
+    <p class="capitulo">DISPOSICIONES FINALES</p>
+    <p class="articulo">Primera.</p>
+    <p class="parrafo_2">El coste que implique la aplicación del Real Decreto no podrá exceder de los créditos consignados en los Presupuestos Generales del Estado para atender el régimen retributivo del personal incluido en su ámbito de aplicación.</p>
+    <p class="articulo">Segunda.</p>
+    <p class="parrafo_2">Se autoriza a los Ministerios de Economía y Hacienda, para las Administraciones Públicas y del interior, dentro del ámbito de sus respectivas competencias, para dictar, en su caso, cuantas normas precise el desarrollo de este Real Decreto.</p>
+    <p class="articulo">Tercera.</p>
+    <p class="parrafo_2">El presente Real Decreto entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado» y surtirá efectos económicos desde el día 1 de enero de 1988.</p>
+    <p class="capitulo">DISPOSICIÓN DEROGATORIA</p>
+    <p class="parrafo_2">Quedan derogadas cuantas disposiciones se opongan a lo dispuesto en el presente Real Decreto.</p>
+    <p class="parrafo_2">Dado en Palma de Mallorca a 30 de marzo de 1988.</p>
+    <p class="firma_rey">JUAN CARLOS R.</p>
+    <p class="firma_ministro">El Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno,</p>
+    <p class="firma_ministro">VIRGILIO ZAPATERO GÓMEZ</p>
+    <p class="anexo_num">ANEXO I</p>
+    <p class="anexo_tit">Retribuciones básicas (Grupos de Clasificación)</p>
+    <table class="tabla">
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_centro">   </p>
+        </td>
+        <td>
+          <p class="cabeza_tabla">Grupo</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_centro">
+            <em>Cuerpo de la Guardia Civil</em>
+          </p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">   </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Oficiales Generales, Jefes y Oficiales</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">A</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Suboficiales</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">C</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Cabos y Guardias</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">D</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Matronas</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">E</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_centro">
+            <em>Cuerpo Nacional de Policía</em>
+          </p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">   </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Escala Superior y Personal Facultativo</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">A</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Escala Ejecutiva y Personal Técnico</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">B</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Escala de Subinspección</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">C</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Escala Básica</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">D</p>
+        </td>
+      </tr>
+    </table>
+    <p class="parrafo">De conformidad con lo previsto en la Ley Orgánica 2/1986, de 13 de marzo, los Oficiales integrados en la Escala Ejecutiva en virtud de dicha Ley, que en el momento de la integración hubieren alcanzado título del Grupo A, mantendrán las retribuciones básicas correspondientes a dicho grupo.</p>
+    <p class="anexo_num">ANEXO II</p>
+    <p class="anexo_tit">Niveles de complemento de destino</p>
+    <table class="tabla">
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_centro">   </p>
+        </td>
+        <td>
+          <p class="cabeza_tabla">Nivel de complemento de destino</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_centro">
+            <em>Cuerpo de la Guardia Civil</em>
+          </p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">   </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Empleos:</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">   </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">General de División</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">30</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">General de Brigada</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">30</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Coronel</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">28</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Teniente Coronel</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">26</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Comandante</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">24</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Capitán</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">22</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Teniente</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">20</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Subteniente</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">17</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Brigada</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">17</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Sargento primero</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">15</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Sargento</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">15</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Cabo primero</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">14</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Cabo</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">14</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Guardia</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">12</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Matrona</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">10</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_centro">
+            <em>Cuerpo Nacional de Policía</em>
+          </p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">   </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Categorías:</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">   </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Comisario Principal</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">24</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Comisario</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">24</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Personal Facultativo</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">24</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Inspector Jefe</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">22</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Personal Técnico</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">22</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Inspector</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">20</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Subinspector</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">16</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Oficial de Policía</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">14</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Policía</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">12</p>
+        </td>
+      </tr>
+    </table>
+    <p class="anexo_num">ANEXO III</p>
+    <p class="anexo_tit">Complemento específico (Componente General)</p>
+    <table class="tabla">
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_centro">   </p>
+        </td>
+        <td>
+          <p class="cabeza_tabla">Cuantía mensual</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_centro">
+            <em>Cuerpo de la Guardia Civil</em>
+          </p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">   </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Empleos:</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">   </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">General de División</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">84.772</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">General de Brigada</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">58.086</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Coronel</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">50.547</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Teniente Coronel</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">53.783</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Comandante</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">56.450</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Capitán</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">49.627</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Teniente</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">30.713</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Subteniente</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">59.691</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Brigada</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">55.400</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Sargento primero</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">55.559</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Sargento</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">49.498</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Cabo primero</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">49.902</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Cabo</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">43.082</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Guardia</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">43.809</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Matrona</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">25.000</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_centro">
+            <em>Cuerpo Nacional de Policía</em>
+          </p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">   </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Categorías:</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">   </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Comisario Principal</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">73.675</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Comisario y Personal Facultativo</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">61.280</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Inspector Jefe y Personal Técnico</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">69.300</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Inspector</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">50.386</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Subinspector</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">56.080</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Oficial de Policía</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">49.902</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Policía</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">43.809</p>
+        </td>
+      </tr>
+    </table>
+    <p class="parrafo">De conformidad con lo previsto en la Ley Orgánica 2/1986, de 13 de marzo, y en el presente Real Decreto, los Oficiales integrados en la Escala Ejecutiva que mantienen las retribuciones básicas del Grupo A percibirán este componente del complemento específico en las cuantías que a continuación se detallan en lugar de las fijadas en el precedente cuadro:</p>
+    <table class="tabla">
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Inspector Jefe del Grupo A</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">49.627</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Inspector de Grupo A</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">30.713</p>
+        </td>
+      </tr>
+    </table>
+    <p class="anexo_num">ANEXO IV</p>
+    <p class="anexo_tit">Complemento de disponibilidad en situación de Reserva Activa y Segunda Actividad</p>
+    <table class="tabla">
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_centro">   </p>
+        </td>
+        <td>
+          <p class="cabeza_tabla">Cuantía mensual</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_centro">
+            <em>Cuerpo de la Guardia Civil</em>
+          </p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">   </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Empleos:</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">   </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">General de División</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">135.131</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">General de Brigada</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">112.787</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Coronel</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">92.836</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Teniente Coronel</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">83.887</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Comandante</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">76.087</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Capitán</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">63.688</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Teniente</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">41.898</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Subteniente</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">62.470</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Brigada</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">58.485</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Sargento primero</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">54.456</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Sargento</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">48.948</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Cabo primero</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">47.860</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Cabo</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">41.990</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Guardia</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">38.489</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_centro">
+            <em>Cuerpo Nacional de</em>
+            <em> Policía</em>
+          </p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">   </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Categorías:</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">   </p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Comisario Principal</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">91.081</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Comisario</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">80.394</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Inspector Jefe</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">83.361</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Inspectores</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">61.572</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Subinspectores</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">56.950</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Oficiales de Policía</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">47.860</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Policía</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_der">38.489</p>
+        </td>
+      </tr>
+    </table>
+    <p class="parrafo">De conformidad con lo previsto en la Ley Orgánica 2/1986, de 13 de marzo, y en el presente Real Decreto, los Oficiales integrados en la Escala Ejecutiva que mantienen las retribuciones básicas del Grupo A percibirán este complemento de disponibilidad en las cuantías que a continuación se detallan en lugar de las fijadas en el precedente cuadro:</p>
+    <table class="tabla">
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Inspector Jefe del Grupo A</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">63.688</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p class="cuerpo_tabla_izq">Inspector de Grupo A</p>
+        </td>
+        <td>
+          <p class="cuerpo_tabla_centro">41.899</p>
+        </td>
+      </tr>
+    </table>
+  </texto>
+</documento>

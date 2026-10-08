@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1882-6036/texto/bloque/a310",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1882-6036/texto/bloque/a310",
+  "sha256": "d6077ac29de83dd70c8073c678a593d003a062a7ad357c519311b78033f3bfaf",
+  "archivo": "data/raw/d6077ac29de83dd70c8073c678a593d003a062a7ad357c519311b78033f3bfaf.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:06:50.023397+00:00"
+}

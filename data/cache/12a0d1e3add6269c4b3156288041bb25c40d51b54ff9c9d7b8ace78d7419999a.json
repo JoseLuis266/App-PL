@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-23514/texto/bloque/a6",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-23514/texto/bloque/a6",
+  "sha256": "25cefa0ddf563edc5868ece6b5d54ce3fdcc5eba3a1d89f1c92a49b2a31d4def",
+  "archivo": "data/raw/25cefa0ddf563edc5868ece6b5d54ce3fdcc5eba3a1d89f1c92a49b2a31d4def.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:05:34.662546+00:00"
+}

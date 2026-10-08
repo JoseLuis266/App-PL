@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <metadatos>
+      <fecha_actualizacion>20260115T105942Z</fecha_actualizacion>
+      <identificador>BOE-A-2016-6310</identificador>
+      <ambito codigo="2">Autonómico</ambito>
+      <departamento codigo="8121">Comunidad Autónoma de las Illes Balears</departamento>
+      <rango codigo="1300">Ley</rango>
+      <fecha_disposicion>20160530</fecha_disposicion>
+      <numero_oficial>8/2016</numero_oficial>
+      <titulo>Ley 8/2016, de 30 de mayo, para garantizar los derechos de lesbianas, gays, trans, bisexuales e intersexuales y para erradicar la LGTBI fobia.</titulo>
+      <diario>Boletín Oficial del Estado</diario>
+      <fecha_publicacion>20160630</fecha_publicacion>
+      <diario_numero>157</diario_numero>
+      <fecha_vigencia>20160603</fecha_vigencia>
+      <estatus_derogacion>N</estatus_derogacion>
+      <estatus_anulacion>N</estatus_anulacion>
+      <vigencia_agotada>N</vigencia_agotada>
+      <estado_consolidacion codigo="3">Finalizado</estado_consolidacion>
+      <url_eli>https://www.boe.es/eli/es-ib/l/2016/05/30/8</url_eli>
+      <url_html_consolidada>https://www.boe.es/buscar/act.php?id=BOE-A-2016-6310</url_html_consolidada>
+    </metadatos>
+  </data>
+</response>

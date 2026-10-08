@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto",
+  "sha256": "073f5c8ce332fdde637f93dcb70e335d520caf8f7dd65eb89f521446ff2bf542",
+  "archivo": "data/raw/073f5c8ce332fdde637f93dcb70e335d520caf8f7dd65eb89f521446ff2bf542.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:31:38.573037+00:00"
+}

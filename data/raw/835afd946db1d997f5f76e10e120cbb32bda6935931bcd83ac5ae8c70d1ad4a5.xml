@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20241018200224">
+  <metadatos>
+    <identificador>BOE-A-2000-24010</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="1410">Tribunal Constitucional</departamento>
+    <rango codigo="1250">Auto</rango>
+    <fecha_disposicion>20001212</fecha_disposicion>
+    <numero_oficial/>
+    <titulo>Cuestión de inconstitucionalidad número 4162/1998.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>20001227</fecha_publicacion>
+    <diario_numero>310</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>45826</pagina_inicial>
+    <pagina_final>45826</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/2000/12/27/pdfs/A45826-45826.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia/>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+  </metadatos>
+  <analisis>
+    <materias>
+      <materia codigo="886" orden="1">Código Penal</materia>
+      <materia codigo="2253" orden="2">Cuestiones de inconstitucionalidad</materia>
+      <materia codigo="3586" orden="3">Falsedades</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1998-28247" orden="4010">
+          <palabra codigo="470">DECLARA</palabra>
+          <texto>en la Cuestión 4162/1998, la extinción, por desaparición sobrevenida de su objeto en relación con lo indicado del art. 403 de la Ley 10/1995, de 23 de noviembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1995-25444" orden="4011">
+          <palabra codigo="470">DECLARA</palabra>
+          <texto>,</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas/>
+  </analisis>
+  <texto>
+    <p class="parrafo">El Tribunal Constitucional, por auto de 12 de diciembre actual, acuerda declarar terminada la presente cuestión de inconstitucionalidad registrada con el número 4162/1998 por desaparición sobrevenida de su objeto.</p>
+    <p class="parrafo">Dicha cuestión fue promovida por el Juzgado de lo Penal número 4 de Las Palmas, en relación con el artículo 403, párrafo primero, inciso segundo, del Código Penal aprobado por Ley Orgánica 10/1995, de 23 de noviembre, en relación con el delito de intrusismo.</p>
+    <p class="parrafo_2">Madrid, 12 de diciembre de 2000.-El Secretario de Justicia.-Firmado y rubricado.</p>
+  </texto>
+</documento>

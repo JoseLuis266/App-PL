@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-18644",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-18644",
+  "sha256": "7ee8f69c626a458127e50d420b5e6d75413ca20e90c572e2e0509188d5001a0f",
+  "archivo": "data/raw/7ee8f69c626a458127e50d420b5e6d75413ca20e90c572e2e0509188d5001a0f.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:49.425593+00:00"
+}

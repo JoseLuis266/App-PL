@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-18822",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-18822",
+  "sha256": "b9b67ae513905366f2d18081c135e35c05da2e82c567590e3def21d7b35bcfb2",
+  "archivo": "data/raw/b9b67ae513905366f2d18081c135e35c05da2e82c567590e3def21d7b35bcfb2.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:31.476001+00:00"
+}

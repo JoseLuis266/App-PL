@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-9481/texto/bloque/a41",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-9481/texto/bloque/a41",
+  "sha256": "774f2cb64eaf652ff91c4534f9b597c5c2c6e056fe32a4114009be65b7c7b6c9",
+  "archivo": "data/raw/774f2cb64eaf652ff91c4534f9b597c5c2c6e056fe32a4114009be65b7c7b6c9.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:05:47.358301+00:00"
+}

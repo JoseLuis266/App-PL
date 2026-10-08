@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1995-25444",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1995-25444",
+  "sha256": "6a7fc6cc33d0da4adbf94a3dccf6077c2a78d53f4bb662d755cfc51a2dbf2e3c",
+  "archivo": "data/raw/6a7fc6cc33d0da4adbf94a3dccf6077c2a78d53f4bb662d755cfc51a2dbf2e3c.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:03.394798+00:00"
+}

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20241014221033">
+  <metadatos>
+    <identificador>BOE-A-1974-1189</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7723">Jefatura del Estado</departamento>
+    <rango codigo="1300">Ley</rango>
+    <fecha_disposicion>19740724</fecha_disposicion>
+    <numero_oficial>28/1974</numero_oficial>
+    <titulo>Ley 28/1974, de 24 de julio, sobre actualización de la base económica de determinados artículos de las Leyes de Enjuiciamiento Civil y Criminal.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>19740726</fecha_publicacion>
+    <diario_numero>178</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>15456</pagina_inicial>
+    <pagina_final>15457</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/1974/07/26/pdfs/A15456-15457.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia>19740815</fecha_vigencia>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+  </metadatos>
+  <analisis>
+    <materias>
+      <materia codigo="2429" orden="1">Depósitos</materia>
+      <materia codigo="3198" orden="2">Enjuiciamiento Civil</materia>
+      <materia codigo="3199" orden="3">Enjuiciamiento Criminal</materia>
+      <materia codigo="5894" orden="4">Recurso de Casación</materia>
+      <materia codigo="5899" orden="5">Recurso de Revisión</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1881-813" orden="1010">
+          <palabra codigo="210">DEROGA</palabra>
+          <texto>el art. 1699 y modifica los arts. 1698 y 1799 de la Ley de Enjuiciamiento Civil aprobada por Decreto de 3 de febrero de 1881 (Gazeta)</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1882-6036" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>el art. 875 de la Ley de Enjuiciamiento Criminal aprobada por Real Decreto de 14 de septiembre de 1882 (Gazeta)</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas/>
+  </analisis>
+  <texto>
+    <p class="parrafo">Las Leyes de dieciséis de julio de mil novecientos cuarenta y nueve y de veinte de diciembre de mil novecientos cincuenta y dos, que modificaron, respectivamente, las Leyes de Enjuiciamiento Criminal y Civil, fijaron las cantidades que en determinados casos habían de depositar los recurrentes para interponer los recursos de casación y de revisión.</p>
+    <p class="parrafo">El tiempo transcurrido desde que dichas normas se dictaron y las notables alteraciones experimentadas en el poder adquisitivo de la moneda hacen necesario actualizar dichas cantidades, para que aquellos depósitos sirvan a la finalidad para que fueron establecidos. En tal sentido la Sala de Gobierno del Tribunal Supremo ha dirigido al Ministerio de Justicia la correspondiente moción.</p>
+    <p class="parrafo">En su virtud, y de conformidad con la Ley aprobada por las Cortes Españolas, vengo en sancionar.</p>
+    <p class="articulo">Artículo primero.</p>
+    <p class="parrafo_2">Los artículos mil seiscientos noventa y ocho y mil setecientos noventa y nueve de la Ley de Enjuiciamiento Civil quedarán redactados en la forma siguiente:</p>
+    <p class="sangrado_articulo">«Artículo mil seiscientos noventa y ocho.</p>
+    <p class="sangrado_2">EI que intentare interponer recurso de casación por infracción de Ley o de doctrina legal, si no estuviere declarado pobre, depositará nueve mil pesetas en el establecimiento destinado al efecto, siempre que fueren conformes de toda conformidad las sentencias de primera y segunda instancia. Asimismo depositará igual cantidad cuando el recurso se interpusiere contra la sentencia de los árbitros y contra las pronunciadas en los actos de jurisdicción voluntaria.</p>
+    <p class="sangrado">Se entenderá que son conformes de toda conformidad las sentencias aun cuando varíen en lo relativo a la condena de costas.</p>
+    <p class="sangrado">El depósito será de cuatro mil quinientas pesetas cuando el recurso se interponga por quebrantamiento de forma.</p>
+    <p class="sangrado">Cuando el recurso se interponga el último día, se considerará cumplido el requisito del depósito si se acompaña al escrito el importe correspondiente en dinero de curso legal, y en el plazo de las cuarenta y ocho horas siguientes se sustituye por el resguardo acreditativo de haber efectuado el depósito en el establecimiento destinado al efecto.</p>
+    <p class="sangrado_articulo">Artículo mil setecientos noventa y nueve.</p>
+    <p class="sangrado_2">Para que pueda tenerse por interpuesto el recurso será indispensable que con el escrito en que se solicite la revisión acompañe el recurrente, si no estuviese declarado pobre, documento justificativo de haber depositado en el establecimiento destinado al efecto la cantidad de doce mil pesetas.</p>
+    <p class="sangrado">Esta cantidad será devuelta si el recurso se declarase procedente. En caso contrario, tendrá la aplicación señalada a los depósitos exigidos para interponer recurso de casación.»</p>
+    <p class="articulo">Artículo segundo.</p>
+    <p class="parrafo_2">Queda derogado el artículo mil seiscientos noventa y nueve de la Ley de Enjuiciamiento Civil.</p>
+    <p class="articulo">Artículo tercero.</p>
+    <p class="parrafo_2">El artículo ochocientos setenta y cinco de la Ley de Enjuiciamiento Criminal quedará redactado en la forma siguiente:</p>
+    <p class="sangrado_2">«Cuando el recurrente fuese el acusador privado y el delito sea de los que pueden perseguirse de oficio presentará su Procurador, con el escrito de interposición, el documento que acredite haber depositado doce mil pesetas en el establecimiento público destinado al efecto, debiendo consignarse tantos depósitos como acusadores recurrentes haya, a no ser que todos ellos hubiesen comparecido bajo la misma representación.</p>
+    <p class="sangrado">Cuando el delito fuere de los que sólo pueden perseguirse a instancia de parte, el depósito será de seis mil pesetas.</p>
+    <p class="sangrado">Cuando el recurrente fuese el actor civil, el depósito será de siete mil quinientas pesetas.</p>
+    <p class="sangrado">Cuando fuese el procesado o el responsable civil el recurrente, presentará a la Sala, con el escrito de interposición, el documento que acredite haber depositado setecientas cincuenta pesetas en el establecimiento público destinado al efecto.</p>
+    <p class="sangrado">Cuando el recurso se interponga el último día se considerará cumplido el requisito del depósito si se acompaña al escrito el importe correspondiente en dinero de curso legal, y en el plazo de las cuarenta y ocho horas siguientes se sustituye por el resguardo acreditativo de haber efectuado el depósito en el establecimiento destinado al efecto.</p>
+    <p class="sangrado">Si el recurrente estuviese habilitado para defenderse como pobre o pareciese declarado insolvente total o parcial, quedará obligado a responder de la cantidad referida, si viniere a mejor fortuna, en la forma que dispone el artículo ochocientos cincuenta y siete.»</p>
+    <p class="articulo">Artículo cuarto.</p>
+    <p class="parrafo_2">Se autoriza al Ministro de Justicia para dictar cuantas disposiciones se consideren precisas para el mejor cumplimiento de cuanto se establece en la presente Ley.</p>
+    <p class="parrafo_2">Dada en Madrid a veinticuatro de julio de mil novecientos setenta y cuatro.</p>
+    <p class="firma_rey">JUAN CARLOS DE BORBÓN<br/>PRÍNCIPE DE ESPAÑA</p>
+    <p class="firma_ministro">El Presidente de las Cortes Españolas,</p>
+    <p class="firma_ministro">ALEJANDRO RODRÍGUEZ DE VALCÁRCEL Y NEBREDA</p>
+  </texto>
+</documento>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20251218205601">
+  <metadatos>
+    <identificador>BOE-A-2002-3783</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="4810">Ministerio de Justicia</departamento>
+    <rango codigo="1410">Instrucción</rango>
+    <fecha_disposicion>20020219</fecha_disposicion>
+    <numero_oficial/>
+    <titulo>Instrucción de 19 de febrero de 2002, de la Dirección General de los Registros y del Notariado, sobre actuación de los Registradores de bienes muebles en las transmisiones de vehículos gravados.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>20020225</fecha_publicacion>
+    <diario_numero>48</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>7332</pagina_inicial>
+    <pagina_final>7333</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/2002/02/25/pdfs/A07332-07333.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia/>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/ins/2002/02/19/(1)</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/ins/2002/02/19/(1)">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/ins"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2002-3783</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2002-02-19</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1)</eli:number>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3150"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5958"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/7116"/>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/ins/2002/02/19/(1)/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/ins"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2002-3783</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2002-02-19</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1)</eli:number>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3150"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5958"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/7116"/>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/ins/2002/02/19/(1)"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/ins/2002/02/19/(1)/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Instrucción de 19 de febrero de 2002, de la Dirección General de los Registros y del Notariado, sobre actuación de los Registradores de bienes muebles en las transmisiones de vehículos gravados.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2002-02-25</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/ins/2002/02/19/(1)/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/ins/2002/02/19/(1)/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/ins/2002/02/19/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/ins/2002/02/19/(1)/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/ins/2002/02/19/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/ins/2002/02/19/(1)/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/ins/2002/02/19/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="3150" orden="1">Embargos</materia>
+      <materia codigo="5958" orden="2">Registro de Bienes Muebles</materia>
+      <materia codigo="7116" orden="3">Vehículos de motor</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1999-24356" orden="3070">
+          <palabra codigo="331">EN RELACIÓN con</palabra>
+          <texto>Reglamento aprobado por Real Decreto 1829/1999, de 3 de diciembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1999-1826" orden="3070">
+          <palabra codigo="331">EN RELACIÓN con</palabra>
+          <texto>Reglamento aprobado por Real Decreto 2822/1998, de 23 de diciembre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas/>
+  </analisis>
+  <texto>
+    <p class="parrafo">El artículo 32.8 del Reglamento General de Vehículos, aprobado por Real Decreto 2822/1998, de 23 de diciembre, cuando regula las transmisiones de vehículos, determina que cuando conste la existencia de un embargo en el Registro de Vehículos, la Jefatura de Tráfico notificará la existencia del embargo al adquirente, y la identificación y domicilio de éste a la autoridad que lo acordó. En el mismo sentido el artículo 33.5 establece la misma obligación cuando se trata de transmisiones en las que intervienen personas que se dedican a la compraventa de vehículos. Finalmente, el artículo 37.4 del mismo texto reglamentario impone la obligación de comunicar la existencia de embargos a la autoridad que lo acordó cuando se trata de bajas de vehículos.</p>
+    <p class="parrafo">Sin embargo, el Real Decreto 1828/1999, de 3 de diciembre, por el que se aprueba el Reglamento del Registro de Condiciones Generales de la Contratación y se crea el Registro de Bienes Muebles, en su disposición adicional única, apartado 2 establece que el Registro de Bienes Muebles es un Registro de titularidades y gravámenes sobre bienes muebles y, por consiguiente, competente para dar publicidad de la titularidad jurídica, reservas de dominio, hipotecas mobiliarias y gravámenes o limitaciones de disposición, impuestos sobre los vehículos. Así lo confirmó la Resolución de la Dirección General de los Registros y del Notariado de 11 de abril de 2000, cuando ordenó el traslado de los libros de hipoteca mobiliaria y prenda sin desplazamiento de posesión a los Registros Mercantiles Provinciales.</p>
+    <p class="parrafo">Esta disposición adicional única del Real Decreto 1828/1999 se dictó en desarrollo de lo dispuesto en el artículo 15 de la Ley 28/1998, de 13 de julio, de Venta a Plazos de Bienes Muebles, que atribuyó a la inscripción en el Registro de Venta a Plazos de Bienes Muebles la presunción de existencia y titularidad sobre los bienes muebles registrados en la forma determinada por el asiento respectivo, y en la disposición adicional tercera de la misma ley que ordenó la integración de ese Registro de Venta a Plazos de Bienes Muebles en el Registro de Bienes Muebles.</p>
+    <p class="parrafo">Igualmente, la distinción entre el Registro administrativo de tráfico, dirigido al control administrativo de los vehículos, y el Registro de Bienes Muebles como Registro de titularidades jurídicas llevó a la firma, el 10 de mayo de 2000, del convenio entre la Dirección General de Tráfico y la Dirección General de los Registros y del Notariado sobre interconexión informática del Registro de Vehículos y el Registro de Bienes Muebles.</p>
+    <p class="parrafo">A dicho convenio se adhirieron, el 13 de noviembre de 2000 el Consejo General del Poder Judicial y, el 17 de mayo de 2001, la Agencia Tributaria.</p>
+    <p class="parrafo">Es, por tanto, el Registro de Bienes Muebles, a cargo de los Registros Mercantiles Provinciales, el único competente para proceder a las anotaciones de embargo sobre vehículos y demás actos y contratos que las normas determinan, con la eficacia propia de un Registro jurídico como lo concibe las disposiciones legales y reglamentarias expresadas, así como para la expedición de la publicidad sobre las titularidades y gravámenes sobre los bienes muebles registrados. Sin perjuicio de la información que en el ámbito de sus competencias pueda facilitar el Órganismo Autónomo Jefatura Central de Tráfico y su Organización Periférica a los interesados y terceros que tengan interés legítimo y directo, conforme previene el artículo 2 del Reglamento General de Vehículos.</p>
+    <p class="parrafo">En la transmisión de los vehículos embargados, el adquirente tendrá conocimiento de la existencia del embargo, conforme a las reglas generales. El Registro de Bienes Muebles se rige, como los demás Registros Jurídicos, por un principio de rogación, de manera que son los interesados con interés legítimo los que pueden solicitar la publicidad formal, incluso a través de sistemas de telecomunicación informáticos (cfr. Artículo 33 de la Ordenanza de 19 de julio de 1999).</p>
+    <p class="parrafo">También la autoridad embargante tendrá conocimiento de la transmisión efectuada del vehículo embargado, en el momento de la expedición de la correspondiente certificación registral de titularidades y cargas, dentro del procedimiento de ejecución. Esta certificación es obligatoria, ya que las normas sobre subastas de bienes inmuebles son aplicables a los bienes muebles sujetos a un régimen de publicidad registral similar al de aquéllos (cfr. Artículo 655.1 en relación con el 656 de la nueva Ley de Enjuiciamiento Civil). En definitiva, el ejecutante tendrá conocimiento de la transmisión en el momento de la ejecución.</p>
+    <p class="parrafo">Por eso la notificación de la transmisión de oficio por parte del Registro deja de tener el sentido que pudiera tener bajo un sistema basado en un Registro administrativo, donde la anotación del embargo no producía el efecto jurídico de afección del bien al pago de la deuda frente a terceros.</p>
+    <p class="parrafo">En consecuencia, previo conocimiento de la Dirección General de Tráfico, Esta Dirección General acuerda que a partir de la entrada en vigor de esta Instrucción se dejen de practicar las notificaciones prevenidas en los artículos 32.8, 33.5 y 37.4 del Reglamento General de Vehículos aprobado por Real Decreto 2822/1998, de 23 de diciembre, por entender que están derogados tácitamente por las normas posteriores a que se refiere esta Instrucción. La autoridad embargante tendrá conocimiento de la transmisión administrativa del vehículo gravado en el instante mismo que se expida por el Registrador de Bienes Muebles la certificación de dominio y cargas en el procedimiento de apremio correspondiente.</p>
+    <p class="parrafo">Madrid, 19 de febrero de 2002.-La Directora general, Ana López-Monis Gallego.</p>
+    <p class="parrafo">Sres. Registradores de Bienes Muebles.</p>
+  </texto>
+</documento>

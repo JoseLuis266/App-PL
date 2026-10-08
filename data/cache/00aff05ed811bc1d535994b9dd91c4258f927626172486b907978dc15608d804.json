@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2004-5478",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2004-5478",
+  "sha256": "0de0bc8fb4b333a7bc3000289fbc5337c764cb3d9cfb148bdddfdc95d7d8aef2",
+  "archivo": "data/raw/0de0bc8fb4b333a7bc3000289fbc5337c764cb3d9cfb148bdddfdc95d7d8aef2.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:54.681744+00:00"
+}

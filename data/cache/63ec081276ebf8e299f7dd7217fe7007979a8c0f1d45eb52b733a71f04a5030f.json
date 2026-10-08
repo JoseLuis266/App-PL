@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a5-4",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a5-4",
+  "sha256": "38b0c33e574d18f0914ebd14594feb6190828ada043d4340346fd69582dd7280",
+  "archivo": "data/raw/38b0c33e574d18f0914ebd14594feb6190828ada043d4340346fd69582dd7280.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:07:21.597586+00:00"
+}

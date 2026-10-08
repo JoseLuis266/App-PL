@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a803terq" tipo="precepto" titulo="Artículo 803 ter q">
+      <version id_norma="BOE-A-2015-10726" fecha_publicacion="20151006" fecha_vigencia="20151206">
+        <p class="articulo">Artículo 803 ter q. Investigación del Ministerio Fiscal.</p>
+        <p class="parrafo">1. El Ministerio Fiscal podrá llevar a cabo, por sí mismo, a través de la Oficina de Recuperación y Gestión de Activos o por medio de otras autoridades o de los funcionarios de la Policía Judicial, las diligencias de investigación que resulten necesarias para localizar los bienes o derechos titularidad de la persona con relación a la cual se hubiera acordado el decomiso.</p>
+        <p class="parrafo">Las autoridades y funcionarios de quienes el Ministerio Fiscal recabase su colaboración vendrán obligadas a prestarla bajo apercibimiento de incurrir en un delito de desobediencia, salvo que las normas que regulen su actividad dispongan otra cosa o fijen límites o restricciones que deban ser atendidos, en cuyo caso trasladarán al fiscal los motivos de su decisión.</p>
+        <p class="parrafo">2. Cuando el fiscal considere necesario llevar a cabo alguna diligencia de investigación que deba ser autorizada judicialmente, presentará la solicitud al juez o tribunal que hubiera conocido el procedimiento de decomiso.</p>
+        <p class="parrafo">3. Asimismo, el Ministerio Fiscal podrá dirigirse a las entidades financieras, organismos y registros públicos y personas físicas o jurídicas para que faciliten, en el marco de su normativa específica, la relación de bienes o derechos del ejecutado de los que tengan constancia.</p>
+        <blockquote>
+          <p class="nota_pie">Se añade por el art. único.10 de la Ley 41/2015, de 5 de octubre. <a class="refPost">Ref. BOE-A-2015-10726</a>.</p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

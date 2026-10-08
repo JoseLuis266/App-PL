@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-6310/texto/bloque/a3-11",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-6310/texto/bloque/a3-11",
+  "sha256": "310fb78735a85fe08b8c2d51d465a245bdbc7814eb71065f6686b8ffe754f462",
+  "archivo": "data/raw/310fb78735a85fe08b8c2d51d465a245bdbc7814eb71065f6686b8ffe754f462.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:07:36.399101+00:00"
+}

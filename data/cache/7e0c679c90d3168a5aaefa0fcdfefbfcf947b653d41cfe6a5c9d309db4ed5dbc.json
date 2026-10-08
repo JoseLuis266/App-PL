@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-4902",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-4902",
+  "sha256": "f4d056349febbdfcf63cd783fc6887af25ca892ed4b9a071d28596168cc96974",
+  "archivo": "data/raw/f4d056349febbdfcf63cd783fc6887af25ca892ed4b9a071d28596168cc96974.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:15.943585+00:00"
+}

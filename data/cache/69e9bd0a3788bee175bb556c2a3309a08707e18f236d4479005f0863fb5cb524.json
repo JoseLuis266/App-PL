@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-16785",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-16785",
+  "sha256": "b6b026a5c86469f6d6579b020cc9272bff6efdc10d9491e4f706c9bed5b202c9",
+  "archivo": "data/raw/b6b026a5c86469f6d6579b020cc9272bff6efdc10d9491e4f706c9bed5b202c9.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:34.297992+00:00"
+}

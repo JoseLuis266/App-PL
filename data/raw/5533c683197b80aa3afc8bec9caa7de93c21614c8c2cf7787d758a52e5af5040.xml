@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="aveintiuno" tipo="precepto" titulo="Artículo veintiuno">
+      <version id_norma="BOE-A-1986-6859" fecha_publicacion="19860314" fecha_vigencia="19860403">
+        <p class="articulo">Artículo veintiuno.</p>
+        <p class="parrafo">
+          <strong>(Derogado)</strong>
+        </p>
+        <blockquote>
+          <p class="nota_pie">Se deroga por la disposición derogatoria única.1.a) de la Ley Orgánica 9/2015, de 28 de julio. <a class="refPost">Ref. BOE-A-2015-8468#ddunica</a></p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

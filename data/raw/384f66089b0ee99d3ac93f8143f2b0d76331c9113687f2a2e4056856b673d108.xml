@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20241019132644">
+  <metadatos>
+    <identificador>BOE-A-2010-18645</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="1410">Tribunal Constitucional</departamento>
+    <rango codigo="1240">Sentencia</rango>
+    <fecha_disposicion>20101103</fecha_disposicion>
+    <numero_oficial>82/2010</numero_oficial>
+    <titulo>Pleno. Sentencia 82/2010, de 3 de noviembre de 2010. Cuestión de inconstitucionalidad 7728-2005. Planteada por la Sección Sexta de la Audiencia Provincial de Barcelona en relación con el artículo 57.2 del Código penal, en la redacción dada por la Ley Orgánica 15/2003, de 25 de noviembre. Principios de personalidad y proporcionalidad de las penas, prohibición de indefensión, derecho a la intimidad familiar y libertades de circulación y residencia: STC 60/2010 (imposición obligatoria, para determinados delitos, de la pena accesoria de alejamiento); inadmisión parcial de la cuestión de inconstitucionalidad por defectuoso cumplimiento del trámite de audiencia.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>20101203</fecha_publicacion>
+    <diario_numero>292</diario_numero>
+    <seccion>T</seccion>
+    <subseccion/>
+    <pagina_inicial>13</pagina_inicial>
+    <pagina_final>17</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/2010/12/03/pdfs/BOE-A-2010-18645.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia/>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+  </metadatos>
+  <analisis>
+    <materias>
+      <materia codigo="886" orden="">Código Penal</materia>
+      <materia codigo="2253" orden="">Cuestiones de inconstitucionalidad</materia>
+      <materia codigo="5539" orden="">Penas</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2006-8260" orden="4005">
+          <palabra codigo="693">DICTADA</palabra>
+          <texto>en la CUESTIÓN 7728/2005</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1995-25444" orden="4009">
+          <palabra codigo="470">DECLARA</palabra>
+          <texto>la inadmisión de lo indicado y la desestimación de todo lo demás en relación con el art. 57.2 de la Ley Orgánica 10/1995, de 23 de noviembre, en la redacción dada por la Ley Orgánica 15/2003, de 25 de noviembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2003-21538" orden="4010">
+          <palabra codigo="470">DECLARA</palabra>
+          <texto>,</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas>
+      <alerta codigo="111" orden="">Derecho Constitucional</alerta>
+      <alerta codigo="113" orden="">Derecho Penal</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="parrafo">El Pleno del Tribunal Constitucional, compuesto por doña María Emilia Casas Baamonde, Presidenta, don Guillermo Jiménez Sánchez, don Vicente Conde Martín de Hijas, don Javier Delgado Barrio, doña Elisa Pérez Vera, don Eugeni Gay Montalvo, don Jorge Rodríguez-Zapata Pérez, don Ramón Rodríguez Arribas, don Pascual Sala Sánchez, don Manuel Aragón Reyes y don Pablo Pérez Tremps, Magistrados, ha pronunciado</p>
+    <p class="centro_redonda">EN NOMBRE DEL REY</p>
+    <p class="articulo">la siguiente</p>
+    <p class="centro_redonda">SENTENCIA</p>
+    <p class="parrafo">En la cuestión de inconstitucionalidad núm. 7728-2005, planteada por la Sección Sexta de la Audiencia Provincial de Barcelona, respecto del art. 57.2 del Código Penal. Han intervenido el Abogado del Estado y el Fiscal General del Estado. Ha sido Ponente el Magistrado don Jorge Rodríguez-Zapata Pérez, quien expresa el parecer del Tribunal.</p>
+    <p class="centro_negrita">I. Antecedentes</p>
+    <p class="parrafo">1. El día 3 de noviembre de 2005 tuvo entrada en el Registro General de este Tribunal, escrito de la Sección Sexta de la Audiencia Provincial de Barcelona al que se acompaña, junto al testimonio de particulares del correspondiente procedimiento (procedimiento abreviado 459-2004 y rollo de apelación 64-2005), el Auto del referido órgano judicial de 11 de octubre de 2005 en el que se acuerda plantear cuestión de inconstitucionalidad respecto del art. 57.2 del Código penal (en adelante CP), en la redacción dada al mismo por la Ley Orgánica 15/2003, de 25 de noviembre.</p>
+    <p class="parrafo_2">2. Del conjunto de las actuaciones remitidas por el órgano judicial proponente resulta que los hechos que dan lugar al planteamiento de la presente cuestión son, concisamente expuestos, los siguientes:</p>
+    <p class="parrafo_2">a) El Juzgado de Instrucción núm. 8 de Barcelona dictó Auto el 18 de diciembre de 2004 en el que incoaba diligencias urgentes para el enjuiciamiento rápido de hechos que podían ser constitutivos de un delito de maltrato familiar.</p>
+    <p class="parrafo">b) El día 11 de marzo de 2005 el Juzgado de lo Penal núm. 16 de Barcelona dictó Sentencia condenando al acusado como autor de un delito de maltrato familiar, previsto y penado en el art. 153. 1 y 2 CP, sin la concurrencia de circunstancias modificativas de la responsabilidad, a la pena de catorce días de trabajo en beneficio de la comunidad, privación del derecho a la tenencia y porte de armas durante seis meses, prohibición de acercarse a la víctima, a su domicilio o lugar de trabajo a una distancia no inferior a mil metros por un periodo de tres meses, con la imposición de la medida de sumisión a tratamiento externo o ambulatorio en centro médico o establecimiento de carácter sociosanitario adecuado al trastorno que padece por periodo de dos meses, y al pago de las costas procesales.</p>
+    <p class="parrafo">c) Interpuesto recurso de apelación por el condenado, en el que la representación procesal del acusado denunciaba la infracción de los arts 153 y 57 CP y error en la apreciación de la prueba, que vulneraba la presunción de inocencia, al no quedar acreditada la intencionalidad de lesionar, las actuaciones fueron remitidas a la Sección Sexta de la Audiencia Provincial de Barcelona la Sala, que por providencia de 14 de abril de 2005 acordó formar rollo de apelación y designar ponente. Sin señalar día para la votación y fallo, dictó providencia el día 28 de julio del mismo año, indicando lo siguiente: «Alegándose por el apelante la infracción del art. 57.2 C.P. por indebida imposición de la prohibición de acercamiento y comunicación con la víctima, este Tribunal plantea la posibilidad de promover de oficio cuestión de inconstitucionalidad del art. 57.2 del C.P., en relación al carácter imperativo de la imposición de la pena prevista en el apartado 2 del art. 48 del mismo texto, por posible vulneración de los arts. 1.1, 9.3, 10.1, 18.1, 24.1, 25.1 y 49 de la C.E., por lo que se acuerda oír al Ministerio Fiscal y demás partes comparecidas por plazo de 10 días para que aleguen lo que estimen oportuno, conforme dispone el art. 35.2 L O 2/79 del Tribunal Constitucional». Notificada la providencia al Ministerio Fiscal, y a la representación del acusado, no formularon alegaciones.</p>
+    <p class="parrafo">d) La Sala acordó plantear la cuestión de inconstitucionalidad por Auto de 11 de octubre de 2005.</p>
+    <p class="parrafo_2">3. El Auto de cuestionamiento justifica la oportunidad procesal del planteamiento «pues el presente proceso se encuentra en fase de recurso de apelación contra la sentencia dictada en primera instancia y la norma cuya constitucionalidad cuestionamos ha sido aplicada para imponer al condenado una de las penas que se establecen en la sentencia apelada y que es objeto de impugnación, entre otros motivos, en el recurso que pende ante esta Sala … La razón por la que entendemos que la decisión del proceso depende de la constitucionalidad del carácter imperativo de la imposición de la pena de prohibición de acercamiento reside en que la imposición obligatoria al condenado de la prohibición de acercamiento respecto de la persona de su madre, la victima de la agresión, carece de sentido dadas las circunstancias del caso y si fuera de carácter potestativo, debería revocarse, estimándose el recurso.».</p>
+    <p class="parrafo">Tras exponer los antecedentes y evolución legislativa de la pena de prohibición de aproximarse a la víctima, sostiene que su imposición respecto de determinados sujetos pasivos de modo obligado, le hace perder en muchas ocasiones su finalidad y razón de ser, vulnerando varios artículos de la Constitución (en adelante CE).</p>
+    <p class="parrafo">En tal sentido indica que la pena de alejamiento afecta de forma importante a la víctima e interfiere en sus relaciones personales y familiares. En aquellos supuestos en que la víctima es el cónyuge o la pareja de hecho y haya, además, hijos comunes implica la suspensión del régimen de visitas, comunicación y estancia, con lo que la medida acaba produciendo efectos reflejos para terceros no afectados por el delito. Tal afectación de derechos de personas que no son el condenado, sin su consentimiento y, en mayor medida cuando es contra su voluntad, supone una vulneración del valor superior de la libertad (art. 1.1 CE), en relación con «el derecho fundamental a la dignidad de la persona que se reconoce en el art. 10.1 CE», del derecho a la intimidad personal y familiar (art. 18.1 CE), del art. 39 CE «que obliga a los poderes públicos a proteger a la familia y a los hijos». Añade que en el caso concreto se infringe el art. 49 CE que obliga a la protección, atención especializada y especial amparo para el disfrute de sus derechos a los disminuidos físicos, psíquicos y sensoriales por parte de los poderes públicos, en tanto que las condiciones del condenado le hacen necesitado y dependiente de los cuidados de su madre.</p>
+    <p class="parrafo">Sostiene el órgano judicial que «es esencial contar con la opinión de la víctima, valorar las circunstancias del delito y de las personas implicadas para decidir la imposición o no de una pena, pues pueden darse muchos casos como el que motiva este proceso, en los que la levedad de la acción y las demás circunstancias que concurren pongan de manifiesto que las razones que justifican la prohibición no existen … desde la perspectiva de la víctima, la imposición automática y obligatoria de la pena supone la lesión de varios de sus derechos fundamentales».</p>
+    <p class="parrafo">Continua afirmando la Sala que el art. 57.2 CP, infringe el principio de legalidad, en su vertiente material, contenido en el art. 25.1 CE (concretado en los principios de lesividad y proporcionalidad y personalidad de las penas), al establecer una sanción para el condenado que trasciende a la víctima, sin haber cometido ningún hecho delictivo, sin darle audiencia y sin que dependa de actuación alguna por su parte, al ser sancionada por hecho de otro, sin juicio previo y sin respetar el derecho de defensa. Considera conculcado el principio de interdicción de arbitrariedad de los poderes públicos, pues la modificación introducida en la Ley Orgánica 15/2003 no explica las razones que justificarían el carácter obligatorio de la imposición, lo que unido a lo anteriormente expuesto, privan de legitimación a la reforma.</p>
+    <p class="parrafo">Aprecia asimismo que la regulación del art. 57.2 CP no tiene en cuenta el mandato constitucional de la función rehabilitadora de la pena (art. 25.2 CE), aplicable a cualquier tipo de pena, aun cuando se imponga específicamente sólo para la pena y medida de seguridad privativa de libertad, pues «si se impone en todo caso esta prohibición de acercamiento, cualquier posibilidad de arrepentimiento y modificación de su conducta en el autor del hecho queda frustrada». Termina indicando que la imposición obligatoria de la prohibición de acercamiento, lesiona en los casos en que no concurra la gravedad y peligrosidad que hacen razonable el alejamiento, el principio de proporcionalidad de la pena, al implicar la imposición en muchos casos de una pena no necesaria.</p>
+    <p class="parrafo">Por todo lo expuesto, acuerda el órgano judicial plantear la cuestión de inconstitucionalidad del art. 57.2 del Código Penal.</p>
+    <p class="parrafo_2">4. Mediante providencia de 25 de abril de 2006 este Tribunal acordó admitir a trámite la cuestión de inconstitucionalidad, así como dar traslado de las actuaciones recibidas, de conformidad con el art. 37.3 LOTC, al Congreso de los Diputados y al Senado por conducto de sus Presidentes; al Gobierno, por conducto del Ministerio de Justicia; y al Fiscal General del Estado, al objeto de que en el plazo de quince días pudieran personarse en el proceso y formular las alegaciones que estimaran convenientes.</p>
+    <p class="parrafo_2">5. El Abogado del Estado se personó en el presente proceso en nombre del Gobierno, solicitando en su escrito de alegaciones, registrado el día 22 de mayo de 2006, la desestimación de la cuestión de inconstitucionalidad.</p>
+    <p class="parrafo">Señala el Abogado del Estado que el Auto de cuestionamiento parte de una concepción muy limitada de la sanción establecida en el art. 57.2 CP que restringe su carácter punitivo a una simple medida de seguridad de la persona afectada lo que a su juicio pugna con la esencia de las infracciones penales que rebasa los intereses y deseos de la persona directamente agraviada, siendo una excepción su configuración como sanción potestativa.</p>
+    <p class="parrafo">Entiende que la consideración sumaria que efectúa el Auto de planteamiento de la cuestión de determinados preceptos constitucionales, pueden agruparse en dos premisas. Por un lado, que es necesario el consentimiento de la víctima para la imposición de esta pena, y por otro la exigencia del arbitrio judicial que pondere la necesidad y conveniencia de su aplicación. A la primera de las premisas correspondería la cita de los arts. 1.1; 10.1; 18.1; 25.1 y 39 CE y a la segunda la del art. 9.3 CE.</p>
+    <p class="parrafo">Indica que la oposición de la víctima como mecanismo excluyente de la pena colocaría a este tipo de infracciones en la esfera de los delitos denominados privados, perseguibles sólo a instancia de parte, puesto que, aunque seguirían siendo perseguibles de oficio, la víctima tendría una suerte de derecho de veto para la imposición de las penas. Entiende que no es preciso razonar que este tipo de agresiones con causación de lesiones no afectan solamente a la persona agredida, en tanto que víctima lo es —intensamente— toda la comunidad, aspecto que al no ser considerado por el Auto, le lleva a sugerir improcedentemente la asimilación del delito a los perseguibles a instancia de parte. Son víctimas todos los miembros de la comunidad. Con la imposición de la pena no sólo se protegería a la persona agredida por una estimación de riesgos apreciada por el legislador, sino también a la propia sociedad frente a la reiteración de este tipo de ofensas contra una misma víctima.</p>
+    <p class="parrafo">Entiende el Abogado del Estado, que las objeciones de la Sala no tienen que ver con la larga lista de preceptos constitucionales invocados, al suscitar una cuestión de política punitiva, pero sin afirmar que la respuesta penológica se aparte de los valores constitucionalmente tutelados. Afirma la existencia de contradicción entre las dos objeciones formuladas frente a un mismo precepto: el mayor arbitrio judicial por un lado, y su condicionamiento a los deseos de la víctima. El juicio de ponderación de riesgos no tendría que coincidir con la voluntad de la víctima y por otra parte si la imposición se hace depender del consentimiento de la víctima, sobraría la ponderación del juzgador.</p>
+    <p class="parrafo">Por último descarta la infracción del art. 49 CE al considerar que el Auto se encuentra excesivamente centrado en las conveniencias sanitarias del condenado y deja relegado el interés de la sociedad e incluso el interés de la propia madre.</p>
+    <p class="parrafo">Con base en todo lo expuesto, el Abogado del Estado interesa que se desestime la cuestión de inconstitucionalidad promovida.</p>
+    <p class="parrafo_2">6. El Presidente del Senado, mediante escrito registrado el día 10 de mayo de 2006, comunicó que la Mesa de la Cámara había acordado personarse en el proceso y dar por ofrecida su colaboración a los efectos del art. 88.1 LOTC.</p>
+    <p class="parrafo_2">7. El Presidente del Congreso de los Diputados, a través de escrito registrado el día 12 de mayo de 2006, comunicó que, aunque el Congreso había decidido no personarse en el procedimiento ni formular alegaciones, ponía a disposición del Tribunal las actuaciones que pudiera precisar.</p>
+    <p class="parrafo_2">8. Con fecha 22 de mayo de 2006, el Fiscal General del Estado presentó ante el Registro General del Tribunal sus alegaciones, que se resumen a continuación.</p>
+    <p class="parrafo">Empieza el escrito haciendo referencia a que la presente cuestión presenta analogía con otras que, sobre la misma materia, han sido tramitadas por el Pleno del Tribunal e informadas por el Fiscal, citando en tal sentido las cuestiones de inconstitucionalidad siguientes: 640-2005, 3916-2005, 4976-2005, 7259-2005, 8820-2005, 8820-2005, 8821-2005 y 594-2006. Indica que en todas las anteriores el Fiscal interesó la desestimación, salvo en la cuestión de inconstitucionalidad 4976-2005, promovida por el Juzgado de lo Penal núm. 20 de Madrid en que el art. 57 CP se consideraba contrario al art. 9.3 CE, en su dimensión de interdicción de la arbitrariedad de los poderes públicos, por lo que se remite, por razones de economía procesal, a las alegaciones formuladas al tramitar dicha cuestión. Finalmente, por lo expuesto, la estimación de la cuestión de inconstitucionalidad, declarando que es inconstitucional y por lo tanto nulo el art. 57.2 CP según redacción dada por Ley Orgánica 15/2003 por ser contrario al art. 9.3 CE, en su dimensión de interdicción de la arbitrariedad de los poderes públicos o, alternativamente, desestime la cuestión de inconstitucionalidad sobre la base de la legislación sobrevenida al planteamiento de la misma, por los argumentos anteriormente expuestos.</p>
+    <p class="parrafo_2">9. Mediante providencia de 3 noviembre de 2010 se señaló para la deliberación y votación de la presente Sentencia el propio día, trámite que ha finalizado en el mismo.</p>
+    <p class="centro_negrita">II. Fundamentos jurídicos</p>
+    <p class="parrafo">1. El Auto de la Sección Sexta de la Audiencia Provincial de Barcelona, por el que se plantea la cuestión de inconstitucionalidad, considera que el párrafo segundo del art. 57.2 CP, en su redacción dada por la Ley Orgánica 15/2003, de 25 de noviembre, puede ser contrario a los arts. 1.1, 9.3, 10.1, 18.1, 25.1 y 2, 39 y 49 CE.</p>
+    <p class="parrafo_2">2. En el trámite del art. 35.2 LOTC la Sección se limitó a advertir a las partes sobre «la posibilidad de promover de oficio cuestión de inconstitucionalidad del art. 57.2 del CP, en relación al carácter imperativo de la imposición de la pena prevista en el apartado 2 del art. 48 del mismo texto, por posible vulneración de los arts. 1.1, 9.3, 10.1, 18.1, 24.1, 25.1 y 49 de la CE, por lo que se acuerda oír al Ministerio Fiscal y demás partes comparecidas por plazo de 10 días para que aleguen lo que estimen oportuno, conforme dispone el art. 35.2 Ley Orgánica 2/1979 del Tribunal Constitucional», lo que conduce a la conclusión de que el trámite de audiencia a las partes ha sido cumplido de forma defectuosa respecto de los arts. 25.2 y 39.1 CE, por lo que la presente cuestión debe ser inadmitida respecto a las alegaciones referidas a la vulneración de estos artículos (por todas STC 164/2009, de 2 de julio, FJ 2).</p>
+    <p class="parrafo_2">3. El resto de las cuestiones planteadas por la Sección Sexta de la Audiencia Provincial de Barcelona, respecto del art. 57.2 CP han sido ya resueltas en la STC 60/2010, de 7 de octubre, a cuyos razonamientos y conclusiones nos remitimos, por lo que procedente será aquí el mismo pronunciamiento desestimatorio al que llegamos en la citada Sentencia</p>
+    <p class="centro_redonda">FALLO</p>
+    <p class="parrafo">En atención a todo lo expuesto, el Tribunal Constitucional, POR LA AUTORIDAD QUE LE CONFIERE LA CONSTITUCIÓN DE LA NACIÓN ESPAÑOLA,</p>
+    <p class="centro_redonda">Ha decidido</p>
+    <p class="parrafo_2">1. Inadmitir, por incumplimiento de las condiciones procesales exigidas por los arts. 163 CE y 35 LOTC, la presente cuestión de inconstitucionalidad en lo que se refiere a la posible vulneración de los arts. 25. 2 y 39.1 CE.</p>
+    <p class="parrafo_2">2. Desestimar la presente cuestión de inconstitucionalidad en todo lo demás.</p>
+    <p class="parrafo_2">Publíquese esta Sentencia en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo_2">Dada en Madrid, a tres de noviembre de dos mil diez.–María Emilia Casas Baamonde.–Guillermo Jiménez Sánchez.–Vicente Conde Martín de Hijas.–Javier Delgado Barrio.–Elisa Pérez Vera.–Eugeni Gay Montalvo.–Jorge Rodríguez-Zapata Pérez.–Ramón Rodríguez Arribas.–Pascual Sala Sánchez.–Manuel Aragón Reyes.–Pablo Pérez Tremps.–Firmado y rubricado.</p>
+  </texto>
+</documento>

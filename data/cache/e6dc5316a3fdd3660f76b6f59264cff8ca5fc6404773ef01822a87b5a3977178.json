@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-1893/texto/indice",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-1893/texto/indice",
+  "sha256": "6ebb418301d9e2a5f9274d505e7965750ce08c98947e5cbf37526139b516fc79",
+  "archivo": "data/raw/6ebb418301d9e2a5f9274d505e7965750ce08c98947e5cbf37526139b516fc79.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:30:40.925530+00:00"
+}

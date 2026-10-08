@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.caib.es/eboibfront/cercar?lang=es&publico=N&texto=proceso+unificado&fec_ini=01%2F01%2F2024&fec_fin=08%2F10%2F2026&page=4",
+  "url_final": "https://www.caib.es/eboibfront/cercar?lang=es&publico=N&texto=proceso+unificado&fec_ini=01%2F01%2F2024&fec_fin=08%2F10%2F2026&page=4",
+  "sha256": "717b80310e5b4c5e25a3f03a1819dd95ad8b591b6349bd8d5aa4238be465f6e8",
+  "archivo": "data/raw/717b80310e5b4c5e25a3f03a1819dd95ad8b591b6349bd8d5aa4238be465f6e8.html",
+  "content_type": "text/html;charset=UTF-8",
+  "fecha_descarga": "2026-10-08T17:00:32.942449+00:00"
+}

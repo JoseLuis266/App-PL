@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-16673/texto/bloque/a1-4",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-16673/texto/bloque/a1-4",
+  "sha256": "0d2f4468906575ee7cd68464a562c6371df35ea30f8819919edc8f25d3774999",
+  "archivo": "data/raw/0d2f4468906575ee7cd68464a562c6371df35ea30f8819919edc8f25d3774999.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:07:15.280076+00:00"
+}

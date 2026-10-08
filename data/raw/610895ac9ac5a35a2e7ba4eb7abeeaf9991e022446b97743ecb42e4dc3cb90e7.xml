@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a22" tipo="precepto" titulo="Artículo 22">
+      <version id_norma="BOE-A-1978-31229" fecha_publicacion="19781229" fecha_vigencia="19781229">
+        <p class="articulo">Artículo 22</p>
+        <p class="parrafo">1. Se reconoce el derecho de asociación.</p>
+        <p class="parrafo">2. Las asociaciones que persigan fines o utilicen medios tipificados como delito son ilegales.</p>
+        <p class="parrafo">3. Las asociaciones constituidas al amparo de este artículo deberán inscribirse en un registro a los solos efectos de publicidad.</p>
+        <p class="parrafo">4. Las asociaciones sólo podrán ser disueltas o suspendidas en sus actividades en virtud de resolución judicial motivada.</p>
+        <p class="parrafo">5. Se prohíben las asociaciones secretas y las de carácter paramilitar.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

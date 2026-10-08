@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-23514/texto/bloque/a150",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-23514/texto/bloque/a150",
+  "sha256": "f732708c41f9678fb51dc6da71c1a85b2fe5c95f3f15b4bdab7771ea2382940e",
+  "archivo": "data/raw/f732708c41f9678fb51dc6da71c1a85b2fe5c95f3f15b4bdab7771ea2382940e.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:05:36.790176+00:00"
+}

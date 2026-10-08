@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1986-23791",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1986-23791",
+  "sha256": "c0854bb2f69871491e23bc3b52c8ab0d9ae978c152016fa121d4a01e97227805",
+  "archivo": "data/raw/c0854bb2f69871491e23bc3b52c8ab0d9ae978c152016fa121d4a01e97227805.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:20:37.388302+00:00"
+}

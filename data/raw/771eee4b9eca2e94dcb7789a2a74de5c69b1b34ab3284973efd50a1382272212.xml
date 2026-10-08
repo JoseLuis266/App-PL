@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a15" tipo="precepto" titulo="Artículo 15">
+      <version id_norma="BOE-A-2007-1893" fecha_publicacion="20061227" fecha_vigencia="20061231">
+        <p class="articulo">Artículo 15. Contenido de la resolución.</p>
+        <p class="parrafo_2">La resolución que se dicte en los procedimientos de alteración de términos municipales determinará el reparto del patrimonio, la asignación de personal, la manera de liquidar los créditos y las deudas y, si procede, la fijación de capitalidad. Recogerá asimismo los convenios intermunicipales que hubieran podido formalizarse entre los ayuntamientos interesados.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1988-8681",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1988-8681",
+  "sha256": "824de5b96725160c2ced70972c497f823d98fe67a4d9db41312f73cf2448b616",
+  "archivo": "data/raw/824de5b96725160c2ced70972c497f823d98fe67a4d9db41312f73cf2448b616.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:20:47.025221+00:00"
+}

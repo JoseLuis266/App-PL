@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-3521",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-3521",
+  "sha256": "594acb98d8f8524751d34c3189345d0b729465387fa4d3584b66fea5bb81b1d7",
+  "archivo": "data/raw/594acb98d8f8524751d34c3189345d0b729465387fa4d3584b66fea5bb81b1d7.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:11.599687+00:00"
+}

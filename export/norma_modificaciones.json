@@ -1,0 +1,3053 @@
+[
+  {
+    "id_norma": "ce",
+    "norma_modificadora": "BOE-A-2026-10881",
+    "fecha": "20260520",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10881",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 69.3, por Reforma de 19 de mayo de 2026",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "ce",
+    "norma_modificadora": "BOE-A-2024-3099",
+    "fecha": "20240217",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-3099",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 49, por Reforma de 15 de febrero de 2024",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "ce",
+    "norma_modificadora": "BOE-A-2011-15210",
+    "fecha": "20110927",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15210",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 135, por Reforma de 27 de septiembre de 2011",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "ce",
+    "norma_modificadora": "BOE-A-1992-20403",
+    "fecha": "19920828",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1992-20403",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 13.2, por Reforma de 27 de agosto de 1992",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "ce",
+    "norma_modificadora": "BOE-T-2005-111",
+    "fecha": "20050104",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-2005-111",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "que no existe contradicción entre los arts. I-6, II-111 y II-112 del Tratado de 29 de octubre de 2004 y la Constitución y la suficiencia del art. 93 de la misma, por Declaración de 13 de diciembre de 2004",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "ce",
+    "norma_modificadora": "BOE-T-1992-17448",
+    "fecha": "19920724",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-1992-17448",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "que la estipulación contenida en el futuro art. 8 B, apartado 1, del Tratado Constitutivo de la Comunidad Económica Europea, tal y como quedará redactado por el Tratado de la Unión Europea, es contraria al art. 13.2 de la Constitución en lo relativo a la atribución del derecho de sufragio pasivo en elecciones municipales a los ciudadanos de la Unión Europea que no sean nacionales españoles, y que el procedimiento de reforma constitucional que debe seguirse es el del art. 167, por Declaración de 1 de julio de 1992",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "estatuto",
+    "norma_modificadora": "BOE-A-2022-22683",
+    "fecha": "20221228",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22683",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "la disposición adicional 4.1, en la redacción dada por la Ley 28/2010, de 16 de julio, por Ley 37/2022, de 27 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "estatuto",
+    "norma_modificadora": "BOE-A-2022-2050",
+    "fecha": "20220209",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-2050",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 44, 56.7 y 57.5, por Ley Orgánica 1/2022, de 8 de febrero",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "estatuto",
+    "norma_modificadora": "BOE-A-2010-11422",
+    "fecha": "20100717",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-11422",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "la disposición adicional 4.1, por Ley 28/2010, de 16 de julio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "estatuto",
+    "norma_modificadora": "BOE-A-2007-13969",
+    "fecha": "20070720",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13969",
+    "relacion": "CORRECCIÓN de errores",
+    "descripcion_literal": "en BOE núm. 173, de 20 de julio de 2007",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "estatuto",
+    "norma_modificadora": "BOE-A-2007-6720",
+    "fecha": "20070330",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-6720",
+    "relacion": "CORRECCIÓN de errores",
+    "descripcion_literal": ", suprimiendo los apartados 48 del art. 30 y 2 del art. 68, BOE num. 77 de 30 de marzo de 2007",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "local",
+    "norma_modificadora": "BOE-A-2019-5581",
+    "fecha": "20190319",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5581",
+    "relacion": "SE DEROGA",
+    "descripcion_literal": "el art. 123, por Ley 12/2019, de 12 de marzo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "local",
+    "norma_modificadora": "BOE-A-2018-9775",
+    "fecha": "20180626",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2018-9775",
+    "relacion": "SE DEROGA",
+    "descripcion_literal": "el art. 188.3, por Ley 6/2018, de 22 de junio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "local",
+    "norma_modificadora": "BOE-A-2014-6438",
+    "fecha": "20140329",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2014-6438",
+    "relacion": "SE DEROGA",
+    "descripcion_literal": "art. 185.1, por Ley 2/2014, de 25 de marzo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "local",
+    "norma_modificadora": "BOE-A-2008-9686",
+    "fecha": "20080517",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2008-9686",
+    "relacion": "SE DEROGA",
+    "descripcion_literal": "el art. 185.2, por Ley 4/2008, de 14 de mayo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "local",
+    "norma_modificadora": "BOIB-i-2025-90242",
+    "fecha": "20251009",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOIB-i-2025-90242",
+    "relacion": "SE DEJA SIN EFECTO",
+    "descripcion_literal": "la modificación del art. 130.2, en la redacción dada por el Decreto-ley 6/2025, de 5 de septiembre, por Resolución de 2 de octubre de 2025",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial de las Islas Baleares"
+  },
+  {
+    "id_norma": "local",
+    "norma_modificadora": "BOE-A-2026-15579",
+    "fecha": "20260717",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-15579",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 130.2, por Ley 4/2026, de 11 de junio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "local",
+    "norma_modificadora": "BOE-A-2026-487",
+    "fecha": "20251206",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-487",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 130.2, por Decreto-ley 8/2025, de 5 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "local",
+    "norma_modificadora": "BOIB-i-2025-90220",
+    "fecha": "20250906",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOIB-i-2025-90220",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 130.2, por Decreto-ley 6/2025, de 5 de septiembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial de las Islas Baleares"
+  },
+  {
+    "id_norma": "local",
+    "norma_modificadora": "BOE-A-2025-720",
+    "fecha": "20241213",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-720",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "la disposición adicional, por Ley 7/2024, de 11 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "local",
+    "norma_modificadora": "BOE-A-2024-1569",
+    "fecha": "20231230",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-1569",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art, 205.2, SE SUSPENDE, para el año 2024, en los casos indicados, la aplicación de la regla 4º del art. 205.3.b) y SE AÑADE la disposición adicional 4, por Ley 12/2023, de 29 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "local",
+    "norma_modificadora": "BOE-A-2023-2981",
+    "fecha": "20221108",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2981",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 206, por Decreto-ley 9/2022, de 7 de noviembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "local",
+    "norma_modificadora": "BOE-A-2022-13847",
+    "fecha": "20220707",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-13847",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": ", con efectos desde el 7 de agosto de 2022, el art. 76.5, por Ley 4/2022, de 28 de junio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "local",
+    "norma_modificadora": "BOE-A-2022-230",
+    "fecha": "20211218",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-230",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 130, por Ley 4/2021, de 17 de diciembre de 2021",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "local",
+    "norma_modificadora": "BOE-A-2021-9286",
+    "fecha": "20210413",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9286",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 130, por Decreto-ley 3/2021, de 12 de abril",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "local",
+    "norma_modificadora": "BOE-A-2020-14467",
+    "fecha": "20201020",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2020-14467",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 70, 84 y 92, por Ley 2/2020, de 15 de octubre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "local",
+    "norma_modificadora": "BOE-A-2019-996",
+    "fecha": "20181229",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2019-996",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "art. 205.3.b), y SE SUSPENDE, para el año 2019 y en los casos indicados, la aplicación de la regla 4 del art. 205.3.b), por Ley 14/2018, de 28 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "local",
+    "norma_modificadora": "BOE-A-2018-929",
+    "fecha": "20171229",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2018-929",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 205.2 y SE SUSPENDE la aplicación, para el año 2018, de la regla 4.ª del artículo 205.3.b, por Ley 13/2017, de 29 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "local",
+    "norma_modificadora": "BOE-A-2017-10494",
+    "fecha": "20170713",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2017-10494",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 72.2, 120 y SE AÑADE los arts. 119 bis, 122 bis y 122 ter, por Ley 3/2017, de 7 de julio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "local",
+    "norma_modificadora": "BOE-A-2017-1680",
+    "fecha": "20170114",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1680",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 190, por Decreto-ley 1/2017, de 13 de enero",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "local",
+    "norma_modificadora": "BOE-A-2017-558",
+    "fecha": "20161231",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2017-558",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 205.2 y SE SUSPENDE para el año 2017, la aplicación de la regla 4 del art. 205.3.b), por Ley 18/2016, de 29 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "local",
+    "norma_modificadora": "BOE-A-2013-9129",
+    "fecha": "20130730",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9129",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "lo indicado y SE AÑADE el art. 201 bis, por Ley 4/2013, de 17 de julio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "local",
+    "norma_modificadora": "BOE-A-2013-631",
+    "fecha": "20121229",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2013-631",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "lo indicado del art. 205, por Ley 15/2012, de 27 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "local",
+    "norma_modificadora": "BOE-A-2010-19487",
+    "fecha": "20101125",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-19487",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 178 y 179, por Ley 12/2010, de 12 de noviembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "local",
+    "norma_modificadora": "BOE-A-2008-5651",
+    "fecha": "20071229",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2008-5651",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 74.1, 102, 205 y la disposición transitoria 2, por Ley 6/2007, de 27 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "local",
+    "norma_modificadora": "BOE-A-2020-850",
+    "fecha": "20191231",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2020-850",
+    "relacion": "SE SUSPENDE",
+    "descripcion_literal": "la aplicación, para el año 2020 y en los casos indicados, de la regla 4 del art. 205.3.b), de 15 de diciembre, por Ley 19/2019, de 30 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "local",
+    "norma_modificadora": "BOE-A-2016-824",
+    "fecha": "20151230",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2016-824",
+    "relacion": "SE SUSPENDE",
+    "descripcion_literal": "para el año 2016, la aplicación de la regla 4 del art.205.3.b), por Ley 12/2015, de 29 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "local",
+    "norma_modificadora": "BOE-A-2015-1059",
+    "fecha": "20141230",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1059",
+    "relacion": "SE SUSPENDE",
+    "descripcion_literal": "para el año 2015, la aplicación del art. 205.3.b).4, por Ley 13/2014, de 29 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "local",
+    "norma_modificadora": "BOE-A-2014-656",
+    "fecha": "20131231",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2014-656",
+    "relacion": "SE SUSPENDE",
+    "descripcion_literal": ", para el año 2014, la aplicación del art. 205.3.b).4, por Ley 8/2013, de 23 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "local",
+    "norma_modificadora": "BOE-A-2012-2272",
+    "fecha": "20111230",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2012-2272",
+    "relacion": "SE SUSPENDE",
+    "descripcion_literal": "para el año 2012, la aplicación del art. 205.3.b).4, por Ley 9/2011, de 23 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "trafico",
+    "norma_modificadora": "BOE-A-2026-13889",
+    "fecha": "20260626",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": ", con efectos desde el 1 de octubre de 2026, el anexo I, por Real Decreto 518/2026, de 24 de junio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "trafico",
+    "norma_modificadora": "BOE-A-2025-24545",
+    "fecha": "20251204",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24545",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el capítulo II y III del título I, el capítulo I del título II, el art. 12, el anexo VI.1 y la disposición final 2.2 del texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial; y la disposición adicional 1, por Ley 9/2025, de 3 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "trafico",
+    "norma_modificadora": "BOE-A-2023-15135",
+    "fecha": "20230629",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 5, 62, 76, 77, disposición final 2, anexo III y SE AÑADE el IX, por Real Decreto-ley 5/2023, de 28 de junio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "trafico",
+    "norma_modificadora": "BOE-A-2022-14965",
+    "fecha": "20220914",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-14965",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 85.1, por Ley Orgánica 11/2022, de 13 de septiembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "trafico",
+    "norma_modificadora": "BOE-A-2022-3290",
+    "fecha": "20220302",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-3290",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 76 n), por Real Decreto-ley 3/2022, de 1 de marzo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "trafico",
+    "norma_modificadora": "BOE-A-2021-21006",
+    "fecha": "20211221",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "y SE AÑADE determinados preceptos, en la forma indicada, por Ley 18/2021, de 20 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "trafico",
+    "norma_modificadora": "BOE-A-2021-8806",
+    "fecha": "20210527",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-8806",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 68, por Ley Orgánica 7/2021, de 26 de mayo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "circulacion",
+    "norma_modificadora": "BOE-A-2021-21006",
+    "fecha": "20211221",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21006",
+    "relacion": "SE DEROGA",
+    "descripcion_literal": ", en la forma indicada, el art. 51, por Ley 18/2021, de 20 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "circulacion",
+    "norma_modificadora": "BOE-A-2026-13889",
+    "fecha": "20260626",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": ", con efectos desde el 1 de octubre de 2026, determinados preceptos, SE SUPRIME el art. 93 y SE AÑADE el título VI, por Real Decreto 518/2026, de 24 de junio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "circulacion",
+    "norma_modificadora": "BOE-A-2026-12035",
+    "fecha": "20260605",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12035",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 37, 39, 139 y el anexo II, por Real Decreto 450/2026, de 3 de junio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "circulacion",
+    "norma_modificadora": "BOE-A-2025-12199",
+    "fecha": "20250617",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-12199",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "determinados preceptos, por Real Decreto 465/2025, de 10 de junio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "circulacion",
+    "norma_modificadora": "BOE-A-2021-4194",
+    "fecha": "20210317",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-4194",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 46.1.f), 85.4, 97.3.c), 113 y 130, por Real Decreto 159/2021, de 16 de marzo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "circulacion",
+    "norma_modificadora": "BOE-A-2020-13969",
+    "fecha": "20201111",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13969",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": ", con los efectos indicados, los arts. 38 y 50, por Real Decreto 970/2020, de 10 de noviembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "circulacion",
+    "norma_modificadora": "BOE-A-2018-18002",
+    "fecha": "20181229",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2018-18002",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 48 y SE AÑADE la disposición final 4 al Reglamento, por Real Decreto 1514/2018, de 28 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "circulacion",
+    "norma_modificadora": "BOE-A-2015-8047",
+    "fecha": "20150718",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8047",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 117, por Real Decreto 667/2015, de 17 de julio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "circulacion",
+    "norma_modificadora": "BOE-A-2011-4120",
+    "fecha": "20110305",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4120",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": ", con efectos desde las 6:00 horas del 7 de marzo, hasta el 30 de junio de 2011, el art. 48.1.a), por Real Decreto 303/2011, de 4 de marzo",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "circulacion",
+    "norma_modificadora": "BOE-A-2006-15406",
+    "fecha": "20060905",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2006-15406",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los art. 9, 18, 48, 116 a 119, disposición adicional 2 y SE AÑADE las disposiciones adicional 4 y final 3 y el anexo IV, por Real Decreto 965/2006, de 1 de septiembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "conductores",
+    "norma_modificadora": "BOE-A-2023-24843",
+    "fecha": "20231206",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2023-24843",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 41, 51 y SE AÑADE el anexo IX, por Real Decreto 1010/2023, de 5 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "conductores",
+    "norma_modificadora": "BOE-A-2023-12258",
+    "fecha": "20230526",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2023-12258",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el anexo IV.5.1 y 14, por Orden PCM/518/2023, de 26 de mayo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "conductores",
+    "norma_modificadora": "BOE-A-2021-2900",
+    "fecha": "20210225",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2900",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el anexo VII.4.B), por Orden INT/156/2021, de 23 de febrero",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "conductores",
+    "norma_modificadora": "BOE-A-2020-13970",
+    "fecha": "20201111",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13970",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "determinados preceptos y SE SUPRIME la disposición adicional 10, por Real Decreto 971/2020, de 10 de noviembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "conductores",
+    "norma_modificadora": "BOE-A-2018-4958",
+    "fecha": "20180412",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2018-4958",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el anexo IV, por Orden PRA/375/2018, de 11 de abril",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "conductores",
+    "norma_modificadora": "BOE-A-2016-9637",
+    "fecha": "20161021",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2016-9637",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el anexo I, por Orden INT/1676/2016, de 19 de octubre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "conductores",
+    "norma_modificadora": "BOE-A-2015-12572",
+    "fecha": "20151121",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12572",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "determinados preceptos , y SE SUPRIME la disposición transitoria 9, por Real Decreto 1055/2015, de 20 de noviembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "conductores",
+    "norma_modificadora": "BOE-A-2013-12566",
+    "fecha": "20131202",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12566",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los anexos I.B), V.B), VI.C) y VII.A) y B) , por Orden INT/2229/2013, de 25 de noviembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "conductores",
+    "norma_modificadora": "BOE-A-2013-7422",
+    "fecha": "20130708",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2013-7422",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 26, 28, 29, 65 a 68, 71 y los anexos II.b), III.g), V.c) y VI.d) , por Real Decreto 475/2013, de 21 de junio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "conductores",
+    "norma_modificadora": "BOE-A-2012-8674",
+    "fecha": "20120629",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2012-8674",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": ", con efectos desde el 19 de enero de 2013, el anexo I, por Orden INT/1407/2012, de 25 de junio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "conductores",
+    "norma_modificadora": "BOE-A-2010-13946",
+    "fecha": "20100910",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-13946",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el anexo IV, por Orden PRE/2356/2010, de 3 de septiembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "conductores",
+    "norma_modificadora": "BOE-A-2018-5802",
+    "fecha": "20180428",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2018-5802",
+    "relacion": "SE CORRIGEN errores",
+    "descripcion_literal": "de la Orden PRA/375/2018, de 11 de abril, en BOE núm. 103 de 28 de abril de 2018",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "conductores",
+    "norma_modificadora": "BOE-A-2016-9891",
+    "fecha": "20161028",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2016-9891",
+    "relacion": "SE CORRIGEN erratas",
+    "descripcion_literal": ", con modificación del anexo de la Orden INT/1676/2016, de 19 de octubre, en BOE núm. 261, de 28 de octubre de 2016",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2022-21683",
+    "fecha": "20221221",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21683",
+    "relacion": "SE DEROGA",
+    "descripcion_literal": ", en la redacción dada al Real Decreto 159/2021 de 16 de marzo, lo indicado del anexo XI; y SE MODIFICA el mismo anexo, por Real Decreto 1030/2022, de 20 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2026-13889",
+    "fecha": "20260626",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-13889",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": ", con efectos desde el 1 de octubre de 2026, el anexo XII, por Real Decreto 518/2026, de 24 de junio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2026-11580",
+    "fecha": "20260529",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-11580",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los anexos II, VII y XVIII, por Orden PJC/528/2026, de 26 de mayo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2026-2140",
+    "fecha": "20260130",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-2140",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 2, 3, 22 bis, las referencias indicadas, SE AÑADE, con los efectos indicados, los anexos XIX, XX y XXI al Reglamento General de Vehículos y SE MODIFICA la disposición final 3, por Real Decreto 52/2026, de 28 de enero",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2025-15231",
+    "fecha": "20250723",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15231",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los anexos II, X, XVIII y, con los efectos indicados, el anexo IX, por Orden PJC/780/2025, de 21 de julio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2024-18614",
+    "fecha": "20240918",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-18614",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 36, los anexos II y XVII y SE AÑADE el art. 48 bis, por Real Decreto 892/2024, de 10 de septiembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2022-22689",
+    "fecha": "20221228",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22689",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "la disposición final 3, por Real Decreto 1052/2022, de 27 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2021-5868",
+    "fecha": "20210414",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-5868",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 32.8, 33.5, 36.1.a), los anexos XIII, XV y SE SUSTITUYE el art. 35, por Real Decreto 265/2021, de 13 de abril",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2021-4194",
+    "fecha": "20210317",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-4194",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 9 y los anexos II, IX.2, con efectos desde el 18 de marzo de 2021, XI y XII, por Real Decreto 159/2021, de 16 de marzo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2020-13969",
+    "fecha": "20201111",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13969",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": ", con efectos desde el 2 de enero de 2021, los arts. 3, 22.3, 25.1, 28.1, anexos II, XVIII y SE AÑADE el art. 22 bis, por Real Decreto 970/2020, de 10 de noviembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2020-12767",
+    "fecha": "20201023",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12767",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": ", con efectos desde el 2 de enero de 2021, el art. 49 y el anexo XVIII, por Real Decreto 885/2020, de 6 de octubre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2018-10856",
+    "fecha": "20180731",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10856",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los anexos II, XI y XVIII, por Orden PCI/810/2018, de 27 de julio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2017-12841",
+    "fecha": "20171108",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12841",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": ", con efectos desde el 20 de mayo de 2018, el art. 30, por Real Decreto 920/2017, de 23 de octubre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2017-6173",
+    "fecha": "20170602",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2017-6173",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el anexo IX, por Orden PRA/499/2017, de 1 de junio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2015-14026",
+    "fecha": "20151223",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14026",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el anexo IX, por Orden PRE/2788/2015, de 18 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2015-8047",
+    "fecha": "20150718",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8047",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": ", con los efectos indicados, el anexo XIII.A).4), por Real Decreto 667/2015, de 17 de julio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2014-5399",
+    "fecha": "20140522",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2014-5399",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": ", con efectos desde el 22 de noviembre de 2014, el art. 22, por Real Decreto 339/2014, de 9 de mayo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2011-5400",
+    "fecha": "20110325",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5400",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los anexos XI y XII, por Orden PRE/629/2011, de 22 de marzo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2010-11154",
+    "fecha": "20100714",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-11154",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": ", con efectos de 14 de enero de 2011, el art. 7.2, por Real Decreto 866/2010, de 2 de julio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2010-5038",
+    "fecha": "20100327",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5038",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 28.2 y 4, por Real Decreto 369/2010, de 26 de marzo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2010-1011",
+    "fecha": "20100123",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1011",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "con efectos desde el 23 de julio de 2010, los anexos II, IX, XI, XII y XVIII, por Orden PRE/52/2010, de 21 de enero",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2008-5378",
+    "fecha": "20080320",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2008-5378",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el anexo XI, por Real Decreto 224/2008, de 15 de febrero",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2008-3422",
+    "fecha": "20080223",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3422",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el anexo XVIII, por Orden PRE/438/2008, de 20 de febrero",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2007-1346",
+    "fecha": "20070123",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1346",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el anexo XI, por Orden PRE/43/2007, de 16 de enero",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2006-11051",
+    "fecha": "20060621",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2006-11051",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los anexos II, XIII, XIV y XV, por Real Decreto 711/2006, de 9 de junio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2005-7984",
+    "fecha": "20050517",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2005-7984",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el anexo XIII, por Orden PRE/1355/2005, de 16 de mayo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2004-17619",
+    "fecha": "20041014",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2004-17619",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el anexo IX, por Orden PRE/3298/2004, de 13 de octubre de 2004",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2002-4792",
+    "fecha": "20020309",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2002-4792",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el anexo XVIII, II, B), por la Orden PRE/0513/2002, de 5 de marzo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2000-24368",
+    "fecha": "20001230",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2000-24368",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los anexos XIII y XVI, por Real Decreto 3485/2000, de 29 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-2000-16805",
+    "fecha": "20000916",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2000-16805",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el anexo XVIII, por Orden de 15 de septiembre de 2000",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-1999-23609",
+    "fecha": "19991211",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1999-23609",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el anexo XVIII, por Orden de 9 de diciembre de 1999",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "vehiculos",
+    "norma_modificadora": "BOE-A-1999-3698",
+    "fecha": "19990213",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3698",
+    "relacion": "CORRECCIÓN de errores",
+    "descripcion_literal": "en BOE num. 38, de 13 de febrero de 1999",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "policias",
+    "norma_modificadora": "BOE-A-2025-720",
+    "fecha": "20241213",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-720",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 24, 48, 51, 53, disposición adicional 3 ySE  AÑADE el art. 34 ter, por Ley 7/2024, de 11 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "policias",
+    "norma_modificadora": "BOE-A-2024-16940",
+    "fecha": "20240528",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-16940",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "la disposición adicional 3 y SE AÑADE el art. 34 ter, por Decreto-ley 3/2024, de 24 de mayo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "policias",
+    "norma_modificadora": "BOE-A-2022-13798",
+    "fecha": "20220616",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-13798",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 41 y la disposición adicional 8, por Decreto-ley 6/2022, de 13 de junio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "policias",
+    "norma_modificadora": "BOE-A-2021-14602",
+    "fecha": "20210710",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14602",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 28.3, 34.2, 41 y SE AÑADE las disposiciones adicionales 8, 9, por Decreto-ley 6/2021, de 9 de julio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "policias",
+    "norma_modificadora": "BOE-A-2019-3914",
+    "fecha": "20190216",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3914",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": ", con efectos desde el 17 de febrero de 2019, los arts. 57 y 60, por Ley 6/2019, de 8 de febrero",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "policias",
+    "norma_modificadora": "BOE-A-2018-287",
+    "fecha": "20171223",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2018-287",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "y SE AÑADE determinados preceptos, por Ley 11/2017, de 20 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "policias",
+    "norma_modificadora": "BOE-A-2026-15579",
+    "fecha": "20260717",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-15579",
+    "relacion": "SE AÑADE",
+    "descripcion_literal": "la disposición adicional 10, por Ley 4/2026, de 11 de junio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "policias",
+    "norma_modificadora": "BOE-A-2019-14727",
+    "fecha": "20191014",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2019-14727",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en la Cuestión 1461/2019, la desestimación en relación al art. 41, por Sentencia 106/2019, de 19 de septiembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-2015-8468",
+    "fecha": "20150729",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8468",
+    "relacion": "SE DEROGA",
+    "descripcion_literal": "los arts. 16 al 26 y las disposiciones adicionales 1, 2, 6 y 7; SE MODIFICA la disposición final 5 y SE AÑADE la disposición final 6, por Ley Orgánica 9/2015, de 28 de julio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-2010-8115",
+    "fecha": "20100521",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8115",
+    "relacion": "SE DEROGA",
+    "descripcion_literal": "los arts. 27, 28 y se añade una disposición adicional 5, por Ley Orgánica 4/2010, de 20 de mayo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-1994-21315",
+    "fecha": "19940930",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1994-21315",
+    "relacion": "SE DEROGA",
+    "descripcion_literal": "las disposiciones transitorias 1.8 y 4.1, por la Ley 26/1994, de 29 de septiembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-2013-13425",
+    "fecha": "20131221",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13425",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 53.3, por Ley Orgánica 9/2013, de 20 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-2011-4551",
+    "fecha": "20110312",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4551",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "la disposición adicional 5 y se añade la disposición adicional 7, por Ley Orgánica 4/2011, de 11 de marzo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-2007-18392",
+    "fecha": "20071023",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-18392",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 15.1, por Ley Orgánica 12/2007, de 22 de octubre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-2003-23644",
+    "fecha": "20031226",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2003-23644",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 53, por Ley Orgánica 19/2003, de 23 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-2003-4923",
+    "fecha": "20030311",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2003-4923",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 42 y 51, por Ley Orgánica 1/2003, de 10 de marzo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-2007-21489",
+    "fecha": "20071214",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-21489",
+    "relacion": "SE AÑADE",
+    "descripcion_literal": "una disposición adicional 5, por Ley Orgánica 16/2007, de 13 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-1986-33382",
+    "fecha": "19861224",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1986-33382",
+    "relacion": "SE PRORROGA",
+    "descripcion_literal": "la disposición transitoria 1, por Ley 21/1986, de 23 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-A-2010-19818",
+    "fecha": "20101224",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-19818",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en la Cuestión 5085/2009,  la inconstitucionalidad de los artículos 25.3, párrafo segundo, 26.1, párrafo segundo, y 26.2, párrafo primero, por Sentencia 120/2010, de 24 de noviembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-T-2005-13466",
+    "fecha": "20050805",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-2005-13466",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en la Cuestión 2629/1996 (1996/16625), la inconstitucionalidad del art. 27.3.j), por Sentencia 188/2005, de 7 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-T-1994-6780",
+    "fecha": "19940324",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-1994-6780",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en la Cuestión 2222/1990,  la constitucionalidad de la disposición transitoria 4, por Sentencia 73/1994, de 3 de marzo",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "fcs",
+    "norma_modificadora": "BOE-T-1990-9176",
+    "fecha": "19900417",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-1990-9176",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en las Cuestiones 158/1987, 495/1987 y 510/1987, su desestimación y en la Cuestión 487/1986,  la inconstitucionalidad y nulidad del art. 8.1, párrafo segundo, por Sentencia 55/1990, de 28 de marzo",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "habeas",
+    "norma_modificadora": "BOE-A-2024-23630",
+    "fecha": "20241114",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-23630",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 3, por Ley Orgánica 5/2024, de 11 de noviembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2015-10725",
+    "fecha": "20151006",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10725",
+    "relacion": "SE DEROGA",
+    "descripcion_literal": "los arts. 387 y 395, SE MODIFICA los arts. 118, 282 bis, 509, 520, 527, 967, la Rúbrica del título VIII del libro II al que AÑADE los capítulos I a X, los arts. 520 ter y 579 bis y SE SUSTITUYE el término indicado en determinados preceptos, por Ley Orgánica 13/2015, de 5 de octubre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2014-7877",
+    "fecha": "20140725",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7877",
+    "relacion": "SE DEROGA",
+    "descripcion_literal": "Párrafo 1 del art. 561, por Ley 14/2014, de 24 de julio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2003-19748",
+    "fecha": "20031027",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2003-19748",
+    "relacion": "SE DEROGA",
+    "descripcion_literal": "los arts. 504 bis.2, 517 y párrafo 2 del 518 y SE MODIFICA determinados preceptos, por Ley Orgánica 13/2003, de 24 de octubre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1996-750",
+    "fecha": "19960112",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1996-750",
+    "relacion": "SE DEROGA",
+    "descripcion_literal": "los arts. 119, 120, 123 a 140, 788, apartados 2, 4 y 5, 874, último párrafo, y 876, tres primeros párrafos, y se modifica el título V del libro I, arts. 121 y 875, último párrafo, por Ley 1/1996, de 10 de enero",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1995-12095",
+    "fecha": "19950523",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1995-12095",
+    "relacion": "SE DEROGA",
+    "descripcion_literal": "el título II del libro V, se deja sin efecto el art. 516, SE MODIFICA los arts. 14, 306, 539, 676, 678, 780, 781, 789, 847 y 848 y SE AÑADE los arts. 309 bis, 504 bis 2 y un título I al libro V, por Ley Orgánica 5/1995, de 22 de mayo",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1994-24612",
+    "fecha": "19941109",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1994-24612",
+    "relacion": "SE DEROGA",
+    "descripcion_literal": "lo indicado , y en particular de los arts. 44, 192, 198, 200, 230, 435, y en su totalidad los arts. 325 y 394, por Ley Orgánica 16/1994, de 8 de noviembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1988-29621",
+    "fecha": "19881230",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1988-29621",
+    "relacion": "SE DEROGA",
+    "descripcion_literal": "los arts. 799 a 803 y SE MODIFICA el título III del libro IV y los arts. 14, 377 y 989, por Ley Orgánica 7/1988, de 28 de diciembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1987-12077",
+    "fecha": "19870520",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-12077",
+    "relacion": "SE DEROGA",
+    "descripcion_literal": "los arts. 48 a 50 , por Ley Orgánica 2/1987, de 18 de mayo de 1987",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1978-29842",
+    "fecha": "19781208",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1978-29842",
+    "relacion": "SE DEROGA",
+    "descripcion_literal": "el art. 316 y se modifica determinados preceptos, por Ley 53/1978, de 4 de diciembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1978-5335",
+    "fecha": "19780223",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1978-5335",
+    "relacion": "SE DEROGA",
+    "descripcion_literal": "el apartado 4 del art. 503, por Ley 10/1978, de 20 de febrero",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2009-17493",
+    "fecha": "20091104",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2009-17493",
+    "relacion": "SE DEJA SIN EFECTO",
+    "descripcion_literal": "los arts. 601 a 610, el capítulo IV del título II del libro V, SE MODIFICA determinados preceptos y SE AÑADE los arts. 144.bis, el capítulo II al título X y 367 ter, con efectos de 4 de mayo de 2010, por Ley 13/2009, de 3 de noviembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2026-7966",
+    "fecha": "20260409",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7966",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 13, 105 y 544 bis, por Ley Orgánica 1/2026, de 8 de abril",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2025-76",
+    "fecha": "20250103",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-76",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": ", con efectos desde el 3 de abril de 2025, determinados preceptos y, con efectos desde el 3 de octubre de 2025, el art. 14 y SE AÑADE, con efectos desde el 3 de abril de 2025,  los arts. 787 ter, 988 bis y las disposiciones adicionales 8 y 9, por Ley Orgánica 1/2025, de 2 de enero",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2024-23630",
+    "fecha": "20241114",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-23630",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 495, por Ley Orgánica 5/2024, de 11 de noviembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2024-15936",
+    "fecha": "20240802",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-15936",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": ", con efectos desde el 22 de agosto de 2024, el art. 681.3, en la redacción dada por la Ley Orgánica 10/2022, de 6 de septiembre, por Ley Orgánica 2/2024, de 1 de agosto",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2023-25758",
+    "fecha": "20231220",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25758",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": ", con efectos desde el 20 de marzo de 2024, determinados preceptos y SE AÑADE, con los mismos efectos, el título XIV al Libro I, por Real Decreto-ley 6/2023, de 19 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2023-15135",
+    "fecha": "20230629",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15135",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": ", con efectos desde el 29 de julio de 2023, los arts. 746, 855, 858, 882 y 889, por Real Decreto-ley 5/2023, de 28 de junio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2023-10213",
+    "fecha": "20230428",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10213",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 14.3, por Ley Orgánica 4/2023, de 27 de abril",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2022-14630",
+    "fecha": "20220907",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-14630",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": ", con efectos desde el 7 de octubre de 2022, los arts. 13, 112, 544 bis, 681.3, 709, por Ley Orgánica 10/2022, de 6 de septiembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2021-10957",
+    "fecha": "20210702",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-10957",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "las referencias indicadas, por Ley Orgánica 9/2021, de 1 de julio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2021-9347",
+    "fecha": "20210605",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9347",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "determinados preceptos, y SE AÑADE los arts. 449 bis, 449 ter y 703 bis por Ley Orgánica 8/2021, de 4 de junio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2020-11416",
+    "fecha": "20200930",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2020-11416",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "la disposición adicional 5, por Real Decreto-ley 30/2020, de 29 de septiembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2020-8633",
+    "fecha": "20200728",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8633",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 324, por Ley 2/2020, de 27 de julio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2015-10726",
+    "fecha": "20151006",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10726",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 14, 17, 284, 295, 324, 790, 792, 847, 848, 889, 954, 964 y 985; SE AÑADE los títulos III bis y III ter al Libro IV, el art. 846 ter y las disposiciones adicionales 5 y 6; y SE SUPRIME el art. 300, por Ley 41/2015, de 5 de octubre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2015-4606",
+    "fecha": "20150428",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4606",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "determinados preceptos y SE AÑADE los arts. 109 bis, 301 bis y 544 quinquies, con efectos desde el 28 de octubre de 2015, por Ley 4/2015, de 27 de abril",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2015-4605",
+    "fecha": "20150428",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4605",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": ", con los efectos indicados, el título V del libro 1 y los arts. 118, 302, 416, 505, 520 y 775; y SE AÑADE los capítulos I y II al título V del libro 1, y los arts. 123 a 127, por Ley Orgánica 5/2015, de 27 de abril",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2015-3439",
+    "fecha": "20150331",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3439",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "determinados preceptos , por Ley Orgánica 1/2015, de 30 de marzo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2013-2029",
+    "fecha": "20130223",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2029",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 367 ter.1, por Real Decreto-ley 3/2013, de 22 de febrero",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2011-15937",
+    "fecha": "20111011",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15937",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 554, 746, 787 y SE AÑADE los arts. 14 bis, 119, 120, 409 bis, 544 quáter, 786 bis y 839 bis, por Ley 37/2011, de 10 de octubre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2010-9953",
+    "fecha": "20100623",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9953",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 263 bis.1, 282 bis.4 y 796.1.7 y SE AÑADE el art. 367 septies, por Ley Orgánica 5/2010, de 22 de junio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2006-21236",
+    "fecha": "20060606",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2006-21236",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 433, 448, 707 y 731 bis, por Ley Orgánica 8/2006, de 4 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2006-9959",
+    "fecha": "20060606",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2006-9959",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 338 y SE AÑADE el capítulo II bis al título V del libro II, por Ley 18/2006, de 5 de junio de 2006",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2004-21760",
+    "fecha": "20041229",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2004-21760",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "arts. 14, 160, 789, 962 y añade el 15 bis, 17 bis, 797 bis y la disposición adicional 4, por Ley Orgánica 1/2004, de 28 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2003-23644",
+    "fecha": "20031226",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2003-23644",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 442, por Ley Orgánica 19/2003, de 23 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2003-21538",
+    "fecha": "20031126",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2003-21538",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": ", por Ley Orgánica 15/2003, de 25 de noviembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2003-15411",
+    "fecha": "20030801",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2003-15411",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 13 y SE AÑADE el art. 544 ter, por Ley 27/2003, de 31 de julio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2003-13022",
+    "fecha": "20030701",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2003-13022",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 989, por Ley Orgánica 7/2003, de 30 de junio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2003-10614",
+    "fecha": "20030528",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2003-10614",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 962, 963 y 964, por Ley Orgánica 5/2003, de 27 de mayo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2003-4923",
+    "fecha": "20030311",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2003-4923",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 110 y se añade una disposición adicional, por Ley Orgánica 1/2003, de 10 de marzo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2002-24044",
+    "fecha": "20021211",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2002-24044",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 788.2, por Ley Orgánica 9/2002, de 10 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2002-20823",
+    "fecha": "20021028",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2002-20823",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 9, 14, 175, 282, 420, 436, 446, 464, 661, 716, 962 a 971, 973, 974, 976, títulos II y III del libro IV, por Ley 38/2002, de 24 de octubre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2002-20822",
+    "fecha": "20021028",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2002-20822",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 801 y SE AÑADE un art. 823 bis en el título V del libro IV, por Ley Orgánica 8/2002, de 24 de octubre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2000-323",
+    "fecha": "20000108",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2000-323",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 54, 56, 63, 68, 201 y 852, por Ley 1/2000, de 7 de enero",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1999-12907",
+    "fecha": "19990610",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1999-12907",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": ", por Ley Orgánica 14/1999, de 9 de junio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1999-846",
+    "fecha": "19990114",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1999-846",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 263 bis en el título I del libro II y SE AÑADE un art. 282 bis al título III del libro II de la, por Ley Orgánica 5/1999, de 13 de enero",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1998-25933",
+    "fecha": "19981111",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1998-25933",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": ", por Ley 36/1998, de 10 de noviembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1998-14062",
+    "fecha": "19980616",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1998-14062",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los párrafos 2 y 3 del art. 790.1, por Ley Orgánica 2/1998, de 15 de junio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1995-25444",
+    "fecha": "19951124",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1995-25444",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 14 y 779, por Ley Orgánica 10/1995, de 23 de noviembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1995-24958",
+    "fecha": "19951117",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1995-24958",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 504 bis 2, 846 bis A), 846 bis B), 846 bis F) y 847, por Ley Orgánica 8/1995, de 16 de noviembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1995-17359",
+    "fecha": "19950718",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1995-17359",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el párrafo cuarto del art. 569, por Ley 22/1995, de 17 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1994-15796",
+    "fecha": "19940707",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1994-15796",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 388, párrafo 2, por Ley 21/1994, de 6 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1992-9548",
+    "fecha": "19920505",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1992-9548",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": ", por Ley 10/1992, de 30 de abril",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1991-17903",
+    "fecha": "19910711",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1991-17903",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 411 a 415, 702 y 703 , por la Ley Orgánica 12/1991, de 10 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1988-18043",
+    "fecha": "19880720",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1988-18043",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "determinados preceptos , por Ley 21/1988, de 19 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1988-12909",
+    "fecha": "19880526",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1988-12909",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 579 y añade los arts. 384 bis, 504 bis, 520 bis, 553 y 779, por Ley Orgánica 4/1988, de 25 de mayo",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1985-5128",
+    "fecha": "19850330",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1985-5128",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 842.2, por Ley 6/1985, de 27 de marzo",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1985-64",
+    "fecha": "19850103",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1985-64",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 503, 504 y 529, por Ley Orgánica 10/1984, de 26 de diciembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1984-6260",
+    "fecha": "19840313",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1984-6260",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 338, por Ley 4/1984, de 9 de marzo",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1983-33954",
+    "fecha": "19831228",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1983-33954",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 520 y 527, por Ley Orgánica 14/1983, de 12 de diciembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1983-17890",
+    "fecha": "19830627",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1983-17890",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 14, por Ley Orgánica 8/1983, de 25 de junio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1983-11935",
+    "fecha": "19830426",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1983-11935",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "arts. 503 y 504, por Ley Orgánica 7/1983, de 23 de abril de 1983",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1980-8713",
+    "fecha": "19800426",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-8713",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 503, 504 y 505, por Ley 16/1980, de 22 de abril",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1978-18553",
+    "fecha": "19780720",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1978-18553",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 166, por Ley 33/1978, de 17 de julio de 1978",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1978-13828",
+    "fecha": "19780530",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1978-13828",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art.. 746 y el 850, por Ley 28/1978, de 26 de mayo",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1978-12341",
+    "fecha": "19780509",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1978-12341",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 14.3, por Ley 20/1978, de 8 de mayo",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1974-2050",
+    "fecha": "19741223",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1974-2050",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art.. 14, 3), por Decreto-ley 8/1974, de 21 de diciembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1974-1189",
+    "fecha": "19740726",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1974-1189",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 875, por Ley 28/1974, de 24 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1974-293",
+    "fecha": "19740215",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1974-293",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "determinados preceptos , por Ley 6/1974, de 13 de febrero",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1967-5578",
+    "fecha": "19670411",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1967-5578",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 14, 17, 283, 610, 635, 742, 973, 974, 984, 988 y el título III del libro IV, por Ley 3/1967, de 8 de abril",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2015-10143",
+    "fecha": "20150922",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10143",
+    "relacion": "SE AÑADE",
+    "descripcion_literal": "los arts. 614 bis, 999 y título X bis, por Ley 34/2015, de 21 de septiembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2015-8470",
+    "fecha": "20150729",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8470",
+    "relacion": "SE AÑADE",
+    "descripcion_literal": "la disposición adicional 5, por Ley 26/2015, de 28 de julio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2002-13354",
+    "fecha": "20020706",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2002-13354",
+    "relacion": "SE AÑADE",
+    "descripcion_literal": "el art. 118 bis, por Ley Orgánica 7/2002, de 5 de julio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-1984-7960",
+    "fecha": "19840403",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1984-7960",
+    "relacion": "SE SUPRIME",
+    "descripcion_literal": "el art. 995, por Ley 6/1984, de 31 de marzo",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2015-13433",
+    "fecha": "20151211",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13433",
+    "relacion": "SE CORRIGEN errores",
+    "descripcion_literal": ", con modificación del art. único, de la Ley 41/2015, de 5 de octubre, en BOE núm. 296, de 11 de diciembre de 2015",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2020-14648",
+    "fecha": "20201120",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2020-14648",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en la Cuestión 1231/2020, la inconstitucionalidad y nulidad del último párrafo del art. 238.bis, en la redacción dada por la Ley 13/2009, de 3 de noviembre, por Sentencia 151/2020, de 22 de octubre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-A-2004-8985",
+    "fecha": "20040514",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2004-8985",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en la Cuestión 998/2000, la extinción, por pérdida sobrevenida del objeto en relación con los arts. 503 y 504, por Auto de 28 de abril de 2004",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-T-2002-2504",
+    "fecha": "20020208",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-2002-2504",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en la CUESTIÓN 2829/1994, inconstitucional y derogado el art. 557, por Sentencia 10/2002, de 17 de enero",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-T-1994-11105",
+    "fecha": "19940517",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-1994-11105",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en las CUESTIONES 1277, 1484, 2305 y 3914/1993, la constitucionalidad del art. 969.2, por Sentencia 115/1994, de 14 de abril",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-T-1994-6778",
+    "fecha": "19940324",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-1994-6778",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en el recurso 1492/1988, inconstitucional y nulo el art. 504 bis, por Sentencia 71/1994, de 3 de marzo",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-T-1994-6202",
+    "fecha": "19940317",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-1994-6202",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en las CUESTIONES acumuladas 2813, 2854 y 2971/1992; 112 y 518/1993,  la constitucionalidad del art. 969.2, por Sentencia 56/1994, de 24 de febrero",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-T-1990-29362",
+    "fecha": "19901203",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-1990-29362",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en la CUESTION 1914/1990 (Ref. 1990/20475) la desestimación en relación con el art. 790.1, por Sentencia 186/1990, de 15 de noviembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-T-1988-19564",
+    "fecha": "19880808",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-1988-19564",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en las CUESTIONES acumuladas 1344 y 1412/1987, la desestimación en relación con los arts. 14.3 y 790 a 792, por Sentencia 145/1988, de 12 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "lecrim",
+    "norma_modificadora": "BOE-T-1987-13599",
+    "fecha": "19870609",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-1987-13599",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en el recurso 194/1984, la constitucionalidad del art. 520.2.e), interpretado en el sentido indicado, por Sentencia 74/1987, de 25 de mayo",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2015-3439",
+    "fecha": "20150331",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3439",
+    "relacion": "SE DEROGA",
+    "descripcion_literal": "el libro III, SE AÑADE, SE SUPRIME, SE MODIFICA determinados preceptos, las referencias indicadas, y SE DECLARA el carácter de Ley ordinaria al art. 128, por Ley Orgánica 1/2015, de 30 de marzo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2012-15647",
+    "fecha": "20121228",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15647",
+    "relacion": "SE DEROGA",
+    "descripcion_literal": "los arts. 309, 627 y 628, SE MODIFICA los arts. 31 bis, 305 a 308, 310 bis, 311 y 398, y SE AÑADE los arts. 305 bis, 307 bis, 307 ter y 433 bis, por Ley Orgánica 7/2012, de 27 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2003-18088",
+    "fecha": "20030930",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2003-18088",
+    "relacion": "SE DEROGA",
+    "descripcion_literal": "el último párrafo del art. 617.2 y SE MODIFICA determinados preceptos, por Ley Orgánica 11/2003, de 29 de septiembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2000-641",
+    "fecha": "20000113",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2000-641",
+    "relacion": "SE DEROGA",
+    "descripcion_literal": "la disposición transitoria 12, por Ley Orgánica 5/2000, de 12 de enero",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-1998-23133",
+    "fecha": "19981006",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1998-23133",
+    "relacion": "SE DEROGA",
+    "descripcion_literal": "el art. 528 y se modifican los arts. 527 y 604 , por Ley Orgánica 7/1998, de 5 de octubre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2002-9848",
+    "fecha": "20020523",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2002-9848",
+    "relacion": "SE DEJA SIN EFECTO",
+    "descripcion_literal": "los arts. 527 y 604, se suprime la sección 3 del capítulo IV del título XXI del libro II y se modifica lo indicado de los títulos XXI y XXIII del libro II, por Ley Orgánica 3/2002, de 22 de mayo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2026-7966",
+    "fecha": "20260409",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7966",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 22, 66.2, 80.2, 234.2, 235.1, 248, 250.1, 255 y 568, por Ley Orgánica 1/2026, de 8 de abril",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2024-11776",
+    "fecha": "20240611",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-11776",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 130.1, por Ley Orgánica 1/2024, de 10 de junio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2023-10213",
+    "fecha": "20230428",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10213",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 132, 173, 178 a 181 y 189 bis, por Ley Orgánica 4/2023, de 27 de abril",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2023-7935",
+    "fecha": "20230329",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7935",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 334, 335, 336 y la rúbrica del capítulo IV del título XVI del libro II, AÑADE el título XVI bis del libro II y SUPRIME los arts. 337 y 337 bis, por Ley Orgánica 3/2023, de 28 de marzo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2023-5364",
+    "fecha": "20230301",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5364",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 145 bis.1, 172 ter.1 y 5, por Ley Orgánica 1/2023, de 28 de febrero",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2022-21800",
+    "fecha": "20221223",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21800",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": ", SE AÑADE y SE SUPRIME determinados preceptos, por Ley Orgánica 14/2022, de 22 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2022-21676",
+    "fecha": "20221221",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21676",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 177 bis.4, por Ley Orgánica 13/2022, de 20 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2022-14965",
+    "fecha": "20220914",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-14965",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 142.2, 152.2 y 382 bis.1, por Ley Orgánica 11/2022, de 13 de septiembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2022-14630",
+    "fecha": "20220907",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-14630",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": ", SE SUPRIME y SE AÑADE determinados preceptos, con efectos desde el 7 de octubre de 2022, por Ley Orgánica 10/2022, de 6 de septiembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2022-12644",
+    "fecha": "20220729",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12644",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": ", con efectos desde el 29 de agosto de 2022, el art. 234.2, por Ley Orgánica 9/2022, de 28 de julio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2022-11588",
+    "fecha": "20220713",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-11588",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 22 y 510.1 y 2, por Ley Orgánica 6/2022, de 12 de julio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2021-10957",
+    "fecha": "20210702",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-10957",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 24.1, 132 y 306, por Ley Orgánica 9/2021, de 1 de julio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2021-9347",
+    "fecha": "20210605",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9347",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "y SE AÑADE determinados preceptos, por Ley Orgánica 8/2021, de 4 de junio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2021-9233",
+    "fecha": "20210603",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9233",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": ", con efectos desde el 3 de septiembre de 2021, los arts. 118, 120 y la disposición adicional 1, por Ley 8/2021, de 2 de junio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2021-6944",
+    "fecha": "20210429",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6944",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 301 y 302, por Ley Orgánica 6/2021, de 28 de abril",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2021-4628",
+    "fecha": "20210325",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-4628",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": ", con efectos desde el 25 de junio de 2021, el art.143, por Ley Orgánica 3/2021, de 24 de marzo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2020-16345",
+    "fecha": "20201217",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2020-16345",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 156, por Ley Orgánica 2/2020, de 16 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2019-2973",
+    "fecha": "20190302",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2973",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 142, 152, 382, y SE AÑADE los arts. 142 bis, 152 bis y 382 bis, por Ley Orgánica 2/2019, de 1 de marzo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2019-2363",
+    "fecha": "20190221",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2363",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "determinados preceptos y SE AÑADE los arts. 285 bis, 285 ter, 285 quater, 435 bis, 580 bis, por Ley Orgánica 1/2019, de 20 de febrero",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2015-4606",
+    "fecha": "20150428",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4606",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": ", con efectos desde el 28 de octubre de 2015, el art. 126, por Ley 4/2015, de 27 de abril",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2015-3440",
+    "fecha": "20150331",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3440",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el capítulo VII del título XXII del libro II, por Ley Orgánica 2/2015, de 30 de marzo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2011-1640",
+    "fecha": "20110129",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2011-1640",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 131, 197, 288 y 570, por Ley Orgánica 3/2011, de 28 de enero",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2010-9953",
+    "fecha": "20100623",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9953",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "determinados preceptos , por Ley Orgánica 5/2010, de 22 de junio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2010-3514",
+    "fecha": "20100304",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3514",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 145, SE AÑADE el 145 bis y SE SUPRIME el inciso indicado de la disposición derogatoria única 1.a), por Ley Orgánica 2/2010, de 3 de marzo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-20636",
+    "fecha": "20071201",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20636",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 47, 379 a 385 y la rúbrica del capítulo IV del título XVII del libro II, por Ley Orgánica 15/2007, de 30 de noviembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-19879",
+    "fecha": "20071120",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-19879",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 313.1 y 318 bis.1, por Ley Orgánica 13/2007, de 19 de noviembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2005-16825",
+    "fecha": "20051011",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2005-16825",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "la sección 3 del capítulo I del título XVII del libro II y el art. 348, por Ley Orgánica 4/2005, de 10 de octubre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2004-21760",
+    "fecha": "20041229",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2004-21760",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 83, 84, 88, 148, 153, 171, 172, 468 y 620, por Ley Orgánica 1/2004, de 28 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2003-21538",
+    "fecha": "20031126",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2003-21538",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "por Ley Orgánica 15/2003, de 25 de noviembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2003-13022",
+    "fecha": "20030701",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2003-13022",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 36, 76, 78, 90, 91 y 93, por Ley Orgánica 7/2003, de 30 de junio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2003-4923",
+    "fecha": "20030311",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2003-4923",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 505, por Ley Orgánica 1/2003, de 10 de marzo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2002-24044",
+    "fecha": "20021211",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2002-24044",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 224, 622 y SE AÑADE una sección y un art. 225 bis al capítulo III del título XII del Libro II, por Ley Orgánica 9/2002, de 10 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2000-23660",
+    "fecha": "20001223",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2000-23660",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 89, por Ley Orgánica 8/2000, de 22 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2000-23659",
+    "fecha": "20001223",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2000-23659",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 40, 266, 346, 351, 504, 505, 551, 577, 578 y 579, por Ley Orgánica 7/2000, de 22 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2000-544",
+    "fecha": "20000112",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2000-544",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 312.1, 518 y el párrafo 1 del 517, y SE AÑADE el apartado 6 al art. 515 y el título XV bis, por Ley Orgánica 4/2000 de 11 de enero",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2000-412",
+    "fecha": "20000110",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2000-412",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 566 y 567, por Ley Orgánica 2/2000, de 7 de enero",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-1999-12907",
+    "fecha": "19990610",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1999-12907",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 33, 39, 48, 57, 83, 105, 132.1, 153, 617 y 620, por Ley Orgánica 14/1999, de 9 de junio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-1999-9744",
+    "fecha": "19990501",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1999-9744",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los capítulos I a V y el epígrafe del título VIII del libro II y los arts. 132.1, 57, 83.1, 105.1 y 617.2, por Ley Orgánica 11/1999, de 30 de abril",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-1998-14062",
+    "fecha": "19980616",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1998-14062",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 170 y SE AÑADE los apartados 4 y 5 al art. 514, por Ley Orgánica 2/1998, de 15 de junio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2022-6044",
+    "fecha": "20220413",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-6044",
+    "relacion": "SE AÑADE",
+    "descripcion_literal": "el art. 172 quater, por Ley Orgánica 4/2022, de 12 de abril",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2006-20263",
+    "fecha": "20061122",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2006-20263",
+    "relacion": "SE AÑADE",
+    "descripcion_literal": "el art. 361 bis, por Ley Orgánica 7/2006, de 21 de noviembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2003-23645",
+    "fecha": "20031226",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2003-23645",
+    "relacion": "SE AÑADE",
+    "descripcion_literal": "los arts. 506 bis, 521 bis y 576 bis, por Ley Orgánica 20/2003, de 23 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2000-543",
+    "fecha": "20000112",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2000-543",
+    "relacion": "SE AÑADE",
+    "descripcion_literal": "título XIX bis, por Ley Orgánica 3/2000 de 11 de enero",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2021-6462",
+    "fecha": "20210423",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6462",
+    "relacion": "SE SUPRIME",
+    "descripcion_literal": "el art. 315.3, por Ley Orgánica 5/2021, de 22 de abril",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2005-10621",
+    "fecha": "20050623",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10621",
+    "relacion": "SE SUPRIME",
+    "descripcion_literal": "los arts. 506 bis, 521 bis y 576 bis, por Ley Orgánica 2/2005, de 22 de junio",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-1996-4943",
+    "fecha": "19951124",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1996-4943",
+    "relacion": "CORRECCIÓN de errores",
+    "descripcion_literal": "en BOE núm. 54, de 2 de marzo de 1996",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2015-6465",
+    "fecha": "20150611",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-6465",
+    "relacion": "SE CORRIGEN errores",
+    "descripcion_literal": "de la Ley Orgánica 1/2015, de 30 de marzo, en BOE núm. 139, de 11 de junio de 2015",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2025-26697",
+    "fecha": "20251226",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26697",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en la Cuestión 6699/2024, la desestimación en relación al art. 130.1, en la redacción dada por la disposición final 2 de la Ley Orgánica 1/2024, de 10 de junio, por Sentencia 182/2025, de 20 de noviembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2025-26696",
+    "fecha": "20251226",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26696",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en la Cuestión 6597/2024, la desestimación en relación al art. 130.1, en la redacción dada por la disposición final 2 de la Ley Orgánica 1/2024, de 10 de junio, por Sentencia 181/2025, de 20 de noviembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2024-15427",
+    "fecha": "20240725",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-15427",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en el Recurso 3630/2023, su desestimación en relación con el art. 145 bis, en la redacción dada por la Ley Orgánica 1/2023, de 28 de febrero, por Sentencia 92/2024, de 18 de junio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2024-11773",
+    "fecha": "20240610",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-11773",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en el recurso 5041/2022, la desestimación en relación con el art. 172 quater,  en la redacción dada por el art. único de la Ley Orgánica 4/2022, de 12 de abril,  por Sentencia 75/2024, de 8 de mayo",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2021-18372",
+    "fecha": "20211109",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-18372",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": ", en el Recurso 3866/2015, la constitucionalidad, interpretado en los términos del fj 9.b), del art. 92.3 y 4, en la redacción dada por la por la Ley Orgánica 1/2015, de 30 de marzo y la desestimación de todo lo demás , por Sentencia 169/2021, de 6 de octubre de 2021",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2015-1892",
+    "fecha": "20150224",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1892",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en la Cuestión 7360/2013, la inadmisión, por Sentencia 4/2015, de 19 de enero",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2015-1891",
+    "fecha": "20150224",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1891",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la DESESTIMACIÓN de la Cuestión 7045/2013,  y la constitucionalidad del párrafo 2 del art. 623.1, interpretado en el sentido expuesto, por Sentencia 3/2015, de 19 de enero",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2015-463",
+    "fecha": "20150120",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-463",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": ", en la Cuestión 1140/2014, la constitucionalidad, interpretado según se indica, en relación con el art. 623.1, párrafo 2, y su DESESTIMACIÓN, por Sentencia 206/2014, de 15 de diciembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2015-462",
+    "fecha": "20150120",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-462",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": ", en la Cuestión 6634/2013, la constitucionalidad, interpretado según se indica, en relación con el art. 623.1, párrafo 2, y su DESESTIMACIÓN, por Sentencia 205/2014, de 15 de diciembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2015-460",
+    "fecha": "20150120",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-460",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": ", en la Cuestión 5802/2013, la inadmisión, por Sentencia 203/2014, de 15 de diciembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2014-12651",
+    "fecha": "20141204",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12651",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": ", en el Recurso 5318/2013, la constitucionalidad, interpretado según se indica, del art. 623.1, párrafo 2, y su desestimación, por Sentencia 185/2014, de 6 de noviembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2012-8625",
+    "fecha": "20120628",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2012-8625",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": ", en la Cuestión 4916/2002, la extinción por desaparición sobrevenida de su objeto, en relación con el art. 335, por Auto de 19 de junio de 2012",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2012-7511",
+    "fecha": "20120605",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2012-7511",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": ", en la Cuestión 4246/2001, inconstitucional y nulo, en la redacción original, el art. 335, por Sentencia 101/2012, de 8 de mayo",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2010-19817",
+    "fecha": "20101224",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-19817",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la desestimación en las Cuestiones acumuladas 2155/2009 y 9610/2009, en relación con el art. 57.2, en la redacción dada por la Ley Orgánica 15/2003, de 25 de noviembre,  por Sentencia 119/2010, de 24 de noviembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2010-19816",
+    "fecha": "20101224",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-19816",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la desestimación en las Cuestiones acumuladas, 5256/2007, 6316/2007 y 4383/2010, en relación con el art 57.2, por Sentencia 118/2010, de 24 de noviembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2010-19815",
+    "fecha": "20101224",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-19815",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la desestimación en las Cuestiones acumuladas, 3964/2006 y 3965/2006, en relación con el art 57.2, por Sentencia 117/2010, de 24 de noviembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2010-19814",
+    "fecha": "20101224",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-19814",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la desestimación de las Cuestiones acumuladas, 7259/2005 y 7542/2005,  en relación con el art 57.2, en la redacción dada por la Ley Orgánica 15/2003, de 25 de noviembre, por Sentencia 116/2010, de 24 de noviembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2010-19813",
+    "fecha": "20101224",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-19813",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la desestimación de las Cuestiones acumuladas 3916/2005, 8820/2005, 6292/2006, 3899/2007, 5947/2008 y 7433/2008, en relación con el art. 57.2, en la redacción dada por la Ley Orgánica 15/2003, de 25 de noviembre, por Sentencia 115/2010, de 24 de noviembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2010-18649",
+    "fecha": "20101203",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-18649",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en la Cuestión 3213/2009, la inadmisión de lo indicado y la desestimación de todo lo demás en relación al art. 57.2 en la redacción dada por la Ley Orgánica 15/2003, de 25 de noviembre,  por Sentencia 86/2010, de 3 de noviembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2010-18648",
+    "fecha": "20101203",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-18648",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en la Cuestión 5163/2008, la desestimación, en relación con el art. 57.2 en la redacción dada por la Ley Orgánica 15/2003, de 25 de noviembre, por Sentencia 85/2010, de 3 de noviembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2010-18647",
+    "fecha": "20101203",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-18647",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en la Cuestión 7790/2007, la desestimación, por Sentencia 84/2010, de 3 de noviembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2010-18646",
+    "fecha": "20101203",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-18646",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en la Cuestión 9201/2006, la inadmisión en relación al art. 153.3, en la redacción dada por la Ley Orgánica 1/2004 de 28 de diciembre,  y la desestimación de todo lo demás, por Sentencia 83/2010, de 3 de noviembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2010-18645",
+    "fecha": "20101203",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-18645",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en la Cuestión 7728/2005, la inadmisión de lo indicado y la desestimación de todo lo demás en relación con el art. 57.2, en la redacción dada por la Ley Orgánica 15/2003, de 25 de noviembre,  por Sentencia 82/2010, de 3 de noviembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2010-18644",
+    "fecha": "20101203",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-18644",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la desestimación de la Cuestión 4976/2005, en relación con el art. 57.2 en la redacción dada por la Ley Orgánica 15/2003, de 25 de noviembre, por Sentencia 81/2010, de 3 de noviembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2010-17757",
+    "fecha": "20101118",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-17757",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en la Cuestión 9130/2007, la desestimación, por Sentencia 80/2010, de 26 de octubre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2010-17756",
+    "fecha": "20101118",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-17756",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en la Cuestión 9853/2006, la INADMISIÓN de lo indicado en relación con el art. 171, en la redacción dada por la Ley Orgánica 1/2004, de 28 de diciembre,  y la desestimación en relación con el art. 57.2, en la redacción dada por la Ley Orgánica 15/2003, por Sentencia 79/2010, de 26 de octubre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2010-17754",
+    "fecha": "20101118",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-17754",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en la Cuestión 3508/2008, la INADMISIÓN de lo indicado en relación al art. 171.4, párrafo 2 en la redacción dada por el art. 38 de la Ley Orgánica 1/2004, de 28 de diciembre,  y del art. 173.3 y 2, salvo el inciso indicado, en la redacción dada por la Ley Orgánica 11/2003, de 29 de septiembre,  y la DESESTIMACIÓN de todo lo demás, por Sentencia 77/2010, de 18 de octubre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2010-16548",
+    "fecha": "20101029",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-16548",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la desestimación de la Cuestión 8821/2005, en relación con el art. 57.2, por Sentencia 60/2010, de 7 de octubre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2010-13113",
+    "fecha": "20100812",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-13113",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la desestimación de la Cuestión 5003/2007, en relación con los arts. 148.4 y 153.1, por Sentencia 45/2010, de 28 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2010-12885",
+    "fecha": "20100809",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12885",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la desestimación de las Cuestiones acumuladas 2755/2007 y 7291/2008, en relación con el art. 148.4, por Sentencia 41/2010, de 22 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2009-18824",
+    "fecha": "20091125",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18824",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en la Cuestión 2523/2008, la INADMISIÓN de lo indicado y la desestimación de todo lo demás, en relación con los arts. 153.1 y 171.4, por Sentencia 203/2009, de 27 de octubre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2009-18823",
+    "fecha": "20091125",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18823",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en las Cuestiones acumuladas 10789/2006 y 4615/2007, la INADMISIÓN de lo indicado y la desestimación de todo lo demás, en relación con los arts. 153.1 y 171.4, por Sentencia 202/2009, de 27 de octubre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2009-18822",
+    "fecha": "20091125",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18822",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la DESESTIMACIÓN de las Cuestiones acumuladas 6812, 10662 y 11334/2006, 6883/2007, y 1038 y 6733/2008, en relación a los arts. 153.1 y 171.4, por Sentencia 201/2009, de 27 de octubre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2009-13758",
+    "fecha": "20090822",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2009-13758",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en las Cuestiones acumuladas 9131 y 1877/2008, la INADMISIÓN en relación con lo indicado del art. 171.4 y 5 y la desestimación en todo lo demás, por Sentencia 180/2009, de 21 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2009-13757",
+    "fecha": "20090822",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2009-13757",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en las Cuestiones acumuladas 7453 y 9194/2007, 1230 y 3802/2008, la inadmisión en relación con lo indicado del art. 171.4, por Sentencia 179/2009, de 21 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2009-13756",
+    "fecha": "20090822",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2009-13756",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la desestimación de la Cuestión 9804/2006, en relación con el párrafo 1 de los arts. 153.1 y 171.4, por Sentencia 178/2009, de 21 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2009-13755",
+    "fecha": "20090822",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2009-13755",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en la Cuestión 9266/2005, la INADMISIÓN en relación con lo indicado del art. 171.4 y 6 y la desestimación de todo lo demás, por Sentencia 177/2009, de 21 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2009-12530",
+    "fecha": "20090728",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2009-12530",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la desestimación de la Cuestión 7825/2007, en relación con los artículos 153.1 y 172.2, por Sentencia 167/2009, de 2 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2009-12529",
+    "fecha": "20090728",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2009-12529",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en la Cuestión 11335/2006, la INADMISIÓN de lo indicado en relación con el art. 153.1 y la desestimación en todo lo demás, por Sentencia 166/2009, de 2 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2009-12528",
+    "fecha": "20090728",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2009-12528",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la INADMISIÓN de la Cuestión 2000/2007, 941, 1316, 5257, 8016, 8058 y 9495/2007, 963, 2857 y 3177/2008, en relación con el art. 171.4, por Sentencia 165/2009, de 2 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2009-12527",
+    "fecha": "20090728",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2009-12527",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la INADMISIÓN de lo indicado y la desestimación en todo lo demás de la Cuestión 5465/2006,  en relación con los arts. 153.1 y 172.2, por Sentencia 164/2009, de 2 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2009-12517",
+    "fecha": "20090728",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2009-12517",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en la Cuestión 5438/2006, la INADMISIÓN de lo indicado en relación con el art. 171.4 y la desestimación de todo lo demás, por Sentencia 154/2009, de 25 de junio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2009-12516",
+    "fecha": "20090728",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2009-12516",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la desestimación de las Cuestiones 1040, 8262 y 8965/2006, 46, 793, 1220, 2141, 3490, 6882, 7826, 8328, 9369, 9425 y 9927/2007, 717, 1039, 5752, 5753, 5756, 6620, 6621, 6734, 6777, 6954 y 8437/2008, en relación con el art. 171.4, por Sentencia 153/2009, de 25 de junio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2009-12515",
+    "fecha": "20090728",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2009-12515",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la desestimación de las Cuestiones acumuladas 649, 1820, 2879, 4016, 5266, 6898, y 7123/2006, en relación con el art. 171.4, por Sentencia 152/2009, de 25 de junio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2009-12514",
+    "fecha": "20090728",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2009-12514",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la desestimación de las Cuestiones acumuladas 7258/2005, 208, 5865, 5866, 6171 y 6477/2006, en relación con el art. 171.4, por Sentencia 151/2009, de 25 de junio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2009-10260",
+    "fecha": "20090620",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2009-10260",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la INADMISIÓN en lo indicado y la desestimación en todo lo demás de las Cuestiones acumuladas 7393 y 8198/2006, 6138/2007 y 6878/2008; en relación con el art. 172.2, por Sentencia 127/2009, de 26 de mayo",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2009-4366",
+    "fecha": "20090314",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4366",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la INADMISIÓN de la Cuestión 7616/2007 y la DESESTIMACIÓN de las Cuestiones 5983/2005, 8295 y 9765/2006, 954, 1264, 2083, 3088, 6968 y 8972/2007, 52 y 2315/2008, en relación con el art. 171.4, por Sentencia 45/2009, de 19 de febrero",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-T-2008-18814",
+    "fecha": "20081121",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-2008-18814",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en la CUESTIÓN 6563/2006,  la INADMISIÓN en relación con el art. 57.2, por Sentencia 141/2008, de 30 de octubre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-T-2008-18813",
+    "fecha": "20081121",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-2008-18813",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la INADMISIÓN de la CUESTIÓN 594/2006,  en relación con el art. 57.2, por Sentencia 140/2008, de 28 de octubre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-T-2008-18812",
+    "fecha": "20081121",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-2008-18812",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la INADMISIÓN de la CUESTIÓN 640/2005,  en relación con los arts. 57 y 48.2, por Sentencia 139/2008, de 28 de octubre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-T-2008-14044",
+    "fecha": "20080819",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-2008-14044",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en las CUESTIONES acumuladas 1 y 2169/2008,  la INADMISIÓN en lo indicado y la desestimación en todo lo demás en relación con el art. 153, por Sentencia 100/2008, de 24 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-T-2008-14043",
+    "fecha": "20080819",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-2008-14043",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la desestimación de las CUESTIONES acumuladas 8300, 9744 y 9745/2007, 2, 716, 1124 y 1879/2008, en relación con el art. 153.1, por Sentencia 99/2008, de 24 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-T-2008-14042",
+    "fecha": "20080819",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-2008-14042",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la desestimación de la CUESTIÓN 51/2007,  en relación con el art. 153.1, por Sentencia 98/2008, de 24 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-T-2008-14041",
+    "fecha": "20080819",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-2008-14041",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la desestimación de la CUESTIÓN 10487/2006,  en relación con el art. 153.1, por Sentencia 97/2008, de 24 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-T-2008-14040",
+    "fecha": "20080819",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-2008-14040",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la desestimación de la CUESTIÓN 4655/2006,  en relación con el art. 153.1, por Sentencia 96/2008, de 24 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-T-2008-14039",
+    "fecha": "20080819",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-2008-14039",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la desestimación de la CUESTIÓN 2013/2006,  en relación con el art. 153.1, por Sentencia 95/2008, de 24 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-T-2008-14027",
+    "fecha": "20080819",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-2008-14027",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la desestimación en las CUESTIONES acumuladas 5163, 5439, 5937, 6034, 8109, 8231, 8232, 9154 y 9155/2006, 306, 4660, 6288, 7617, 8846, 8847, 8973, 9018, 9019, 9746/2007 y 483/2008, en relación con el art. 153.1, por Sentencia 83/2008, de 17 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-T-2008-14026",
+    "fecha": "20080819",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-2008-14026",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la desestimación en las Cuestiones acumuladas 9579/2005, 2213, 2495, 2496, 2684, 3442, 4654 y 9592/2006, en relación con el art. 153.1, por Sentencia 82/2008, de 17 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-T-2008-14025",
+    "fecha": "20080819",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-2008-14025",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en las CUESTIONES acumuladas 8202 y 8992/2005, 768, 4574, 4575, 4998, 6035, 6438, 7229, 8199, 8261, 8966, 10596 y 10661/2006, 47, 1218, 1219, 2922, 4616, 4763, 4815, 5924, 5925, 6360, 6662, 6663, 8622, 9318, 9368, 9423 y 9424/2007 y 1037/2008 ,  la INADMISIÓN en lo indicado y la desestimación en todo lo demás, en relación con el art. 153.1, por Sentencia 81/2008, de 17 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-T-2008-14024",
+    "fecha": "20080819",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-2008-14024",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en las CUESTIONES acumuladas 6660, 7729 y 8970/2005, 4576, 4577 y 9359/2006, 2848, 3340, 6439, 7827, 7828, 7829 y 7987/2007 y 84 y 85/2008,  la INADMISIÓN en lo indicado y la desestimación en todo lo demás, en relación con el art. 153.1, por Sentencia 80/2008, de 17 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-T-2008-12649",
+    "fecha": "20080724",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-2008-12649",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la desestimación en las CUESTIONES acumuladas 6618 y 8236/2005, 760, 1579, 2215, 5351, 7558, 8437, 8906, 9361, 10486, 10913/2006,1415, 4561, 4814, 5615, 5926, 7497 y 8384/2007 y 543 y 1036/2008, en relación con el art. 153.1, por Sentencia 76/2008, de 3 de julio",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-T-2008-9606",
+    "fecha": "20080604",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-2008-9606",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la desestimación de la CUESTIÓN 5939/2005, en relación con el art. 153.1, por Sentencia 59/2008, de 14 de mayo",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-T-2007-21161",
+    "fecha": "20071210",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-2007-21161",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en la Cuestión 5152/2000, la inconstitucionalidad y nulidad de lo indicado del art. 607.2 y la constitucionalidad del primer inciso del mismo, interpretado según el f.j 9, por Sentencia 235/2007, de 7 de noviembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2007-13266",
+    "fecha": "20070710",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13266",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en el Recurso 1915/2004, la extinción por desaparición sobrevenida de su objeto, en relación con los arts. 506.bis, 521.bis y 576.bis en la redacción dada por la Ley Orgánica 20/2003, de 23 de diciembre, por Auto de 19 de junio de 2007",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-T-2004-5478",
+    "fecha": "20040326",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-2004-5478",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "la desestimación de la CUESTIÓN 3371/1997,  y la constitucionalidad del primer inciso del art. 563, interpretado en el sentido expuesto en el FJ 8., por Sentencia 24/2004, de 24 de febrero",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-A-2000-24010",
+    "fecha": "20001227",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2000-24010",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en la Cuestión 4162/1998, la extinción, por desaparición sobrevenida de su objeto en relación con lo indicado del art. 403, por Auto de 12 de diciembre de 2000",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-T-1998-1176",
+    "fecha": "19980121",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-1998-1176",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en las Cuestiones 4783/1996, 581, 582, 1135, 1591, 2606, 3203, 1592, 1621, 1623, 1640, 1892, 2688, 2083, 2281, 2632, 2888 y 2905/1997, la desestimación en relación con el art. 380 y que inadmite las Cuestiones 2755/1996 y 342/1997, por Sentencia 234/1997, de 18 de diciembre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "penal",
+    "norma_modificadora": "BOE-T-1997-22974",
+    "fecha": "19971030",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-1997-22974",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en la Cuestión 4198/1996,  la desestimación en relación con el art. 380, por Sentencia 161/1997, de 2 de octubre",
+    "fecha_fuente": "publicacion_documento_Boletín Oficial del Estado"
+  },
+  {
+    "id_norma": "datos",
+    "norma_modificadora": "BOE-A-2025-26698",
+    "fecha": "20251227",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-26698",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 23, por Ley 10/2025, de 26 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "datos",
+    "norma_modificadora": "BOE-A-2023-11022",
+    "fecha": "20230509",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11022",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 48.2, 50, 64 a 67, 75, 77 y SE AÑADE el art. 53 bis y la disposición adicional 23, por Ley 11/2023, de 8 de mayo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "datos",
+    "norma_modificadora": "BOE-A-2023-4513",
+    "fecha": "20230221",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4513",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 24, por Ley 2/2023, de 20 de febrero",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "datos",
+    "norma_modificadora": "BOE-A-2021-8806",
+    "fecha": "20210527",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-8806",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "los arts. 2, 44.3 y la disposición adicional 15, por Ley Orgánica 7/2021, de 26 de mayo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "datos",
+    "norma_modificadora": "BOE-A-2020-17264",
+    "fecha": "20201230",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17264",
+    "relacion": "SE MODIFICA",
+    "descripcion_literal": "el art. 83.1, por Ley Orgánica 3/2020, de 29 de diciembre",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "datos",
+    "norma_modificadora": "BOE-A-2019-9548",
+    "fecha": "20190625",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2019-9548",
+    "relacion": "SE DECLARA",
+    "descripcion_literal": "en el Recurso 1405/2019, la inconstitucionalidad y nulidad de lo indicado de la disposición final 3.2, por Sentencia 76/2019, de 22 de mayo",
+    "fecha_fuente": "version_texto_consolidado"
+  },
+  {
+    "id_norma": "marco",
+    "norma_modificadora": "CAIB-correccio-2019",
+    "fecha": "20190727",
+    "url": "https://www.caib.es/eboibfront/pdf/ca/2019/103/1039774",
+    "relacion": "referencia_modificadora_CAIB",
+    "descripcion_literal": "Acord del Consell de Govern de 26 de juliol de 2019 de correcció d’errades materials advertides en el Decret 40/2019, de 24 de maig, pel qual s’aprova el Reglament marc de coordinació de les policies locals de les Illes Balears i es modifica el Decret 55/2017, de 15 de desembre, del Fons de Seguretat Pública de les Illes Balears BOIB núm. 103, de 27 de juliol de 2019",
+    "fecha_fuente": "publicacion_BOIB_indicada_por_CAIB"
+  },
+  {
+    "id_norma": "marco",
+    "norma_modificadora": "CAIB-DL-6-2021",
+    "fecha": "20210710",
+    "url": "https://www.caib.es/eboibfront/pdf/ca/2021/92/1092792",
+    "relacion": "referencia_modificadora_CAIB",
+    "descripcion_literal": "Decret llei 6/2021, de 9 de juliol, de modificació de la Llei 4/2013, de 17 de juliol, de coordinació de les policies locals de les Illes Balears BOIB núm. 92, de 10 de juliol de 2021",
+    "fecha_fuente": "publicacion_BOIB_indicada_por_CAIB"
+  },
+  {
+    "id_norma": "marco",
+    "norma_modificadora": "CAIB-DL-6-2022",
+    "fecha": "20220616",
+    "url": "https://www.caib.es/eboibfront/pdf/ca/2022/78/1113675",
+    "relacion": "referencia_modificadora_CAIB",
+    "descripcion_literal": "Decret llei 6/2022, de 13 de juny, de noves mesures urgents per reduir la temporalitat en l'ocupació pública de les Illes Balears BOIB núm. 78, de 16 de juny de 2022",
+    "fecha_fuente": "publicacion_BOIB_indicada_por_CAIB"
+  },
+  {
+    "id_norma": "marco",
+    "norma_modificadora": "BOE-A-2026-15579",
+    "fecha": "20260613",
+    "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-15579",
+    "relacion": "referencia_modificadora_CAIB",
+    "descripcion_literal": "Llei 4/2026, d’11 de juny, de mesures urgents per accelerar projectes estratègics que contribueixin a la transformació econòmica de les Illes Balears i altres mesures de simplificació i racionalització administratives BOIB núm. 74, de 13 de juny de 2026",
+    "fecha_fuente": "publicacion_BOIB_indicada_por_CAIB"
+  }
+]

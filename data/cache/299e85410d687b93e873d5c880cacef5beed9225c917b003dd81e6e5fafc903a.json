@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2021-9175",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2021-9175",
+  "sha256": "bf4f3ef5fbae064b9de7a22297a63743ba4fa5e0885cae14599296df50aa0721",
+  "archivo": "data/raw/bf4f3ef5fbae064b9de7a22297a63743ba4fa5e0885cae14599296df50aa0721.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:28.528660+00:00"
+}

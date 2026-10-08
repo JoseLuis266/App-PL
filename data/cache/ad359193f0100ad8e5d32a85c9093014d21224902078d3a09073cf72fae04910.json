@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1995-11719",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1995-11719",
+  "sha256": "dba443ab5c5432df7619b3bc7c5f260b2574d4394c764b9c5bf4241f8c339189",
+  "archivo": "data/raw/dba443ab5c5432df7619b3bc7c5f260b2574d4394c764b9c5bf4241f8c339189.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:20:58.653265+00:00"
+}

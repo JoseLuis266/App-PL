@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20251216195601">
+  <metadatos>
+    <identificador>BOE-A-1983-33954</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7723">Jefatura del Estado</departamento>
+    <rango codigo="1290">Ley Orgánica</rango>
+    <fecha_disposicion>19831212</fecha_disposicion>
+    <numero_oficial>14/1983</numero_oficial>
+    <titulo>Ley Orgánica 14/1983, de 12 de diciembre, por la que se desarrolla el artículo 17.3 de la Constitución en materia de asistencia letrada al detenido y al preso y modificación de los artículos 520 y 527 de la Ley de Enjuiciamiento Criminal.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>19831228</fecha_publicacion>
+    <diario_numero>310</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>34674</pagina_inicial>
+    <pagina_final>34674</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/1983/12/28/pdfs/A34674-34674.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan>/boe_catalan/dias/1983/12/31/pdfs/A00138-00138.pdf</url_pdf_catalan>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia>19831229</fecha_vigencia>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/lo/1983/12/12/14</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/lo/1983/12/12/14">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/lo"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1983-33954</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1983-12-12</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14</eli:number>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/8"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/930"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/2493"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3199"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5677"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5698"/>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/lo/1983/12/12/14/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/lo"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1983-33954</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1983-12-12</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14</eli:number>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/8"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/930"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/2493"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3199"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5677"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5698"/>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/lo/1983/12/12/14"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/lo/1983/12/12/14/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ley Orgánica 14/1983, de 12 de diciembre, por la que se desarrolla el artículo 17.3 de la Constitución en materia de asistencia letrada al detenido y al preso y modificación de los artículos 520 y 527 de la Ley de Enjuiciamiento Criminal.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1983-12-28</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/lo/1983/12/12/14/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/lo/1983/12/12/14/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/lo/1983/12/12/14/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/lo/1983/12/12/14/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/lo/1983/12/12/14/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/lo/1983/12/12/14/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/lo/1983/12/12/14/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/lo/1983/12/12/14/dof/cat">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/cat"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Llei orgànica 14/1983, de 12 de desembre, per la qual es desplega l'article 17.3 de la Constitució en matèria d'assistència lletrada al detingut i al pres i modificació dels articles 520 i 527 de la Llei d'enjudiciament criminal.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1983-12-31</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/lo/1983/12/12/14/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/lo/1983/12/12/14/dof/cat/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/lo/1983/12/12/14/dof/cat"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="8" orden="1">Abogados</materia>
+      <materia codigo="930" orden="2">Colegios de Abogados</materia>
+      <materia codigo="2493" orden="3">Detención</materia>
+      <materia codigo="3199" orden="4">Enjuiciamiento Criminal</materia>
+      <materia codigo="5677" orden="5">Presos y penados</materia>
+      <materia codigo="5698" orden="6">Prisión provisional</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1882-6036" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>los arts. 520 y 527 de la Ley de Enjuiciamiento Criminal aprobada por Real Decreto de 14 de septiembre de 1882 (Gazeta)</texto>
+        </anterior>
+      </anteriores>
+      <posteriores>
+        <posterior referencia="BOE-T-1987-13599" orden="">
+          <palabra codigo="470">SE DECLARA</palabra>
+          <texto>en el recurso 194/1984, la constitucionalidad del art. 520.2.e), interpretado en el sentido indicado, de la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de 14 de septiembre de 1882, en la redacción dada, por Sentencia 74/1987, de 25 de mayo</texto>
+        </posterior>
+      </posteriores>
+    </referencias>
+    <alertas>
+      <alerta codigo="111" orden="1">Derecho Constitucional</alerta>
+      <alerta codigo="113" orden="2">Derecho Penal</alerta>
+    </alertas>
+  </analisis>
+  <texto/>
+</documento>

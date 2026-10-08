@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2022-987",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2022-987",
+  "sha256": "e226459329831c9b1ea5d2dfaf2a523a294b93b47a874b84906086b2ee5e9018",
+  "archivo": "data/raw/e226459329831c9b1ea5d2dfaf2a523a294b93b47a874b84906086b2ee5e9018.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:30.651970+00:00"
+}

@@ -1,0 +1,2192 @@
+[
+  {
+    "id": "BOE-T-2005-111",
+    "fecha_publicacion": "20050104",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2005-111",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2005-111",
+    "sha256": "9632557e93d0212b0cd9c1f84fa60411d1f2f3aaeb75d3e080b1724f26776b98",
+    "archivo": "data/raw/9632557e93d0212b0cd9c1f84fa60411d1f2f3aaeb75d3e080b1724f26776b98.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:56.002167+00:00"
+  },
+  {
+    "id": "BOE-T-1992-17448",
+    "fecha_publicacion": "19920724",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1992-17448",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1992-17448",
+    "sha256": "9e6a07c91dd99d0af5c75d67f910b245a27e7d0bf886c78c96cf4fc7c85fcb1f",
+    "archivo": "data/raw/9e6a07c91dd99d0af5c75d67f910b245a27e7d0bf886c78c96cf4fc7c85fcb1f.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:46.249274+00:00"
+  },
+  {
+    "id": "BOE-A-2007-13969",
+    "fecha_publicacion": "20070720",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-13969",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-13969",
+    "sha256": "9af709c66cfe7b321636cd3080d13462784bbcd6c821b42bbc3e27014e74bbfd",
+    "archivo": "data/raw/9af709c66cfe7b321636cd3080d13462784bbcd6c821b42bbc3e27014e74bbfd.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:29.022578+00:00"
+  },
+  {
+    "id": "BOE-A-2007-6720",
+    "fecha_publicacion": "20070330",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-6720",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-6720",
+    "sha256": "a04b88e5eeb7277947ec377b70839552882f5eb100bf283b83e61624c8d9de0b",
+    "archivo": "data/raw/a04b88e5eeb7277947ec377b70839552882f5eb100bf283b83e61624c8d9de0b.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:57.540710+00:00"
+  },
+  {
+    "id": "BOE-A-2015-1061",
+    "fecha_publicacion": "20150205",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2015-1061",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2015-1061",
+    "sha256": "d2a0871cbe76de04492e9cecf9e9a9ab07ac9c80b8a306ecdba9a32f08ba5678",
+    "archivo": "data/raw/d2a0871cbe76de04492e9cecf9e9a9ab07ac9c80b8a306ecdba9a32f08ba5678.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:15.640098+00:00"
+  },
+  {
+    "id": "BOE-A-2010-10715",
+    "fecha_publicacion": "20100706",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-10715",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-10715",
+    "sha256": "1f71249ac8e6e95f6a18d7dc46d8468e237b041b6d649382e2fc75d2c24e1049",
+    "archivo": "data/raw/1f71249ac8e6e95f6a18d7dc46d8468e237b041b6d649382e2fc75d2c24e1049.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:38.871799+00:00"
+  },
+  {
+    "id": "BOE-A-2010-1399",
+    "fecha_publicacion": "20100130",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-1399",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-1399",
+    "sha256": "0138054bcf0b7a02c226b4b0bc0227bce1afda5177fb0fa3bedaf19060e90e0c",
+    "archivo": "data/raw/0138054bcf0b7a02c226b4b0bc0227bce1afda5177fb0fa3bedaf19060e90e0c.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:41.907840+00:00"
+  },
+  {
+    "id": "BOIB-i-2025-90242",
+    "fecha_publicacion": "20251009",
+    "url_solicitada": "https://www.boe.es/buscar/xml.php?id=BOIB-i-2025-90242",
+    "url_final": "https://www.boe.es/buscar/xml.php?id=BOIB-i-2025-90242",
+    "sha256": "79454eac4d810259e4ea4408df43f93f12bd0416db40da6bd2867382cd92c404",
+    "archivo": "data/raw/79454eac4d810259e4ea4408df43f93f12bd0416db40da6bd2867382cd92c404.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:24:16.758040+00:00"
+  },
+  {
+    "id": "BOE-A-2026-15579",
+    "fecha_publicacion": "20260717",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-15579",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-15579",
+    "sha256": "0a4b91a4a7a555122d05744cb91a5ce6fdbd6bcafbbd051c18de674eb99c0c77",
+    "archivo": "data/raw/0a4b91a4a7a555122d05744cb91a5ce6fdbd6bcafbbd051c18de674eb99c0c77.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:26:54.689678+00:00"
+  },
+  {
+    "id": "BOIB-i-2025-90220",
+    "fecha_publicacion": "20250906",
+    "url_solicitada": "https://www.boe.es/buscar/xml.php?id=BOIB-i-2025-90220",
+    "url_final": "https://www.boe.es/buscar/xml.php?id=BOIB-i-2025-90220",
+    "sha256": "5413e1ce6b81b44fedde86a244e9e2df3d927e2b260b1533e41f72630d2888d9",
+    "archivo": "data/raw/5413e1ce6b81b44fedde86a244e9e2df3d927e2b260b1533e41f72630d2888d9.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:19:34.923905+00:00"
+  },
+  {
+    "id": "BOE-A-2025-4407",
+    "fecha_publicacion": "20250306",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-4407",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-4407",
+    "sha256": "9ddc0dc2284868d380f85db90cdfbbc031547954841b574bd0aa3fdcaff2d1b2",
+    "archivo": "data/raw/9ddc0dc2284868d380f85db90cdfbbc031547954841b574bd0aa3fdcaff2d1b2.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:40.052259+00:00"
+  },
+  {
+    "id": "BOE-A-2011-4120",
+    "fecha_publicacion": "20110305",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2011-4120",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2011-4120",
+    "sha256": "a3a6cd1db93a017606e8a54714c7603f3d499a5fddeadd59a4a1ae054d58f30c",
+    "archivo": "data/raw/a3a6cd1db93a017606e8a54714c7603f3d499a5fddeadd59a4a1ae054d58f30c.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:09.314873+00:00"
+  },
+  {
+    "id": "BOE-A-2022-987",
+    "fecha_publicacion": "20220121",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2022-987",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2022-987",
+    "sha256": "e226459329831c9b1ea5d2dfaf2a523a294b93b47a874b84906086b2ee5e9018",
+    "archivo": "data/raw/e226459329831c9b1ea5d2dfaf2a523a294b93b47a874b84906086b2ee5e9018.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:30.651970+00:00"
+  },
+  {
+    "id": "BOE-A-2009-9838",
+    "fecha_publicacion": "20090613",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-9838",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-9838",
+    "sha256": "8f3e8d47e0e20014cd3c315164e853fd2fc1bc28d948fb03f6b1951f45794581",
+    "archivo": "data/raw/8f3e8d47e0e20014cd3c315164e853fd2fc1bc28d948fb03f6b1951f45794581.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:36.618978+00:00"
+  },
+  {
+    "id": "BOE-A-2018-5802",
+    "fecha_publicacion": "20180428",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2018-5802",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2018-5802",
+    "sha256": "c9b918e2b8479a66c8c42cee45a3e4e269091f0c4b7bb373f2570231759741e0",
+    "archivo": "data/raw/c9b918e2b8479a66c8c42cee45a3e4e269091f0c4b7bb373f2570231759741e0.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:25.150307+00:00"
+  },
+  {
+    "id": "BOE-A-2016-9891",
+    "fecha_publicacion": "20161028",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2016-9891",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2016-9891",
+    "sha256": "a1aa738e604a6e4f6e1f2ec810d134a28b046d030af2db9d24171a46d041597b",
+    "archivo": "data/raw/a1aa738e604a6e4f6e1f2ec810d134a28b046d030af2db9d24171a46d041597b.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:24.067979+00:00"
+  },
+  {
+    "id": "BOE-A-2025-4408",
+    "fecha_publicacion": "20250306",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-4408",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-4408",
+    "sha256": "e257443e89d2ac551d4ee062d2409513d2c082dc0f7efb3e73c3255f706a26b4",
+    "archivo": "data/raw/e257443e89d2ac551d4ee062d2409513d2c082dc0f7efb3e73c3255f706a26b4.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:40.959733+00:00"
+  },
+  {
+    "id": "BOE-A-2011-14246",
+    "fecha_publicacion": "20110831",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2011-14246",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2011-14246",
+    "sha256": "1732ac62c776da6d45231e693608032c4cae4e8d99c6d5653439c230c867c92d",
+    "archivo": "data/raw/1732ac62c776da6d45231e693608032c4cae4e8d99c6d5653439c230c867c92d.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:07.190272+00:00"
+  },
+  {
+    "id": "BOE-A-1999-3698",
+    "fecha_publicacion": "19990213",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1999-3698",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1999-3698",
+    "sha256": "2de553cfa97331885e574e66abc4f6aa231687ec8e2a80030d78b4f6c0c8ed33",
+    "archivo": "data/raw/2de553cfa97331885e574e66abc4f6aa231687ec8e2a80030d78b4f6c0c8ed33.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:10.019918+00:00"
+  },
+  {
+    "id": "BOE-A-2025-24103",
+    "fecha_publicacion": "20251127",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-24103",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-24103",
+    "sha256": "f3e032c9e08fb4e2bd5679d0cb48dc2b930226adfe99a61fceca5de8d29bdaa2",
+    "archivo": "data/raw/f3e032c9e08fb4e2bd5679d0cb48dc2b930226adfe99a61fceca5de8d29bdaa2.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:36.753139+00:00"
+  },
+  {
+    "id": "BOE-A-2025-21711",
+    "fecha_publicacion": "20251028",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-21711",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-21711",
+    "sha256": "15b4d66917f1da6068ed57fb359162ac268e97d9f1e14cb661abc0b43d8f7c5e",
+    "archivo": "data/raw/15b4d66917f1da6068ed57fb359162ac268e97d9f1e14cb661abc0b43d8f7c5e.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:35.837941+00:00"
+  },
+  {
+    "id": "BOE-A-2012-9868",
+    "fecha_publicacion": "20120724",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2012-9868",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2012-9868",
+    "sha256": "f8791e3fddbe9477155f77b0e490cb7dbd6990a380dc81aa5d2b0e5df5b6a84b",
+    "archivo": "data/raw/f8791e3fddbe9477155f77b0e490cb7dbd6990a380dc81aa5d2b0e5df5b6a84b.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:14.796633+00:00"
+  },
+  {
+    "id": "BOE-A-2012-3813",
+    "fecha_publicacion": "20120317",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2012-3813",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2012-3813",
+    "sha256": "e6aefcc12c00724385861f804b06fabd41ec281bcf9d764c34d92b91847e5382",
+    "archivo": "data/raw/e6aefcc12c00724385861f804b06fabd41ec281bcf9d764c34d92b91847e5382.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:11.439282+00:00"
+  },
+  {
+    "id": "BOE-A-2009-11678",
+    "fecha_publicacion": "20090715",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-11678",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-11678",
+    "sha256": "11fb8f2e540a285d371e26082b42fe205732b7e6fdac38f2fcbee4cf8b76cf3a",
+    "archivo": "data/raw/11fb8f2e540a285d371e26082b42fe205732b7e6fdac38f2fcbee4cf8b76cf3a.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:17.813509+00:00"
+  },
+  {
+    "id": "BOE-A-2006-3149",
+    "fecha_publicacion": "20060223",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2006-3149",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2006-3149",
+    "sha256": "4fe02fd9a2ad15681489437f6b011cf9a0d3f5827e0297f7eb27a9ca47df0065",
+    "archivo": "data/raw/4fe02fd9a2ad15681489437f6b011cf9a0d3f5827e0297f7eb27a9ca47df0065.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:19.629149+00:00"
+  },
+  {
+    "id": "BOE-A-2001-11659",
+    "fecha_publicacion": "20010619",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2001-11659",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2001-11659",
+    "sha256": "9a47bacdb447379f993cb37d78cdffa8d6c582cc22d5e88725205156a40f2a3d",
+    "archivo": "data/raw/9a47bacdb447379f993cb37d78cdffa8d6c582cc22d5e88725205156a40f2a3d.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:12.249203+00:00"
+  },
+  {
+    "id": "BOE-A-2002-3783",
+    "fecha_publicacion": "20020225",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2002-3783",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2002-3783",
+    "sha256": "40d4f2b778addeb87f87834c215f86b3767947d635cbc41a70dce6eb843bc60c",
+    "archivo": "data/raw/40d4f2b778addeb87f87834c215f86b3767947d635cbc41a70dce6eb843bc60c.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:13.312816+00:00"
+  },
+  {
+    "id": "BOE-A-2019-14727",
+    "fecha_publicacion": "20191014",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2019-14727",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2019-14727",
+    "sha256": "c17730f0d635f2601ad238fc037af6d8f5064a6f626669bde3cf46bee3de7f0c",
+    "archivo": "data/raw/c17730f0d635f2601ad238fc037af6d8f5064a6f626669bde3cf46bee3de7f0c.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:26.315458+00:00"
+  },
+  {
+    "id": "BOE-A-2011-7173",
+    "fecha_publicacion": "20110421",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2011-7173",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2011-7173",
+    "sha256": "587faf6a43394a7bd963664cfae6f1a4063f2133a5ec051c006a8e45b1dc7ff0",
+    "archivo": "data/raw/587faf6a43394a7bd963664cfae6f1a4063f2133a5ec051c006a8e45b1dc7ff0.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:10.507501+00:00"
+  },
+  {
+    "id": "BOE-A-2010-17664",
+    "fecha_publicacion": "20101117",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-17664",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-17664",
+    "sha256": "50f6836fac9993596bc82a95b9c39adfe1cc931baa8e3b411e4437c0b7ceb5e8",
+    "archivo": "data/raw/50f6836fac9993596bc82a95b9c39adfe1cc931baa8e3b411e4437c0b7ceb5e8.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:45.078098+00:00"
+  },
+  {
+    "id": "BOE-A-2010-14479",
+    "fecha_publicacion": "20100921",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-14479",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-14479",
+    "sha256": "261070861e58e936b68ed30b6e0691474eedcecab7c2ce83e54b563713b89698",
+    "archivo": "data/raw/261070861e58e936b68ed30b6e0691474eedcecab7c2ce83e54b563713b89698.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:42.965254+00:00"
+  },
+  {
+    "id": "BOE-A-2007-18391",
+    "fecha_publicacion": "20071023",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-18391",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-18391",
+    "sha256": "c66f40ac9485df4afa89aa5426190d8a9a44a9cf4bbe31ddfa3d3366ca9fec57",
+    "archivo": "data/raw/c66f40ac9485df4afa89aa5426190d8a9a44a9cf4bbe31ddfa3d3366ca9fec57.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:40.883065+00:00"
+  },
+  {
+    "id": "BOE-A-2005-13122",
+    "fecha_publicacion": "20050730",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2005-13122",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2005-13122",
+    "sha256": "20197577275028e9e8fbeda6cd4bd5bf3f47dbe77e5aa470ca7872b293d7fe7b",
+    "archivo": "data/raw/20197577275028e9e8fbeda6cd4bd5bf3f47dbe77e5aa470ca7872b293d7fe7b.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:15.557658+00:00"
+  },
+  {
+    "id": "BOE-A-1997-20262",
+    "fecha_publicacion": "19970923",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1997-20262",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1997-20262",
+    "sha256": "0f1328b37b1f08f5870517ce7e1fd85b0a30553c5bf5eb044da9023ca2d7bed9",
+    "archivo": "data/raw/0f1328b37b1f08f5870517ce7e1fd85b0a30553c5bf5eb044da9023ca2d7bed9.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:08.164890+00:00"
+  },
+  {
+    "id": "BOE-A-1997-20259",
+    "fecha_publicacion": "19970923",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1997-20259",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1997-20259",
+    "sha256": "a58a14d30055d95f4602fe18efa4ccba25b052dda287322c1ac53f521d20a1ee",
+    "archivo": "data/raw/a58a14d30055d95f4602fe18efa4ccba25b052dda287322c1ac53f521d20a1ee.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:07.085482+00:00"
+  },
+  {
+    "id": "BOE-A-1996-28337",
+    "fecha_publicacion": "19961219",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1996-28337",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1996-28337",
+    "sha256": "6167eb0d6326f1857bb70114a0c2f30e734c8a6aa3cb82f69c6f1a026cfc34e2",
+    "archivo": "data/raw/6167eb0d6326f1857bb70114a0c2f30e734c8a6aa3cb82f69c6f1a026cfc34e2.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:04.745611+00:00"
+  },
+  {
+    "id": "BOE-A-1995-11719",
+    "fecha_publicacion": "19950518",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1995-11719",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1995-11719",
+    "sha256": "dba443ab5c5432df7619b3bc7c5f260b2574d4394c764b9c5bf4241f8c339189",
+    "archivo": "data/raw/dba443ab5c5432df7619b3bc7c5f260b2574d4394c764b9c5bf4241f8c339189.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:58.653265+00:00"
+  },
+  {
+    "id": "BOE-A-1994-22921",
+    "fecha_publicacion": "19941019",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1994-22921",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1994-22921",
+    "sha256": "ddfb130d0eebca5a926f52a508d7c16e3dda5fa47b502167a8697ff48a8808d4",
+    "archivo": "data/raw/ddfb130d0eebca5a926f52a508d7c16e3dda5fa47b502167a8697ff48a8808d4.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:56.530495+00:00"
+  },
+  {
+    "id": "BOE-A-1991-15527",
+    "fecha_publicacion": "19910618",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1991-15527",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1991-15527",
+    "sha256": "7290b9120abba65ae868e858e8b165a4819dc6d9d6dc0ac4f305fca125362b32",
+    "archivo": "data/raw/7290b9120abba65ae868e858e8b165a4819dc6d9d6dc0ac4f305fca125362b32.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:50.197075+00:00"
+  },
+  {
+    "id": "BOE-A-1991-5780",
+    "fecha_publicacion": "19910301",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1991-5780",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1991-5780",
+    "sha256": "3bc7f311af7f031ddd23076c2f5f284ee7c709abca61ddb928c1f51e8534b64c",
+    "archivo": "data/raw/3bc7f311af7f031ddd23076c2f5f284ee7c709abca61ddb928c1f51e8534b64c.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:53.238253+00:00"
+  },
+  {
+    "id": "BOE-A-1991-5287",
+    "fecha_publicacion": "19910226",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1991-5287",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1991-5287",
+    "sha256": "fd3b1da9b1704b0f4e8b7e5e0c722ec711d479f8c287737ebdbb8e3187444a07",
+    "archivo": "data/raw/fd3b1da9b1704b0f4e8b7e5e0c722ec711d479f8c287737ebdbb8e3187444a07.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:52.192835+00:00"
+  },
+  {
+    "id": "BOE-A-1989-18727",
+    "fecha_publicacion": "19890804",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1989-18727",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1989-18727",
+    "sha256": "4e93be71ba0b4b5bd04c802eb14dce143ae1bf9a65ff2b3499b41fdcb8dc5493",
+    "archivo": "data/raw/4e93be71ba0b4b5bd04c802eb14dce143ae1bf9a65ff2b3499b41fdcb8dc5493.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:49.148016+00:00"
+  },
+  {
+    "id": "BOE-A-1989-17118",
+    "fecha_publicacion": "19890719",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1989-17118",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1989-17118",
+    "sha256": "68814d1853200cdb6f242ff95077303b9cab5ccfb1c630b495eec74100370210",
+    "archivo": "data/raw/68814d1853200cdb6f242ff95077303b9cab5ccfb1c630b495eec74100370210.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:48.090474+00:00"
+  },
+  {
+    "id": "BOE-A-1988-12744",
+    "fecha_publicacion": "19880524",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1988-12744",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1988-12744",
+    "sha256": "dac8c8a7b1cf7903296fb1620c9917f03ce7f22389d58ffc05f8dea4825057d6",
+    "archivo": "data/raw/dac8c8a7b1cf7903296fb1620c9917f03ce7f22389d58ffc05f8dea4825057d6.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:42.691638+00:00"
+  },
+  {
+    "id": "BOE-A-1988-8681",
+    "fecha_publicacion": "19880407",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1988-8681",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1988-8681",
+    "sha256": "824de5b96725160c2ced70972c497f823d98fe67a4d9db41312f73cf2448b616",
+    "archivo": "data/raw/824de5b96725160c2ced70972c497f823d98fe67a4d9db41312f73cf2448b616.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:47.025221+00:00"
+  },
+  {
+    "id": "BOE-A-1987-27143",
+    "fecha_publicacion": "19871205",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1987-27143",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1987-27143",
+    "sha256": "374565ccca12efe5be41d6ba204834ed7d7440eb1fbf467d77fb05f6904d4749",
+    "archivo": "data/raw/374565ccca12efe5be41d6ba204834ed7d7440eb1fbf467d77fb05f6904d4749.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:40.568368+00:00"
+  },
+  {
+    "id": "BOE-A-1987-14578",
+    "fecha_publicacion": "19870624",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1987-14578",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1987-14578",
+    "sha256": "90869c9f0c6ebd407d8f745be1edd8b0df591942b5042c615835c95400a5ac2a",
+    "archivo": "data/raw/90869c9f0c6ebd407d8f745be1edd8b0df591942b5042c615835c95400a5ac2a.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:39.637000+00:00"
+  },
+  {
+    "id": "BOE-A-1987-5471",
+    "fecha_publicacion": "19870303",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1987-5471",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1987-5471",
+    "sha256": "69fb10ee8c29b7b1f884773d30b9e7577c1d9b697b6b469893f591e3ffa9b14c",
+    "archivo": "data/raw/69fb10ee8c29b7b1f884773d30b9e7577c1d9b697b6b469893f591e3ffa9b14c.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:41.762087+00:00"
+  },
+  {
+    "id": "BOE-A-1986-23791",
+    "fecha_publicacion": "19860904",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1986-23791",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1986-23791",
+    "sha256": "c0854bb2f69871491e23bc3b52c8ab0d9ae978c152016fa121d4a01e97227805",
+    "archivo": "data/raw/c0854bb2f69871491e23bc3b52c8ab0d9ae978c152016fa121d4a01e97227805.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:37.388302+00:00"
+  },
+  {
+    "id": "BOE-A-2006-624",
+    "fecha_publicacion": "20060117",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2006-624",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2006-624",
+    "sha256": "2b2bd92777933dc6796468878e2abd00f24cdaf94473a1cb4208abff02f34272",
+    "archivo": "data/raw/2b2bd92777933dc6796468878e2abd00f24cdaf94473a1cb4208abff02f34272.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:21.879866+00:00"
+  },
+  {
+    "id": "BOE-A-2005-3241",
+    "fecha_publicacion": "20050226",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2005-3241",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2005-3241",
+    "sha256": "0b47f6eb681083b4233e94c56c0ce0f1065d275fba24ac1776ab2faf0f7854e9",
+    "archivo": "data/raw/0b47f6eb681083b4233e94c56c0ce0f1065d275fba24ac1776ab2faf0f7854e9.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:16.498648+00:00"
+  },
+  {
+    "id": "BOE-T-2005-13466",
+    "fecha_publicacion": "20050805",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2005-13466",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2005-13466",
+    "sha256": "087f4ea13cf2fabefbab82485670c7446b70cc580f961dd0ff79d76e7ef384d6",
+    "archivo": "data/raw/087f4ea13cf2fabefbab82485670c7446b70cc580f961dd0ff79d76e7ef384d6.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:56.826644+00:00"
+  },
+  {
+    "id": "BOE-T-1994-6780",
+    "fecha_publicacion": "19940324",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1994-6780",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1994-6780",
+    "sha256": "0f7793e4bded2944389503c9bf0fb95071aa6f1169178ebf61c6e4e2baf6bc78",
+    "archivo": "data/raw/0f7793e4bded2944389503c9bf0fb95071aa6f1169178ebf61c6e4e2baf6bc78.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:50.469305+00:00"
+  },
+  {
+    "id": "BOE-T-1990-9176",
+    "fecha_publicacion": "19900417",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1990-9176",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1990-9176",
+    "sha256": "0c59c96b85dd68a16a8744e6664a2d9e90d65a358dd2c1b90a168062efc46707",
+    "archivo": "data/raw/0c59c96b85dd68a16a8744e6664a2d9e90d65a358dd2c1b90a168062efc46707.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:45.429492+00:00"
+  },
+  {
+    "id": "BOE-A-1986-19505",
+    "fecha_publicacion": "19860721",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1986-19505",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1986-19505",
+    "sha256": "95e52ae7b0162e39e36e9881963a41d41ef8e2e5e94f04b83c2fc8d63ce0961c",
+    "archivo": "data/raw/95e52ae7b0162e39e36e9881963a41d41ef8e2e5e94f04b83c2fc8d63ce0961c.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:36.217098+00:00"
+  },
+  {
+    "id": "BOE-A-1996-750",
+    "fecha_publicacion": "19960112",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1996-750",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1996-750",
+    "sha256": "a82b6b77318abe4395985dbff10d550fa4a6a9e6e791464fb860eda3ffcfb3d4",
+    "archivo": "data/raw/a82b6b77318abe4395985dbff10d550fa4a6a9e6e791464fb860eda3ffcfb3d4.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:06.169309+00:00"
+  },
+  {
+    "id": "BOE-A-1995-12095",
+    "fecha_publicacion": "19950523",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1995-12095",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1995-12095",
+    "sha256": "cc44e70eca4766dbd9d0abbb5c79e4ae15f9543e79aa50b6e9a4afb7182f0738",
+    "archivo": "data/raw/cc44e70eca4766dbd9d0abbb5c79e4ae15f9543e79aa50b6e9a4afb7182f0738.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:59.815163+00:00"
+  },
+  {
+    "id": "BOE-A-1994-24612",
+    "fecha_publicacion": "19941109",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1994-24612",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1994-24612",
+    "sha256": "aae9498170f8f843a9ce7df94b933389ba9d202ce9abb147906fd38266237ee7",
+    "archivo": "data/raw/aae9498170f8f843a9ce7df94b933389ba9d202ce9abb147906fd38266237ee7.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:57.814313+00:00"
+  },
+  {
+    "id": "BOE-A-1988-29621",
+    "fecha_publicacion": "19881230",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1988-29621",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1988-29621",
+    "sha256": "bdfc02254701954f4ea017f2208fa04b67fa303d068694cfdfaf44681c4c7b21",
+    "archivo": "data/raw/bdfc02254701954f4ea017f2208fa04b67fa303d068694cfdfaf44681c4c7b21.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:46.070469+00:00"
+  },
+  {
+    "id": "BOE-A-1987-12077",
+    "fecha_publicacion": "19870520",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1987-12077",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1987-12077",
+    "sha256": "5e8372c5bf23a4b8b55662794823fd5d0b38e48c4c920945b8d9e485b5fdad22",
+    "archivo": "data/raw/5e8372c5bf23a4b8b55662794823fd5d0b38e48c4c920945b8d9e485b5fdad22.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:38.564403+00:00"
+  },
+  {
+    "id": "BOE-A-1978-29842",
+    "fecha_publicacion": "19781208",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1978-29842",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1978-29842",
+    "sha256": "e680ff07edaa9e876e23a7282c0cc11168210ca729b359a270565a8b746786b2",
+    "archivo": "data/raw/e680ff07edaa9e876e23a7282c0cc11168210ca729b359a270565a8b746786b2.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:25.770431+00:00"
+  },
+  {
+    "id": "BOE-A-1978-5335",
+    "fecha_publicacion": "19780223",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1978-5335",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1978-5335",
+    "sha256": "88de3f97c75ffe7108c14a3ce138cd1ddcf841facb11e11173bab62c8d076bdf",
+    "archivo": "data/raw/88de3f97c75ffe7108c14a3ce138cd1ddcf841facb11e11173bab62c8d076bdf.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:26.721827+00:00"
+  },
+  {
+    "id": "BOE-A-1995-25444",
+    "fecha_publicacion": "19951124",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1995-25444",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1995-25444",
+    "sha256": "6a7fc6cc33d0da4adbf94a3dccf6077c2a78d53f4bb662d755cfc51a2dbf2e3c",
+    "archivo": "data/raw/6a7fc6cc33d0da4adbf94a3dccf6077c2a78d53f4bb662d755cfc51a2dbf2e3c.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:03.394798+00:00"
+  },
+  {
+    "id": "BOE-A-1995-24958",
+    "fecha_publicacion": "19951117",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1995-24958",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1995-24958",
+    "sha256": "1322e587307c1eb033df7fadaf66685f5642867c2157298d69eb71f0798d9c14",
+    "archivo": "data/raw/1322e587307c1eb033df7fadaf66685f5642867c2157298d69eb71f0798d9c14.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:01.702852+00:00"
+  },
+  {
+    "id": "BOE-A-1995-17359",
+    "fecha_publicacion": "19950718",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1995-17359",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1995-17359",
+    "sha256": "044623dd20c5494c7cdc0c6919651a23aad814b2988579d85f8964dd51dd0b0c",
+    "archivo": "data/raw/044623dd20c5494c7cdc0c6919651a23aad814b2988579d85f8964dd51dd0b0c.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:00.627926+00:00"
+  },
+  {
+    "id": "BOE-A-1994-15796",
+    "fecha_publicacion": "19940707",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1994-15796",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1994-15796",
+    "sha256": "ffbe1867db698a4ca49ce991fddb7989a2dedd1231ab7035077b030955da2c00",
+    "archivo": "data/raw/ffbe1867db698a4ca49ce991fddb7989a2dedd1231ab7035077b030955da2c00.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:55.254068+00:00"
+  },
+  {
+    "id": "BOE-A-1992-9548",
+    "fecha_publicacion": "19920505",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1992-9548",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1992-9548",
+    "sha256": "2c720a7b47da94ca7a53892b5bd5b49405c7ab106f729fa25d49c3162882ea67",
+    "archivo": "data/raw/2c720a7b47da94ca7a53892b5bd5b49405c7ab106f729fa25d49c3162882ea67.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:54.567832+00:00"
+  },
+  {
+    "id": "BOE-A-1991-17903",
+    "fecha_publicacion": "19910711",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1991-17903",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1991-17903",
+    "sha256": "4a2049ff99e3574058f0730691a6ed654080943f83b9dff3201aac7c1cd11ae8",
+    "archivo": "data/raw/4a2049ff99e3574058f0730691a6ed654080943f83b9dff3201aac7c1cd11ae8.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:51.025895+00:00"
+  },
+  {
+    "id": "BOE-A-1988-18043",
+    "fecha_publicacion": "19880720",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1988-18043",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1988-18043",
+    "sha256": "087577b0e7198adf25f6c7f5546326c462145e2425f7a7eb4fcbdc256b451e32",
+    "archivo": "data/raw/087577b0e7198adf25f6c7f5546326c462145e2425f7a7eb4fcbdc256b451e32.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:44.796781+00:00"
+  },
+  {
+    "id": "BOE-A-1988-12909",
+    "fecha_publicacion": "19880526",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1988-12909",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1988-12909",
+    "sha256": "c2e2f09a33c2b8411e7255d24f51364d958c737c9e70b17932ac5337bb84ba3e",
+    "archivo": "data/raw/c2e2f09a33c2b8411e7255d24f51364d958c737c9e70b17932ac5337bb84ba3e.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:43.744429+00:00"
+  },
+  {
+    "id": "BOE-A-1985-5128",
+    "fecha_publicacion": "19850330",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1985-5128",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1985-5128",
+    "sha256": "873f2079dfa23eb20d4aaa7fa073cb4196d77e564679fa8085c942929a2fc349",
+    "archivo": "data/raw/873f2079dfa23eb20d4aaa7fa073cb4196d77e564679fa8085c942929a2fc349.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:34.115286+00:00"
+  },
+  {
+    "id": "BOE-A-1985-64",
+    "fecha_publicacion": "19850103",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1985-64",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1985-64",
+    "sha256": "bd44fd7d2074bc6f7acb2b8bfd84377a8fbf1825605a4c7576b757358a5dd007",
+    "archivo": "data/raw/bd44fd7d2074bc6f7acb2b8bfd84377a8fbf1825605a4c7576b757358a5dd007.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:35.269152+00:00"
+  },
+  {
+    "id": "BOE-A-1984-6260",
+    "fecha_publicacion": "19840313",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1984-6260",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1984-6260",
+    "sha256": "da7247f069a47c08758e9d853dd9505a27b6164a946929fa03f4251e843ab7b9",
+    "archivo": "data/raw/da7247f069a47c08758e9d853dd9505a27b6164a946929fa03f4251e843ab7b9.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:32.001095+00:00"
+  },
+  {
+    "id": "BOE-A-1983-33954",
+    "fecha_publicacion": "19831228",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1983-33954",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1983-33954",
+    "sha256": "3cad337821b39d37fd7315d4c61918c83e132558c7c7e3e2d3bd69e923b3261e",
+    "archivo": "data/raw/3cad337821b39d37fd7315d4c61918c83e132558c7c7e3e2d3bd69e923b3261e.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:30.956421+00:00"
+  },
+  {
+    "id": "BOE-A-1983-17890",
+    "fecha_publicacion": "19830627",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1983-17890",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1983-17890",
+    "sha256": "4b3dc90354ed3f4b2e15a12fb327a3047b26b780fdf45836468ed82d273abb17",
+    "archivo": "data/raw/4b3dc90354ed3f4b2e15a12fb327a3047b26b780fdf45836468ed82d273abb17.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:30.040548+00:00"
+  },
+  {
+    "id": "BOE-A-1983-11935",
+    "fecha_publicacion": "19830426",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1983-11935",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1983-11935",
+    "sha256": "11f5f844786525e95a919cb58b7f8e4aa438cef90b2a41fb82e0224a049c9491",
+    "archivo": "data/raw/11f5f844786525e95a919cb58b7f8e4aa438cef90b2a41fb82e0224a049c9491.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:28.840904+00:00"
+  },
+  {
+    "id": "BOE-A-1980-8713",
+    "fecha_publicacion": "19800426",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1980-8713",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1980-8713",
+    "sha256": "ffdc1ab30c4c888292cf26d2045b8be881e3566dfef49a18d20f7c5943e6a403",
+    "archivo": "data/raw/ffdc1ab30c4c888292cf26d2045b8be881e3566dfef49a18d20f7c5943e6a403.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:27.774827+00:00"
+  },
+  {
+    "id": "BOE-A-1978-18553",
+    "fecha_publicacion": "19780720",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1978-18553",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1978-18553",
+    "sha256": "4e828195a416e50650a31af3d7921d6c0f925c11f9019ca5e3eb1a32cab12ecd",
+    "archivo": "data/raw/4e828195a416e50650a31af3d7921d6c0f925c11f9019ca5e3eb1a32cab12ecd.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:24.603462+00:00"
+  },
+  {
+    "id": "BOE-A-1978-13828",
+    "fecha_publicacion": "19780530",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1978-13828",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1978-13828",
+    "sha256": "76f81e5b8816d9419d8659e38b8ed98b31824d436000cbfe5b6eefc42b364783",
+    "archivo": "data/raw/76f81e5b8816d9419d8659e38b8ed98b31824d436000cbfe5b6eefc42b364783.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:19:53.721842+00:00"
+  },
+  {
+    "id": "BOE-A-1978-12341",
+    "fecha_publicacion": "19780509",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1978-12341",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1978-12341",
+    "sha256": "b54689e9b2c278ad9b2a8f59b29580cbb4a82a3ced2fb77709ef8eee4f6a90ff",
+    "archivo": "data/raw/b54689e9b2c278ad9b2a8f59b29580cbb4a82a3ced2fb77709ef8eee4f6a90ff.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:19:46.330659+00:00"
+  },
+  {
+    "id": "BOE-A-1974-2050",
+    "fecha_publicacion": "19741223",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1974-2050",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1974-2050",
+    "sha256": "3107b46a49f89da82c1aafc500fded41edc59dc825a8f4fc8d7dded59b36f4fb",
+    "archivo": "data/raw/3107b46a49f89da82c1aafc500fded41edc59dc825a8f4fc8d7dded59b36f4fb.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:19:38.014591+00:00"
+  },
+  {
+    "id": "BOE-A-1974-1189",
+    "fecha_publicacion": "19740726",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1974-1189",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1974-1189",
+    "sha256": "1b99bca343426fa6c1785261ad040e85b4f7caafe009af110362ec882e781dd3",
+    "archivo": "data/raw/1b99bca343426fa6c1785261ad040e85b4f7caafe009af110362ec882e781dd3.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:19:37.243995+00:00"
+  },
+  {
+    "id": "BOE-A-1974-293",
+    "fecha_publicacion": "19740215",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1974-293",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1974-293",
+    "sha256": "8fba6291fb0ba8394069154b782ce81ff78e9479e3818ea97fd700ba3542404b",
+    "archivo": "data/raw/8fba6291fb0ba8394069154b782ce81ff78e9479e3818ea97fd700ba3542404b.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:19:39.317572+00:00"
+  },
+  {
+    "id": "BOE-A-1967-5578",
+    "fecha_publicacion": "19670411",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1967-5578",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1967-5578",
+    "sha256": "4f805031b59e2ecd3d15b4ceea51aac5052acc38bed67288dff8100b9112dd54",
+    "archivo": "data/raw/4f805031b59e2ecd3d15b4ceea51aac5052acc38bed67288dff8100b9112dd54.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:19:36.516726+00:00"
+  },
+  {
+    "id": "BOE-A-1984-7960",
+    "fecha_publicacion": "19840403",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1984-7960",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1984-7960",
+    "sha256": "33662b26d1a09c5addc394a6262afab7daec27a880e5f30743f28914a68eaeb2",
+    "archivo": "data/raw/33662b26d1a09c5addc394a6262afab7daec27a880e5f30743f28914a68eaeb2.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:20:33.187158+00:00"
+  },
+  {
+    "id": "BOE-A-2015-13433",
+    "fecha_publicacion": "20151211",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2015-13433",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2015-13433",
+    "sha256": "858d0ae30feff1255cae6a1e008ab2ccf99f3c529fb7f3e2de5bccaffd4d3ca5",
+    "archivo": "data/raw/858d0ae30feff1255cae6a1e008ab2ccf99f3c529fb7f3e2de5bccaffd4d3ca5.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:16.744041+00:00"
+  },
+  {
+    "id": "BOE-A-2009-2073",
+    "fecha_publicacion": "20090207",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-2073",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-2073",
+    "sha256": "59ed0c797e0ab3f8a39429235bb14e0e3d5595c8ef0a6c091e9a7473f5f6edb5",
+    "archivo": "data/raw/59ed0c797e0ab3f8a39429235bb14e0e3d5595c8ef0a6c091e9a7473f5f6edb5.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:34.746896+00:00"
+  },
+  {
+    "id": "BOE-A-2008-19992",
+    "fecha_publicacion": "20081211",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-19992",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-19992",
+    "sha256": "ea1c8b2bdb3380f908a94a2143a3cf9c99e6d36e8ee6459b318573cefe65ac84",
+    "archivo": "data/raw/ea1c8b2bdb3380f908a94a2143a3cf9c99e6d36e8ee6459b318573cefe65ac84.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:03.585921+00:00"
+  },
+  {
+    "id": "BOE-A-2004-8985",
+    "fecha_publicacion": "20040514",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2004-8985",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2004-8985",
+    "sha256": "22fec910b40760f0d5eefbcda09666a7cdf35502f5f59901135ee0fb06b656a7",
+    "archivo": "data/raw/22fec910b40760f0d5eefbcda09666a7cdf35502f5f59901135ee0fb06b656a7.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:14.239369+00:00"
+  },
+  {
+    "id": "BOE-T-2002-2504",
+    "fecha_publicacion": "20020208",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2002-2504",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2002-2504",
+    "sha256": "0e0554d1c6e5b77e5cd9ee8c864753a685fc60bb7fe2bcb25c6d8099bfcc9102",
+    "archivo": "data/raw/0e0554d1c6e5b77e5cd9ee8c864753a685fc60bb7fe2bcb25c6d8099bfcc9102.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:53.630403+00:00"
+  },
+  {
+    "id": "BOE-T-1994-11105",
+    "fecha_publicacion": "19940517",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1994-11105",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1994-11105",
+    "sha256": "41fd4e2394239dd1c34607fb73afd160e28b62134280a36731b1d65c59e892c3",
+    "archivo": "data/raw/41fd4e2394239dd1c34607fb73afd160e28b62134280a36731b1d65c59e892c3.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:47.178798+00:00"
+  },
+  {
+    "id": "BOE-T-1994-6778",
+    "fecha_publicacion": "19940324",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1994-6778",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1994-6778",
+    "sha256": "cf724a861778c731210ea5835cc8b465ef4577a762bb27b9b77c5955d4a84200",
+    "archivo": "data/raw/cf724a861778c731210ea5835cc8b465ef4577a762bb27b9b77c5955d4a84200.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:49.654116+00:00"
+  },
+  {
+    "id": "BOE-T-1994-6202",
+    "fecha_publicacion": "19940317",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1994-6202",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1994-6202",
+    "sha256": "fc73b1ad65f90602d2771f566599df32022c7398f718f30a84d02ee9872ae68b",
+    "archivo": "data/raw/fc73b1ad65f90602d2771f566599df32022c7398f718f30a84d02ee9872ae68b.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:48.509184+00:00"
+  },
+  {
+    "id": "BOE-T-1990-29362",
+    "fecha_publicacion": "19901203",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1990-29362",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1990-29362",
+    "sha256": "3c0dcf2003b27fce7b5d69b5b2a1d30d13ab98f95cf613814b2e8b67174ab587",
+    "archivo": "data/raw/3c0dcf2003b27fce7b5d69b5b2a1d30d13ab98f95cf613814b2e8b67174ab587.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:44.265723+00:00"
+  },
+  {
+    "id": "BOE-T-1988-19564",
+    "fecha_publicacion": "19880808",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1988-19564",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1988-19564",
+    "sha256": "7bbaef0d53070aea89711fdd012fd7fc1969311557722d48a694c74017dcee1b",
+    "archivo": "data/raw/7bbaef0d53070aea89711fdd012fd7fc1969311557722d48a694c74017dcee1b.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:43.250554+00:00"
+  },
+  {
+    "id": "BOE-T-1987-13599",
+    "fecha_publicacion": "19870609",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1987-13599",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1987-13599",
+    "sha256": "15c17a6e43cec52abddf15a33dde38fcf58f8027c4a25ef8632035c0267592a3",
+    "archivo": "data/raw/15c17a6e43cec52abddf15a33dde38fcf58f8027c4a25ef8632035c0267592a3.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:42.056102+00:00"
+  },
+  {
+    "id": "BOE-A-2020-6742",
+    "fecha_publicacion": "20200626",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2020-6742",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2020-6742",
+    "sha256": "fbbf61f8f2bf2529d9a7f5db4db294e8db367434b1d5133bcb52a17bc6c9062e",
+    "archivo": "data/raw/fbbf61f8f2bf2529d9a7f5db4db294e8db367434b1d5133bcb52a17bc6c9062e.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:27.123860+00:00"
+  },
+  {
+    "id": "BOE-A-2015-6465",
+    "fecha_publicacion": "20150611",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2015-6465",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2015-6465",
+    "sha256": "aab53b1f8370f84d3f74ea375555730f3b821f8acc1c21a8218cc3ca3a55eb77",
+    "archivo": "data/raw/aab53b1f8370f84d3f74ea375555730f3b821f8acc1c21a8218cc3ca3a55eb77.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:23.017690+00:00"
+  },
+  {
+    "id": "BOE-A-2011-10598",
+    "fecha_publicacion": "20110618",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2011-10598",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2011-10598",
+    "sha256": "f0000b22e427ecc737a172c52f7b4727cac2da8c33e94b4cf76c1514e12a276a",
+    "archivo": "data/raw/f0000b22e427ecc737a172c52f7b4727cac2da8c33e94b4cf76c1514e12a276a.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:03.402196+00:00"
+  },
+  {
+    "id": "BOE-A-2005-7426",
+    "fecha_publicacion": "20050507",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2005-7426",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2005-7426",
+    "sha256": "8a5e01eb636a01ae65d6afee73688d947b038d0abc16ea9fcb47a90cea1754ba",
+    "archivo": "data/raw/8a5e01eb636a01ae65d6afee73688d947b038d0abc16ea9fcb47a90cea1754ba.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:17.538008+00:00"
+  },
+  {
+    "id": "BOE-A-1996-10993",
+    "fecha_publicacion": "19960517",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1996-10993",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1996-10993",
+    "sha256": "2d5a60e9fe40dd2e32f27ffa622e11aa1734e58980c840fec8be8984189219fc",
+    "archivo": "data/raw/2d5a60e9fe40dd2e32f27ffa622e11aa1734e58980c840fec8be8984189219fc.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:03.677869+00:00"
+  },
+  {
+    "id": "BOE-A-2025-26697",
+    "fecha_publicacion": "20251226",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-26697",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-26697",
+    "sha256": "89c884286f049ae6a0b6554ce7ac4ac7989b722d7314cd44aa7b302750d014cb",
+    "archivo": "data/raw/89c884286f049ae6a0b6554ce7ac4ac7989b722d7314cd44aa7b302750d014cb.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:39.131468+00:00"
+  },
+  {
+    "id": "BOE-A-2025-26696",
+    "fecha_publicacion": "20251226",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-26696",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-26696",
+    "sha256": "204aea8f258e3a6f96bfe8b019dbb2f3d6f230cac7435255484de3175939d3b9",
+    "archivo": "data/raw/204aea8f258e3a6f96bfe8b019dbb2f3d6f230cac7435255484de3175939d3b9.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:38.050155+00:00"
+  },
+  {
+    "id": "BOE-A-2024-15427",
+    "fecha_publicacion": "20240725",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-15427",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-15427",
+    "sha256": "a76f3994e2eb881c4ca738f91867061d155455a85c2dfd549b85fcb45c7c37e3",
+    "archivo": "data/raw/a76f3994e2eb881c4ca738f91867061d155455a85c2dfd549b85fcb45c7c37e3.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:34.048473+00:00"
+  },
+  {
+    "id": "BOE-A-2024-11773",
+    "fecha_publicacion": "20240610",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-11773",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-11773",
+    "sha256": "9935749a0cdf4acfdf930326779dbee8a921d59772fec3031195b7695003abb7",
+    "archivo": "data/raw/9935749a0cdf4acfdf930326779dbee8a921d59772fec3031195b7695003abb7.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:32.788954+00:00"
+  },
+  {
+    "id": "BOE-A-2015-1892",
+    "fecha_publicacion": "20150224",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2015-1892",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2015-1892",
+    "sha256": "564a5db26548a159e44df6aa607e770e060082bf2e7c1accb84fd683629d28e4",
+    "archivo": "data/raw/564a5db26548a159e44df6aa607e770e060082bf2e7c1accb84fd683629d28e4.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:18.799052+00:00"
+  },
+  {
+    "id": "BOE-A-2015-1891",
+    "fecha_publicacion": "20150224",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2015-1891",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2015-1891",
+    "sha256": "c4b3fc636ed74ab28a1624df7d73f46db22b9b674989d9d51d6b53f9f63e8459",
+    "archivo": "data/raw/c4b3fc636ed74ab28a1624df7d73f46db22b9b674989d9d51d6b53f9f63e8459.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:17.747551+00:00"
+  },
+  {
+    "id": "BOE-A-2015-463",
+    "fecha_publicacion": "20150120",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2015-463",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2015-463",
+    "sha256": "92503a30698998f7838d2eb2979b8c924b97fe0d52d279b511a7276216cc7118",
+    "archivo": "data/raw/92503a30698998f7838d2eb2979b8c924b97fe0d52d279b511a7276216cc7118.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:21.968706+00:00"
+  },
+  {
+    "id": "BOE-A-2015-462",
+    "fecha_publicacion": "20150120",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2015-462",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2015-462",
+    "sha256": "cf72bc27b73b60c8af65c709f1cc8343064bcbe580cd6d2efe8f9c835be4d924",
+    "archivo": "data/raw/cf72bc27b73b60c8af65c709f1cc8343064bcbe580cd6d2efe8f9c835be4d924.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:20.923790+00:00"
+  },
+  {
+    "id": "BOE-A-2015-460",
+    "fecha_publicacion": "20150120",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2015-460",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2015-460",
+    "sha256": "b38d6d9e25ddcd948cb5eb360c3cd1ef0ad904959d36b247f779d0811991ac05",
+    "archivo": "data/raw/b38d6d9e25ddcd948cb5eb360c3cd1ef0ad904959d36b247f779d0811991ac05.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:19.869296+00:00"
+  },
+  {
+    "id": "BOE-A-2012-8625",
+    "fecha_publicacion": "20120628",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2012-8625",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2012-8625",
+    "sha256": "a3fb9ceb8f3b71975e9c7fe67b727a29357e69fb927ca9d5f37741f87a9b9c38",
+    "archivo": "data/raw/a3fb9ceb8f3b71975e9c7fe67b727a29357e69fb927ca9d5f37741f87a9b9c38.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:13.406933+00:00"
+  },
+  {
+    "id": "BOE-A-2012-7511",
+    "fecha_publicacion": "20120605",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2012-7511",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2012-7511",
+    "sha256": "37c9762a14280430f60a6044368fda416aea00f258db93b16ee908d2647d23d8",
+    "archivo": "data/raw/37c9762a14280430f60a6044368fda416aea00f258db93b16ee908d2647d23d8.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:12.483107+00:00"
+  },
+  {
+    "id": "BOE-A-2010-19817",
+    "fecha_publicacion": "20101224",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-19817",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-19817",
+    "sha256": "3bf6dd7ebddd6a1f7a992f1fc7d9f6cbfd05a7b99d30d3aae4ac113da2674d56",
+    "archivo": "data/raw/3bf6dd7ebddd6a1f7a992f1fc7d9f6cbfd05a7b99d30d3aae4ac113da2674d56.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:59.882426+00:00"
+  },
+  {
+    "id": "BOE-A-2010-19816",
+    "fecha_publicacion": "20101224",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-19816",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-19816",
+    "sha256": "e9339046464354ccce09edd65d2a29ec6ee406bb35692ee5c3cf549b02e38c34",
+    "archivo": "data/raw/e9339046464354ccce09edd65d2a29ec6ee406bb35692ee5c3cf549b02e38c34.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:58.825238+00:00"
+  },
+  {
+    "id": "BOE-A-2010-19815",
+    "fecha_publicacion": "20101224",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-19815",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-19815",
+    "sha256": "53fe7a25a4277cc09cd7b6e5307caf850f1bafc755917836336902bb6f9e25b5",
+    "archivo": "data/raw/53fe7a25a4277cc09cd7b6e5307caf850f1bafc755917836336902bb6f9e25b5.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:57.785814+00:00"
+  },
+  {
+    "id": "BOE-A-2010-19814",
+    "fecha_publicacion": "20101224",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-19814",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-19814",
+    "sha256": "bd7432ca33f0ba47548e1abf01b09334ed50f2cd581fd9ee819578539e816e25",
+    "archivo": "data/raw/bd7432ca33f0ba47548e1abf01b09334ed50f2cd581fd9ee819578539e816e25.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:56.680601+00:00"
+  },
+  {
+    "id": "BOE-A-2010-19813",
+    "fecha_publicacion": "20101224",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-19813",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-19813",
+    "sha256": "86593751e1bb0b420f4aa9616331a0f09db54035c1e255d09956e83312a72a8d",
+    "archivo": "data/raw/86593751e1bb0b420f4aa9616331a0f09db54035c1e255d09956e83312a72a8d.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:55.610062+00:00"
+  },
+  {
+    "id": "BOE-A-2010-18649",
+    "fecha_publicacion": "20101203",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-18649",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-18649",
+    "sha256": "930c22d3703d2e797347f844bd35d4c40fde8cb4a3ab2dad8d72472fb8941b43",
+    "archivo": "data/raw/930c22d3703d2e797347f844bd35d4c40fde8cb4a3ab2dad8d72472fb8941b43.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:54.555184+00:00"
+  },
+  {
+    "id": "BOE-A-2010-18648",
+    "fecha_publicacion": "20101203",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-18648",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-18648",
+    "sha256": "e525f58fb599f62d43eb833b2ad0252911e3b5017e2684418c1e29a007a382e8",
+    "archivo": "data/raw/e525f58fb599f62d43eb833b2ad0252911e3b5017e2684418c1e29a007a382e8.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:53.502495+00:00"
+  },
+  {
+    "id": "BOE-A-2010-18647",
+    "fecha_publicacion": "20101203",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-18647",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-18647",
+    "sha256": "3fd5116c236a6b5bc4a05c4c76071b6b351f2a03f5eb3e2576d71869002b9682",
+    "archivo": "data/raw/3fd5116c236a6b5bc4a05c4c76071b6b351f2a03f5eb3e2576d71869002b9682.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:52.449496+00:00"
+  },
+  {
+    "id": "BOE-A-2010-18646",
+    "fecha_publicacion": "20101203",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-18646",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-18646",
+    "sha256": "29806a9c35af9365623effd148a917daa1cad7a5c82e442c91a1dfb217105454",
+    "archivo": "data/raw/29806a9c35af9365623effd148a917daa1cad7a5c82e442c91a1dfb217105454.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:51.401013+00:00"
+  },
+  {
+    "id": "BOE-A-2010-18645",
+    "fecha_publicacion": "20101203",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-18645",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-18645",
+    "sha256": "384f66089b0ee99d3ac93f8143f2b0d76331c9113687f2a2e4056856b673d108",
+    "archivo": "data/raw/384f66089b0ee99d3ac93f8143f2b0d76331c9113687f2a2e4056856b673d108.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:50.350440+00:00"
+  },
+  {
+    "id": "BOE-A-2010-18644",
+    "fecha_publicacion": "20101203",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-18644",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-18644",
+    "sha256": "7ee8f69c626a458127e50d420b5e6d75413ca20e90c572e2e0509188d5001a0f",
+    "archivo": "data/raw/7ee8f69c626a458127e50d420b5e6d75413ca20e90c572e2e0509188d5001a0f.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:49.425593+00:00"
+  },
+  {
+    "id": "BOE-A-2010-17757",
+    "fecha_publicacion": "20101118",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-17757",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-17757",
+    "sha256": "7df4a322e91ac9aab562746962452148239e209ee94e4a6d79bf3f7ecee6b9b5",
+    "archivo": "data/raw/7df4a322e91ac9aab562746962452148239e209ee94e4a6d79bf3f7ecee6b9b5.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:48.368388+00:00"
+  },
+  {
+    "id": "BOE-A-2010-17756",
+    "fecha_publicacion": "20101118",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-17756",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-17756",
+    "sha256": "49e8b18b0f49bef324973d849671081d72caa3e1e68ac511b3329919a8bd7c07",
+    "archivo": "data/raw/49e8b18b0f49bef324973d849671081d72caa3e1e68ac511b3329919a8bd7c07.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:47.171461+00:00"
+  },
+  {
+    "id": "BOE-A-2010-17754",
+    "fecha_publicacion": "20101118",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-17754",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-17754",
+    "sha256": "02e32717899a25fb38028eb724ca5ddd495a6548a2145fcd6f3d802182f9e08d",
+    "archivo": "data/raw/02e32717899a25fb38028eb724ca5ddd495a6548a2145fcd6f3d802182f9e08d.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:46.250080+00:00"
+  },
+  {
+    "id": "BOE-A-2010-16548",
+    "fecha_publicacion": "20101029",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-16548",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-16548",
+    "sha256": "c204716c5d71bd3d5a3021b8d7d4f61168ad7ed33bbf3e7e3c31caf25b64c0b4",
+    "archivo": "data/raw/c204716c5d71bd3d5a3021b8d7d4f61168ad7ed33bbf3e7e3c31caf25b64c0b4.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:44.256357+00:00"
+  },
+  {
+    "id": "BOE-A-2010-13113",
+    "fecha_publicacion": "20100812",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-13113",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-13113",
+    "sha256": "c545a1f8a4f9c704f2cd5dfb296f269b6eb3b9d62290def93d4c8e5585180098",
+    "archivo": "data/raw/c545a1f8a4f9c704f2cd5dfb296f269b6eb3b9d62290def93d4c8e5585180098.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:41.010473+00:00"
+  },
+  {
+    "id": "BOE-A-2010-12885",
+    "fecha_publicacion": "20100809",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-12885",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-12885",
+    "sha256": "1d43727bd8518511c6fd1be08e41eef167ebde12132d21fc9f44567d6d61204e",
+    "archivo": "data/raw/1d43727bd8518511c6fd1be08e41eef167ebde12132d21fc9f44567d6d61204e.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:39.908314+00:00"
+  },
+  {
+    "id": "BOE-A-2009-18824",
+    "fecha_publicacion": "20091125",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-18824",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-18824",
+    "sha256": "14b0368ae1053bbe4ede05ac015b2b06d947bec069b896b8495e0d676f00328f",
+    "archivo": "data/raw/14b0368ae1053bbe4ede05ac015b2b06d947bec069b896b8495e0d676f00328f.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:33.464291+00:00"
+  },
+  {
+    "id": "BOE-A-2009-18823",
+    "fecha_publicacion": "20091125",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-18823",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-18823",
+    "sha256": "d2e8e38fbfca509269b11bc37d3c875a91edec237ad76c827ca9c1d3894ad327",
+    "archivo": "data/raw/d2e8e38fbfca509269b11bc37d3c875a91edec237ad76c827ca9c1d3894ad327.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:32.625585+00:00"
+  },
+  {
+    "id": "BOE-A-2009-18822",
+    "fecha_publicacion": "20091125",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-18822",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-18822",
+    "sha256": "b9b67ae513905366f2d18081c135e35c05da2e82c567590e3def21d7b35bcfb2",
+    "archivo": "data/raw/b9b67ae513905366f2d18081c135e35c05da2e82c567590e3def21d7b35bcfb2.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:31.476001+00:00"
+  },
+  {
+    "id": "BOE-A-2009-13758",
+    "fecha_publicacion": "20090822",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-13758",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-13758",
+    "sha256": "5eaa97c9bde61ebb482c3e02e322f145b3f976922cf6dd878b09960311f17ebb",
+    "archivo": "data/raw/5eaa97c9bde61ebb482c3e02e322f145b3f976922cf6dd878b09960311f17ebb.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:30.305298+00:00"
+  },
+  {
+    "id": "BOE-A-2009-13757",
+    "fecha_publicacion": "20090822",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-13757",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-13757",
+    "sha256": "fdf026301f15ebde5adb61f25b99f778bd4019cee86ecaca11939a7ef8de66eb",
+    "archivo": "data/raw/fdf026301f15ebde5adb61f25b99f778bd4019cee86ecaca11939a7ef8de66eb.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:29.263046+00:00"
+  },
+  {
+    "id": "BOE-A-2009-13756",
+    "fecha_publicacion": "20090822",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-13756",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-13756",
+    "sha256": "9a34abd3c9c20d190a452cd3cfab29f4239d201fa67ca4ba4a720a49ae125e97",
+    "archivo": "data/raw/9a34abd3c9c20d190a452cd3cfab29f4239d201fa67ca4ba4a720a49ae125e97.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:28.692285+00:00"
+  },
+  {
+    "id": "BOE-A-2009-13755",
+    "fecha_publicacion": "20090822",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-13755",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-13755",
+    "sha256": "17e64cf01944e5074e52649aef548c10ba43554f1935a44eef0970c4fac30c72",
+    "archivo": "data/raw/17e64cf01944e5074e52649aef548c10ba43554f1935a44eef0970c4fac30c72.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:27.258074+00:00"
+  },
+  {
+    "id": "BOE-A-2009-12530",
+    "fecha_publicacion": "20090728",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-12530",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-12530",
+    "sha256": "04bf2df70e6e30933119ca985c9425708f6655ff2dfd61395808461a2da1abec",
+    "archivo": "data/raw/04bf2df70e6e30933119ca985c9425708f6655ff2dfd61395808461a2da1abec.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:26.061685+00:00"
+  },
+  {
+    "id": "BOE-A-2009-12529",
+    "fecha_publicacion": "20090728",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-12529",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-12529",
+    "sha256": "479f94f0048701a314f78e95888b11b78760d1be9b2d0b2df8ed0cb922cb3898",
+    "archivo": "data/raw/479f94f0048701a314f78e95888b11b78760d1be9b2d0b2df8ed0cb922cb3898.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:25.021440+00:00"
+  },
+  {
+    "id": "BOE-A-2009-12528",
+    "fecha_publicacion": "20090728",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-12528",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-12528",
+    "sha256": "94f89f51ae65f3559433101c1bd88cac6eee6a24b91071b81e0b50ead07ac2be",
+    "archivo": "data/raw/94f89f51ae65f3559433101c1bd88cac6eee6a24b91071b81e0b50ead07ac2be.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:24.070597+00:00"
+  },
+  {
+    "id": "BOE-A-2009-12527",
+    "fecha_publicacion": "20090728",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-12527",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-12527",
+    "sha256": "f6fe868d03fc8d69dc7d3b0fdc259546b648d736c2a4b8814eae5b123b47da95",
+    "archivo": "data/raw/f6fe868d03fc8d69dc7d3b0fdc259546b648d736c2a4b8814eae5b123b47da95.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:23.027323+00:00"
+  },
+  {
+    "id": "BOE-A-2009-12517",
+    "fecha_publicacion": "20090728",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-12517",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-12517",
+    "sha256": "33d40ad3b6fc3913db63826e2c7f75a38edea06a48993318cc54bac3634e96ee",
+    "archivo": "data/raw/33d40ad3b6fc3913db63826e2c7f75a38edea06a48993318cc54bac3634e96ee.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:21.960989+00:00"
+  },
+  {
+    "id": "BOE-A-2009-12516",
+    "fecha_publicacion": "20090728",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-12516",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-12516",
+    "sha256": "58f5d21bba2ca727baf6edca999f653e52ddd1c913a5978541f4cb15dfc1bae8",
+    "archivo": "data/raw/58f5d21bba2ca727baf6edca999f653e52ddd1c913a5978541f4cb15dfc1bae8.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:21.014797+00:00"
+  },
+  {
+    "id": "BOE-A-2009-12515",
+    "fecha_publicacion": "20090728",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-12515",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-12515",
+    "sha256": "361620c19a6f6f77e3311c0dd565ce137b0a0af35b477485facf74f599f756b3",
+    "archivo": "data/raw/361620c19a6f6f77e3311c0dd565ce137b0a0af35b477485facf74f599f756b3.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:19.918039+00:00"
+  },
+  {
+    "id": "BOE-A-2009-12514",
+    "fecha_publicacion": "20090728",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-12514",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-12514",
+    "sha256": "be74f4a575a37fe1e708b57031eb3b100e37981cc2317cfce931a6322d8ab238",
+    "archivo": "data/raw/be74f4a575a37fe1e708b57031eb3b100e37981cc2317cfce931a6322d8ab238.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:19.116713+00:00"
+  },
+  {
+    "id": "BOE-A-2009-10260",
+    "fecha_publicacion": "20090620",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-10260",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-10260",
+    "sha256": "b762046d5c6cafcd7d9c96ff2258dcc3a77ae0df6d1cccbd51b3dd98c57f4638",
+    "archivo": "data/raw/b762046d5c6cafcd7d9c96ff2258dcc3a77ae0df6d1cccbd51b3dd98c57f4638.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:17.217296+00:00"
+  },
+  {
+    "id": "BOE-A-2009-4366",
+    "fecha_publicacion": "20090314",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-4366",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-4366",
+    "sha256": "2fe600e1e1257e3c496e79f6a0ec69a34aba9262a375c4c873f99a67d77760c6",
+    "archivo": "data/raw/2fe600e1e1257e3c496e79f6a0ec69a34aba9262a375c4c873f99a67d77760c6.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:35.833486+00:00"
+  },
+  {
+    "id": "BOE-T-2008-18814",
+    "fecha_publicacion": "20081121",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-18814",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-18814",
+    "sha256": "fdb9cd260c337452b923375fee038ccc893379d63189e87e4ac31e4487ada198",
+    "archivo": "data/raw/fdb9cd260c337452b923375fee038ccc893379d63189e87e4ac31e4487ada198.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:24:12.837967+00:00"
+  },
+  {
+    "id": "BOE-T-2008-18813",
+    "fecha_publicacion": "20081121",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-18813",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-18813",
+    "sha256": "0d2f831173eb76f7eb26c11f7ce59de9d7718a83cd5dd3ac59874000ccee3dc8",
+    "archivo": "data/raw/0d2f831173eb76f7eb26c11f7ce59de9d7718a83cd5dd3ac59874000ccee3dc8.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:24:11.613882+00:00"
+  },
+  {
+    "id": "BOE-T-2008-18812",
+    "fecha_publicacion": "20081121",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-18812",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-18812",
+    "sha256": "418a193fd7c46052607937bd4e34a6c2b2032903e6246e6e2f5f4c799f74616d",
+    "archivo": "data/raw/418a193fd7c46052607937bd4e34a6c2b2032903e6246e6e2f5f4c799f74616d.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:24:10.665392+00:00"
+  },
+  {
+    "id": "BOE-T-2008-14044",
+    "fecha_publicacion": "20080819",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-14044",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-14044",
+    "sha256": "d463962b1ca2b8ccb97db82980bee63829b072daca3faea29d508b152fd1db99",
+    "archivo": "data/raw/d463962b1ca2b8ccb97db82980bee63829b072daca3faea29d508b152fd1db99.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:24:09.496826+00:00"
+  },
+  {
+    "id": "BOE-T-2008-14043",
+    "fecha_publicacion": "20080819",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-14043",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-14043",
+    "sha256": "e01841e370a6e35f9a2d7f132af84ff4bb63626d6810ae14c4d6b8e2c76b8ee9",
+    "archivo": "data/raw/e01841e370a6e35f9a2d7f132af84ff4bb63626d6810ae14c4d6b8e2c76b8ee9.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:24:08.466640+00:00"
+  },
+  {
+    "id": "BOE-T-2008-14042",
+    "fecha_publicacion": "20080819",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-14042",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-14042",
+    "sha256": "81cc7dcd51b0e5113e4a08059364aab06c0382a5441e2c2015f801cdfe8e8135",
+    "archivo": "data/raw/81cc7dcd51b0e5113e4a08059364aab06c0382a5441e2c2015f801cdfe8e8135.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:24:07.395673+00:00"
+  },
+  {
+    "id": "BOE-T-2008-14041",
+    "fecha_publicacion": "20080819",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-14041",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-14041",
+    "sha256": "fe31e7436abc1b0a33e2b9719d47c80cc85356744075c8ee4220eec853a7f47c",
+    "archivo": "data/raw/fe31e7436abc1b0a33e2b9719d47c80cc85356744075c8ee4220eec853a7f47c.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:24:06.322921+00:00"
+  },
+  {
+    "id": "BOE-T-2008-14040",
+    "fecha_publicacion": "20080819",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-14040",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-14040",
+    "sha256": "3f05be795bc79e313c7134c0a85f192557a4fd6df0d5a3d7f8c1aac9564382ab",
+    "archivo": "data/raw/3f05be795bc79e313c7134c0a85f192557a4fd6df0d5a3d7f8c1aac9564382ab.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:24:05.385871+00:00"
+  },
+  {
+    "id": "BOE-T-2008-14039",
+    "fecha_publicacion": "20080819",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-14039",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-14039",
+    "sha256": "1e099ef342a147b8a995e07e2e4c0cc944cb89f37c6db54efcaeedd765c1568b",
+    "archivo": "data/raw/1e099ef342a147b8a995e07e2e4c0cc944cb89f37c6db54efcaeedd765c1568b.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:24:04.212732+00:00"
+  },
+  {
+    "id": "BOE-T-2008-14027",
+    "fecha_publicacion": "20080819",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-14027",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-14027",
+    "sha256": "24d35b13ccc4faf816df859a024543cdb9dd68b2fb1bf64d576d1738e2dd13f6",
+    "archivo": "data/raw/24d35b13ccc4faf816df859a024543cdb9dd68b2fb1bf64d576d1738e2dd13f6.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:24:03.150424+00:00"
+  },
+  {
+    "id": "BOE-T-2008-14026",
+    "fecha_publicacion": "20080819",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-14026",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-14026",
+    "sha256": "eea575c7551843300e8ec10bffb1b5bf9365e36f664cde7bbd339607b2ef9fc0",
+    "archivo": "data/raw/eea575c7551843300e8ec10bffb1b5bf9365e36f664cde7bbd339607b2ef9fc0.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:24:02.103791+00:00"
+  },
+  {
+    "id": "BOE-T-2008-14025",
+    "fecha_publicacion": "20080819",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-14025",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-14025",
+    "sha256": "7aaaf3a558d07ab0ae74b06c84351c3ae77fe20e09c01a3de2b8c6bc0b3efc24",
+    "archivo": "data/raw/7aaaf3a558d07ab0ae74b06c84351c3ae77fe20e09c01a3de2b8c6bc0b3efc24.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:24:01.165270+00:00"
+  },
+  {
+    "id": "BOE-T-2008-14024",
+    "fecha_publicacion": "20080819",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-14024",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-14024",
+    "sha256": "9c0aedb57bef4d85b923bdcfb9d4465811b68dcb25952b54ee5433665477c827",
+    "archivo": "data/raw/9c0aedb57bef4d85b923bdcfb9d4465811b68dcb25952b54ee5433665477c827.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:24:00.165500+00:00"
+  },
+  {
+    "id": "BOE-T-2008-12649",
+    "fecha_publicacion": "20080724",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-12649",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-12649",
+    "sha256": "9d886e26f4db52409080d59b15fafd84ae64e5e23f37881ac03ab49bfdd017f8",
+    "archivo": "data/raw/9d886e26f4db52409080d59b15fafd84ae64e5e23f37881ac03ab49bfdd017f8.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:58.910955+00:00"
+  },
+  {
+    "id": "BOE-T-2008-9606",
+    "fecha_publicacion": "20080604",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-9606",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-9606",
+    "sha256": "ed58263975e3f9ed90c2349e5a884723982ecea8e8ad1d42c22c43cb1befde9e",
+    "archivo": "data/raw/ed58263975e3f9ed90c2349e5a884723982ecea8e8ad1d42c22c43cb1befde9e.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:24:13.975133+00:00"
+  },
+  {
+    "id": "BOE-T-2007-21161",
+    "fecha_publicacion": "20071210",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2007-21161",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2007-21161",
+    "sha256": "414d6f39ba7620cfe850efe247205aa3e667c19db0a654e74f8c045f47c8507d",
+    "archivo": "data/raw/414d6f39ba7620cfe850efe247205aa3e667c19db0a654e74f8c045f47c8507d.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:58.104016+00:00"
+  },
+  {
+    "id": "BOE-A-2007-13266",
+    "fecha_publicacion": "20070710",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-13266",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-13266",
+    "sha256": "a164beb89588596d39b46dc15b4402685ed95d397e69cf45dac5f1ae8d847f7a",
+    "archivo": "data/raw/a164beb89588596d39b46dc15b4402685ed95d397e69cf45dac5f1ae8d847f7a.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:25.853294+00:00"
+  },
+  {
+    "id": "BOE-T-2004-5478",
+    "fecha_publicacion": "20040326",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2004-5478",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2004-5478",
+    "sha256": "0de0bc8fb4b333a7bc3000289fbc5337c764cb3d9cfb148bdddfdc95d7d8aef2",
+    "archivo": "data/raw/0de0bc8fb4b333a7bc3000289fbc5337c764cb3d9cfb148bdddfdc95d7d8aef2.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:54.681744+00:00"
+  },
+  {
+    "id": "BOE-A-2000-24010",
+    "fecha_publicacion": "20001227",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2000-24010",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2000-24010",
+    "sha256": "835afd946db1d997f5f76e10e120cbb32bda6935931bcd83ac5ae8c70d1ad4a5",
+    "archivo": "data/raw/835afd946db1d997f5f76e10e120cbb32bda6935931bcd83ac5ae8c70d1ad4a5.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:11.092919+00:00"
+  },
+  {
+    "id": "BOE-T-1998-1176",
+    "fecha_publicacion": "19980121",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1998-1176",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1998-1176",
+    "sha256": "095f734d8ecc834e156e5b24b7f8b8881bc438d373ae8cc5648057804b2bcd29",
+    "archivo": "data/raw/095f734d8ecc834e156e5b24b7f8b8881bc438d373ae8cc5648057804b2bcd29.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:52.728975+00:00"
+  },
+  {
+    "id": "BOE-T-1997-22974",
+    "fecha_publicacion": "19971030",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1997-22974",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1997-22974",
+    "sha256": "5c23cac4b514d0a542834c13fcd9acc4623267bad1e76d9f50d1f403d58cabac",
+    "archivo": "data/raw/5c23cac4b514d0a542834c13fcd9acc4623267bad1e76d9f50d1f403d58cabac.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:51.642528+00:00"
+  },
+  {
+    "id": "BOE-A-2024-25863",
+    "fecha_publicacion": "20241212",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25863",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25863",
+    "sha256": "6a54cd1b21397da81403a129a39cf1fda8b3ed78fce4765bc9dbbc4eda9e7b5f",
+    "archivo": "data/raw/6a54cd1b21397da81403a129a39cf1fda8b3ed78fce4765bc9dbbc4eda9e7b5f.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:34.515624+00:00"
+  },
+  {
+    "id": "BOE-A-2010-1",
+    "fecha_publicacion": "20100101",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-1",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-1",
+    "sha256": "fbd09207fdb6fb4948862b6486ecc06aa5cc20e3fb7c2bd7451b39ccbc4e282e",
+    "archivo": "data/raw/fbd09207fdb6fb4948862b6486ecc06aa5cc20e3fb7c2bd7451b39ccbc4e282e.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:37.574214+00:00"
+  },
+  {
+    "id": "BOE-A-2008-4902",
+    "fecha_publicacion": "20080314",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-4902",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-4902",
+    "sha256": "f4d056349febbdfcf63cd783fc6887af25ca892ed4b9a071d28596168cc96974",
+    "archivo": "data/raw/f4d056349febbdfcf63cd783fc6887af25ca892ed4b9a071d28596168cc96974.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:15.943585+00:00"
+  },
+  {
+    "id": "BOE-A-2008-4900",
+    "fecha_publicacion": "20080314",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-4900",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-4900",
+    "sha256": "30da196849db6346fd50470121f83cffb4fa2987a3795bb1adbcdcbd67ae8afd",
+    "archivo": "data/raw/30da196849db6346fd50470121f83cffb4fa2987a3795bb1adbcdcbd67ae8afd.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:14.893392+00:00"
+  },
+  {
+    "id": "BOE-A-2008-4895",
+    "fecha_publicacion": "20080314",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-4895",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-4895",
+    "sha256": "abf73d68dcdfab61c3a764a49f0d44e2534c8ddb5c7e20fbfd0d40218ad969ce",
+    "archivo": "data/raw/abf73d68dcdfab61c3a764a49f0d44e2534c8ddb5c7e20fbfd0d40218ad969ce.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:13.309979+00:00"
+  },
+  {
+    "id": "BOE-A-2008-4893",
+    "fecha_publicacion": "20080314",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-4893",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-4893",
+    "sha256": "9b9eb8b1d1852ea5c8a9d2f2292512d97bbe426e4c01a97b0a66d0b2613b5556",
+    "archivo": "data/raw/9b9eb8b1d1852ea5c8a9d2f2292512d97bbe426e4c01a97b0a66d0b2613b5556.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:12.274642+00:00"
+  },
+  {
+    "id": "BOE-A-2008-3521",
+    "fecha_publicacion": "20080225",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-3521",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-3521",
+    "sha256": "594acb98d8f8524751d34c3189345d0b729465387fa4d3584b66fea5bb81b1d7",
+    "archivo": "data/raw/594acb98d8f8524751d34c3189345d0b729465387fa4d3584b66fea5bb81b1d7.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:11.599687+00:00"
+  },
+  {
+    "id": "BOE-A-2008-3520",
+    "fecha_publicacion": "20080225",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-3520",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-3520",
+    "sha256": "9afde800b8a5454ad5f513c80a753c1dc18561c2986a4255c5f507d0d94e3421",
+    "archivo": "data/raw/9afde800b8a5454ad5f513c80a753c1dc18561c2986a4255c5f507d0d94e3421.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:10.542244+00:00"
+  },
+  {
+    "id": "BOE-A-2008-3518",
+    "fecha_publicacion": "20080225",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-3518",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-3518",
+    "sha256": "c66e2c52b9a02c21b6a7133f3a384751f3204192569ff80be716bc0ed67d016c",
+    "archivo": "data/raw/c66e2c52b9a02c21b6a7133f3a384751f3204192569ff80be716bc0ed67d016c.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:09.471483+00:00"
+  },
+  {
+    "id": "BOE-A-2008-3515",
+    "fecha_publicacion": "20080225",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-3515",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-3515",
+    "sha256": "71cd37ec784e2a6466ffda92d10c769fa542a00d609cb0f6f9c98ee3d68334e1",
+    "archivo": "data/raw/71cd37ec784e2a6466ffda92d10c769fa542a00d609cb0f6f9c98ee3d68334e1.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:08.023418+00:00"
+  },
+  {
+    "id": "BOE-A-2008-3514",
+    "fecha_publicacion": "20080225",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-3514",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-3514",
+    "sha256": "afa7e3065e829c002d6fcc341620bab8fed43cb2620acc8833b923a9ce6aa0e9",
+    "archivo": "data/raw/afa7e3065e829c002d6fcc341620bab8fed43cb2620acc8833b923a9ce6aa0e9.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:07.000023+00:00"
+  },
+  {
+    "id": "BOE-A-2008-3513",
+    "fecha_publicacion": "20080225",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-3513",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-3513",
+    "sha256": "7689d176a019b10fccf18cd8d07d8403851553c2ac93c5431aa5114a030c21ab",
+    "archivo": "data/raw/7689d176a019b10fccf18cd8d07d8403851553c2ac93c5431aa5114a030c21ab.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:05.932062+00:00"
+  },
+  {
+    "id": "BOE-A-2008-2329",
+    "fecha_publicacion": "20080211",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-2329",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-2329",
+    "sha256": "38707436a0d42f8728d5e24457b41f73a5accfd6e4803f863dff7a6f10c934b5",
+    "archivo": "data/raw/38707436a0d42f8728d5e24457b41f73a5accfd6e4803f863dff7a6f10c934b5.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:05.204316+00:00"
+  },
+  {
+    "id": "BOE-A-2008-1623",
+    "fecha_publicacion": "20080131",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-1623",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-1623",
+    "sha256": "55c0b499276d6bb0caf099fbf43df1d87899b42b927ff79fe3257afdca9bbbbf",
+    "archivo": "data/raw/55c0b499276d6bb0caf099fbf43df1d87899b42b927ff79fe3257afdca9bbbbf.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:01.466248+00:00"
+  },
+  {
+    "id": "BOE-A-2008-1621",
+    "fecha_publicacion": "20080131",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-1621",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-1621",
+    "sha256": "c7fe6598fdc24817d38ca455fa4dbe86d6e5e14e6266021867ac0f182648ddf7",
+    "archivo": "data/raw/c7fe6598fdc24817d38ca455fa4dbe86d6e5e14e6266021867ac0f182648ddf7.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:59.684102+00:00"
+  },
+  {
+    "id": "BOE-A-2008-1619",
+    "fecha_publicacion": "20080131",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-1619",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-1619",
+    "sha256": "6c3df048dda9153f109adaafa51fa5ecc94bfea6f517472447ca062f25809942",
+    "archivo": "data/raw/6c3df048dda9153f109adaafa51fa5ecc94bfea6f517472447ca062f25809942.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:59.344264+00:00"
+  },
+  {
+    "id": "BOE-A-2007-22523",
+    "fecha_publicacion": "20071231",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-22523",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-22523",
+    "sha256": "abe8bfe7dd127d475ea0b5b41e0c16372f7a364a32ba1349574837b45d602fc3",
+    "archivo": "data/raw/abe8bfe7dd127d475ea0b5b41e0c16372f7a364a32ba1349574837b45d602fc3.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:48.012495+00:00"
+  },
+  {
+    "id": "BOE-A-2007-22522",
+    "fecha_publicacion": "20071231",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-22522",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-22522",
+    "sha256": "ad72d389bc0a5ebbe0c6cad52579523e04f8fbceab289b99fb0c883536be6bb5",
+    "archivo": "data/raw/ad72d389bc0a5ebbe0c6cad52579523e04f8fbceab289b99fb0c883536be6bb5.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:46.967766+00:00"
+  },
+  {
+    "id": "BOE-A-2007-22521",
+    "fecha_publicacion": "20071231",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-22521",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-22521",
+    "sha256": "c98d6395cfd54b841450d2754217ad0c9863cd25552f99fdbd137983f261de80",
+    "archivo": "data/raw/c98d6395cfd54b841450d2754217ad0c9863cd25552f99fdbd137983f261de80.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:45.914086+00:00"
+  },
+  {
+    "id": "BOE-A-2007-20264",
+    "fecha_publicacion": "20071126",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-20264",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-20264",
+    "sha256": "38ec0c2ed908cc76f81d143de34182ba2b6c0bfa93575d6e974f7891ad95df7c",
+    "archivo": "data/raw/38ec0c2ed908cc76f81d143de34182ba2b6c0bfa93575d6e974f7891ad95df7c.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:44.863714+00:00"
+  },
+  {
+    "id": "BOE-A-2007-20263",
+    "fecha_publicacion": "20071126",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-20263",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-20263",
+    "sha256": "c57d7428e7c50b2efe692332a9bcbf94cf11c22592e267775272118c9f9a6338",
+    "archivo": "data/raw/c57d7428e7c50b2efe692332a9bcbf94cf11c22592e267775272118c9f9a6338.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:43.817802+00:00"
+  },
+  {
+    "id": "BOE-A-2007-19008",
+    "fecha_publicacion": "20071102",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-19008",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-19008",
+    "sha256": "ad4bfb27efadeb9613d90a021f84787b587f7582d7a12b7dee4daaac6dfc422f",
+    "archivo": "data/raw/ad4bfb27efadeb9613d90a021f84787b587f7582d7a12b7dee4daaac6dfc422f.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:42.753297+00:00"
+  },
+  {
+    "id": "BOE-A-2007-18533",
+    "fecha_publicacion": "20071025",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-18533",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-18533",
+    "sha256": "b1d7adb4557f1e6df513536366e8854e99e9b09ffc003995799ba8ce9c160caa",
+    "archivo": "data/raw/b1d7adb4557f1e6df513536366e8854e99e9b09ffc003995799ba8ce9c160caa.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:41.698819+00:00"
+  },
+  {
+    "id": "BOE-A-2007-17574",
+    "fecha_publicacion": "20071008",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-17574",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-17574",
+    "sha256": "4c9425afc3e961e03b6576d6ba4f41ebf96700306e51c053ee1583d0e36a97a9",
+    "archivo": "data/raw/4c9425afc3e961e03b6576d6ba4f41ebf96700306e51c053ee1583d0e36a97a9.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:39.581248+00:00"
+  },
+  {
+    "id": "BOE-A-2007-16791",
+    "fecha_publicacion": "20070924",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-16791",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-16791",
+    "sha256": "0d33a6e0b36b5db484ce03e1ea4d0ccccf6614f1706280821c47d93481fb073f",
+    "archivo": "data/raw/0d33a6e0b36b5db484ce03e1ea4d0ccccf6614f1706280821c47d93481fb073f.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:38.526821+00:00"
+  },
+  {
+    "id": "BOE-A-2007-16790",
+    "fecha_publicacion": "20070924",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-16790",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-16790",
+    "sha256": "db68582828077bd37943ce72002cd71876788da2007491128eb94d2cf2486b2a",
+    "archivo": "data/raw/db68582828077bd37943ce72002cd71876788da2007491128eb94d2cf2486b2a.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:37.459247+00:00"
+  },
+  {
+    "id": "BOE-A-2007-16788",
+    "fecha_publicacion": "20070924",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-16788",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-16788",
+    "sha256": "bd698658e3efdd306ca94ee42e0b158a3c5935dbc00bf8e7572d5c26e56d07c4",
+    "archivo": "data/raw/bd698658e3efdd306ca94ee42e0b158a3c5935dbc00bf8e7572d5c26e56d07c4.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:36.431949+00:00"
+  },
+  {
+    "id": "BOE-A-2007-16787",
+    "fecha_publicacion": "20070924",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-16787",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-16787",
+    "sha256": "d5a61453022cf7b2587fc7e1e83b6eb7e412036cf5a4bea9366a09c35634cdca",
+    "archivo": "data/raw/d5a61453022cf7b2587fc7e1e83b6eb7e412036cf5a4bea9366a09c35634cdca.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:35.344716+00:00"
+  },
+  {
+    "id": "BOE-A-2007-16785",
+    "fecha_publicacion": "20070924",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-16785",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-16785",
+    "sha256": "b6b026a5c86469f6d6579b020cc9272bff6efdc10d9491e4f706c9bed5b202c9",
+    "archivo": "data/raw/b6b026a5c86469f6d6579b020cc9272bff6efdc10d9491e4f706c9bed5b202c9.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:34.297992+00:00"
+  },
+  {
+    "id": "BOE-A-2007-16784",
+    "fecha_publicacion": "20070924",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-16784",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-16784",
+    "sha256": "cdd42f0b80cf9e329db024490a7be55bcdc264df68a0ee651256dea2a9607d1c",
+    "archivo": "data/raw/cdd42f0b80cf9e329db024490a7be55bcdc264df68a0ee651256dea2a9607d1c.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:33.255662+00:00"
+  },
+  {
+    "id": "BOE-A-2007-16782",
+    "fecha_publicacion": "20070924",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-16782",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-16782",
+    "sha256": "cdcca6d182c2c9167ac9f37ceac966726e5bf78ed1e8f08c666b81106866f89b",
+    "archivo": "data/raw/cdcca6d182c2c9167ac9f37ceac966726e5bf78ed1e8f08c666b81106866f89b.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:32.185054+00:00"
+  },
+  {
+    "id": "BOE-A-2007-16781",
+    "fecha_publicacion": "20070924",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-16781",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-16781",
+    "sha256": "16a7360cf44615f95bfe11fb366775308b825827571d0bd7e278d966a4aaf443",
+    "archivo": "data/raw/16a7360cf44615f95bfe11fb366775308b825827571d0bd7e278d966a4aaf443.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:31.131798+00:00"
+  },
+  {
+    "id": "BOE-A-2007-14326",
+    "fecha_publicacion": "20070726",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-14326",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-14326",
+    "sha256": "aa0358b6407cafeb34c771491d3ff22e4b8a8362b8d2bd0268ad7c73315e7b7f",
+    "archivo": "data/raw/aa0358b6407cafeb34c771491d3ff22e4b8a8362b8d2bd0268ad7c73315e7b7f.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:30.085842+00:00"
+  },
+  {
+    "id": "BOE-A-2007-13273",
+    "fecha_publicacion": "20070710",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-13273",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-13273",
+    "sha256": "456afcf68de99fe4319c9755ab0dabde728cd38495860e05aa65579fafbe0c69",
+    "archivo": "data/raw/456afcf68de99fe4319c9755ab0dabde728cd38495860e05aa65579fafbe0c69.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:27.973618+00:00"
+  },
+  {
+    "id": "BOE-A-2007-13270",
+    "fecha_publicacion": "20070710",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-13270",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-13270",
+    "sha256": "0a89f77ae5a1a9374c51bfecb9bc42075aeba2efbe46bb6844f8666d2af16922",
+    "archivo": "data/raw/0a89f77ae5a1a9374c51bfecb9bc42075aeba2efbe46bb6844f8666d2af16922.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:26.912472+00:00"
+  },
+  {
+    "id": "BOE-A-2007-13264",
+    "fecha_publicacion": "20070710",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-13264",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-13264",
+    "sha256": "af041c770a4822f2caafe02dfd71b29eead74fc136219b45e6ee27fffed04b8e",
+    "archivo": "data/raw/af041c770a4822f2caafe02dfd71b29eead74fc136219b45e6ee27fffed04b8e.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:24.803022+00:00"
+  },
+  {
+    "id": "BOE-A-2007-13263",
+    "fecha_publicacion": "20070710",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-13263",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-13263",
+    "sha256": "77ff81454c0c4490f03008dddc0f5b14a6abfbddd5485090fa49f71285e757eb",
+    "archivo": "data/raw/77ff81454c0c4490f03008dddc0f5b14a6abfbddd5485090fa49f71285e757eb.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:23.757006+00:00"
+  },
+  {
+    "id": "BOE-A-2007-11311",
+    "fecha_publicacion": "20070608",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-11311",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-11311",
+    "sha256": "e4fc51c9199d902a483c8473929dc9f81a6f1c10f8e67f8ddd029b64d7e0ceae",
+    "archivo": "data/raw/e4fc51c9199d902a483c8473929dc9f81a6f1c10f8e67f8ddd029b64d7e0ceae.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:22.705240+00:00"
+  },
+  {
+    "id": "BOE-A-2007-6413",
+    "fecha_publicacion": "20070327",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-6413",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-6413",
+    "sha256": "76c4ae0bf581214e7a488ca9015ef3f17505ed950299d5e436071669a0ea938f",
+    "archivo": "data/raw/76c4ae0bf581214e7a488ca9015ef3f17505ed950299d5e436071669a0ea938f.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:56.489109+00:00"
+  },
+  {
+    "id": "BOE-A-2007-6412",
+    "fecha_publicacion": "20070327",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-6412",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-6412",
+    "sha256": "f683f238a5ad98a11cd20786922317a00861e58d75f94fefe342bb4d1c5273ab",
+    "archivo": "data/raw/f683f238a5ad98a11cd20786922317a00861e58d75f94fefe342bb4d1c5273ab.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:54.358535+00:00"
+  },
+  {
+    "id": "BOE-A-2007-4365",
+    "fecha_publicacion": "20070302",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-4365",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-4365",
+    "sha256": "9190d7e7194e2117a12f5c97cd7257c5cccb3e649db1ce7d34e6cfd6b07f265e",
+    "archivo": "data/raw/9190d7e7194e2117a12f5c97cd7257c5cccb3e649db1ce7d34e6cfd6b07f265e.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:53.315230+00:00"
+  },
+  {
+    "id": "BOE-A-2007-4364",
+    "fecha_publicacion": "20070302",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-4364",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-4364",
+    "sha256": "5b890c4d880f7c169498be5210f9cc63c4795a585985f9dbd09125b42558d6c9",
+    "archivo": "data/raw/5b890c4d880f7c169498be5210f9cc63c4795a585985f9dbd09125b42558d6c9.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:52.255279+00:00"
+  },
+  {
+    "id": "BOE-A-2007-4362",
+    "fecha_publicacion": "20070302",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-4362",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-4362",
+    "sha256": "d9e99ed1f190885a0dcfa146825b33aec58ceaebeec594a578c1a35a77e799d2",
+    "archivo": "data/raw/d9e99ed1f190885a0dcfa146825b33aec58ceaebeec594a578c1a35a77e799d2.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:51.206308+00:00"
+  },
+  {
+    "id": "BOE-A-2007-2388",
+    "fecha_publicacion": "20070205",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-2388",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-2388",
+    "sha256": "35c727f71914dff766bb2eac7607c35af6e6b509f7c645b1890373a4df9991db",
+    "archivo": "data/raw/35c727f71914dff766bb2eac7607c35af6e6b509f7c645b1890373a4df9991db.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:50.139921+00:00"
+  },
+  {
+    "id": "BOE-A-2007-2386",
+    "fecha_publicacion": "20070205",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-2386",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-2386",
+    "sha256": "e3d284941dbf1268a3c6d048eedbe8059bbdddafe3d095d6736386bbbf88f917",
+    "archivo": "data/raw/e3d284941dbf1268a3c6d048eedbe8059bbdddafe3d095d6736386bbbf88f917.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:49.097969+00:00"
+  },
+  {
+    "id": "BOE-A-2006-16776",
+    "fecha_publicacion": "20060926",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2006-16776",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2006-16776",
+    "sha256": "ae76c177494baad50842e6cb6707c700178627864731e42a339c600e7e082fc8",
+    "archivo": "data/raw/ae76c177494baad50842e6cb6707c700178627864731e42a339c600e7e082fc8.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:18.468081+00:00"
+  },
+  {
+    "id": "BOE-A-2006-4503",
+    "fecha_publicacion": "20060313",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2006-4503",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2006-4503",
+    "sha256": "ae4e165594d471285a1174283c5f0e98a4f479b8dde371021446dbfa796f7c6c",
+    "archivo": "data/raw/ae4e165594d471285a1174283c5f0e98a4f479b8dde371021446dbfa796f7c6c.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:20.578279+00:00"
+  },
+  {
+    "id": "BOE-A-1997-4837",
+    "fecha_publicacion": "19970306",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1997-4837",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1997-4837",
+    "sha256": "2766fbc36410ad4f52c86ace07f9867cfcf32ed9b1ab14535c8797c88a9776fd",
+    "archivo": "data/raw/2766fbc36410ad4f52c86ace07f9867cfcf32ed9b1ab14535c8797c88a9776fd.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:21:08.969103+00:00"
+  },
+  {
+    "id": "BOE-A-2023-15067",
+    "fecha_publicacion": "20230628",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2023-15067",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2023-15067",
+    "sha256": "a05ba7b840046959b3569e741add3e3f8982f6a01f0e40e9277a690be4b9b547",
+    "archivo": "data/raw/a05ba7b840046959b3569e741add3e3f8982f6a01f0e40e9277a690be4b9b547.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:31.345698+00:00"
+  },
+  {
+    "id": "BOE-A-2022-16279",
+    "fecha_publicacion": "20221006",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2022-16279",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2022-16279",
+    "sha256": "6e6874f4bc8732deec412b9ba264fdc5880d01f1cf157b63b290829226bf2f09",
+    "archivo": "data/raw/6e6874f4bc8732deec412b9ba264fdc5880d01f1cf157b63b290829226bf2f09.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:29.239084+00:00"
+  },
+  {
+    "id": "BOE-A-2008-2326",
+    "fecha_publicacion": "20080211",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-2326",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-2326",
+    "sha256": "9466d8191c2d4dffe7722642c7e5f80cda3d664712b29ab31941b7ba5a7340e0",
+    "archivo": "data/raw/9466d8191c2d4dffe7722642c7e5f80cda3d664712b29ab31941b7ba5a7340e0.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:22:03.834632+00:00"
+  },
+  {
+    "id": "BOE-A-2021-9175",
+    "fecha_publicacion": "20210602",
+    "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2021-9175",
+    "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2021-9175",
+    "sha256": "bf4f3ef5fbae064b9de7a22297a63743ba4fa5e0885cae14599296df50aa0721",
+    "archivo": "data/raw/bf4f3ef5fbae064b9de7a22297a63743ba4fa5e0885cae14599296df50aa0721.xml",
+    "content_type": "application/xml; charset=utf-8",
+    "fecha_descarga": "2026-10-08T17:23:28.528660+00:00"
+  }
+]

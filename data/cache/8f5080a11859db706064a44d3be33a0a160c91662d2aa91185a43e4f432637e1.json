@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2020-6742",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2020-6742",
+  "sha256": "fbbf61f8f2bf2529d9a7f5db4db294e8db367434b1d5133bcb52a17bc6c9062e",
+  "archivo": "data/raw/fbbf61f8f2bf2529d9a7f5db4db294e8db367434b1d5133bcb52a17bc6c9062e.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:27.123860+00:00"
+}

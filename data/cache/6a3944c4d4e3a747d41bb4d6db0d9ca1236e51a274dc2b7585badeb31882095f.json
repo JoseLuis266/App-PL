@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-1623",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-1623",
+  "sha256": "55c0b499276d6bb0caf099fbf43df1d87899b42b927ff79fe3257afdca9bbbbf",
+  "archivo": "data/raw/55c0b499276d6bb0caf099fbf43df1d87899b42b927ff79fe3257afdca9bbbbf.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:01.466248+00:00"
+}

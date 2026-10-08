@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a61" tipo="precepto" titulo="Artículo 61">
+      <version id_norma="BOE-A-2009-9481" fecha_publicacion="20090608" fecha_vigencia="20091208">
+        <p class="articulo">Artículo 61. Vehículos adaptados.</p>
+        <p class="parrafo">1. Los que, por padecer enfermedad o deficiencia orgánica o funcional, únicamente puedan obtener permiso o licencia de conducción extraordinarios sujetos a condiciones restrictivas, podrán utilizar durante el aprendizaje y en la realización de las pruebas ciclomotores, vehículos para personas de movilidad reducida o vehículos provistos de cambio automático o semiautomático o adaptados a la deficiencia de la persona que haya de conducirlos, de acuerdo con el dictamen del centro de reconocimiento autorizado o de la autoridad sanitaria, en su caso.</p>
+        <p class="parrafo">2. Los vehículos adaptados que vayan a utilizarse en el aprendizaje y en la realización de las pruebas de control de aptitudes y comportamientos en circulación en vías abiertas al tráfico general para obtener el permiso o licencia de conducción de que se trate sujeto a condiciones restrictivas, estarán provistos de dos espejos retrovisores interiores y dos exteriores, uno a cada lado, y dobles mandos de freno y acelerador y, si fuera posible, de embrague.</p>
+        <p class="parrafo">3. En los casos a que se refiere el apartado 1, en la realización de las pruebas de control de aptitudes y comportamientos se efectuarán las comprobaciones oportunas para valorar la eficacia de la prótesis, si existiera, verificar si las características del vehículo, así como si las adaptaciones, restricciones u otras limitaciones en la persona, el vehículo o de circulación que pudieran imponerse, y que se consignarán en el permiso o licencia que, en su caso, se expida, ofrecen las suficientes garantías de seguridad. La Jefatura Provincial de Tráfico, si lo considera necesario, podrá requerir al efecto otros informes complementarios y, en especial, el asesoramiento de un médico que podría ser designado por los servicios sanitarios competentes.</p>
+      </version>
+      <version id_norma="BOE-A-2020-13970" fecha_publicacion="20201111" fecha_vigencia="20201112">
+        <p class="articulo">Artículo 61. Vehículos adaptados.</p>
+        <p class="parrafo">1. Los que, por tener una enfermedad o discapacidad, únicamente puedan obtener permiso o licencia de conducción extraordinarios sujetos a condiciones restrictivas, podrán utilizar durante el aprendizaje y en la realización de las pruebas ciclomotores, vehículos para personas de movilidad reducida o vehículos provistos de cambio automático o semiautomático o adaptados a la discapacidad de la persona que haya de conducirlos, de acuerdo con el dictamen del centro de reconocimiento autorizado o de la autoridad sanitaria, en su caso.</p>
+        <p class="parrafo">2. Los vehículos adaptados que vayan a utilizarse en el aprendizaje y en la realización de las pruebas de control de aptitudes y comportamientos en circulación en vías abiertas al tráfico general para obtener el permiso o licencia de conducción de que se trate sujeto a condiciones restrictivas, estarán provistos de dos espejos retrovisores interiores y dos exteriores, uno a cada lado, y dobles mandos de freno y acelerador y, si fuera posible, de embrague.</p>
+        <p class="parrafo">3. En los casos a que se refiere el apartado 1, en la realización de las pruebas de control de aptitudes y comportamientos se efectuarán las comprobaciones oportunas para valorar la eficacia de la prótesis, si existiera, verificar si las características del vehículo, así como si las adaptaciones, restricciones u otras limitaciones en la persona, el vehículo o de circulación que pudieran imponerse, y que se consignarán en el permiso o licencia que, en su caso, se expida, ofrecen las suficientes garantías de seguridad. La Jefatura Provincial de Tráfico, si lo considera necesario, podrá requerir al efecto otros informes complementarios y, en especial, el asesoramiento de un médico que podría ser designado por los servicios sanitarios competentes.</p>
+        <blockquote>
+          <p class="nota_pie">Se modifica el apartado 1 por el art. único.8 del Real Decreto 971/2020, de 10 de noviembre. <a class="refPost">Ref. BOE-A-2020-13970</a></p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

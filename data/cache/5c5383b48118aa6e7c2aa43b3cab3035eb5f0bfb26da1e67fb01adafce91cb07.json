@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1987-12077",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1987-12077",
+  "sha256": "5e8372c5bf23a4b8b55662794823fd5d0b38e48c4c920945b8d9e485b5fdad22",
+  "archivo": "data/raw/5e8372c5bf23a4b8b55662794823fd5d0b38e48c4c920945b8d9e485b5fdad22.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:20:38.564403+00:00"
+}

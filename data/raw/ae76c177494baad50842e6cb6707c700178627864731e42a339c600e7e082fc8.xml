@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20241019112419">
+  <metadatos>
+    <identificador>BOE-A-2006-16776</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="1410">Tribunal Constitucional</departamento>
+    <rango codigo="63">Providencia</rango>
+    <fecha_disposicion>20060912</fecha_disposicion>
+    <numero_oficial>6812/2006</numero_oficial>
+    <titulo>Cuestion de inconstitucionalidad n.º 6812-2006, en relación con los artículos 153.1 y 171.4 del Código Penal, en la redacción dada por la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>20060926</fecha_publicacion>
+    <diario_numero>230</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>33639</pagina_inicial>
+    <pagina_final>33639</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/2006/09/26/pdfs/A33639-33639.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia/>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+  </metadatos>
+  <analisis>
+    <materias>
+      <materia codigo="886" orden="">Código Penal</materia>
+      <materia codigo="2253" orden="">Cuestiones de inconstitucionalidad</materia>
+      <materia codigo="2365" orden="">Delitos contra la libertad</materia>
+      <materia codigo="4845" orden="">Malos tratos</materia>
+      <materia codigo="7928" orden="">Violencia de género</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1995-25444" orden="4040">
+          <palabra codigo="530">Cuestión promovida por supuesta inconstitucionalidad</palabra>
+          <texto>de los arts. 153.1 y 171.4 de la Ley Orgánica 10/1995, de 23 de noviembre, en la redacción dada por la LEY ORGÁNICA 1/2004, de 28 de diciembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2004-21760" orden="4041">
+          <palabra codigo="530">Cuestión promovida por supuesta inconstitucionalidad</palabra>
+          <texto>,</texto>
+        </anterior>
+      </anteriores>
+      <posteriores>
+        <posterior referencia="BOE-A-2009-18822" orden="">
+          <palabra codigo="693">SE DICTA</palabra>
+          <texto>en la misma y SE DECLARA su DESESTIMACION, por Sentencia 201/2009, de 27 de octubre</texto>
+        </posterior>
+      </posteriores>
+    </referencias>
+    <alertas>
+      <alerta codigo="111" orden="">Derecho Constitucional</alerta>
+      <alerta codigo="113" orden="">Derecho Penal</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="ATEXTOySIGUIENTE">
+El Tribunal Constitucional, por providencia de 12 de septiembre actual, ha admitido a trámite la cuestión de inconstitucionalidad número 6812-2006 planteada por el Juzgado de lo Penal núm. 2 de Albacete en relación con los arts. 153.1 y 171.4 del Código Penal, en la redacción dada por la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, por posible vulneración de los arts. 1.1, 9.1, 9.2, 9.3, 10, 14, 17, 24.2 y 25.1 de la Constitución.
+</p>
+    <p class="ATEXTO_BLANCO_6">
+Madrid, 12 de septiembre de 2006.-La Secretaria de Justicia del Pleno, Herminia Palencia Guerra.</p>
+  </texto>
+</documento>

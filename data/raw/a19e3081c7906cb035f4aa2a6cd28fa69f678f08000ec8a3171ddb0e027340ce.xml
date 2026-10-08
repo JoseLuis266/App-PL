@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <metadatos>
+      <fecha_actualizacion>20251219T120350Z</fecha_actualizacion>
+      <identificador>BOE-A-2009-9481</identificador>
+      <ambito codigo="1">Estatal</ambito>
+      <departamento codigo="7320">Ministerio del Interior</departamento>
+      <rango codigo="1340">Real Decreto</rango>
+      <fecha_disposicion>20090508</fecha_disposicion>
+      <numero_oficial>818/2009</numero_oficial>
+      <titulo>Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores.</titulo>
+      <diario>Boletín Oficial del Estado</diario>
+      <fecha_publicacion>20090608</fecha_publicacion>
+      <diario_numero>138</diario_numero>
+      <fecha_vigencia>20091208</fecha_vigencia>
+      <estatus_derogacion>N</estatus_derogacion>
+      <estatus_anulacion>N</estatus_anulacion>
+      <vigencia_agotada>N</vigencia_agotada>
+      <estado_consolidacion codigo="3">Finalizado</estado_consolidacion>
+      <url_eli>https://www.boe.es/eli/es/rd/2009/05/08/818</url_eli>
+      <url_html_consolidada>https://www.boe.es/buscar/act.php?id=BOE-A-2009-9481</url_html_consolidada>
+    </metadatos>
+  </data>
+</response>

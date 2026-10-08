@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a382" tipo="precepto" titulo="Artículo 382">
+      <version id_norma="BOE-A-1995-25444" fecha_publicacion="19951124" fecha_vigencia="19960524">
+        <p class="articulo">Artículo 382.</p>
+        <p class="parrafo">Será castigado con la pena de prisión de seis meses a dos años o multa de tres a ocho meses el que origine un grave riesgo para la circulación de alguna de las siguientes formas:</p>
+        <p class="parrafo">1.º Alterando la seguridad del tráfico mediante la colocación en la vía de obstáculos imprevisibles, derramamiento de sustancias deslizantes o inflamables, mutación o daño de la señalización, o por cualquier otro medio.</p>
+        <p class="parrafo">2.º No restableciendo la seguridad de la vía, cuando haya obligación de hacerlo.</p>
+      </version>
+      <version id_norma="BOE-A-2003-21538" fecha_publicacion="20031126" fecha_vigencia="20041001">
+        <p class="articulo">Artículo 382.</p>
+        <p class="parrafo">Será castigado con la pena de prisión de seis meses a dos años o multa de 12 a 24 meses el que origine un grave riesgo para la circulación de alguna de las siguientes formas:</p>
+        <p class="parrafo">1.º Alterando la seguridad del tráfico mediante la colocación en la vía de obstáculos imprevisibles, derramamiento de sustancias deslizantes o inflamables, mutación o daño de la señalización, o por cualquier otro medio.</p>
+        <p class="parrafo">2.º No restableciendo la seguridad de la vía, cuando haya obligación de hacerlo.</p>
+        <blockquote>
+          <p class="nota_pie">Se modifica el párrafo 1 por el art. único.135 de la Ley Orgánica 15/2003, de 25 de noviembre. <a class="refPost">Ref. BOE-A-2003-21538</a></p>
+        </blockquote>
+      </version>
+      <version id_norma="BOE-A-2007-20636" fecha_publicacion="20071201" fecha_vigencia="20071202">
+        <p class="articulo">Artículo 382.</p>
+        <p class="parrafo">
+          <span class="parrafo">Cuando con los actos sancionados en los artículos 379, 380 y 381 se ocasionare, además del riesgo prevenido, un resultado lesivo constitutivo de delito, cualquiera que sea su gravedad, los Jueces o Tribunales apreciarán tan sólo la infracción más gravemente penada, aplicando la pena en su mitad superior y condenando, en todo caso, al resarcimiento de la responsabilidad civil que se hubiera originado.</span>
+        </p>
+        <blockquote>
+          <p class="nota_pie">Se modifica por el art. único.6 de la Ley Orgánica 15/2007, de 30 de noviembre. <a class="refPost">Ref. BOE-A-2007-20636</a></p>
+          <p class="nota_pie">Se modifica el párrafo 1 por el art. único.135 de la Ley Orgánica 15/2003, de 25 de noviembre. <a class="refPost">Ref. BOE-A-2003-21538</a></p>
+        </blockquote>
+      </version>
+      <version id_norma="BOE-A-2019-2973" fecha_publicacion="20190302" fecha_vigencia="20190303">
+        <p class="articulo">Artículo 382.</p>
+        <p class="parrafo">Cuando con los actos sancionados en los artículos 379, 380 y 381 se ocasionare, además del riesgo prevenido, un resultado lesivo constitutivo de delito, cualquiera que sea su gravedad, los Jueces o Tribunales apreciarán tan sólo la infracción más gravemente penada, aplicando la pena en su mitad superior y condenando, en todo caso, al resarcimiento de la responsabilidad civil que se hubiera originado.</p>
+        <p class="parrafo">Cuando el resultado lesivo concurra con un delito del artículo 381, se impondrá en todo caso la pena de privación del derecho a conducir vehículos a motor y ciclomotores prevista en este precepto en su mitad superior.</p>
+        <blockquote>
+          <p class="nota_pie">Se modifica por el art. único.5 de la Ley Orgánica 2/2019, de 1 de marzo. <a class="refPost">Ref. BOE-A-2019-2973</a></p>
+          <p class="nota_pie">Se modifica por el art. único.6 de la Ley Orgánica 15/2007, de 30 de noviembre. <a class="refPost">Ref. BOE-A-2007-20636</a></p>
+          <p class="nota_pie">Se modifica el párrafo 1 por el art. único.135 de la Ley Orgánica 15/2003, de 25 de noviembre. <a class="refPost">Ref. BOE-A-2003-21538</a></p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

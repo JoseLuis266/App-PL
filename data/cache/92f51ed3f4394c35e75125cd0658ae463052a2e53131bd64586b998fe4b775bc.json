@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-18533",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-18533",
+  "sha256": "b1d7adb4557f1e6df513536366e8854e99e9b09ffc003995799ba8ce9c160caa",
+  "archivo": "data/raw/b1d7adb4557f1e6df513536366e8854e99e9b09ffc003995799ba8ce9c160caa.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:41.698819+00:00"
+}

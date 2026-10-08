@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-14041",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-14041",
+  "sha256": "fe31e7436abc1b0a33e2b9719d47c80cc85356744075c8ee4220eec853a7f47c",
+  "archivo": "data/raw/fe31e7436abc1b0a33e2b9719d47c80cc85356744075c8ee4220eec853a7f47c.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:24:06.322921+00:00"
+}

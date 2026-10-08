@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a135" tipo="precepto" titulo="Artículo 135">
+      <version id_norma="BOE-A-2007-4233" fecha_publicacion="20070301" fecha_vigencia="20070302">
+        <p class="articulo">Artículo 135. El presupuesto.</p>
+        <p class="parrafo">1. El presupuesto general de la Comunidad Autónoma de las Illes Balears tiene carácter anual, es único y constituye la expresión cifrada, conjunta y sistemática de todos los gastos y de todos los ingresos de las instituciones, los organismos, las entidades y las empresas que constituyen el sector público autonómico.</p>
+        <p class="parrafo">2. Corresponde al Gobierno de las Illes Balears elaborar y ejecutar el presupuesto, y al Parlamento examinarlo, enmendarlo, aprobarlo y controlarlo, sin perjuicio del control que corresponda a la Sindicatura de Cuentas y al Tribunal de Cuentas.</p>
+        <p class="parrafo">3. La tramitación parlamentaria del proyecto de ley de presupuestos generales de la Comunidad Autónoma de las Illes Balears se llevará a cabo con las especialidades previstas en el Reglamento del Parlamento de las Illes Balears.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

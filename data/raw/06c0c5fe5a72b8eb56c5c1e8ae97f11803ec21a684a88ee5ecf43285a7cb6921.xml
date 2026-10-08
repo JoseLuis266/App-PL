@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a139" tipo="precepto" titulo="Artículo 139">
+      <version id_norma="BOE-A-2007-4233" fecha_publicacion="20070301" fecha_vigencia="20070302">
+        <p class="articulo">Artículo 139. Iniciativa.</p>
+        <p class="parrafo">1. La iniciativa de reforma corresponderá al Parlamento, a propuesta de una quinta parte de los Diputados, al Gobierno de la Comunidad Autónoma y a las Cortes Generales.</p>
+        <p class="parrafo">2. La propuesta de reforma requerirá para prosperar la aprobación del Parlamento por mayoría de dos tercios de los Diputados y la aprobación de las Cortes Generales mediante una ley orgánica.</p>
+        <p class="parrafo">3. En todo lo no previsto en este artículo, se estará a lo dispuesto en la Constitución sobre esta materia.</p>
+        <p class="parrafo">4. En el supuesto de tramitación en el Congreso de los Diputados y en el Senado de una propuesta de reforma del Estatuto de Autonomía de las Illes Balears, el Parlamento podrá retirarla.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

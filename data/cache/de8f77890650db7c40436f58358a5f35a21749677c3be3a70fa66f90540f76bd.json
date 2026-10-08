@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2011-14246",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2011-14246",
+  "sha256": "1732ac62c776da6d45231e693608032c4cae4e8d99c6d5653439c230c867c92d",
+  "archivo": "data/raw/1732ac62c776da6d45231e693608032c4cae4e8d99c6d5653439c230c867c92d.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:07.190272+00:00"
+}

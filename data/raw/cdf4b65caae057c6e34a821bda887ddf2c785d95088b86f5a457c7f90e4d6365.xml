@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a120" tipo="precepto" titulo="Artículo 120">
+      <version id_norma="BOE-A-2003-23514" fecha_publicacion="20031223" fecha_vigencia="20040123">
+        <p class="articulo">Artículo 120. Normas generales.</p>
+        <p class="parrafo">1. Se considerará que afecta a la seguridad vial el exceso en más del 50 por ciento en los tiempos de conducción o la minoración en más del 50 por ciento en los tiempos de descanso establecidos en la legislación sobre transportes terrestres.</p>
+        <p class="parrafo">2. Las infracciones a lo dispuesto en este precepto se calificarán de muy graves, conforme se prevé en el artículo 65.5.h) del texto articulado.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

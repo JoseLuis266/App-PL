@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1995-12095",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1995-12095",
+  "sha256": "cc44e70eca4766dbd9d0abbb5c79e4ae15f9543e79aa50b6e9a4afb7182f0738",
+  "archivo": "data/raw/cc44e70eca4766dbd9d0abbb5c79e4ae15f9543e79aa50b6e9a4afb7182f0738.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:20:59.815163+00:00"
+}

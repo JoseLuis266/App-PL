@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-9481/texto/indice",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-9481/texto/indice",
+  "sha256": "a2f55032ecc0e2e1923e4aeb2104865ca3bd0b5997952c076754a0404bbcf3fb",
+  "archivo": "data/raw/a2f55032ecc0e2e1923e4aeb2104865ca3bd0b5997952c076754a0404bbcf3fb.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:30:55.693205+00:00"
+}

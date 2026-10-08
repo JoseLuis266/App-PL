@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-4233/texto/bloque/a135",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-4233/texto/bloque/a135",
+  "sha256": "548f29739cfd3b3a512485b7452fa012e86bcc38800f89cde9806af80242a02f",
+  "archivo": "data/raw/548f29739cfd3b3a512485b7452fa012e86bcc38800f89cde9806af80242a02f.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:04:55.626480+00:00"
+}

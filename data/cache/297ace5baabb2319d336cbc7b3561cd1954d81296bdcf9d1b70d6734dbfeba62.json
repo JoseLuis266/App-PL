@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1991-17903",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1991-17903",
+  "sha256": "4a2049ff99e3574058f0730691a6ed654080943f83b9dff3201aac7c1cd11ae8",
+  "archivo": "data/raw/4a2049ff99e3574058f0730691a6ed654080943f83b9dff3201aac7c1cd11ae8.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:20:51.025895+00:00"
+}

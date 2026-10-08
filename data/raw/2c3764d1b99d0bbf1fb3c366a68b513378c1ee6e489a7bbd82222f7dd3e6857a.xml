@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a29" tipo="precepto" titulo="Artículo 29">
+      <version id_norma="BOE-A-1978-31229" fecha_publicacion="19781229" fecha_vigencia="19781229">
+        <p class="articulo">Artículo 29</p>
+        <p class="parrafo">1. Todos los españoles tendrán el derecho de petición individual y colectiva, por escrito, en la forma y con los efectos que determine la ley.</p>
+        <p class="parrafo">2. Los miembros de las Fuerzas o Institutos armados o de los Cuerpos sometidos a disciplina militar podrán ejercer este derecho sólo individualmente y con arreglo a lo dispuesto en su legislación específica.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

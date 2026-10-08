@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1882-6036/texto/bloque/a803terq",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1882-6036/texto/bloque/a803terq",
+  "sha256": "a03700c00145e52ec33117c9219a15f46928f6776d79cb63c162728951118e8f",
+  "archivo": "data/raw/a03700c00145e52ec33117c9219a15f46928f6776d79cb63c162728951118e8f.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:25:28.907640+00:00"
+}

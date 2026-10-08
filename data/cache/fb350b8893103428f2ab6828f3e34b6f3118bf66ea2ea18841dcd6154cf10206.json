@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-6720",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-6720",
+  "sha256": "a04b88e5eeb7277947ec377b70839552882f5eb100bf283b83e61624c8d9de0b",
+  "archivo": "data/raw/a04b88e5eeb7277947ec377b70839552882f5eb100bf283b83e61624c8d9de0b.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:57.540710+00:00"
+}

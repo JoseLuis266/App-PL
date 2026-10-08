@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-6310/analisis",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-6310/analisis",
+  "sha256": "116c4b163b05a1e275f3e7c6d921efa588674e7bb0fb152781de7d840beeb5c6",
+  "archivo": "data/raw/116c4b163b05a1e275f3e7c6d921efa588674e7bb0fb152781de7d840beeb5c6.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:31:52.544411+00:00"
+}

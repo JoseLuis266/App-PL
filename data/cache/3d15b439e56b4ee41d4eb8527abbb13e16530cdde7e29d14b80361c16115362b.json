@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-16791",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-16791",
+  "sha256": "0d33a6e0b36b5db484ce03e1ea4d0ccccf6614f1706280821c47d93481fb073f",
+  "archivo": "data/raw/0d33a6e0b36b5db484ce03e1ea4d0ccccf6614f1706280821c47d93481fb073f.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:38.526821+00:00"
+}

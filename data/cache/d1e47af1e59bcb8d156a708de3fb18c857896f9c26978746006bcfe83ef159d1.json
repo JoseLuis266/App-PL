@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-13756",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-13756",
+  "sha256": "9a34abd3c9c20d190a452cd3cfab29f4239d201fa67ca4ba4a720a49ae125e97",
+  "archivo": "data/raw/9a34abd3c9c20d190a452cd3cfab29f4239d201fa67ca4ba4a720a49ae125e97.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:28.692285+00:00"
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a1-8" tipo="precepto" titulo="Artículo 16">
+      <version id_norma="BOE-A-2016-6310" fecha_publicacion="20160602" fecha_vigencia="20160603">
+        <p class="articulo">Artículo 16. Salud.</p>
+        <p class="parrafo">1. El sistema sanitario de las Illes Balears incorporará la perspectiva de género y tendrá en cuenta las necesidades específicas de las personas LGTBI, con el fin de garantizarles el derecho a recibir la atención sanitaria y a disfrutar de los servicios de salud en condiciones objetivas de igualdad.</p>
+        <p class="parrafo">2. El sistema sanitario de las Illes Balears garantizará que los miembros de parejas estables y las personas vinculadas por una relación de afectividad, con independencia de su orientación sexual o identidad de género, tengan los mismos derechos que los cónyuges o familiares más cercanos. En cuanto al consentimiento por sustitución, la pareja estable con quien la persona enferma convive tiene la consideración de familiar más cercano.</p>
+        <p class="parrafo">3. Las administraciones públicas de las Illes Balears, en las líneas de actuación relativas a la salud y al sistema sanitario:</p>
+        <p class="parrafo_2">a) Garantizarán que la política sanitaria sea respetuosa con las personas LGTBI y no trate directa o indirectamente la condición de estas personas, especialmente transexuales, transgéneros e intersexuales, como una patología.</p>
+        <p class="parrafo">b) Elaborarán políticas de salud pública que garanticen el derecho a la salud de las personas LGTBI, con la adaptación de los protocolos establecidos.</p>
+        <p class="parrafo">c) Establecerán estrategias específicas para afrontar los problemas de salud específicos de las personas LGTBI y fortalecerán la vigilancia epidemiológica sensible a las diversas situaciones de salud y de enfermedad de estas personas, con respeto, en cualquier caso, al derecho a la intimidad de los afectados y de las afectadas.</p>
+        <p class="parrafo">d) Crearán mecanismos de participación de las personas, las entidades y las asociaciones LGTBI en las políticas relativas a la salud sexual.</p>
+        <p class="parrafo">e) Fomentarán el estudio, la investigación y el desarrollo de políticas sanitarias específicas para personas LGTBI.</p>
+        <p class="parrafo">f) Promoverán entre los diversos estamentos de las instituciones sanitarias el establecimiento de prácticas sanitarias o terapias psicológicas lícitas y respetuosas, y que en ningún caso provoquen aversión, en cuanto a la orientación sexual, la identidad de género y la expresión de género.</p>
+        <p class="parrafo">g) Reconocerán el derecho de acceso a los métodos preventivos que garantizan prácticas sexuales más seguras y evitan las infecciones de transmisión sexual y el tratamiento consiguiente, y fomentarán el uso de estos métodos.</p>
+        <p class="parrafo">h) Reconocerán el derecho a la prevención, a la detección eficaz y al tratamiento integral de las infecciones de transmisión sexual de acuerdo con la cartera de servicios. Llevarán a cabo actividades periódicas de promoción de la salud, de prevención de la enfermedad y de sensibilización y de apoyo comunitario con relación a las infecciones de transmisión sexual, tanto para hombres como para mujeres.</p>
+        <p class="parrafo">i) Incorporarán al sistema sanitario la atención integral a personas transexuales e intersexuales, definiendo los criterios de acceso tanto al tratamiento hormonal como a la intervención quirúrgica. Se tendrá en cuenta la voluntad de la persona en la toma de decisiones, siempre que su vida no esté en peligro o sus condiciones de salud no se puedan ver perjudicadas, de acuerdo con la normativa vigente. En cuanto a los y a las menores, se tendrá especialmente en cuenta, además, su derecho al libre desarrollo de la personalidad y su capacidad y madurez para tomar decisiones.</p>
+        <p class="parrafo">j) Establecerán los mecanismos necesarios para que en la documentación administrativa y en la sanitaria se atienda a la diversidad del hecho familiar y a las circunstancias de las personas LGTBI.</p>
+        <p class="parrafo">k) Garantizarán a las mujeres lesbianas y bisexuales la igualdad de acceso a las técnicas y a los tratamientos de reproducción asistida.</p>
+        <p class="parrafo">l) Darán difusión a la Ley de voluntades anticipadas (testamento vital), como mecanismo que puede servir para que las personas LGTBI decidan cómo quieren ser tratadas en el ámbito hospitalario en los casos que prevé esta ley y puedan nombrar a la persona que quieran como representante.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

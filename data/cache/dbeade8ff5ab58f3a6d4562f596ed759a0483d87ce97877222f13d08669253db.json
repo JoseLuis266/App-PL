@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25863",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-25863",
+  "sha256": "6a54cd1b21397da81403a129a39cf1fda8b3ed78fce4765bc9dbbc4eda9e7b5f",
+  "archivo": "data/raw/6a54cd1b21397da81403a129a39cf1fda8b3ed78fce4765bc9dbbc4eda9e7b5f.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:34.515624+00:00"
+}

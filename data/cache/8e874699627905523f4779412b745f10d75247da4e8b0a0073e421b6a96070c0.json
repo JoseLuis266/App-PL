@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-23514/texto/bloque/a99",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-23514/texto/bloque/a99",
+  "sha256": "5b0520bdc329beee3fbaf1d75ce7ea6327d9163d3689abb91b8514b02c1f4cb4",
+  "archivo": "data/raw/5b0520bdc329beee3fbaf1d75ce7ea6327d9163d3689abb91b8514b02c1f4cb4.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:05:30.451016+00:00"
+}

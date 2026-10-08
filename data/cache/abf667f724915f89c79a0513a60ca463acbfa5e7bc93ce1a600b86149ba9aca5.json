@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1992-17448",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1992-17448",
+  "sha256": "9e6a07c91dd99d0af5c75d67f910b245a27e7d0bf886c78c96cf4fc7c85fcb1f",
+  "archivo": "data/raw/9e6a07c91dd99d0af5c75d67f910b245a27e7d0bf886c78c96cf4fc7c85fcb1f.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:46.249274+00:00"
+}

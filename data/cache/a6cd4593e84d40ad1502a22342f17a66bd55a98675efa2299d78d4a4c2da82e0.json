@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-23514/texto/indice",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-23514/texto/indice",
+  "sha256": "6130d082011f8dbea1f9e5fa9f62c30add53836ebfce9eab00e297e41141b8c4",
+  "archivo": "data/raw/6130d082011f8dbea1f9e5fa9f62c30add53836ebfce9eab00e297e41141b8c4.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:30:51.364371+00:00"
+}

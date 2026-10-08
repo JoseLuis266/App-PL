@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-1893/texto/bloque/a15",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-1893/texto/bloque/a15",
+  "sha256": "771eee4b9eca2e94dcb7789a2a74de5c69b1b34ab3284973efd50a1382272212",
+  "archivo": "data/raw/771eee4b9eca2e94dcb7789a2a74de5c69b1b34ab3284973efd50a1382272212.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:05:15.648083+00:00"
+}

@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-9481/analisis",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-9481/analisis",
+  "sha256": "c81ecbdb50e8be030260a82bf1ca2afa75ff8a49228a55fa58a7d2d30b1a2901",
+  "archivo": "data/raw/c81ecbdb50e8be030260a82bf1ca2afa75ff8a49228a55fa58a7d2d30b1a2901.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:30:56.730122+00:00"
+}

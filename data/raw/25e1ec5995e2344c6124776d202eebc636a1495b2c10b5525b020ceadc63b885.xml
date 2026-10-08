@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque>
+      <id>preambulo</id>
+      <titulo/>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/preambulo</url>
+    </bloque>
+    <bloque>
+      <id>ti</id>
+      <titulo>TÍTULO I</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/ti</url>
+    </bloque>
+    <bloque>
+      <id>ci</id>
+      <titulo>CAPÍTULO I</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/ci</url>
+    </bloque>
+    <bloque>
+      <id>aprimero</id>
+      <titulo>Artículo primero</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/aprimero</url>
+    </bloque>
+    <bloque>
+      <id>asegundo</id>
+      <titulo>Artículo segundo</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/asegundo</url>
+    </bloque>
+    <bloque>
+      <id>atercero</id>
+      <titulo>Artículo tercero</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/atercero</url>
+    </bloque>
+    <bloque>
+      <id>acuarto</id>
+      <titulo>Artículo cuarto</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/acuarto</url>
+    </bloque>
+    <bloque>
+      <id>cii</id>
+      <titulo>CAPÍTULO II</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/cii</url>
+    </bloque>
+    <bloque>
+      <id>aquinto</id>
+      <titulo>Artículo quinto</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/aquinto</url>
+    </bloque>
+    <bloque>
+      <id>ciii</id>
+      <titulo>CAPÍTULO III</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/ciii</url>
+    </bloque>
+    <bloque>
+      <id>asexto</id>
+      <titulo>Artículo sexto</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/asexto</url>
+    </bloque>
+    <bloque>
+      <id>aseptimo</id>
+      <titulo>Artículo séptimo</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/aseptimo</url>
+    </bloque>
+    <bloque>
+      <id>aoctavo</id>
+      <titulo>Artículo octavo</titulo>
+      <fecha_actualizacion>19900417</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/aoctavo</url>
+    </bloque>
+    <bloque>
+      <id>tii</id>
+      <titulo>TÍTULO II</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/tii</url>
+    </bloque>
+    <bloque>
+      <id>ci-2</id>
+      <titulo>CAPÍTULO I</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/ci-2</url>
+    </bloque>
+    <bloque>
+      <id>anoveno</id>
+      <titulo>Artículo noveno</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/anoveno</url>
+    </bloque>
+    <bloque>
+      <id>adiez</id>
+      <titulo>Artículo diez</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/adiez</url>
+    </bloque>
+    <bloque>
+      <id>cii-2</id>
+      <titulo>CAPÍTULO II</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/cii-2</url>
+    </bloque>
+    <bloque>
+      <id>aonce</id>
+      <titulo>Artículo once</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/aonce</url>
+    </bloque>
+    <bloque>
+      <id>adoce</id>
+      <titulo>Artículo doce</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/adoce</url>
+    </bloque>
+    <bloque>
+      <id>ciii-2</id>
+      <titulo>CAPÍTULO III</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/ciii-2</url>
+    </bloque>
+    <bloque>
+      <id>atrece</id>
+      <titulo>Artículo trece</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/atrece</url>
+    </bloque>
+    <bloque>
+      <id>acatorce</id>
+      <titulo>Artículo catorce</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/acatorce</url>
+    </bloque>
+    <bloque>
+      <id>aquince</id>
+      <titulo>Artículo quince</titulo>
+      <fecha_actualizacion>20071023</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/aquince</url>
+    </bloque>
+    <bloque>
+      <id>civ</id>
+      <titulo>CAPÍTULO IV</titulo>
+      <fecha_actualizacion>20150729</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/civ</url>
+    </bloque>
+    <bloque>
+      <id>s1</id>
+      <titulo>Sección 1</titulo>
+      <fecha_actualizacion>20150729</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/s1</url>
+    </bloque>
+    <bloque>
+      <id>adieciseis</id>
+      <titulo>Artículo dieciséis</titulo>
+      <fecha_actualizacion>20150729</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/adieciseis</url>
+    </bloque>
+    <bloque>
+      <id>adiecisiete</id>
+      <titulo>Artículo diecisiete</titulo>
+      <fecha_actualizacion>20150729</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/adiecisiete</url>
+    </bloque>
+    <bloque>
+      <id>s2</id>
+      <titulo>Sección 2</titulo>
+      <fecha_actualizacion>20150729</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/s2</url>
+    </bloque>
+    <bloque>
+      <id>adieciocho</id>
+      <titulo>Artículo dieciocho</titulo>
+      <fecha_actualizacion>20150729</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/adieciocho</url>
+    </bloque>
+    <bloque>
+      <id>adiecinueve</id>
+      <titulo>Artículo diecinueve</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/adiecinueve</url>
+    </bloque>
+    <bloque>
+      <id>aveinte</id>
+      <titulo>Artículo veinte</titulo>
+      <fecha_actualizacion>20150729</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/aveinte</url>
+    </bloque>
+    <bloque>
+      <id>aveintiuno</id>
+      <titulo>Artículo veintiuno</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/aveintiuno</url>
+    </bloque>
+    <bloque>
+      <id>aveintidos</id>
+      <titulo>Artículo veintidós</titulo>
+      <fecha_actualizacion>20150729</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/aveintidos</url>
+    </bloque>
+    <bloque>
+      <id>aveintitres</id>
+      <titulo>Artículo veintitrés</titulo>
+      <fecha_actualizacion>20150729</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/aveintitres</url>
+    </bloque>
+    <bloque>
+      <id>aveinticuatro</id>
+      <titulo>Artículo veinticuatro</titulo>
+      <fecha_actualizacion>20150729</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/aveinticuatro</url>
+    </bloque>
+    <bloque>
+      <id>s3</id>
+      <titulo>Sección 3</titulo>
+      <fecha_actualizacion>20150729</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/s3</url>
+    </bloque>
+    <bloque>
+      <id>aveinticinco</id>
+      <titulo>Artículo veinticinco</titulo>
+      <fecha_actualizacion>20150729</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/aveinticinco</url>
+    </bloque>
+    <bloque>
+      <id>aveintiseis</id>
+      <titulo>Artículo veintiséis</titulo>
+      <fecha_actualizacion>20150729</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/aveintiseis</url>
+    </bloque>
+    <bloque>
+      <id>s4</id>
+      <titulo>Sección 4</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/s4</url>
+    </bloque>
+    <bloque>
+      <id>aveintisiete</id>
+      <titulo>Artículo veintisiete</titulo>
+      <fecha_actualizacion>20100521</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/aveintisiete</url>
+    </bloque>
+    <bloque>
+      <id>aveintiocho</id>
+      <titulo>Artículo veintiocho</titulo>
+      <fecha_actualizacion>20100521</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/aveintiocho</url>
+    </bloque>
+    <bloque>
+      <id>cv</id>
+      <titulo>CAPÍTULO V</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/cv</url>
+    </bloque>
+    <bloque>
+      <id>aveintinueve</id>
+      <titulo>Artículo veintinueve</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/aveintinueve</url>
+    </bloque>
+    <bloque>
+      <id>atreinta</id>
+      <titulo>Artículo treinta</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/atreinta</url>
+    </bloque>
+    <bloque>
+      <id>atreintayuno</id>
+      <titulo>Artículo treinta y uno</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/atreintayuno</url>
+    </bloque>
+    <bloque>
+      <id>atreintaydos</id>
+      <titulo>Artículo treinta y dos</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/atreintaydos</url>
+    </bloque>
+    <bloque>
+      <id>atreintaytres</id>
+      <titulo>Artículo treinta y tres</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/atreintaytres</url>
+    </bloque>
+    <bloque>
+      <id>atreintaycuatro</id>
+      <titulo>Artículo treinta y cuatro</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/atreintaycuatro</url>
+    </bloque>
+    <bloque>
+      <id>atreintaycinco</id>
+      <titulo>Artículo treinta y cinco</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/atreintaycinco</url>
+    </bloque>
+    <bloque>
+      <id>atreintayseis</id>
+      <titulo>Artículo treinta y seis</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/atreintayseis</url>
+    </bloque>
+    <bloque>
+      <id>tiii</id>
+      <titulo>TÍTULO III</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/tiii</url>
+    </bloque>
+    <bloque>
+      <id>ci-3</id>
+      <titulo>CAPÍTULO I</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/ci-3</url>
+    </bloque>
+    <bloque>
+      <id>atreintaysiete</id>
+      <titulo>Artículo treinta y siete</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/atreintaysiete</url>
+    </bloque>
+    <bloque>
+      <id>cii-3</id>
+      <titulo>CAPÍTULO II</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/cii-3</url>
+    </bloque>
+    <bloque>
+      <id>atreintayocho</id>
+      <titulo>Artículo treinta y ocho</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/atreintayocho</url>
+    </bloque>
+    <bloque>
+      <id>atreintaynueve</id>
+      <titulo>Artículo treinta y nueve</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/atreintaynueve</url>
+    </bloque>
+    <bloque>
+      <id>ciii-3</id>
+      <titulo>CAPÍTULO III</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/ciii-3</url>
+    </bloque>
+    <bloque>
+      <id>acuarenta</id>
+      <titulo>Artículo cuarenta</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/acuarenta</url>
+    </bloque>
+    <bloque>
+      <id>acuarentayuno</id>
+      <titulo>Artículo cuarenta y uno</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/acuarentayuno</url>
+    </bloque>
+    <bloque>
+      <id>acuarentaydos</id>
+      <titulo>Artículo cuarenta y dos</titulo>
+      <fecha_actualizacion>20030311</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/acuarentaydos</url>
+    </bloque>
+    <bloque>
+      <id>acuarentaytres</id>
+      <titulo>Artículo cuarenta y tres</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/acuarentaytres</url>
+    </bloque>
+    <bloque>
+      <id>acuarentaycuatro</id>
+      <titulo>Artículo cuarenta y cuatro</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/acuarentaycuatro</url>
+    </bloque>
+    <bloque>
+      <id>tiv</id>
+      <titulo>TÍTULO IV</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/tiv</url>
+    </bloque>
+    <bloque>
+      <id>ci-4</id>
+      <titulo>CAPÍTULO I</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/ci-4</url>
+    </bloque>
+    <bloque>
+      <id>acuarentaycinco</id>
+      <titulo>Artículo cuarenta y cinco</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/acuarentaycinco</url>
+    </bloque>
+    <bloque>
+      <id>acuarentayseis</id>
+      <titulo>Artículo cuarenta y seis</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/acuarentayseis</url>
+    </bloque>
+    <bloque>
+      <id>cii-4</id>
+      <titulo>CAPÍTULO II</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/cii-4</url>
+    </bloque>
+    <bloque>
+      <id>acuarentaysiete</id>
+      <titulo>Artículo cuarenta y siete</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/acuarentaysiete</url>
+    </bloque>
+    <bloque>
+      <id>ciii-4</id>
+      <titulo>CAPÍTULO III</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/ciii-4</url>
+    </bloque>
+    <bloque>
+      <id>acuarentayocho</id>
+      <titulo>Artículo cuarenta y ocho</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/acuarentayocho</url>
+    </bloque>
+    <bloque>
+      <id>acuarentaynueve</id>
+      <titulo>Artículo cuarenta y nueve</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/acuarentaynueve</url>
+    </bloque>
+    <bloque>
+      <id>acincuenta</id>
+      <titulo>Artículo cincuenta</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/acincuenta</url>
+    </bloque>
+    <bloque>
+      <id>tv</id>
+      <titulo>TÍTULO V</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/tv</url>
+    </bloque>
+    <bloque>
+      <id>acincuentayuno</id>
+      <titulo>Artículo cincuenta y uno</titulo>
+      <fecha_actualizacion>20030311</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/acincuentayuno</url>
+    </bloque>
+    <bloque>
+      <id>acincuentaydos</id>
+      <titulo>Artículo cincuenta y dos</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/acincuentaydos</url>
+    </bloque>
+    <bloque>
+      <id>acincuentaytres</id>
+      <titulo>Artículo cincuenta y tres</titulo>
+      <fecha_actualizacion>20131221</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/acincuentaytres</url>
+    </bloque>
+    <bloque>
+      <id>acincuentaycuatro</id>
+      <titulo>Artículo cincuenta y cuatro</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/acincuentaycuatro</url>
+    </bloque>
+    <bloque>
+      <id>primera</id>
+      <titulo>Disposición transitoria primera</titulo>
+      <fecha_actualizacion>19940930</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/primera</url>
+    </bloque>
+    <bloque>
+      <id>segunda</id>
+      <titulo>Disposición transitoria segunda</titulo>
+      <fecha_actualizacion>19861224</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/segunda</url>
+    </bloque>
+    <bloque>
+      <id>tercera</id>
+      <titulo>Disposición transitoria tercera</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/tercera</url>
+    </bloque>
+    <bloque>
+      <id>cuarta</id>
+      <titulo>Disposición transitoria cuarta</titulo>
+      <fecha_actualizacion>19940930</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/cuarta</url>
+    </bloque>
+    <bloque>
+      <id>primera-2</id>
+      <titulo>Disposición adicional primera</titulo>
+      <fecha_actualizacion>20150729</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/primera-2</url>
+    </bloque>
+    <bloque>
+      <id>segunda-2</id>
+      <titulo>Disposición adicional segunda</titulo>
+      <fecha_actualizacion>20150729</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/segunda-2</url>
+    </bloque>
+    <bloque>
+      <id>tercera-2</id>
+      <titulo>Disposición adicional tercera</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/tercera-2</url>
+    </bloque>
+    <bloque>
+      <id>cuarta-2</id>
+      <titulo>Disposición adicional cuarta</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/cuarta-2</url>
+    </bloque>
+    <bloque>
+      <id>quinta</id>
+      <titulo>Disposición adicional quinta</titulo>
+      <fecha_actualizacion>20071214</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/quinta</url>
+    </bloque>
+    <bloque>
+      <id>sexta</id>
+      <titulo>Disposición adicional sexta</titulo>
+      <fecha_actualizacion>20150729</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/sexta</url>
+    </bloque>
+    <bloque>
+      <id>septima</id>
+      <titulo>Disposición adicional séptima</titulo>
+      <fecha_actualizacion>20150729</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/septima</url>
+    </bloque>
+    <bloque>
+      <id>primera-3</id>
+      <titulo>Disposición final primera</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/primera-3</url>
+    </bloque>
+    <bloque>
+      <id>segunda-3</id>
+      <titulo>Disposición final segunda</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/segunda-3</url>
+    </bloque>
+    <bloque>
+      <id>tercera-3</id>
+      <titulo>Disposición final tercera</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/tercera-3</url>
+    </bloque>
+    <bloque>
+      <id>cuarta-3</id>
+      <titulo>Disposición final cuarta</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/cuarta-3</url>
+    </bloque>
+    <bloque>
+      <id>quinta-2</id>
+      <titulo>Disposición final quinta</titulo>
+      <fecha_actualizacion>20150729</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/quinta-2</url>
+    </bloque>
+    <bloque>
+      <id>sexta-2</id>
+      <titulo>Disposición final sexta</titulo>
+      <fecha_actualizacion>20150729</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/sexta-2</url>
+    </bloque>
+    <bloque>
+      <id>dd</id>
+      <titulo>Disposición derogatoria</titulo>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/dd</url>
+    </bloque>
+    <bloque>
+      <id>firma</id>
+      <titulo/>
+      <fecha_actualizacion>19860314</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/firma</url>
+    </bloque>
+  </data>
+</response>

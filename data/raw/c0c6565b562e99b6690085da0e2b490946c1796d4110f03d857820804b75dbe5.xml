@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="aquinto" tipo="precepto" titulo="Artículo quinto">
+      <version id_norma="BOE-A-1984-11620" fecha_publicacion="19840526" fecha_vigencia="19840527">
+        <p class="articulo">Artículo quinto.</p>
+        <p class="parrafo">La autoridad gubernativa, agente de la misma o funcionario público, estarán obligados a poner inmediatamente en conocimiento del Juez competente la solicitud de «Habeas Corpus», formulada por la persona privada de libertad que se encuentre bajo su custodia.</p>
+        <p class="parrafo">Si incumplieren esta obligación, serán apercibidos por el Juez, sin perjuicio de las responsabilidades penales y disciplinarias en que pudieran incurrir.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

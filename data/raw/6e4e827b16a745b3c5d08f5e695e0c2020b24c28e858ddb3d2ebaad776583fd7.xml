@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <analisis>
+      <materias>
+        <materia codigo="2467">Derechos fundamentales</materia>
+        <materia codigo="2493">Detención</materia>
+        <materia codigo="3982">Habeas Corpus</materia>
+      </materias>
+      <referencias>
+        <posteriores>
+          <posterior>
+            <id_norma>BOE-A-2024-23630</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 3, por Ley Orgánica 5/2024, de 11 de noviembre</texto>
+          </posterior>
+        </posteriores>
+      </referencias>
+    </analisis>
+  </data>
+</response>

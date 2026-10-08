@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-2073",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-2073",
+  "sha256": "59ed0c797e0ab3f8a39429235bb14e0e3d5595c8ef0a6c091e9a7473f5f6edb5",
+  "archivo": "data/raw/59ed0c797e0ab3f8a39429235bb14e0e3d5595c8ef0a6c091e9a7473f5f6edb5.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:34.746896+00:00"
+}

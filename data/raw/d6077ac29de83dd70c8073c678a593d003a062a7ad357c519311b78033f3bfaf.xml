@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a310" tipo="precepto" titulo="Artículo 310">
+      <version id_norma="BOE-A-1882-6036" fecha_publicacion="19970601" fecha_vigencia="19970601">
+        <p class="articulo">Artículo 310.</p>
+        <p class="parrafo">Los Jueces de instrucción podrán delegar en los municipales la práctica de todos los actos y diligencias que esta Ley no reserve exclusivamente a los primeros cuando alguna causa justificada les impida practicarlos por sí. Pero procurarán hacer uso moderado de esta facultad, y el Tribunal inmediato superior cuidará de impedir y corregir la frecuencia injustificada de estas delegaciones.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

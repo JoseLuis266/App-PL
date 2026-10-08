@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a3" tipo="precepto" titulo="Artículo 3">
+      <version id_norma="BOE-A-2015-11722" fecha_publicacion="20151031" fecha_vigencia="20160131">
+        <p class="articulo">Artículo 3. Conceptos básicos.</p>
+        <p class="parrafo">A los efectos de esta ley y sus disposiciones complementarias, los conceptos básicos sobre vehículos, vías públicas y usuarios de las mismas son los previstos en su anexo I.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

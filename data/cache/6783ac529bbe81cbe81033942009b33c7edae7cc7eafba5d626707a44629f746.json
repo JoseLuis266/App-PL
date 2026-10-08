@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1978-5335",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1978-5335",
+  "sha256": "88de3f97c75ffe7108c14a3ce138cd1ddcf841facb11e11173bab62c8d076bdf",
+  "archivo": "data/raw/88de3f97c75ffe7108c14a3ce138cd1ddcf841facb11e11173bab62c8d076bdf.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:20:26.721827+00:00"
+}

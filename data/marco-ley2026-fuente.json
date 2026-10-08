@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-15579",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-15579",
+  "sha256": "0a4b91a4a7a555122d05744cb91a5ce6fdbd6bcafbbd051c18de674eb99c0c77",
+  "archivo": "data/raw/0a4b91a4a7a555122d05744cb91a5ce6fdbd6bcafbbd051c18de674eb99c0c77.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:26:54.689678+00:00"
+}

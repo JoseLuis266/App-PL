@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="atercero" tipo="precepto" titulo="Artículo tercero">
+      <version id_norma="BOE-A-1984-11620" fecha_publicacion="19840526" fecha_vigencia="19840527">
+        <p class="articulo">Artículo tercero.</p>
+        <p class="parrafo">Podrán instar el procedimiento de «Habeas Corpus» que esta ley establece:</p>
+        <p class="parrafo_2">a) El privado de libertad, su cónyuge o persona unida por análoga relación de afectividad, descendientes, ascendientes, hermanos y, en su caso, respecto a los menores y personas incapacitadas, sus representantes legales.</p>
+        <p class="parrafo">b) El Ministerio Fiscal.</p>
+        <p class="parrafo">c) El Defensor del Pueblo.</p>
+        <p class="parrafo_2">Asimismo, lo podrá iniciar, de oficio, el Juez competente a que se refiere el artículo anterior.</p>
+      </version>
+      <version id_norma="BOE-A-2024-23630" fecha_publicacion="20241114" fecha_vigencia="20241204">
+        <p class="articulo">Artículo tercero.</p>
+        <p class="parrafo">Podrán instar el procedimiento de “Habeas Corpus” que esta ley establece:</p>
+        <p class="parrafo_2">a) El privado de libertad, su cónyuge o persona unida por análoga relación de afectividad, descendientes, ascendientes, hermanos y, en su caso, respecto a los menores, sus representantes legales, y respecto a las personas con discapacidad con medidas de apoyo judiciales, la persona que preste su apoyo con facultad de representación específica para este acto concreto.</p>
+        <p class="parrafo">b) El Ministerio Fiscal.</p>
+        <p class="parrafo">c) El Defensor del Pueblo.</p>
+        <p class="parrafo">d) El abogado defensor del privado de libertad.</p>
+        <p class="parrafo_2">Asimismo, lo podrá iniciar, de oficio, el Juez competente a que se refiere el artículo anterior.</p>
+        <blockquote>
+          <p class="nota_pie">Se modifica por la disposición final 2 de la Ley Orgánica 5/2024, de 11 de noviembre. <a class="refPost">Ref. BOE-A-2024-23630#df-2</a></p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

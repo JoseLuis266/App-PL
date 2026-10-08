@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1989-17118",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1989-17118",
+  "sha256": "68814d1853200cdb6f242ff95077303b9cab5ccfb1c630b495eec74100370210",
+  "archivo": "data/raw/68814d1853200cdb6f242ff95077303b9cab5ccfb1c630b495eec74100370210.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:20:48.090474+00:00"
+}

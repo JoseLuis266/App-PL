@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-14042",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-14042",
+  "sha256": "81cc7dcd51b0e5113e4a08059364aab06c0382a5441e2c2015f801cdfe8e8135",
+  "archivo": "data/raw/81cc7dcd51b0e5113e4a08059364aab06c0382a5441e2c2015f801cdfe8e8135.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:24:07.395673+00:00"
+}

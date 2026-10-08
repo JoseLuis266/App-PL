@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1882-6036/texto/bloque/a432",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1882-6036/texto/bloque/a432",
+  "sha256": "076eca853ab55eb2232ded39413e9ee18312fa4ee93888b52918839fde61480e",
+  "archivo": "data/raw/076eca853ab55eb2232ded39413e9ee18312fa4ee93888b52918839fde61480e.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:06:45.775676+00:00"
+}

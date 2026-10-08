@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-1893/texto/bloque/a59",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-1893/texto/bloque/a59",
+  "sha256": "9421ff66b3e5076e2f22bf827983ad07e59bdaac187cbdc5f0b4744e764b7053",
+  "archivo": "data/raw/9421ff66b3e5076e2f22bf827983ad07e59bdaac187cbdc5f0b4744e764b7053.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:05:13.594965+00:00"
+}

@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-15427",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-15427",
+  "sha256": "a76f3994e2eb881c4ca738f91867061d155455a85c2dfd549b85fcb45c7c37e3",
+  "archivo": "data/raw/a76f3994e2eb881c4ca738f91867061d155455a85c2dfd549b85fcb45c7c37e3.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:34.048473+00:00"
+}

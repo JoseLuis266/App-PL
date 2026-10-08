@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-18648",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-18648",
+  "sha256": "e525f58fb599f62d43eb833b2ad0252911e3b5017e2684418c1e29a007a382e8",
+  "archivo": "data/raw/e525f58fb599f62d43eb833b2ad0252911e3b5017e2684418c1e29a007a382e8.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:53.502495+00:00"
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <metadatos>
+      <fecha_actualizacion>20260409T114649Z</fecha_actualizacion>
+      <identificador>BOE-A-1882-6036</identificador>
+      <ambito codigo="1">Estatal</ambito>
+      <departamento codigo="4835">Ministerio de Gracia y Justicia</departamento>
+      <rango codigo="1340">Real Decreto</rango>
+      <fecha_disposicion>18820914</fecha_disposicion>
+      <titulo>Real Decreto de 14 de septiembre de 1882 por el que se aprueba la Ley de Enjuiciamiento Criminal.</titulo>
+      <diario>Gaceta de Madrid</diario>
+      <fecha_publicacion>18820917</fecha_publicacion>
+      <diario_numero>260</diario_numero>
+      <fecha_vigencia>18830103</fecha_vigencia>
+      <estatus_derogacion>N</estatus_derogacion>
+      <estatus_anulacion>N</estatus_anulacion>
+      <vigencia_agotada>N</vigencia_agotada>
+      <estado_consolidacion codigo="3">Finalizado</estado_consolidacion>
+      <url_eli>https://www.boe.es/eli/es/rd/1882/09/14/(1)</url_eli>
+      <url_html_consolidada>https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036</url_html_consolidada>
+    </metadatos>
+  </data>
+</response>

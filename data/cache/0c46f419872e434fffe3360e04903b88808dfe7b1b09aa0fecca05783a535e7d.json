@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2012-8625",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2012-8625",
+  "sha256": "a3fb9ceb8f3b71975e9c7fe67b727a29357e69fb927ca9d5f37741f87a9b9c38",
+  "archivo": "data/raw/a3fb9ceb8f3b71975e9c7fe67b727a29357e69fb927ca9d5f37741f87a9b9c38.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:13.406933+00:00"
+}

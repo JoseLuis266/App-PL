@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-4362",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-4362",
+  "sha256": "d9e99ed1f190885a0dcfa146825b33aec58ceaebeec594a578c1a35a77e799d2",
+  "archivo": "data/raw/d9e99ed1f190885a0dcfa146825b33aec58ceaebeec594a578c1a35a77e799d2.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:51.206308+00:00"
+}

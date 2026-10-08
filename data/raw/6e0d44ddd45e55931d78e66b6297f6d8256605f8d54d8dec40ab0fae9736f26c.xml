@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a83" tipo="precepto" titulo="Artículo 83">
+      <version id_norma="BOE-A-2013-9129" fecha_publicacion="20130730" fecha_vigencia="20130819">
+        <p class="articulo">Artículo 83. Vista del expediente y copia de las actuaciones.</p>
+        <p class="parrafo">La persona instructora está obligada a dar vista al funcionario sometido a expediente, a petición del mismo, de las actuaciones practicadas en cualquier momento del procedimiento y debe facilitarle una copia completa de las mismas cuando lo solicite.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

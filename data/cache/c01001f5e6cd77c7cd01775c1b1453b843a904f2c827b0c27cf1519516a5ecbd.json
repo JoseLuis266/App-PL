@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2005-13122",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2005-13122",
+  "sha256": "20197577275028e9e8fbeda6cd4bd5bf3f47dbe77e5aa470ca7872b293d7fe7b",
+  "archivo": "data/raw/20197577275028e9e8fbeda6cd4bd5bf3f47dbe77e5aa470ca7872b293d7fe7b.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:15.557658+00:00"
+}

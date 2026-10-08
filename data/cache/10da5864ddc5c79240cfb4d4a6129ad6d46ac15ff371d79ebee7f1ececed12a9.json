@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1998-1176",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1998-1176",
+  "sha256": "095f734d8ecc834e156e5b24b7f8b8881bc438d373ae8cc5648057804b2bcd29",
+  "archivo": "data/raw/095f734d8ecc834e156e5b24b7f8b8881bc438d373ae8cc5648057804b2bcd29.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:52.728975+00:00"
+}

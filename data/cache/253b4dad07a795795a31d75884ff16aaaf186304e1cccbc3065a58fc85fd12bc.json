@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-13270",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-13270",
+  "sha256": "0a89f77ae5a1a9374c51bfecb9bc42075aeba2efbe46bb6844f8666d2af16922",
+  "archivo": "data/raw/0a89f77ae5a1a9374c51bfecb9bc42075aeba2efbe46bb6844f8666d2af16922.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:26.912472+00:00"
+}

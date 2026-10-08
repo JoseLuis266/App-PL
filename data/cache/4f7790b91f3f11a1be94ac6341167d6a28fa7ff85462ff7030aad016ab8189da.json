@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1997-20262",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1997-20262",
+  "sha256": "0f1328b37b1f08f5870517ce7e1fd85b0a30553c5bf5eb044da9023ca2d7bed9",
+  "archivo": "data/raw/0f1328b37b1f08f5870517ce7e1fd85b0a30553c5bf5eb044da9023ca2d7bed9.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:08.164890+00:00"
+}

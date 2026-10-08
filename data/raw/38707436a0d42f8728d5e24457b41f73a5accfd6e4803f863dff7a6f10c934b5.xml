@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20241019120620">
+  <metadatos>
+    <identificador>BOE-A-2008-2329</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="1410">Tribunal Constitucional</departamento>
+    <rango codigo="63">Providencia</rango>
+    <fecha_disposicion>20080122</fecha_disposicion>
+    <numero_oficial>9424/2007</numero_oficial>
+    <titulo>Cuestión de inconstitucionalidad n.º 9424-2007, en relación con el artículo 153.1 del Código Penal, en la redacción dada por la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la violencia de género.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>20080211</fecha_publicacion>
+    <diario_numero>36</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>7270</pagina_inicial>
+    <pagina_final>7270</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/2008/02/11/pdfs/A07270-07270.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia/>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+  </metadatos>
+  <analisis>
+    <materias>
+      <materia codigo="886" orden="">Código Penal</materia>
+      <materia codigo="2253" orden="">Cuestiones de inconstitucionalidad</materia>
+      <materia codigo="4845" orden="">Malos tratos</materia>
+      <materia codigo="7928" orden="">Violencia de género</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1995-25444" orden="4040">
+          <palabra codigo="530">Cuestión promovida por supuesta inconstitucionalidad</palabra>
+          <texto>del art. 153.1 de la Ley Orgánica 10/1995, de 23 de noviembre, en la redacción dada por la LEY ORGÁNICA 1/2004, de 28 de diciembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2004-21760" orden="4041">
+          <palabra codigo="530">Cuestión promovida por supuesta inconstitucionalidad</palabra>
+          <texto>,</texto>
+        </anterior>
+      </anteriores>
+      <posteriores>
+        <posterior referencia="BOE-T-2008-14025" orden="">
+          <palabra codigo="693">SE DICTA</palabra>
+          <texto>en la misma y SE DECLARA la INADMISIÓN en lo indicado y la DESESTIMACIÓN en todo lo demás, en relación con el art. 153.1, por Sentencia 81/2008, de 17 de julio</texto>
+        </posterior>
+      </posteriores>
+    </referencias>
+    <alertas>
+      <alerta codigo="111" orden="">Derecho Constitucional</alerta>
+      <alerta codigo="113" orden="">Derecho Penal</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="ATEXTO_NORMAL">
+El Pleno del Tribunal Constitucional, por providencia de 22 de enero actual, ha acordado admitir a trámite la cuestión de inconstitucionalidad número 9424-2007 planteada por el Juzgado de lo Penal núm. 2 de Albacete, en el Juicio Rápido 518/2007, en relación con el art. 153.1 del Código Penal, en la redacción dada por la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, por posible vulneración de los arts. 1.1, 9, 10, 14, 17, 24.2 y 25.1 de la Constitución, y, de conformidad con lo dispuesto en el artículo 10.1 c) LOTC, en la redacción dada por la Ley Orgánica 6/2007, de 24 de mayo, reservar para sí el conocimiento de la presente cuestión.
+</p>
+    <p class="ATEXTOySIGUIENTE">
+De conformidad con lo establecido en el art. 37.2 LOTC, en su nueva redacción, quienes sean parte en el procedimiento judicial, Juicio Rápido 518/2007, podrán personarse ante este Tribunal dentro de los quince días siguientes a la publicación del presente edicto.
+</p>
+    <p class="ATEXTO_BLANCO_6">
+Madrid, 22 de enero de 2008.-La Secretaria de Justicia del Pleno, Herminia Palencia Guerra.</p>
+  </texto>
+</documento>

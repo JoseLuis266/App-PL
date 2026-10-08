@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-1893/texto/bloque/a202",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-1893/texto/bloque/a202",
+  "sha256": "e62fbc4633fde319ce0db4ad6a02413efdd95343b3a1d83908bddf63a563ddf1",
+  "archivo": "data/raw/e62fbc4633fde319ce0db4ad6a02413efdd95343b3a1d83908bddf63a563ddf1.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:05:17.750752+00:00"
+}

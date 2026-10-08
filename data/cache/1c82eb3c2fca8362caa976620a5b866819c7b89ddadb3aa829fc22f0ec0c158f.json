@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a41",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a41",
+  "sha256": "c713d435298936026984bce72bf28504e1ade8602713b1f5438f82f7cf675da2",
+  "archivo": "data/raw/c713d435298936026984bce72bf28504e1ade8602713b1f5438f82f7cf675da2.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:06:03.410822+00:00"
+}

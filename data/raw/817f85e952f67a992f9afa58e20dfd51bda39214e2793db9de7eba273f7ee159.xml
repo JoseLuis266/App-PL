@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque>
+      <id>pr</id>
+      <titulo>[preambulo]</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/pr</url>
+    </bloque>
+    <bloque>
+      <id>tp</id>
+      <titulo>TÍTULO PRELIMINAR</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/tp</url>
+    </bloque>
+    <bloque>
+      <id>a1</id>
+      <titulo>Artículo 1</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a1</url>
+    </bloque>
+    <bloque>
+      <id>a2</id>
+      <titulo>Artículo 2</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a2</url>
+    </bloque>
+    <bloque>
+      <id>a3</id>
+      <titulo>Artículo 3</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a3</url>
+    </bloque>
+    <bloque>
+      <id>ti</id>
+      <titulo>TÍTULO I</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/ti</url>
+    </bloque>
+    <bloque>
+      <id>a4</id>
+      <titulo>Artículo 4</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a4</url>
+    </bloque>
+    <bloque>
+      <id>a5</id>
+      <titulo>Artículo 5</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a5</url>
+    </bloque>
+    <bloque>
+      <id>a6</id>
+      <titulo>Artículo 6</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a6</url>
+    </bloque>
+    <bloque>
+      <id>a7</id>
+      <titulo>Artículo 7</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a7</url>
+    </bloque>
+    <bloque>
+      <id>a8</id>
+      <titulo>Artículo 8</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a8</url>
+    </bloque>
+    <bloque>
+      <id>a9</id>
+      <titulo>Artículo 9</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a9</url>
+    </bloque>
+    <bloque>
+      <id>a1-2</id>
+      <titulo>Artículo 10</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a1-2</url>
+    </bloque>
+    <bloque>
+      <id>a1-3</id>
+      <titulo>Artículo 11</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a1-3</url>
+    </bloque>
+    <bloque>
+      <id>ti-2</id>
+      <titulo>TÍTULO II</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/ti-2</url>
+    </bloque>
+    <bloque>
+      <id>ci</id>
+      <titulo>CAPÍTULO I</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/ci</url>
+    </bloque>
+    <bloque>
+      <id>a1-4</id>
+      <titulo>Artículo 12</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a1-4</url>
+    </bloque>
+    <bloque>
+      <id>a1-5</id>
+      <titulo>Artículo 13</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a1-5</url>
+    </bloque>
+    <bloque>
+      <id>a1-6</id>
+      <titulo>Artículo 14</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a1-6</url>
+    </bloque>
+    <bloque>
+      <id>a1-7</id>
+      <titulo>Artículo 15</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a1-7</url>
+    </bloque>
+    <bloque>
+      <id>a1-8</id>
+      <titulo>Artículo 16</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a1-8</url>
+    </bloque>
+    <bloque>
+      <id>a1-9</id>
+      <titulo>Artículo 17</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a1-9</url>
+    </bloque>
+    <bloque>
+      <id>ci-2</id>
+      <titulo>CAPÍTULO II</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/ci-2</url>
+    </bloque>
+    <bloque>
+      <id>s1</id>
+      <titulo>Sección 1</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/s1</url>
+    </bloque>
+    <bloque>
+      <id>a1-10</id>
+      <titulo>Artículo 18</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a1-10</url>
+    </bloque>
+    <bloque>
+      <id>a1-11</id>
+      <titulo>Artículo 19</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a1-11</url>
+    </bloque>
+    <bloque>
+      <id>s2</id>
+      <titulo>Sección 2</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/s2</url>
+    </bloque>
+    <bloque>
+      <id>a2-2</id>
+      <titulo>Artículo 20</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a2-2</url>
+    </bloque>
+    <bloque>
+      <id>a2-3</id>
+      <titulo>Artículo 21</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a2-3</url>
+    </bloque>
+    <bloque>
+      <id>s3</id>
+      <titulo>Sección 3</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/s3</url>
+    </bloque>
+    <bloque>
+      <id>a2-4</id>
+      <titulo>Artículo 22</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a2-4</url>
+    </bloque>
+    <bloque>
+      <id>ti-3</id>
+      <titulo>TÍTULO III</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/ti-3</url>
+    </bloque>
+    <bloque>
+      <id>a2-5</id>
+      <titulo>Artículo 23</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a2-5</url>
+    </bloque>
+    <bloque>
+      <id>a2-6</id>
+      <titulo>Artículo 24</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a2-6</url>
+    </bloque>
+    <bloque>
+      <id>a2-7</id>
+      <titulo>Artículo 25</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a2-7</url>
+    </bloque>
+    <bloque>
+      <id>ti-4</id>
+      <titulo>TÍTULO IV</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/ti-4</url>
+    </bloque>
+    <bloque>
+      <id>ci-3</id>
+      <titulo>CAPÍTULO I</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/ci-3</url>
+    </bloque>
+    <bloque>
+      <id>a2-8</id>
+      <titulo>Artículo 26</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a2-8</url>
+    </bloque>
+    <bloque>
+      <id>a2-9</id>
+      <titulo>Artículo 27</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a2-9</url>
+    </bloque>
+    <bloque>
+      <id>a2-10</id>
+      <titulo>Artículo 28</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a2-10</url>
+    </bloque>
+    <bloque>
+      <id>a2-11</id>
+      <titulo>Artículo 29</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a2-11</url>
+    </bloque>
+    <bloque>
+      <id>a3-2</id>
+      <titulo>Artículo 30</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a3-2</url>
+    </bloque>
+    <bloque>
+      <id>a3-3</id>
+      <titulo>Artículo 31</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a3-3</url>
+    </bloque>
+    <bloque>
+      <id>ci-4</id>
+      <titulo>CAPÍTULO II</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/ci-4</url>
+    </bloque>
+    <bloque>
+      <id>s1-2</id>
+      <titulo>Sección 1</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/s1-2</url>
+    </bloque>
+    <bloque>
+      <id>a3-4</id>
+      <titulo>Artículo 32</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a3-4</url>
+    </bloque>
+    <bloque>
+      <id>a3-5</id>
+      <titulo>Artículo 33</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a3-5</url>
+    </bloque>
+    <bloque>
+      <id>s2-2</id>
+      <titulo>Sección 2</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/s2-2</url>
+    </bloque>
+    <bloque>
+      <id>a3-6</id>
+      <titulo>Artículo 34</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a3-6</url>
+    </bloque>
+    <bloque>
+      <id>ci-5</id>
+      <titulo>CAPÍTULO III</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/ci-5</url>
+    </bloque>
+    <bloque>
+      <id>s1-3</id>
+      <titulo>Sección 1</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/s1-3</url>
+    </bloque>
+    <bloque>
+      <id>a3-7</id>
+      <titulo>Artículo 35</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a3-7</url>
+    </bloque>
+    <bloque>
+      <id>s2-3</id>
+      <titulo>Sección 2</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/s2-3</url>
+    </bloque>
+    <bloque>
+      <id>a3-8</id>
+      <titulo>Artículo 36</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a3-8</url>
+    </bloque>
+    <bloque>
+      <id>a3-9</id>
+      <titulo>Artículo 37</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a3-9</url>
+    </bloque>
+    <bloque>
+      <id>a3-10</id>
+      <titulo>Artículo 38</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a3-10</url>
+    </bloque>
+    <bloque>
+      <id>a3-11</id>
+      <titulo>Artículo 39</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a3-11</url>
+    </bloque>
+    <bloque>
+      <id>a4-2</id>
+      <titulo>Artículo 40</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a4-2</url>
+    </bloque>
+    <bloque>
+      <id>a4-3</id>
+      <titulo>Artículo 41</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a4-3</url>
+    </bloque>
+    <bloque>
+      <id>a4-4</id>
+      <titulo>Artículo 42</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a4-4</url>
+    </bloque>
+    <bloque>
+      <id>s3-2</id>
+      <titulo>Sección 3</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/s3-2</url>
+    </bloque>
+    <bloque>
+      <id>a4-5</id>
+      <titulo>Artículo 43</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a4-5</url>
+    </bloque>
+    <bloque>
+      <id>a4-6</id>
+      <titulo>Artículo 44</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a4-6</url>
+    </bloque>
+    <bloque>
+      <id>s4</id>
+      <titulo>Sección 4</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/s4</url>
+    </bloque>
+    <bloque>
+      <id>a4-7</id>
+      <titulo>Artículo 45</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a4-7</url>
+    </bloque>
+    <bloque>
+      <id>a4-8</id>
+      <titulo>Artículo 46</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a4-8</url>
+    </bloque>
+    <bloque>
+      <id>ci-6</id>
+      <titulo>CAPÍTULO IV</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/ci-6</url>
+    </bloque>
+    <bloque>
+      <id>a4-9</id>
+      <titulo>Artículo 47</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a4-9</url>
+    </bloque>
+    <bloque>
+      <id>a4-10</id>
+      <titulo>Artículo 48</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a4-10</url>
+    </bloque>
+    <bloque>
+      <id>a4-11</id>
+      <titulo>Artículo 49</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a4-11</url>
+    </bloque>
+    <bloque>
+      <id>a5-2</id>
+      <titulo>Artículo 50</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a5-2</url>
+    </bloque>
+    <bloque>
+      <id>cv</id>
+      <titulo>CAPÍTULO V</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/cv</url>
+    </bloque>
+    <bloque>
+      <id>a5-3</id>
+      <titulo>Artículo 51</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a5-3</url>
+    </bloque>
+    <bloque>
+      <id>a5-4</id>
+      <titulo>Artículo 52</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a5-4</url>
+    </bloque>
+    <bloque>
+      <id>s1-4</id>
+      <titulo>Sección 1</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/s1-4</url>
+    </bloque>
+    <bloque>
+      <id>a5-5</id>
+      <titulo>Artículo 53</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a5-5</url>
+    </bloque>
+    <bloque>
+      <id>s2-4</id>
+      <titulo>Sección 2</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/s2-4</url>
+    </bloque>
+    <bloque>
+      <id>a5-6</id>
+      <titulo>Artículo 54</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a5-6</url>
+    </bloque>
+    <bloque>
+      <id>a5-7</id>
+      <titulo>Artículo 55</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a5-7</url>
+    </bloque>
+    <bloque>
+      <id>cv-2</id>
+      <titulo>CAPÍTULO VI</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/cv-2</url>
+    </bloque>
+    <bloque>
+      <id>a5-8</id>
+      <titulo>Artículo 56</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a5-8</url>
+    </bloque>
+    <bloque>
+      <id>a5-9</id>
+      <titulo>Artículo 57</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a5-9</url>
+    </bloque>
+    <bloque>
+      <id>a5-10</id>
+      <titulo>Artículo 58</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a5-10</url>
+    </bloque>
+    <bloque>
+      <id>cv-3</id>
+      <titulo>CAPÍTULO VII</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/cv-3</url>
+    </bloque>
+    <bloque>
+      <id>a5-11</id>
+      <titulo>Artículo 59</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a5-11</url>
+    </bloque>
+    <bloque>
+      <id>a6-2</id>
+      <titulo>Artículo 60</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a6-2</url>
+    </bloque>
+    <bloque>
+      <id>a6-3</id>
+      <titulo>Artículo 61</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a6-3</url>
+    </bloque>
+    <bloque>
+      <id>a6-4</id>
+      <titulo>Artículo 62</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a6-4</url>
+    </bloque>
+    <bloque>
+      <id>a6-5</id>
+      <titulo>Artículo 63</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a6-5</url>
+    </bloque>
+    <bloque>
+      <id>a6-6</id>
+      <titulo>Artículo 64</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a6-6</url>
+    </bloque>
+    <bloque>
+      <id>tv</id>
+      <titulo>TÍTULO V</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/tv</url>
+    </bloque>
+    <bloque>
+      <id>ci-7</id>
+      <titulo>CAPÍTULO I</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/ci-7</url>
+    </bloque>
+    <bloque>
+      <id>a6-7</id>
+      <titulo>Artículo 65</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a6-7</url>
+    </bloque>
+    <bloque>
+      <id>s1-5</id>
+      <titulo>Sección 1</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/s1-5</url>
+    </bloque>
+    <bloque>
+      <id>a6-8</id>
+      <titulo>Artículo 66</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a6-8</url>
+    </bloque>
+    <bloque>
+      <id>a6-9</id>
+      <titulo>Artículo 67</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a6-9</url>
+    </bloque>
+    <bloque>
+      <id>a6-10</id>
+      <titulo>Artículo 68</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a6-10</url>
+    </bloque>
+    <bloque>
+      <id>s2-5</id>
+      <titulo>Sección 2</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/s2-5</url>
+    </bloque>
+    <bloque>
+      <id>a6-11</id>
+      <titulo>Artículo 69</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a6-11</url>
+    </bloque>
+    <bloque>
+      <id>a7-2</id>
+      <titulo>Artículo 70</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a7-2</url>
+    </bloque>
+    <bloque>
+      <id>a7-3</id>
+      <titulo>Artículo 71</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a7-3</url>
+    </bloque>
+    <bloque>
+      <id>a7-4</id>
+      <titulo>Artículo 72</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a7-4</url>
+    </bloque>
+    <bloque>
+      <id>a7-5</id>
+      <titulo>Artículo 73</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a7-5</url>
+    </bloque>
+    <bloque>
+      <id>a7-6</id>
+      <titulo>Artículo 74</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a7-6</url>
+    </bloque>
+    <bloque>
+      <id>a7-7</id>
+      <titulo>Artículo 75</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a7-7</url>
+    </bloque>
+    <bloque>
+      <id>a7-8</id>
+      <titulo>Artículo 76</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a7-8</url>
+    </bloque>
+    <bloque>
+      <id>a7-9</id>
+      <titulo>Artículo 77</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a7-9</url>
+    </bloque>
+    <bloque>
+      <id>a7-10</id>
+      <titulo>Artículo 78</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a7-10</url>
+    </bloque>
+    <bloque>
+      <id>tv-2</id>
+      <titulo>TÍTULO VI</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/tv-2</url>
+    </bloque>
+    <bloque>
+      <id>a7-11</id>
+      <titulo>Artículo 79</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a7-11</url>
+    </bloque>
+    <bloque>
+      <id>a8-2</id>
+      <titulo>Artículo 80</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a8-2</url>
+    </bloque>
+    <bloque>
+      <id>a8-3</id>
+      <titulo>Artículo 81</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a8-3</url>
+    </bloque>
+    <bloque>
+      <id>a8-4</id>
+      <titulo>Artículo 82</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a8-4</url>
+    </bloque>
+    <bloque>
+      <id>a8-5</id>
+      <titulo>Artículo 83</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a8-5</url>
+    </bloque>
+    <bloque>
+      <id>a8-6</id>
+      <titulo>Artículo 84</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a8-6</url>
+    </bloque>
+    <bloque>
+      <id>a8-7</id>
+      <titulo>Artículo 85</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a8-7</url>
+    </bloque>
+    <bloque>
+      <id>a8-8</id>
+      <titulo>Artículo 86</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a8-8</url>
+    </bloque>
+    <bloque>
+      <id>a8-9</id>
+      <titulo>Artículo 87</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a8-9</url>
+    </bloque>
+    <bloque>
+      <id>a8-10</id>
+      <titulo>Artículo 88</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a8-10</url>
+    </bloque>
+    <bloque>
+      <id>a89</id>
+      <titulo>Artículo 89</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a89</url>
+    </bloque>
+    <bloque>
+      <id>a9-2</id>
+      <titulo>Artículo 90</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a9-2</url>
+    </bloque>
+    <bloque>
+      <id>da</id>
+      <titulo>Disposición adicional primera</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/da</url>
+    </bloque>
+    <bloque>
+      <id>da-2</id>
+      <titulo>Disposición adicional segunda</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/da-2</url>
+    </bloque>
+    <bloque>
+      <id>dt</id>
+      <titulo>Disposición transitoria única</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/dt</url>
+    </bloque>
+    <bloque>
+      <id>dd</id>
+      <titulo>Disposición derogatoria única</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/dd</url>
+    </bloque>
+    <bloque>
+      <id>dfprimera</id>
+      <titulo>Disposición final primera</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/dfprimera</url>
+    </bloque>
+    <bloque>
+      <id>df-2</id>
+      <titulo>Disposición final segunda</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/df-2</url>
+    </bloque>
+    <bloque>
+      <id>df-3</id>
+      <titulo>Disposición final tercera</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/df-3</url>
+    </bloque>
+    <bloque>
+      <id>df-4</id>
+      <titulo>Disposición final cuarta</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/df-4</url>
+    </bloque>
+    <bloque>
+      <id>fi</id>
+      <titulo>[firma]</titulo>
+      <fecha_actualizacion>20160804</fecha_actualizacion>
+      <url>https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/fi</url>
+    </bloque>
+  </data>
+</response>

@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2015-462",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2015-462",
+  "sha256": "cf72bc27b73b60c8af65c709f1cc8343064bcbe580cd6d2efe8f9c835be4d924",
+  "archivo": "data/raw/cf72bc27b73b60c8af65c709f1cc8343064bcbe580cd6d2efe8f9c835be4d924.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:20.923790+00:00"
+}

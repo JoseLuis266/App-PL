@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1988-18043",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1988-18043",
+  "sha256": "087577b0e7198adf25f6c7f5546326c462145e2425f7a7eb4fcbdc256b451e32",
+  "archivo": "data/raw/087577b0e7198adf25f6c7f5546326c462145e2425f7a7eb4fcbdc256b451e32.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:20:44.796781+00:00"
+}

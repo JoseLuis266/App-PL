@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-9129/texto/bloque/a8",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-9129/texto/bloque/a8",
+  "sha256": "4f6fcf879544f2094a459d5e8106e734752f84f7ce7413998114a054b4ee3899",
+  "archivo": "data/raw/4f6fcf879544f2094a459d5e8106e734752f84f7ce7413998114a054b4ee3899.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:06:12.334459+00:00"
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a383" tipo="precepto" titulo="Artículo 383">
+      <version id_norma="BOE-A-1995-25444" fecha_publicacion="19951124" fecha_vigencia="19960524">
+        <p class="articulo">Artículo 383.</p>
+        <p class="parrafo">Cuando con los actos sancionados en los artículos 379, 381 y 382 se ocasionara, además del riesgo prevenido, un resultado lesivo, cualquiera que sea su gravedad, los Jueces y Tribunales apreciarán tan sólo la infracción más gravemente penada, condenando en todo caso al resarcimiento de la responsabilidad civil que se haya originado.</p>
+        <p class="parrafo">En la aplicación de las penas establecidas en los citados artículos, procederán los Jueces y Tribunales según su prudente arbitrio, sin sujetarse a las reglas prescritas en el artículo 66.</p>
+      </version>
+      <version id_norma="BOE-A-2007-20636" fecha_publicacion="20071201" fecha_vigencia="20071202">
+        <p class="articulo">Artículo 383.</p>
+        <p class="parrafo">El conductor que, requerido por un agente de la autoridad, se negare a someterse a las pruebas legalmente establecidas para la comprobación de las tasas de alcoholemia y la presencia de las drogas tóxicas, estupefacientes y sustancias psicotrópicas a que se refieren los artículos anteriores, será castigado con la penas de prisión de seis meses a un año y privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta cuatro años.</p>
+        <blockquote>
+          <p class="nota_pie">Se modifica por el art. único.7 de la Ley Orgánica 15/2007, de 30 de noviembre. <a class="refPost">Ref. BOE-A-2007-20636</a></p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

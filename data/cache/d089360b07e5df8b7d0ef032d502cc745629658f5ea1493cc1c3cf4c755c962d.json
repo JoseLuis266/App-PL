@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto/bloque/a315",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto/bloque/a315",
+  "sha256": "bb1ebcded419400449e5755c17f01be53eb0a74ca53b165ec9aecd71ebfa5f73",
+  "archivo": "data/raw/bb1ebcded419400449e5755c17f01be53eb0a74ca53b165ec9aecd71ebfa5f73.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:07:02.651939+00:00"
+}

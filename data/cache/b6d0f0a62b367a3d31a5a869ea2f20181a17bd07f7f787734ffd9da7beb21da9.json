@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-4895",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-4895",
+  "sha256": "abf73d68dcdfab61c3a764a49f0d44e2534c8ddb5c7e20fbfd0d40218ad969ce",
+  "archivo": "data/raw/abf73d68dcdfab61c3a764a49f0d44e2534c8ddb5c7e20fbfd0d40218ad969ce.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:13.309979+00:00"
+}

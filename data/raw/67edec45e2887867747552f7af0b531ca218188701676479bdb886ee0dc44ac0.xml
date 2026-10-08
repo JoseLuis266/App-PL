@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a99" tipo="precepto" titulo="Artículo 99">
+      <version id_norma="BOE-A-2007-4233" fecha_publicacion="20070301" fecha_vigencia="20070302">
+        <p class="articulo">Artículo 99. Notarías y registros.</p>
+        <p class="parrafo">1. La Comunidad Autónoma participará en la fijación de las demarcaciones correspondientes a las notarías y a los registros de la propiedad, mercantiles y de bienes muebles radicados en su territorio.</p>
+        <p class="parrafo">2. Los notarios, los registradores de la propiedad, mercantiles y de bienes muebles serán nombrados por la Comunidad Autónoma de conformidad con las leyes del Estado. Para la provisión de estas plazas serán méritos preferentes la especialización en Derecho Civil de las Illes Balears y el conocimiento de la lengua catalana. En ningún caso podrá establecerse la excepción de naturaleza y vecindad.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

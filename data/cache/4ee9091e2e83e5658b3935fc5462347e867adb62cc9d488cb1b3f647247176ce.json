@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/texto/bloque/aprimero",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/texto/bloque/aprimero",
+  "sha256": "35a3099960e63f36236d19f88aa03f2346b9442a2c923e16cbc2fadb9a8c407d",
+  "archivo": "data/raw/35a3099960e63f36236d19f88aa03f2346b9442a2c923e16cbc2fadb9a8c407d.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:06:33.134096+00:00"
+}

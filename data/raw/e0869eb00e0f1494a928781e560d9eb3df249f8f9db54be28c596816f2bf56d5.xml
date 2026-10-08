@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a1" tipo="precepto" titulo="Artículo 1">
+      <version id_norma="BOE-A-2015-11722" fecha_publicacion="20151031" fecha_vigencia="20160131">
+        <p class="articulo">Artículo 1. Objeto.</p>
+        <p class="parrafo">1. Esta ley tiene por objeto regular el tráfico, la circulación de vehículos a motor y la seguridad vial.</p>
+        <p class="parrafo">2. A tal efecto regula:</p>
+        <p class="parrafo_2">a) El ejercicio de las competencias que, de acuerdo con la Constitución Española y los estatutos de autonomía, corresponden en tales materias a la Administración General del Estado y a las comunidades autónomas que hayan recibido el traspaso de funciones y servicios en esta materia, así como la determinación de las que corresponden en todo caso a las entidades locales.</p>
+        <p class="parrafo">b) Las normas de circulación para los vehículos, así como las que por razón de seguridad vial rigen para la circulación de peatones y animales por las vías de utilización general, estableciéndose a tal efecto los derechos y obligaciones de los usuarios de dichas vías.</p>
+        <p class="parrafo">c) Los elementos de seguridad activa y pasiva y su régimen de utilización, así como las condiciones técnicas de los vehículos y de las actividades industriales que afectan de manera directa a la seguridad vial.</p>
+        <p class="parrafo">d) Los criterios de señalización de las vías de utilización general.</p>
+        <p class="parrafo">e) Las autorizaciones que, para garantizar la seguridad y fluidez de la circulación, otorga la Administración con carácter previo a la realización de actividades relacionadas con la circulación de vehículos, especialmente a motor, así como las medidas cautelares que adopte con el mismo fin.</p>
+        <p class="parrafo">f) Las infracciones derivadas del incumplimiento de las normas establecidas y las sanciones aplicables a las mismas, así como el procedimiento sancionador en esta materia.</p>
+      </version>
+      <version id_norma="BOE-A-2021-21006" fecha_publicacion="20211221" fecha_vigencia="20220321">
+        <p class="articulo">Artículo 1. Objeto.</p>
+        <p class="parrafo">1. Esta Ley tiene por objeto regular el tráfico, la circulación de todos los vehículos y la seguridad vial.</p>
+        <blockquote caduca="20220321" class="soloTexto">
+          <p class="parrafo">Téngase en cuenta que esta actualización del apartado 1, establecida por el art. único.1 de la Ley 18/2021, de 20 de diciembre, <a class="refPost">Ref. BOE-A-2021-21006#au</a>, entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.</p>
+          <p class="cita_con_pleca">Redacción anterior:</p>
+          <p class="parrafo">"1. Esta ley tiene por objeto regular el tráfico, la circulación de vehículos a motor y la seguridad vial."</p>
+        </blockquote>
+        <p class="parrafo">2. A tal efecto regula:</p>
+        <p class="parrafo_2">a) El ejercicio de las competencias que, de acuerdo con la Constitución Española y los estatutos de autonomía, corresponden en tales materias a la Administración General del Estado y a las comunidades autónomas que hayan recibido el traspaso de funciones y servicios en esta materia, así como la determinación de las que corresponden en todo caso a las entidades locales.</p>
+        <p class="parrafo">b) Las normas de circulación para los vehículos, así como las que por razón de seguridad vial rigen para la circulación de peatones y animales por las vías de utilización general, estableciéndose a tal efecto los derechos y obligaciones de los usuarios de dichas vías.</p>
+        <p class="parrafo">c) Los elementos de seguridad activa y pasiva y su régimen de utilización, así como las condiciones técnicas de los vehículos y de las actividades industriales que afectan de manera directa a la seguridad vial.</p>
+        <p class="parrafo">d) Los criterios de señalización de las vías de utilización general.</p>
+        <p class="parrafo">e) Las autorizaciones que, para garantizar la seguridad y fluidez de la circulación, otorga la Administración con carácter previo a la realización de actividades relacionadas con la circulación de vehículos, especialmente a motor, así como las medidas cautelares que adopte con el mismo fin.</p>
+        <p class="parrafo">f) Las infracciones derivadas del incumplimiento de las normas establecidas y las sanciones aplicables a las mismas, así como el procedimiento sancionador en esta materia.</p>
+        <blockquote>
+          <p class="nota_pie">Se modifica el apartado 1, con efectos de 21 de marzo de 2022, por el art. único.1 de la Ley 18/2021, de 20 de diciembre. <a class="refPost">Ref. BOE-A-2021-21006#au</a></p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

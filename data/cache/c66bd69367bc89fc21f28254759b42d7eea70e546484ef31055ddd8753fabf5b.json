@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-16781",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-16781",
+  "sha256": "16a7360cf44615f95bfe11fb366775308b825827571d0bd7e278d966a4aaf443",
+  "archivo": "data/raw/16a7360cf44615f95bfe11fb366775308b825827571d0bd7e278d966a4aaf443.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:31.131798+00:00"
+}

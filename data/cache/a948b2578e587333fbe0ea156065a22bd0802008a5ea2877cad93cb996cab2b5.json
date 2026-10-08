@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/texto/bloque/atercero",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/texto/bloque/atercero",
+  "sha256": "45dffcfaab70a2197856331eaf83588c778469b4d7c4c752b164055d633b42c1",
+  "archivo": "data/raw/45dffcfaab70a2197856331eaf83588c778469b4d7c4c752b164055d633b42c1.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:06:28.910287+00:00"
+}

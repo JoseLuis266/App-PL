@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-9481/texto/bloque/a44",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-9481/texto/bloque/a44",
+  "sha256": "950c15093a4cf42eb60542c436e5c4a5483dbdefe3a512b37a4568ec3849ac3c",
+  "archivo": "data/raw/950c15093a4cf42eb60542c436e5c4a5483dbdefe3a512b37a4568ec3849ac3c.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:05:43.120564+00:00"
+}

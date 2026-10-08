@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <analisis>
+      <materias>
+        <materia codigo="37">Accidentes</materia>
+        <materia codigo="1508">Administración electrónica</materia>
+        <materia codigo="397">Autorizaciones</materia>
+        <materia codigo="632">Carreteras</materia>
+        <materia codigo="858">Circulación vial</materia>
+        <materia codigo="1337">Conductores de vehículos de motor</materia>
+        <materia codigo="4165">Información</materia>
+        <materia codigo="4542">Jefatura Central de Tráfico</materia>
+        <materia codigo="4899">Matriculación de vehículos</materia>
+        <materia codigo="5553">Permisos de conducción</materia>
+        <materia codigo="5709">Procedimiento sancionador</materia>
+        <materia codigo="6500">Seguridad vial</materia>
+        <materia codigo="6937">Transportes por carretera</materia>
+        <materia codigo="7116">Vehículos de motor</materia>
+      </materias>
+      <notas>
+        <nota>Entrada en vigor: 31 de enero de 2016, excepto el capítulo V del título V y los anexos V, VI y VII que lo harán el 1 de noviembre de 2015.</nota>
+        <nota>El dejar sin efecto la modificación de la Ley 6/2014, se establece de acuerdo con la derogación de lo indicado de la disposición final 5 de la Ley 35/2015, de 22 de septiembre</nota>
+      </notas>
+      <referencias>
+        <anteriores>
+          <anterior>
+            <id_norma>BOE-A-2015-10197</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>la disposición final 5 en lo que afecta a la entrada en vigor del contenido de la disposición final 2 de la Ley 35/2015, de 22 de septiembre</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1990-6396</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, texto articulado aprobado por Real Decreto Legislativo 339/1990, de 2 de marzo</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-2014-3715</id_norma>
+            <relacion codigo="230">DEJA SIN EFECTO</relacion>
+            <texto>la modificación de la disposición adicional 2 de la Ley 6/2014, de 7 de abril</texto>
+          </anterior>
+        </anteriores>
+        <posteriores>
+          <posterior>
+            <id_norma>BOE-A-2026-13889</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>, con efectos desde el 1 de octubre de 2026, el anexo I, por Real Decreto 518/2026, de 24 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2025-24545</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el capítulo II y III del título I, el capítulo I del título II, el art. 12, el anexo VI.1 y la disposición final 2.2 del texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial; y la disposición adicional 1, por Ley 9/2025, de 3 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2023-15135</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 5, 62, 76, 77, disposición final 2, anexo III y SE AÑADE el IX, por Real Decreto-ley 5/2023, de 28 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2022-14965</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 85.1, por Ley Orgánica 11/2022, de 13 de septiembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2022-3290</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 76 n), por Real Decreto-ley 3/2022, de 1 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2021-21006</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>y SE AÑADE determinados preceptos, en la forma indicada, por Ley 18/2021, de 20 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2021-8806</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 68, por Ley Orgánica 7/2021, de 26 de mayo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2025-4407</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>con el art. 63.5 y regula los cursos de conducción para la recuperación o bonificación de puntos: Orden INT/209/2025, de 27 de febrero</texto>
+          </posterior>
+        </posteriores>
+      </referencias>
+    </analisis>
+  </data>
+</response>

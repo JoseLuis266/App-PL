@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20251219132601">
+  <metadatos>
+    <identificador>BOE-A-2009-9838</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7320">Ministerio del Interior</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <fecha_disposicion>20090601</fecha_disposicion>
+    <numero_oficial/>
+    <titulo>Resolución de 1 de junio de 2009, de la Dirección General de Tráfico, por la que se aprueba el Manual de Señalización Variable.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>20090613</fecha_publicacion>
+    <diario_numero>143</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>49905</pagina_inicial>
+    <pagina_final>49935</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/2009/06/13/pdfs/BOE-A-2009-9838.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia>20091213</fecha_vigencia>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/res/2009/06/01/(1)</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2009/06/01/(1)">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2009-9838</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-06-01</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1)</eli:number>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/637"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/858"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4165"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4542"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5159"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6500"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/8049"/>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2009/06/01/(1)/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2009-9838</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-06-01</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1)</eli:number>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/637"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/858"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4165"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4542"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5159"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6500"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/8049"/>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/res/2009/06/01/(1)"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/res/2009/06/01/(1)/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resolución de 1 de junio de 2009, de la Dirección General de Tráfico, por la que se aprueba el Manual de Señalización Variable.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-06-13</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/res/2009/06/01/(1)/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2009/06/01/(1)/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2009/06/01/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2009/06/01/(1)/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2009/06/01/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2009/06/01/(1)/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2009/06/01/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="637" orden="">Carteles</materia>
+      <materia codigo="858" orden="">Circulación vial</materia>
+      <materia codigo="4165" orden="">Información</materia>
+      <materia codigo="4542" orden="">Jefatura Central de Tráfico</materia>
+      <materia codigo="5159" orden="">Normalización</materia>
+      <materia codigo="6500" orden="">Seguridad vial</materia>
+      <materia codigo="8049" orden="">Señalización</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2003-23514" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 139.2 del Reglamento aprobado por Real Decreto 1428/2003, de 21 de noviembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1990-6396" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>art. 5 de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, texto articulado aprobado por Real Decreto Legislativo 339/1990, de 2 de marzo</texto>
+        </anterior>
+      </anteriores>
+      <posteriores>
+        <posterior referencia="BOE-A-2009-10327" orden="">
+          <palabra codigo="203">SE CORRIGEN errores</palabra>
+          <texto>, modificando la fecha de entrada en vigor, por Resolución de 16 de junio de 2009</texto>
+        </posterior>
+      </posteriores>
+    </referencias>
+    <alertas>
+      <alerta codigo="129" orden="">Tecnología e investigación</alerta>
+      <alerta codigo="132" orden="">Transportes y tráfico</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">En el último cuarto de siglo, el tráfico vial ha participado de importantes evoluciones tecnológicas que se materializan tanto en los vehículos, como en los conductores y en la vía. En este último aspecto, además de una importante mejora en las técnicas de planificación, construcción y explotación, se ha dado un salto cualitativo inédito debido a la posibilidad de informar a los conductores en tiempo presente, y en la propia carretera, sobre aquellas circunstancias que pudieran optimizar los objetivos de seguridad vial, movilidad, impacto medioambiental y/o niveles de confort.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">La consecución de los anteriores objetivos es fruto de una cadena que se inicia en el proceso de monitorización de los parámetros de tráfico, medioambientales y meteorológicos, que pasa por los mecanismos de interpretación de éstos y de generación del conocimiento para la toma de decisiones, y se concreta finalmente, entre otras acciones, en la difusión de información. El elemento de toda esta cadena más perceptible para los ciudadanos está constituido por la señalización circunstancial contenida en los Paneles de Mensajes Variables (PMV).</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Las primeras generaciones de PMV aparecidas en los años noventa tenían serias limitaciones técnicas que impedían a las autoridades de tráfico desplegar estrategias de gestión de tráfico avanzadas. Pero, a medida que estos dispositivos iban mejorando prestaciones y capacidad, se puso de manifiesto que el aspecto más importante no es la tecnología, sino la utilidad de las informaciones o instrucciones que transmiten. La riqueza del lenguaje permite que la información sea acotada para evitar interpretaciones diferentes cuando los mensajes van dirigidos a colectivos amplios, y desde luego el de los conductores y usuarios de las redes viarias de transporte lo es. A partir de la constatación de esta dificultad en la comunicación, por razones de universalidad y en aras de la optimización de la seguridad vial, la movilidad y los niveles de confort, la Dirección General de Tráfico ha realizado un proceso de estudio, análisis y síntesis para la unificación y normalización de los criterios de señalización circunstancial exhibida por los PMV.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">En primer lugar, se han tenido en cuenta las características de diseño incorporadas en el marco normativo de la señalización nacional e internacional, incluidas las recientes incorporaciones en el ámbito de Naciones Unidas en el ámbito específico de los PMV. Asimismo, se han acumulado conocimientos basándose en la experiencia y los usos experimentados en España y en los estados participantes en el Estudio Europeo 4 (ES4 de armonización de PMV), del programa Easyway de la Comisión Europea. Además, se han tenido en cuenta los resultados del proyecto SOMS–IN–SAFETY, realizado dentro del 6.º Programa Marco. Por último, se han realizado una serie de estudios empíricos para estudiar la comprensión de los signos y de los mensajes alfanuméricos.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">En virtud de lo previsto en el artículo 5 del texto articulado de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, aprobado por Real Decreto Legislativo 339/1990, de 2 de marzo («Boletín Oficial del Estado» número 63, de 14 de marzo), así como en artículo 139.2 del Reglamento General de Circulación, aprobado por Real Decreto 1428/2003, de 21 de noviembre («Boletín Oficial del Estado» número 306, de 23 de diciembre), el Director General de Tráfico resuelve lo siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Primero. Criterios de utilización de los Paneles de Mensajes Variables.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">La utilización de los Paneles de Mensajes Variables en la red viaria donde el Organismo Autónomo Jefatura Central de Tráfico ejerce sus competencias, se ajustará a los criterios de utilización establecidos en el anexo I de esta Resolución.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Segundo. Obligatoriedad de utilización de los contenidos de la señalización circunstancial de los Paneles de Mensajes Variables.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">En los supuestos establecidos en el anexo II de esta Resolución, será obligatoria la utilización de los mensajes expresamente contenidos en este anexo, quedando prohibido el uso de cualquier otro pictograma o texto.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Tercero.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Se aprueba como norma de señalización de los Paneles de Mensajes Variables del Organismo Autónomo Jefatura Central de Tráfico, el Manual para Operadores de Centros de Gestión de Tráfico editado por la Dirección General de Tráfico cuyo contenido fundamental figura como anexos I y II de esta resolución.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Disposición final única. Entrada en vigor.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Esta Resolución entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">Madrid, 1 de junio de 2009.–El Director General de Tráfico, Pere Navarro Olivella.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="anexo_num">ANEXO I</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="anexo_tit">Normas de señalización circunstancial en Paneles de Mensajes Variables</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen">
+      <img class="frame-1" alt="1" src="/datos/imagenes/disp/2009/143/09838_17575.png" width="2126" height="2776"/>
+    </p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen">
+      <img class="frame-1" alt="2" src="/datos/imagenes/disp/2009/143/09838_17651.png" width="2126" height="2776"/>
+    </p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen">
+      <img class="frame-1" alt="3" src="/datos/imagenes/disp/2009/143/09838_17724.png" width="2126" height="2776"/>
+    </p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen">
+      <img class="frame-1" alt="4" src="/datos/imagenes/disp/2009/143/09838_17799.png" width="2126" height="2776"/>
+    </p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen">
+      <img class="frame-1" alt="5" src="/datos/imagenes/disp/2009/143/09838_17872.png" width="2126" height="2776"/>
+    </p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen">
+      <img class="frame-1" alt="6" src="/datos/imagenes/disp/2009/143/09838_17946.png" width="2126" height="2776"/>
+    </p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen">
+      <img class="frame-1" alt="7" src="/datos/imagenes/disp/2009/143/09838_18019.png" width="2126" height="2776"/>
+    </p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen">
+      <img class="frame-1" alt="8" src="/datos/imagenes/disp/2009/143/09838_18162.png" width="2126" height="2776"/>
+    </p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen">
+      <img class="frame-1" alt="9" src="/datos/imagenes/disp/2009/143/09838_18236.png" width="2126" height="2776"/>
+    </p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen">
+      <img class="frame-1" alt="10" src="/datos/imagenes/disp/2009/143/09838_18311.png" width="2126" height="2776"/>
+    </p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen">
+      <img class="frame-2" alt="11" src="/datos/imagenes/disp/2009/143/09838_18386.png" width="1745" height="2499"/>
+    </p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen">
+      <img class="frame-1" alt="12" src="/datos/imagenes/disp/2009/143/09838_18459.png" width="2126" height="2776"/>
+    </p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen">
+      <img class="frame-3" alt="13" src="/datos/imagenes/disp/2009/143/09838_18534.png" width="2126" height="680"/>
+    </p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="anexo">ANEXO II</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen">
+      <img class="frame-4" alt="14" src="/datos/imagenes/disp/2009/143/09838_18607.png" width="2126" height="2702"/>
+    </p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen">
+      <img class="frame-1" alt="15" src="/datos/imagenes/disp/2009/143/09838_18682.png" width="2126" height="2776"/>
+    </p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen">
+      <img class="frame-1" alt="16" src="/datos/imagenes/disp/2009/143/09838_18757.png" width="2126" height="2776"/>
+    </p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen">
+      <img class="frame-1" alt="17" src="/datos/imagenes/disp/2009/143/09838_18832.png" width="2126" height="2776"/>
+    </p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen">
+      <img class="frame-5" alt="18" src="/datos/imagenes/disp/2009/143/09838_18905.png" width="2126" height="1339"/>
+    </p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen">
+      <img class="frame-1" alt="19" src="/datos/imagenes/disp/2009/143/09838_18978.png" width="2126" height="2776"/>
+    </p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen">
+      <img class="frame-1" alt="20" src="/datos/imagenes/disp/2009/143/09838_19052.png" width="2126" height="2776"/>
+    </p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen">
+      <img class="frame-1" alt="21" src="/datos/imagenes/disp/2009/143/09838_19126.png" width="2126" height="2776"/>
+    </p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen">
+      <img class="frame-6" alt="22" src="/datos/imagenes/disp/2009/143/09838_19200.png" width="2126" height="1304"/>
+    </p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen">
+      <img class="frame-1" alt="23" src="/datos/imagenes/disp/2009/143/09838_19274.png" width="2126" height="2776"/>
+    </p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen">
+      <img class="frame-1" alt="24" src="/datos/imagenes/disp/2009/143/09838_19349.png" width="2126" height="2776"/>
+    </p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen">
+      <img class="frame-1" alt="25" src="/datos/imagenes/disp/2009/143/09838_19422.png" width="2126" height="2776"/>
+    </p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen">
+      <img class="frame-7" alt="26" src="/datos/imagenes/disp/2009/143/09838_19497.png" width="2126" height="1355"/>
+    </p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen">
+      <img class="frame-1" alt="27" src="/datos/imagenes/disp/2009/143/09838_19574.png" width="2126" height="2776"/>
+    </p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen">
+      <img class="frame-8" alt="28" src="/datos/imagenes/disp/2009/143/09838_19648.png" width="2126" height="1252"/>
+    </p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="imagen">
+      <img class="frame-1" alt="29" src="/datos/imagenes/disp/2009/143/09838_19721.png" width="2126" height="2776"/>
+    </p>
+  </texto>
+</documento>

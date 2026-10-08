@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-23514/analisis",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-23514/analisis",
+  "sha256": "c7a6ebf91eeeca23d1c666c608c379665d38f70ae0ed4c54692cd565133ee59d",
+  "archivo": "data/raw/c7a6ebf91eeeca23d1c666c608c379665d38f70ae0ed4c54692cd565133ee59d.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:30:52.358441+00:00"
+}

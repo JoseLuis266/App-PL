@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/aseptimo",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/bloque/aseptimo",
+  "sha256": "3e90a0438f1cafb87673cf09d8cf842220cbe34854d7fe3c819d4a1109dad19f",
+  "archivo": "data/raw/3e90a0438f1cafb87673cf09d8cf842220cbe34854d7fe3c819d4a1109dad19f.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:06:24.699031+00:00"
+}

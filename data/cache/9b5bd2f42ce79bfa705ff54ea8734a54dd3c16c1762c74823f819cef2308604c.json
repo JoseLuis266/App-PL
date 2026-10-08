@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2005-3241",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2005-3241",
+  "sha256": "0b47f6eb681083b4233e94c56c0ce0f1065d275fba24ac1776ab2faf0f7854e9",
+  "archivo": "data/raw/0b47f6eb681083b4233e94c56c0ce0f1065d275fba24ac1776ab2faf0f7854e9.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:16.498648+00:00"
+}

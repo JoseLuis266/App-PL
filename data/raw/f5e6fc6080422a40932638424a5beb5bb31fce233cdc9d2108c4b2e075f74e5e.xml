@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <metadatos>
+      <fecha_actualizacion>20260115T105857Z</fecha_actualizacion>
+      <identificador>BOE-A-2016-7994</identificador>
+      <ambito codigo="2">Autonómico</ambito>
+      <departamento codigo="8121">Comunidad Autónoma de las Illes Balears</departamento>
+      <rango codigo="1300">Ley</rango>
+      <fecha_disposicion>20160728</fecha_disposicion>
+      <numero_oficial>11/2016</numero_oficial>
+      <titulo>Ley 11/2016, de 28 de julio, de igualdad de mujeres y hombres.</titulo>
+      <diario>Boletín Oficial del Estado</diario>
+      <fecha_publicacion>20160822</fecha_publicacion>
+      <diario_numero>202</diario_numero>
+      <fecha_vigencia>20160805</fecha_vigencia>
+      <estatus_derogacion>N</estatus_derogacion>
+      <estatus_anulacion>N</estatus_anulacion>
+      <vigencia_agotada>N</vigencia_agotada>
+      <estado_consolidacion codigo="3">Finalizado</estado_consolidacion>
+      <url_eli>https://www.boe.es/eli/es-ib/l/2016/07/28/11</url_eli>
+      <url_html_consolidada>https://www.boe.es/buscar/act.php?id=BOE-A-2016-7994</url_html_consolidada>
+    </metadatos>
+  </data>
+</response>

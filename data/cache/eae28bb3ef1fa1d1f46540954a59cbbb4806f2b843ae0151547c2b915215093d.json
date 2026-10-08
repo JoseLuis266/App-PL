@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-3520",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-3520",
+  "sha256": "9afde800b8a5454ad5f513c80a753c1dc18561c2986a4255c5f507d0d94e3421",
+  "archivo": "data/raw/9afde800b8a5454ad5f513c80a753c1dc18561c2986a4255c5f507d0d94e3421.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:10.542244+00:00"
+}

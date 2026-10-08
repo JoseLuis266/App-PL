@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="aoctavo" tipo="precepto" titulo="Artículo octavo">
+      <version id_norma="BOE-A-1984-11620" fecha_publicacion="19840526" fecha_vigencia="19840527">
+        <p class="articulo">Artículo octavo.</p>
+        <p class="parrafo">Practicadas las actuaciones a que se refiere el artículo anterior, el Juez, mediante auto motivado, adoptará seguidamente alguna de estas resoluciones:</p>
+        <p class="parrafo_2">1. Si estima que no se da ninguna de las circunstancias a que se refiere el artículo primero de esta ley, acordará el archivo de las actuaciones, declarando ser conforme a Derecho la privación de libertad y las circunstancias en que se está realizando.</p>
+        <p class="parrafo">2. Si estima que concurren alguna de las circunstancias del artículo primero de esta ley, se acordará en el acto alguna de las siguientes medidas:</p>
+        <p class="parrafo_2">a) La puesta en libertad del privado de ésta, si lo fue ilegalmente.</p>
+        <p class="parrafo">b) Que continúe la situación de privación de libertad de acuerdo con las disposiciones legales aplicables al caso, pero, si lo considerase necesario, en establecimiento distinto, o bajo la custodia de personas distintas a las que hasta entonces la detentaban.</p>
+        <p class="parrafo">c) Que la persona privada de libertad sea puesta inmediatamente a disposición judicial, si ya hubiese transcurrido el plazo legalmente establecido para su detención.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

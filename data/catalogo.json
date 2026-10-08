@@ -1,0 +1,82 @@
+[
+  {
+    "id_norma": "ce",
+    "id_boe": "BOE-A-1978-31229",
+    "titulo_esperado": "Constitución Española."
+  },
+  {
+    "id_norma": "estatuto",
+    "id_boe": "BOE-A-2007-4233",
+    "titulo_esperado": "Ley Orgánica 1/2007, de 28 de febrero, de reforma del Estatuto de Autonomía de las Illes Balears."
+  },
+  {
+    "id_norma": "local",
+    "id_boe": "BOE-A-2007-1893",
+    "titulo_esperado": "Ley 20/2006, de 15 de diciembre, municipal y de régimen local de las Illes Balears."
+  },
+  {
+    "id_norma": "trafico",
+    "id_boe": "BOE-A-2015-11722",
+    "titulo_esperado": "Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial."
+  },
+  {
+    "id_norma": "circulacion",
+    "id_boe": "BOE-A-2003-23514",
+    "titulo_esperado": "Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento General de Circulación para la aplicación y desarrollo del texto articulado de la Ley sobre tráfico, circulación de vehículos a motor y seguridad vial, aprobado por el Real Decreto Legislativo 339/1990, de 2 de marzo."
+  },
+  {
+    "id_norma": "conductores",
+    "id_boe": "BOE-A-2009-9481",
+    "titulo_esperado": "Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores."
+  },
+  {
+    "id_norma": "vehiculos",
+    "id_boe": "BOE-A-1999-1826",
+    "titulo_esperado": "Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento General de Vehículos."
+  },
+  {
+    "id_norma": "policias",
+    "id_boe": "BOE-A-2013-9129",
+    "titulo_esperado": "Ley 4/2013, de 17 de julio, de coordinación de las policías locales de las Illes Balears."
+  },
+  {
+    "id_norma": "marco",
+    "id_boe": null,
+    "titulo_esperado": "Decreto 40/2019, de 24 de mayo, por el que se aprueba el Reglamento marco de coordinación de las policías locales de las Illes Balears y se modifica el Decreto 55/2017, de 15 de diciembre, del Fondo de Seguridad Pública de las Illes Balears."
+  },
+  {
+    "id_norma": "fcs",
+    "id_boe": "BOE-A-1986-6859",
+    "titulo_esperado": "Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad."
+  },
+  {
+    "id_norma": "habeas",
+    "id_boe": "BOE-A-1984-11620",
+    "titulo_esperado": "Ley Orgánica 6/1984, de 24 de mayo, reguladora del procedimiento de habeas corpus."
+  },
+  {
+    "id_norma": "lecrim",
+    "id_boe": "BOE-A-1882-6036",
+    "titulo_esperado": "Real Decreto de 14 de septiembre de 1882 por el que se aprueba la Ley de Enjuiciamiento Criminal."
+  },
+  {
+    "id_norma": "penal",
+    "id_boe": "BOE-A-1995-25444",
+    "titulo_esperado": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal."
+  },
+  {
+    "id_norma": "datos",
+    "id_boe": "BOE-A-2018-16673",
+    "titulo_esperado": "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales."
+  },
+  {
+    "id_norma": "igualdad",
+    "id_boe": "BOE-A-2016-7994",
+    "titulo_esperado": "Ley 11/2016, de 28 de julio, de igualdad de mujeres y hombres."
+  },
+  {
+    "id_norma": "lgtbi",
+    "id_boe": "BOE-A-2016-6310",
+    "titulo_esperado": "Ley 8/2016, de 30 de mayo, para garantizar los derechos de lesbianas, gays, trans, bisexuales e intersexuales y para erradicar la LGTBI fobia."
+  }
+]

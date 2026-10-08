@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1989-18727",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1989-18727",
+  "sha256": "4e93be71ba0b4b5bd04c802eb14dce143ae1bf9a65ff2b3499b41fdcb8dc5493",
+  "archivo": "data/raw/4e93be71ba0b4b5bd04c802eb14dce143ae1bf9a65ff2b3499b41fdcb8dc5493.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:20:49.148016+00:00"
+}

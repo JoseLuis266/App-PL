@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="aseptimo" tipo="precepto" titulo="Artículo séptimo">
+      <version id_norma="BOE-A-1984-11620" fecha_publicacion="19840526" fecha_vigencia="19840527">
+        <p class="articulo">Artículo séptimo.</p>
+        <p class="parrafo">En el auto de incoación, el Juez ordenará a la autoridad a cuya disposición se halle la persona privada de libertad o a aquél en cuyo poder se encuentre, que la ponga de manifiesto ante él, sin pretexto ni demora alguna o se constituirá en el lugar donde aquélla se encuentre.</p>
+        <p class="parrafo">Antes de dictar resolución, oirá el Juez a la persona privada de libertad o, en su caso, a su representante legal y Abogado, si lo hubiera designado, así como al Ministerio Fiscal; acto seguido oirá en justificación de su proceder a la autoridad, agentes, funcionario público o representante de la institución o persona que hubiere ordenado o practicado la detención o internamiento y, en todo caso, a aquélla bajo cuya custodia se encontrase la persona privada de libertad; a todos ellos dará a conocer el Juez las declaraciones del privado de libertad.</p>
+        <p class="parrafo">El Juez admitirá, si las estima pertinentes, las pruebas que aporten las personas a que se refiere el párrafo anterior y las que propongan que puedan practicarse en el acto.</p>
+        <p class="parrafo">En el plazo de veinticuatro horas, contadas desde que sea dictado el auto de incoación, los Jueces practicarán todas las actuaciones a que se refiere este artículo y dictarán la resolución que proceda.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

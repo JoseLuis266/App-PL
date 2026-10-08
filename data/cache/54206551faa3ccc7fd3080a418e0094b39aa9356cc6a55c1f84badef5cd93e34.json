@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-2326",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-2326",
+  "sha256": "9466d8191c2d4dffe7722642c7e5f80cda3d664712b29ab31941b7ba5a7340e0",
+  "archivo": "data/raw/9466d8191c2d4dffe7722642c7e5f80cda3d664712b29ab31941b7ba5a7340e0.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:03.834632+00:00"
+}

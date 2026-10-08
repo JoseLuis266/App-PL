@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-22521",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-22521",
+  "sha256": "c98d6395cfd54b841450d2754217ad0c9863cd25552f99fdbd137983f261de80",
+  "archivo": "data/raw/c98d6395cfd54b841450d2754217ad0c9863cd25552f99fdbd137983f261de80.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:45.914086+00:00"
+}

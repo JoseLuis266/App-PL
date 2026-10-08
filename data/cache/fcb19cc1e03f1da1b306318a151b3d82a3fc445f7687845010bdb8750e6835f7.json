@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/metadatos",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/metadatos",
+  "sha256": "00f3a56c648a7a54dfcc37b7466e123547f36ce1ecf40a7e1266858f732ffca0",
+  "archivo": "data/raw/00f3a56c648a7a54dfcc37b7466e123547f36ce1ecf40a7e1266858f732ffca0.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:31:24.918761+00:00"
+}

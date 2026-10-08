@@ -1,0 +1,34 @@
+import 'fake-indexeddb/auto';
+import {it,expect} from 'vitest';
+import {backup,getAll,put,restore,saveAttempt,saveStudyAnswers} from './storage';
+import {nextMemory} from './study';
+import type {Article,Memory,Attempt,StudySession,Exercise} from './types';
+it('persists across connections, round-trips backups, preserves existing progress and rejects invalid imports',async()=>{
+ const a={id_articulo:'test:persistence',hash_texto:'testhash'} as Article;
+ const m=nextMemory(a,undefined,true,new Date('2026-01-01T12:00:00Z'));await put('memory',m);
+ expect((await getAll<Memory>('memory')).find(x=>x.articleId===a.id_articulo)).toEqual(m);
+ const b=await backup();b.memory[0].interval=90;await restore(b);
+ expect((await getAll<Memory>('memory')).find(x=>x.articleId===a.id_articulo)?.interval).toBe(1);
+ await expect(restore({...b,memory:[{...m,due:'invalid'}]})).rejects.toThrow('registros no válidos');
+ expect((await backup()).memory).toHaveLength(1);
+ const attempt:Attempt={id:'one-attempt',date:new Date().toISOString(),articleId:a.id_articulo,topicIds:[1],mode:'test',question:'fixture',chosen:'B',correct:'A',success:false,sourceHash:'testhash',sourceUrl:'https://www.boe.es/'};
+ await saveAttempt(attempt,m);expect((await getAll<Attempt>('attempts'))[0]).toEqual(attempt);
+ await expect(saveAttempt(attempt,{...m,interval:99})).rejects.toBeDefined();
+ expect((await getAll<Memory>('memory')).find(x=>x.articleId===m.articleId)?.interval).toBe(1);
+ await restore(await backup());expect(await getAll<Attempt>('attempts')).toHaveLength(1);
+});
+it('session, attempts and adaptive review commit atomically, with no duplicate grading',async()=>{
+ const article:Article={id_articulo:'test:session',id_norma:'fixture',numero:'1',tipo:'articulo',rubrica:'Fixture',texto:'Contenido neutral de pruebas',texto_xml:'',jerarquia:{},url_fuente:'https://www.boe.es/',hash_texto:'sessionhash',estado:'pendiente_revision',notas_fuente:[]};
+ const first=nextMemory(article,undefined,true,new Date('2026-01-01T12:00:00Z'));await put('memory',first);
+ const exercise:Exercise={id:'session-exercise',article,topicIds:[2],mode:'test',prompt:'Fixture neutral',answer:'A',explanation:'Fixture de almacenamiento'};
+ const session:StudySession={id:'session-one',created:'2026-01-01T12:00:00Z',updated:'2026-01-01T12:00:00Z',questions:[exercise],mode:'test',index:0,answers:[{exerciseId:exercise.id,chosen:'B',success:false}],status:'active',questionCount:1};
+ const attempt:Attempt={id:'atomic-session-attempt',date:'2026-01-02T12:00:00Z',articleId:article.id_articulo,topicIds:[2],mode:'test',question:exercise.prompt,chosen:'B',correct:'A',success:false,sourceHash:article.hash_texto,sourceUrl:article.url_fuente,sessionId:session.id};
+ await saveStudyAnswers([attempt],session);
+ expect((await getAll<Memory>('memory')).find(m=>m.articleId===article.id_articulo)?.status).toBe('dificil');
+ expect((await getAll<StudySession>('sessions')).find(s=>s.id===session.id)).toEqual(session);
+ await expect(saveStudyAnswers([attempt],{...session,index:1,status:'completed'})).rejects.toBeDefined();
+ expect((await getAll<StudySession>('sessions')).find(s=>s.id===session.id)?.index).toBe(0);
+ const copy=await backup();await restore(copy);
+ expect((await getAll<StudySession>('sessions')).filter(s=>s.id===session.id)).toHaveLength(1);
+ await expect(restore({...copy,sessions:[{...session,index:900}]})).rejects.toThrow('sesiones no válidas');
+});

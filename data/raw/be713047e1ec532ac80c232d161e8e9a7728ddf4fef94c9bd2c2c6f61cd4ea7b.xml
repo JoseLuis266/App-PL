@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a7" tipo="precepto" titulo="Artículo 7">
+      <version id_norma="BOE-A-2009-9481" fecha_publicacion="20090608" fecha_vigencia="20091208">
+        <p class="articulo">Artículo 7. Requisitos para obtener un permiso o una licencia de conducción.</p>
+        <p class="parrafo">1. Para obtener un permiso o una licencia de conducción se requerirá:</p>
+        <p class="parrafo_2">a) En el caso de extranjeros, acreditar la situación de residencia normal o estancia por estudios en España de, al menos, seis meses y haber cumplido la edad requerida.</p>
+        <p class="parrafo">b) No estar privado por resolución judicial del derecho a conducir vehículos de motor y ciclomotores, ni hallarse sometido a suspensión o intervención administrativa del permiso o licencia de conducción que se posea.</p>
+        <p class="parrafo">c) Que haya transcurrido el plazo legalmente establecido, una vez declarada la pérdida de vigencia del permiso o licencia de conducción del que fuera titular como consecuencia de la pérdida total de los puntos asignados.</p>
+        <p class="parrafo">d) Reunir las aptitudes psicofísicas requeridas en relación con la clase del permiso o licencia de conducción que se solicite.</p>
+        <p class="parrafo">e) Ser declarado apto por la Jefatura Provincial de Tráfico en las pruebas teóricas y prácticas que, en relación con cada clase de permiso o licencia de conducción, se determinan en el título II.</p>
+        <p class="parrafo">f) No ser titular de un permiso de conducción de igual clase expedido en otro Estado miembro de la Unión Europea o en otro Estado parte del Acuerdo sobre el Espacio Económico Europeo, ni haber sido restringido, suspendido o anulado en otro Estado miembro el permiso de conducción que poseyese.</p>
+        <p class="parrafo_2">2. Los que padezcan enfermedad o deficiencia orgánica o funcional que les incapacite para obtener permiso o licencia de conducción de carácter ordinario podrán obtener un permiso o licencia de conducción extraordinarios sujetos a las condiciones restrictivas que en cada caso procedan.</p>
+      </version>
+      <version id_norma="BOE-A-2015-12572" fecha_publicacion="20151121" fecha_vigencia="20151231">
+        <p class="articulo">Artículo 7. Requisitos para obtener un permiso o una licencia de conducción.</p>
+        <p class="parrafo">1. Para obtener un permiso o una licencia de conducción se requerirá:</p>
+        <p class="parrafo_2">a) En el caso de extranjeros, acreditar la situación de residencia normal o estancia por estudios en España de, al menos, seis meses y haber cumplido la edad requerida.</p>
+        <p class="parrafo">b) No estar privado por resolución judicial del derecho a conducir vehículos de motor y ciclomotores, ni hallarse sometido a suspensión o intervención administrativa del permiso o licencia de conducción que se posea.</p>
+        <p class="parrafo">c) Que haya transcurrido el plazo legalmente establecido, una vez declarada la pérdida de vigencia del permiso o licencia de conducción del que fuera titular como consecuencia de la pérdida total de los puntos asignados.</p>
+        <p class="parrafo">d) Reunir las aptitudes psicofísicas requeridas en relación con la clase del permiso o licencia de conducción que se solicite.</p>
+        <p class="parrafo">e) Ser declarado apto por la Jefatura Provincial de Tráfico en las pruebas teóricas y prácticas que, en relación con cada clase de permiso o licencia de conducción, se determinan en el título II.</p>
+        <p class="parrafo">f) No ser titular de un permiso de conducción expedido en otro Estado miembro de la Unión Europea o en otro Estado parte del Acuerdo sobre el Espacio Económico Europeo, ni haber sido restringido, suspendido o anulado en otro Estado miembro el permiso de conducción que poseyese.</p>
+        <p class="parrafo_2">2. Los que padezcan enfermedad o deficiencia orgánica o funcional que les incapacite para obtener permiso o licencia de conducción de carácter ordinario podrán obtener un permiso o licencia de conducción extraordinarios sujetos a las condiciones restrictivas que en cada caso procedan.</p>
+        <blockquote>
+          <p class="nota_pie">Se modifica el apartado 1.f) por el art. único.3 del Real Decreto 1055/2015, de 20 de noviembre. <a class="refPost">Ref. BOE-A-2015-12572</a>.</p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

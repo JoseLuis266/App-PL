@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-6310/metadatos",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-6310/metadatos",
+  "sha256": "803fdd223448612556eefa20ad34971618c1840e2dd1a590d6f810bde56c6de4",
+  "archivo": "data/raw/803fdd223448612556eefa20ad34971618c1840e2dd1a590d6f810bde56c6de4.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:31:49.332182+00:00"
+}

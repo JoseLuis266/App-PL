@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20251217202601">
+  <metadatos>
+    <identificador>BOE-A-1991-15527</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7723">Jefatura del Estado</departamento>
+    <rango codigo="1290">Ley Orgánica</rango>
+    <fecha_disposicion>19910617</fecha_disposicion>
+    <numero_oficial>11/1991</numero_oficial>
+    <titulo>Ley Orgánica 11/1991, de 17 de junio, del Régimen Disciplinario de la Guardia Civil.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>19910618</fecha_publicacion>
+    <diario_numero>145</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>20011</pagina_inicial>
+    <pagina_final>20016</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/1991/06/18/pdfs/A20011-20016.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia>19910619</fecha_vigencia>
+    <estatus_derogacion>S</estatus_derogacion>
+    <fecha_derogacion>20080123</fecha_derogacion>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>S</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/lo/1991/06/17/11</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/lo/1991/06/17/11">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/lo"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1991-15527</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1991-06-17</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11</eli:number>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1983"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3841"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5930"/>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/lo/1991/06/17/11/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/lo"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1991-15527</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1991-06-17</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11</eli:number>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1983"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3841"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5930"/>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/lo/1991/06/17/11"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/lo/1991/06/17/11/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ley Orgánica 11/1991, de 17 de junio, del Régimen Disciplinario de la Guardia Civil.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1991-06-18</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/lo/1991/06/17/11/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/lo/1991/06/17/11/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/lo/1991/06/17/11/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/lo/1991/06/17/11/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/lo/1991/06/17/11/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/lo/1991/06/17/11/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/lo/1991/06/17/11/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="1983" orden="1">Cuerpo de la Guardia Civil</materia>
+      <materia codigo="3841" orden="2">Fuerzas y Cuerpos de Seguridad del Estado</materia>
+      <materia codigo="5930" orden="3">Régimen disciplinario</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1986-6859" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 15.1 de la Ley Orgánica 2/1986, de 13 de marzo</texto>
+        </anterior>
+        <anterior referencia="BOE-T-1989-28900" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Sentencia del TC 194/1989, de 16 de noviembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1989-8712" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Ley Orgánica 2/1989, de 13 de abril</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1985-25779" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>codigo Penal militar, aprobado por Ley Orgánica 13/1985, de 9 de diciembre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores>
+        <posterior referencia="BOE-A-2007-18392" orden="">
+          <palabra codigo="210">SE DEROGA</palabra>
+          <texto>, por Ley Orgánica 12/2007, de 22 de octubre</texto>
+        </posterior>
+        <posterior referencia="BOE-A-1998-27864" orden="1">
+          <palabra codigo="270">SE MODIFICA</palabra>
+          <texto>, por Ley Orgánica 8/1998, de 2 de diciembre</texto>
+        </posterior>
+        <posterior referencia="BOE-A-2012-448" orden="">
+          <palabra codigo="470">SE DECLARA</palabra>
+          <texto>en la Cuestión 1878/2006, la inconstitucionalidad y nulidad del inciso indicado del art. 64.3, por Sentencia 202/2011, de 13 de diciembre</texto>
+        </posterior>
+        <posterior referencia="BOE-A-2010-17750" orden="">
+          <palabra codigo="470">SE DECLARA</palabra>
+          <texto>en la CUESTIÓN 9429/2008,  la constitucionalidad del art. 10.1 y 2, por Sentencia 73/2010, de 18 de octubre</texto>
+        </posterior>
+      </posteriores>
+    </referencias>
+    <alertas>
+      <alerta codigo="126" orden="1">Seguridad y Defensa</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="centro_redonda">JUAN CARLOS i</p>
+    <p class="centro_redonda">REY DE ESPAÑA</p>
+    <p class="parrafo_2">A todos los que la presente vieren y entendieren,</p>
+    <p class="parrafo">Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica:</p>
+    <p class="centro_redonda">EXPOSICIÓN DE MOTIVOS</p>
+    <p class="parrafo_2">La Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, en su artículo 2.° define como tales, entre otros, a las Fuerzas y Cuerpos de Seguridad del Estado dependientes del Gobierno de la Nación. En su artículo 9.° manifiesta que dichas Fuerzas y Cuerpos de Seguridad del Estado están integradas por el Cuerpo Nacional de Policía y el Cuerpo de la Guardia Civil, que es un instituto armado de naturaleza militar, dependiente del Ministro del Interior, en el desempeño de las funciones que esa misma Ley le atribuye, y del Ministro de Defensa, en el cumplimiento de las mismas de carácter militar que éste o el Gobierno le encomienden; asimismo, en tiempo de guerra y durante el estado de sitio, la Guardia Civil dependerá exclusivamente del Ministro de Defensa. Finalmente, en su artículo 15.1, la Ley establece que la Guardia Civil, dada esa condición de instituto armado de naturaleza militar, se regirá, a efectos disciplinarios, por su normativa específica.</p>
+    <p class="parrafo">Determinada así, inequívocamente, la naturaleza del Cuerpo de la Guardia Civil como instituto armado de naturaleza militar, y la consecuente exigencia de especificidad respecto de otras Fuerzas y Cuerpos de Seguridad del Estado en cuanto a su régimen disciplinario, la aplicación a la Guardia Civil del Régimen propio de las Fuerzas Armadas debe considerarse meramente provisional, como ha indicado el Tribunal Constitucional en sentencia de 16 de noviembre de 1989.</p>
+    <p class="parrafo">El Alto Tribunal ha declarado, en efecto, que esa situación, que es admisible con carácter transitorio, no puede sostenerse de modo permanente, pues «la normativa aplicable a la Guardia Civil será la propia de las Fuerzas Armadas mientras no se prevea otra propia o singularidades específicas». En la misma resolución se indica que el establecimiento de una normativa disciplinaria específica para la Guardia Civil, debe considerarse un objetivo prioritario, que no puede quedar indefinidamente incumplido, sino que el legislador ha de ser fiel a su propósito, despejando las indefiniciones legislativas sobre la especificidad a efectos disciplinarios de la Guardia Civil.</p>
+    <p class="parrafo">Por consiguiente, el establecimiento de un régimen disciplinario para la Guardia Civil, sin perjuicio de la oportuna promulgación de su Reglamento Orgánico, que se encuentra en avanzado estado de elaboración, no puede ser demorado. Dicho régimen habrá de tener en cuenta, en todo caso, que la disciplina constituye uno de los valores esenciales de los Cuerpos en los que la jerarquía representa uno de los principios cardinales de organización, circunstancia que concurre de forma muy destacada en la Guardia Civil, en la que, como se ha puesto de relieve, se manifiesta un doble carácter de Cuerpo integrante de las Fuerzas de Seguridad y de instituto armado de naturaleza militar.</p>
+    <p class="parrafo">Sobre esta base, la presente Ley tiene el contenido que es propio de los regímenes disciplinarios. Regula la atribución y ejercicio de la potestad disciplinaria en función de los principios legales de dependencia que son de aplicación a la Guardia Civil. Tipifica las faltas y sanciones. Establece los procedimientos sancionadores con expresión del régimen de garantías para los incursos en los mismos, e incluye el régimen de recursos administrativos y judiciales, fijando la exclusiva competencia en este ámbito de la jurisdicción militar como consecuencia de la naturaleza, a que ya se ha hecho referencia, del Cuerpo de la Guardia Civil y del conjunto de su régimen disciplinario.</p>
+    <p class="parrafo">La presente Ley viene, con todo ello, a dar cumplimiento a previsiones legislativas y a exigencias de orden jurídico-constitucional, de manera inaplazable y adecuada para asegurar el regular funcionamiento del Cuerpo de la Guardia Civil al servicio de los ciudadanos.</p>
+    <p class="titulo_num">TÍTULO PRIMERO</p>
+    <p class="titulo_tit">Disposiciones generales</p>
+    <p class="articulo">Artículo 1.</p>
+    <p class="parrafo_2">El régimen disciplinario de la Guardia Civil tiene por objeto garantizar la observancia de la Ley Orgánica de Fuerzas y Cuerpos de Seguridad, Reales Ordenanzas y demás normas que rigen la Institución, así como el cumplimiento de las órdenes, de conformidad con su carácter de instituto armado de naturaleza militar y estructura jerarquizada, con independencia de la protección penal que a todo ello corresponda.</p>
+    <p class="articulo">Artículo 2.</p>
+    <p class="parrafo_2">1. Están sujetos a lo dispuesto en la presente Ley los guardias civiles comprendidos en cualquiera de las situaciones administrativas en las que se mantengan los derechos y obligaciones inherentes, a la condición militar, así como los guardias civiles auxiliares mientras se encuentren en situación de actividad o servicio en filas.</p>
+    <p class="parrafo">2. A los alumnos de los Centros de Formación se les aplicarán sus reglamentos disciplinarios específicos, los cuales deberán adecuarse a lo regulado en la presente Ley.</p>
+    <p class="articulo">Artículo 3.</p>
+    <p class="parrafo_2">La iniciación de un procedimiento penal contra miembros de la Guardia Civil no impedirá la incoación y tramitación de expedientes disciplinarios por los mismos hechos. No obstante, la resolución definitiva del expediente sólo podrá producirse cuando la dictada en el ámbito penal sea firme, vinculando la declaración de hechos probados.</p>
+    <p class="titulo_num">TÍTULO II</p>
+    <p class="titulo_tit">Potestad disciplinaria</p>
+    <p class="articulo">Artículo 4.</p>
+    <p class="parrafo_2">1. Corresponde la potestad sancionadora regulada por la presente Ley a los mandos y autoridades de los Ministerios de Defensa e Interior, en los términos establecidos en la misma.</p>
+    <p class="parrafo">2. Los Gobernadores Civiles tendrán la facultad de instar, ante el Director general del Cuerpo, el ejercicio de la potestad disciplinaria, de acuerdo con lo previsto en esta Ley. Esta facultad la tendrán, asimismo, el Director general de Tráfico y demás autoridades bajo cuya dependencia funcional presten servicio los miembros de la Guardia Civil.</p>
+    <p class="articulo">Artículo 5.</p>
+    <p class="parrafo_2">Las sanciones que se impongan en el ejercicio de la potestad disciplinaria guardarán proporción con las conductas que las motiven y se individualizarán atendiendo a las circunstancias que concurran en los autores y a las que afecten o puedan afectar al interés del servicio.</p>
+    <p class="titulo_num">TÍTULO III</p>
+    <p class="titulo_tit">Faltas y sanciones</p>
+    <p class="capitulo_num">CAPÍTULO PRIMERO</p>
+    <p class="capitulo_tit">Infracciones disciplinarias</p>
+    <p class="articulo">Artículo 6.</p>
+    <p class="parrafo_2">1. Constituye falta disciplinaria toda acción u omisión prevista en esta Ley.</p>
+    <p class="parrafo">2. Las faltas podrán ser: leves, graves y muy graves.</p>
+    <p class="articulo">Artículo 7.</p>
+    <p class="parrafo_2">Son faltas leves:</p>
+    <p class="parrafo_2">1. El trato incorrecto con los ciudadanos en el desempeño del servicio o vistiendo de uniforme.</p>
+    <p class="parrafo">2. La negligencia en el incumplimiento de sus obligaciones profesionales.</p>
+    <p class="parrafo">3. La falta de interés en la preparación personal para el desempeño de la función encomendada.</p>
+    <p class="parrafo">4. Las manifestaciones de tibieza o disgusto en el servicio o en relación con las órdenes del mando, así como tolerarlas en los subordinados.</p>
+    <p class="parrafo">5. La falta de puntualidad en los actos de servicio y las ausencias injustificadas de los mismos, si no constituyen infracción más grave.</p>
+    <p class="parrafo">6. La ausencia del lugar del destino o residencia por un plazo inferior a veinticuatro horas con infracción de las normas sobre permisos.</p>
+    <p class="parrafo">7. Las indiscreciones en materia de obligada reserva, cuando no constituyan infracción más grave.</p>
+    <p class="parrafo">8. La negligencia en la conservación y uso de los locales, material y demás elementos del servicio.</p>
+    <p class="parrafo">9. La inexactitud en el cumplimiento de las normas de régimen interior.</p>
+    <p class="parrafo">10. La inexactitud en el cumplimiento de las órdenes recibidas.</p>
+    <p class="parrafo">11. Tratar de forma incorrecta o desconsiderada a los subordinados.</p>
+    <p class="parrafo">12. Invadir, sin razón justificada, las competencias atribuidas reglamentariamente a los subordinados.</p>
+    <p class="parrafo">13. No tramitar las peticiones o reclamaciones formuladas, siempre que no constituya falta grave.</p>
+    <p class="parrafo">14. La falta de respeto a los superiores y, en especial, las razones descompuestas y réplicas desatentas a los mismos.</p>
+    <p class="parrafo">15. Hacer peticiones o reclamaciones en forma o términos irrespetuosos o prescindiendo del conducto reglamentario.</p>
+    <p class="parrafo">16. El descuido en el aseo personal y la infracción de las normas que regulan la uniformidad.</p>
+    <p class="parrafo">17. El ostentar insignias, condecoraciones u otros distintivos militares o civiles, sin estar autorizado para ello.</p>
+    <p class="parrafo">18. La omisión del saludo a un superior, el no devolverlo a un igual o inferior y el inexacto cumplimiento de las normas que lo regulan.</p>
+    <p class="parrafo">19. Las riñas o altercados entre compañeros, cuando no constituya infracción más grave.</p>
+    <p class="parrafo">20. Embriagarse fuera del servicio, cuando no constituya el hecho falta grave.</p>
+    <p class="parrafo">21. Acudir de uniforme a lugares o establecimientos incompatibles con la condición de Guardia Civil, salvo en acto de servicio.</p>
+    <p class="parrafo">22. Realizar actos contrarios a la dignidad exigible en todo miembro de la Institución.</p>
+    <p class="parrafo">23. El juego en dependencias oficiales, siempre que no constituyan un mero pasatiempo o recreo.</p>
+    <p class="parrafo">24. Contraer deudas injustificadas con subordinados.</p>
+    <p class="parrafo">25. Sustraer o deteriorar material o efectos de carácter oficial y de escasa entidad.</p>
+    <p class="parrafo">26. Tolerar en el personal subordinado alguna de las conductas tipificadas como falta leve en la presente Ley.</p>
+    <p class="parrafo">27. Las demás que, no estando incluidas en los tipos anteriores, constituyan una leve infracción a los deberes que imponen las disposiciones que rigen la actuación de la Guardia Civil.</p>
+    <p class="articulo">Artículo 8.</p>
+    <p class="parrafo_2">Son faltas graves:</p>
+    <p class="parrafo_2">1. El atentado grave a la dignidad de los ciudadanos en el desempeño del servicio o vistiendo de uniforme.</p>
+    <p class="parrafo">2. Toda actuación que suponga discriminación por razón de raza, sexo, religión, lengua, opinión, lugar de nacimiento, vecindad o cualquier otra condición o circunstancia personal o social, siempre que no constituya delito.</p>
+    <p class="parrafo">3. Infringir gravemente su deber de neutralidad política, realizando actos irrespetuosos o emitiendo públicamente expresiones contrarias al ordenamiento constitucional, a los símbolos, Instituciones o autoridades del Estado, de las Comunidades Autónomas o de las Corporaciones Locales, a los Parlamentarios o a los representantes de otros Estados cuando no constituya delito.</p>
+    <p class="parrafo">4. Eludir la tramitación o resolución de los asuntos que le estén encomendados por su función o cargo.</p>
+    <p class="parrafo">5. La negligencia en el cumplimiento de las obligaciones profesionales causando perjuicio grave al servicio.</p>
+    <p class="parrafo">6. Usar las armas en acto de servicio o fuera de él con infracción de las normas que regulan su empleo.</p>
+    <p class="parrafo">7. La negligencia en la preparación, instrucción o adiestramiento de las Fuerzas o personal subordinado.</p>
+    <p class="parrafo">8. El abandono del servicio cuando no constituya delito.</p>
+    <p class="parrafo">9. Dejar de prestar servicio amparándose en una supuesta enfermedad o prolongando la baja para el mismo.</p>
+    <p class="parrafo">10. La ausencia del destino o residencia, por un plazo superior a veinticuatro horas e inferior a setenta y dos horas, con infracción de las normas sobre permisos.</p>
+    <p class="parrafo">11. Quebrantar el secreto profesional o no guardar debido sigilo en asuntos que conozca por razón o con ocasión del desempeño de sus funciones profesionales cuando no constituya delito.</p>
+    <p class="parrafo">12. La negligencia en la conservación y uso de los locales, material y demás elementos del servicio, causándole grave daño al mismo.</p>
+    <p class="parrafo">13. La negligencia en el cumplimiento de una orden recibida, causando grave daño al servicio.</p>
+    <p class="parrafo">14. Excederse arbitrariamente en el ejercicio de la autoridad o mando cuando no constituya delito.</p>
+    <p class="parrafo">15. Impedir, dificultar o limitar el libre ejercicio de los derechos de los subordinados o de los ciudadanos cuando no constituya delito.</p>
+    <p class="parrafo">16. La falta de subordinación cuando no constituya delito.</p>
+    <p class="parrafo">17. Hacer reclamaciones, peticiones o manifestaciones contrarias a la disciplina o basadas en aseveraciones falsas, o formularlas con carácter colectivo.</p>
+    <p class="parrafo">18. Hacer reclamaciones o peticiones con publicidad o a través de los medios de comunicación social.</p>
+    <p class="parrafo">19. Las riñas o altercados entre compañeros cuando puedan afectar gravemente a la convivencia entre los mismos.</p>
+    <p class="parrafo">20. Atentar contra la libertad sexual de los inferiores, prevaliéndose de su condición, cuando el acto no constituya delito.</p>
+    <p class="parrafo">21. Mantener relaciones sexuales con trascendencia pública en Acuartelamientos cuando atenten a la dignidad personal o al prestigio de la Institución.</p>
+    <p class="parrafo">22. Embriagarse fuera del servicio cuando afecte a la imagen de la Institución, o consumir ilícitamente drogas tóxicas, estupefacientes o sustancias psicotrópicas.</p>
+    <p class="parrafo">23. Ordenar la ejecución de prestaciones de tipo personal ajenas al servicio.</p>
+    <p class="parrafo">24. Emplear para usos particulares medios o recursos de carácter oficial o facilitarlos a un tercero cuando no constituya delito.</p>
+    <p class="parrafo">25. Sustraer o deteriorar material o efectos de carácter oficial cuando no constituya delito.</p>
+    <p class="parrafo">26. Ser condenado por un Juez o Tribunal de cualquier jurisdicción, mediante sentencia firme dictada en aplicación de normas distintas de las contenidas en el Código Penal Militar, a cualquier pena leve como autor de falta penal dolosa, siempre que afecte al servicio o al decoro de la Institución.</p>
+    <p class="parrafo">27. Cometer falta leve, teniendo anotadas y no canceladas al menos otras tres faltas.</p>
+    <p class="parrafo">28. Tolerar en el personal subordinado cualquier conducta tipificada como falta grave en la presente Ley.</p>
+    <p class="articulo">Artículo 9.</p>
+    <p class="parrafo_2">Son faltas muy graves, que darán lugar a la incoación de expediente gubernativo, las siguientes:</p>
+    <p class="parrafo_2">1. Manifestar una actitud abiertamente contraria al ordenamiento constitucional o a S. M. el Rey.</p>
+    <p class="parrafo">2. El abuso de sus atribuciones y la práctica de tratos inhumanos, degradantes, discriminatorios o vejatorios a las personas que se encuentren bajo su custodia.</p>
+    <p class="parrafo">3. No prestar con urgencia el auxilio debido en aquellos hechos o circunstancias graves en que sea obligada su actuación.</p>
+    <p class="parrafo">4. La falta de colaboración manifiesta con los demás miembros de las Fuerzas y Cuerpos de Seguridad.</p>
+    <p class="parrafo">5. El incumplimiento de las normas sobre incompatibilidades, desempeñando cualquier actividad pública o privada, salvo las exceptuadas en la legislación sobre las mismas.</p>
+    <p class="parrafo">6. Promover o pertenecer a partidos políticos o sindicatos, o desarrollar actividades políticas o sindicales.</p>
+    <p class="parrafo">7. Embriagarse o consumir drogas tóxicas, estupefacientes o sustancias similares durante el servicio o con habitualidad. Se entenderá que existe habitualidad cuando se tuviere, por cualquier medio, constancia de dos o más episodios de embriaguez o consumo de las sustancias referidas.</p>
+    <p class="parrafo">8. Observar conductas gravemente contrarias a la disciplina, servicio o dignidad de la Institución que no constituyan delito.</p>
+    <p class="parrafo">9. Cometer una falta grave o dos leves teniendo anotadas y no canceladas dos faltas graves.</p>
+    <p class="parrafo">10. Haber sido condenado por sentencia firme, en aplicación de disposiciones distintas al Código Penal Militar, por un delito cometido con dolo que lleve aparejada la privación de libertad o cuando la condena fuera superior a un año de prisión si hubiese sido cometido por imprudencia.</p>
+    <p class="parrafo">11. Tolerar en el personal subordinado cualquier conducta tipificada como infracción disciplinaria muy grave en la presente Ley.</p>
+    <p class="capitulo_num">CAPÍTULO II</p>
+    <p class="capitulo_tit">Sanciones disciplinarias</p>
+    <p class="articulo">Artículo 10.</p>
+    <p class="parrafo_2">1. Las sanciones que pueden imponerse por faltas leves son:</p>
+    <p class="parrafo_2">Reprensión.</p>
+    <p class="parrafo">Pérdida de uno a cuatro días de haberes.</p>
+    <p class="parrafo">Arresto de uno a treinta días en domicilio.</p>
+    <p class="parrafo_2">2. Las sanciones que pueden imponerse por faltas graves son:</p>
+    <p class="parrafo_2">Pérdida de cinco a veinte días de haberes.</p>
+    <p class="parrafo">Arresto de un mes y un día a tres meses en establecimiento disciplinario militar.</p>
+    <p class="parrafo">Pérdida de destino.</p>
+    <p class="parrafo_2">3. Las sanciones que pueden imponerse por faltas muy graves son:</p>
+    <p class="parrafo_2">Pérdida de puestos en el escalafón.</p>
+    <p class="parrafo">Suspensión de empleo de un mes a un año.</p>
+    <p class="parrafo">Separación del servicio.</p>
+    <p class="articulo">Artículo 11.</p>
+    <p class="parrafo_2">1. La reprensión es la reprobación expresa que por escrito dirige el superior al subordinado.</p>
+    <p class="parrafo">2. No constituye sanción disciplinaria la advertencia o amonestación verbal que, para el mejor cumplimiento de las obligaciones y servicios, pueda hacerse en el ejercicio del mando.</p>
+    <p class="articulo">Artículo 12.</p>
+    <p class="parrafo_2">La pérdida de haberes supone la reducción de las retribuciones correspondientes a los días objeto de sanción y la suspensión de funciones por los días que ésta dure.</p>
+    <p class="articulo">Artículo 13.</p>
+    <p class="parrafo_2">1. El arresto de uno a treinta días consiste en la restricción de libertad del sancionado e implica su permanencia, por el tiempo que dure el mismo, en su domicilio. El sancionado podrá participar en las actividades de la Unidad permaneciendo en su domicilio el resto del tiempo.</p>
+    <p class="parrafo">2. El arresto de un mes y un día a tres meses consiste en la privación de libertad del sancionado y su internamiento en el correspondiente establecimiento disciplinario militar durante el tiempo por el que se imponga. El sancionado no participará en las actividades de la Unidad durante el tiempo de este arresto.</p>
+    <p class="articulo">Artículo 14.</p>
+    <p class="parrafo_2">La sanción de pérdida de destino supone el cese en el que venía ocupando el infractor, quien durante dos años no podrá solicitar nuevo destino en la demarcación territorial de la Comandancia en la que prestaba servicio al ser sancionado.</p>
+    <p class="articulo">Artículo 15.</p>
+    <p class="parrafo_2">La pérdida de puestos en el escalafón supondrá para el sancionado el retraso en el orden de escalafonamiento, dentro de su empleo, del número de puestos que se determine en la resolución del expediente, que no podrá ser superior a un quinto del número de los componentes de su empleo.</p>
+    <p class="articulo">Artículo 16.</p>
+    <p class="parrafo_2">1. La suspensión de empleo privará de todas las funciones propias del mismo por un período mínimo de un mes y máximo de un año, o, en su caso, por el tiempo de duración de la condena recaída en un proceso penal.</p>
+    <p class="parrafo">2. También producirá el efecto de quedar inmovilizado en su empleo en el puesto que ocupe y el tiempo transcurrido no será de abono para el servicio.</p>
+    <p class="parrafo">3. Concluida la suspensión, finalizará la inmovilización en el empleo y la pérdida de puestos será definitiva.</p>
+    <p class="articulo">Artículo 17.</p>
+    <p class="parrafo_2">La separación del servicio supondrá para el sancionado quedar fuera de la Guardia Civil, perdiendo los derechos profesionales adquiridos, excepto el empleo y los derechos pasivos que hubiese consolidado.</p>
+    <p class="capitulo_num">CAPÍTULO III</p>
+    <p class="capitulo_tit">Competencias sancionadoras</p>
+    <p class="articulo">Artículo 18.</p>
+    <p class="parrafo_2">1. Todo mando tiene el deber de corregir las infracciones que observe en los inferiores, le estén o no subordinados directamente. Si, además, las juzga merecedoras de sanción lo hará por sí mismo si tiene potestad sancionadora o, en otro caso, dará parte inmediatamente a quien la tenga.</p>
+    <p class="parrafo">2. Si se trata de una falta que por su naturaleza y circunstancias exige una acción inmediata para mantener la disciplina y la subordinación podrá ordenar la reclusión del infractor en su domicilio o Unidad durante el tiempo máximo de cuarenta y ocho horas, en espera de la posterior decisión de la autoridad o mando con potestad disciplinaria, a quien dará cuenta de modo inmediato de la disposición adoptada.</p>
+    <p class="articulo">Artículo 19.</p>
+    <p class="parrafo_2">En el Cuerpo de la Guardia Civil tienen potestad para sancionar a sus miembros:</p>
+    <p class="parrafo_2">1. El Director general de la Guardia Civil.</p>
+    <p class="parrafo">2. Los Oficiales generales con mando sobre Unidad, Organismo, Centro o demarcación territorial de la Guardia Civil.</p>
+    <p class="parrafo">3. Los Jefes de Tercio y los de Servicio, Centro, Organismo o Unidad de categoría similar.</p>
+    <p class="parrafo">4. Los Jefes de Comandancia y los de Centro, Organismo o Unidad de categoría similar.</p>
+    <p class="parrafo">5. Los Jefes de Sector y los Oficiales superiores que ejerzan mando subordinado en una Comandancia, Centro, Organismo o Unidad de categoría similar.</p>
+    <p class="parrafo">6. Los Jefes de Compañía o Unidad similar de la Guardia Civil.</p>
+    <p class="parrafo">7. Los Jefes de Línea o Unidad similar de la Guardia Civil.</p>
+    <p class="parrafo">8. Los Comandantes de Puesto o Unidad similar de la Guardia Civil que tengan categoría de Suboficial.</p>
+    <p class="articulo">Artículo 20.</p>
+    <p class="parrafo_2">Para la imposición de la sanción de separación del servicio será competente el Ministro de Defensa, previo informe del Ministro del Interior, conforme a lo previsto en el artículo 15.1 de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad del Estado.</p>
+    <p class="articulo">Artículo 21.</p>
+    <p class="parrafo_2">El Director general de la Guardia Civil podrá imponer todas las sanciones, excepto la de separación del servicio.</p>
+    <p class="articulo">Artículo 22.</p>
+    <p class="parrafo_2">Los Oficiales Generales con mando o jefatura en la Guardia Civil podrán imponer a los miembros del Cuerpo que estén a sus órdenes, en el ámbito de sus respectivas competencias, las sanciones por faltas leves y graves, excepto la pérdida de destino.</p>
+    <p class="articulo">Artículo 23.</p>
+    <p class="parrafo_2">Los Jefes de Tercio y los de Servicio, Centro, Organismo o Unidad de categoría similar, podrán imponer, a los miembros del Cuerpo que estén a sus órdenes, las sanciones por faltas leves.</p>
+    <p class="articulo">Artículo 24.</p>
+    <p class="parrafo_2">Los Jefes de Comandancia y los de Centro, Organismo o Unidad de categoría similar, podrán sancionar a los miembros de la Guardia Civil que estén a sus órdenes con reprensión, pérdida de haberes de hasta cuatro días y arresto hasta veinte días.</p>
+    <p class="articulo">Artículo 25.</p>
+    <p class="parrafo_2">Los Jefes de Sector y los Oficiales Superiores que ejerzan mando subordinado en una Comandancia, Centro, Organismo o Unidad de categoría similar, podrán sancionar a los miembros de la Guardia Civil que estén a sus órdenes, con reprensión, pérdida de haberes de hasta dos días y arresto hasta catorce días.</p>
+    <p class="articulo">Artículo 26.</p>
+    <p class="parrafo_2">Los Jefes de Compañía o Unidad similar de la Guardia Civil podrán sancionar al personal que esté bajo sus órdenes, con reprensión, pérdida de un día de haberes y arresto hasta diez días.</p>
+    <p class="articulo">Artículo 27.</p>
+    <p class="parrafo_2">Los Jefes de Línea o Unidad similar podrán sancionar a los Guardias Civiles que estén a sus órdenes, con reprensión y arresto hasta siete días.</p>
+    <p class="articulo">Artículo 28.</p>
+    <p class="parrafo_2">Los Comandantes de Puesto o Unidad similar, siempre que tengan categoría de Suboficial, podrán sancionar a los miembros del Cuerpo que estén a sus órdenes, con reprensión y arresto hasta cuatro días.</p>
+    <p class="articulo">Artículo 29.</p>
+    <p class="parrafo_2">Las faltas disciplinarias cometidas por los miembros del Cuerpo que se encuentren en situaciones de actividad o de reserva en que no se ocupe destino serán sancionadas en todo caso por el Director general de la Guardia Civil. Esta competencia podrá ser ejercida, asimismo, por el Ministro de Defensa.</p>
+    <p class="articulo">Artículo 30.</p>
+    <p class="parrafo_2">Los Mandos interinos o accidentales tendrán las mismas competencias sancionadoras que los titulares a los que sustituyeran.</p>
+    <p class="titulo_num">TÍTULO V</p>
+    <p class="titulo_tit">Procedimiento sancionador</p>
+    <p class="capitulo_num">CAPÍTULO PRIMERO</p>
+    <p class="capitulo_tit">Disposiciones generales</p>
+    <p class="articulo">Artículo 31.</p>
+    <p class="parrafo_2">1. Para la imposición de cualquier sanción disciplinaria será preceptivo tramitar el procedimiento que correspondiere, con arreglo a las normas que en este título se establecen.</p>
+    <p class="parrafo">2. La responsabilidad por faltas leves se depurará mediante procedimiento oral; la dimanante de faltas graves a través de un expediente disciplinario, y la originada por las infracciones disciplinarias muy graves en expediente gubernativo.</p>
+    <p class="parrafo">3. En la resolución que ponga fin a un expediente disciplinario o gubernativo podrán, sin embargo, ser sancionadas las faltas leves imputables al expedientado que resulten de los hechos que le hubieren sido notificados. De igual modo podrán sancionarse faltas graves en un expediente gubernativo, siempre que se haya cumplimentado el trámite del pliego de cargos.</p>
+    <p class="articulo">Artículo 32.</p>
+    <p class="parrafo_2">1. El procedimiento se iniciará por acuerdo de la autoridad competente para ordenarlo, al que se acompañará, en su caso, el parte recibido sobre los hechos o la denuncia que hubiera motivado la incoación.</p>
+    <p class="parrafo">2. Antes de acordar la incoación de un procedimiento, la autoridad competente podrá acordar la práctica de una información reservada para el esclarecimiento de los hechos.</p>
+    <p class="parrafo">3. Si el procedimiento se inicia como consecuencia de la presentación de un parte, éste deberá contener un relato claro y escueto de los hechos, sus circunstancias, posible calificación y la identidad del presunto infractor, debiendo estar firmado por quien lo emita, que deberá hacer constar los datos necesarios para su identificación.</p>
+    <p class="parrafo">4. De iniciarse el procedimiento como consecuencia de denuncia, deberá comunicarse dicho acuerdo al firmante de la misma. No tendrá la consideración de denuncia la formulada con carácter anónimo.</p>
+    <p class="parrafo">5. Siempre que se incoe un expediente disciplinario o un expediente gubernativo se dará cuenta al Ministerio Fiscal, remitiéndole copia del escrito de iniciación.</p>
+    <p class="articulo">Artículo 33.</p>
+    <p class="parrafo_2">El procedimiento para la sanción de faltas disciplinarias se impulsará de oficio en todos sus trámites.</p>
+    <p class="articulo">Artículo 34.</p>
+    <p class="parrafo_2">En cualquier momento del procedimiento en que se aprecie que la presunta infracción disciplinaria pudiera ser calificada como infracción administrativa de otra naturaleza o como infracción penal se pondrá en conocimiento de la autoridad que hubiese ordenado la incoación para su comunicación a la autoridad administrativa o judicial competente o al Ministerio Fiscal.</p>
+    <p class="articulo">Artículo 35.</p>
+    <p class="parrafo_2">1. Si la naturaleza y circunstancias de la falta exigen una acción inmediata para mantener la disciplina, la autoridad que hubiera acordado la incoación del expediente podrá ordenar el arresto preventivo del infractor, que le será de abono para el cumplimiento de la sanción que le pueda ser impuesta, no pudiendo en ningún caso permanecer en esa situación más de un mes.</p>
+    <p class="parrafo">2. Por las mismas causas podrá acordarse el cese en sus funciones del infractor por un período no superior a tres meses. Esta suspensión no tendrá más efectos que el cese del inculpado en el ejercicio de sus funciones habituales.</p>
+    <p class="articulo">Artículo 36.</p>
+    <p class="parrafo_2">Cuando en el desarrollo del procedimiento se estime que los hechos enjuiciados pudieran ser constitutivos de una falta de mayor gravedad que la apreciada inicialmente, la autoridad que hubiera ordenado la incoación del expediente dispondrá la apertura del procedimiento correspondiente o dará cuenta a la autoridad competente para ello.</p>
+    <p class="articulo">Artículo 37.</p>
+    <p class="parrafo_2">1. Cuando a juicio de la autoridad disciplinaria superior a la que impuso la sanción los hechos sancionados pudieran ser constitutivos de una falta de mayor gravedad, dentro de los quince días siguientes a la resolución por la que se imponga podrá ordenar la apertura del procedimiento correspondiente a ésta, o dará parte a la autoridad competente para ello.</p>
+    <p class="parrafo">2. Si el sancionado hubiera interpuesto recurso contra la sanción, éste se acumulará al nuevo procedimiento.</p>
+    <p class="parrafo">3. Este procedimiento deberá concluir bien confirmando la sanción impuesta, bien dejándolo sin efecto, bien apreciando la existencia de una falta de mayor gravedad, en cuyo caso se decretará la nulidad de la sanción anterior, imponiéndose la que corresponda a la falta apreciada y abonándose, si ello fuera posible, la sanción ya cumplida.</p>
+    <p class="capitulo_num">CAPÍTULO II</p>
+    <p class="capitulo_tit">Procedimiento oral</p>
+    <p class="articulo">Artículo 38.</p>
+    <p class="parrafo_2">1. La autoridad que tenga competencia para sancionar una falta leve seguirá un procedimiento preferentemente oral, en el que verificará la exactitud de los hechos, oirá al presunto infractor, comprobará si los mismos están tipificados en alguno de los apartados del artículo 7 de esta Ley, y, si procede, graduará e impondrá la sanción correspondiente, ateniéndose a las circunstancias concurrentes en el hecho y en el infractor.</p>
+    <p class="parrafo">2. En la audiencia el presunto infractor podrá alegar y presentar los documentos y justificaciones que estime pertinentes.</p>
+    <p class="parrafo">3. La resolución adoptada, que contendrá un breve relato de los hechos y, en su caso, un extracto de las manifestaciones del interesado, deberá determinar con toda precisión la falta que se estime cometida, señalando el precepto en que aparezca tipificada, la persona responsable y la sanción que se le impone.</p>
+    <p class="parrafo">4. La resolución deberá ser notificada al infractor, con expresión del recurso o recursos que quepan contra la misma, la autoridad ante la que han de presentarse y los plazos para interponerlos. Asimismo, se remitirá copia de la resolución al órgano competente para constancia en el expediente del interesado.</p>
+    <p class="capitulo_num">CAPÍTULO III</p>
+    <p class="capitulo_tit">Expediente disciplinario</p>
+    <p class="seccion">Sección primera. Iniciación</p>
+    <p class="articulo">Artículo 39.</p>
+    <p class="parrafo_2">Serán competentes para ordenar la incoación del expediente disciplinario las Autoridades enumeradas en los artículos 21 y 22 de esta Ley.</p>
+    <p class="articulo">Artículo 40.</p>
+    <p class="parrafo_2">1. En la resolución por la que se incoe el procedimiento, se nombrarán Instructor y Secretario, a cuyo cargo correrá su tramitación.</p>
+    <p class="parrafo">2. El nombramiento de Instructor recaerá en un Oficial del Cuerpo Jurídico Militar o en un General, Jefe u Oficial de la Guardia Civil de empleo superior o más antiguo que cualquiera de los infractores. Podrá ser nombrado Secretario cualquier miembro de la Guardia Civil con la formación adecuada.</p>
+    <p class="parrafo">3. La incoación del procedimiento con el nombramiento de Instructor y Secretario se notificará al expedientado, así como a los designados para desempeñar dichos cargos.</p>
+    <p class="articulo">Artículo 41.</p>
+    <p class="parrafo_2">1. Serán de aplicación al Instructor y al Secretario las normas sobre abstención y recusación establecidas en la legislación procesal militar.</p>
+    <p class="parrafo">2. La recusación deberá proponerse tan luego como llegue a conocimiento del interesado la causa en que se funde. Si dicho conocimiento fuere anterior al expediente, habrá de proponerse al inicio del mismo, pues en otro caso no se admitirá a trámite.</p>
+    <p class="parrafo">3. La abstención y la recusación se plantearán ante la Autoridad que acordó el nombramiento, contra cuya resolución no cabrá recurso alguno, sin perjuicio de que se pueda hacer valer la causa de recusación en los recursos que se interpongan.</p>
+    <p class="articulo">Artículo 42.</p>
+    <p class="parrafo_2">El expedientado podrá contar, en todas las actuaciones a que dé lugar el procedimiento, con el asesoramiento de un Abogado o del militar que designe al efecto.</p>
+    <p class="seccion">Sección segunda. Desarrollo</p>
+    <p class="articulo">Artículo 43.</p>
+    <p class="parrafo_2">1. El procedimiento respetará los plazos establecidos en esta Ley, sin que la instrucción del expediente pueda exceder de tres meses.</p>
+    <p class="parrafo">2. Por razones de urgencia derivadas de la necesidad de mantener la disciplina o la ejemplaridad, o por la notoriedad o gravedad de los hechos, o cuando se haya adoptado alguna de las medidas previstas en el artículo 35 de esta Ley, la Autoridad competente podrá disponer que los plazos de tramitación del expediente se reduzcan a la mitad, salvo el relativo al trámite de audiencia.</p>
+    <p class="articulo">Artículo 44.</p>
+    <p class="parrafo_2">1. El instructor, como primera actuación, procederá a tomar declaración al inculpado y a ordenar la práctica de cuantas diligencias se deduzcan de lo que aquél hubiera manifestado, así como de aquellas que se desprendan de la comunicación o denuncia que originó el expediente disciplinario.</p>
+    <p class="parrafo">2. Ordenará también las diligencias que vayan dirigidas a la determinación, conocimiento y comprobación de los datos que servirán de base a la resolución. Asimismo, practicará todas las pruebas y actuaciones que conduzcan al esclarecimiento de los hechos y a determinar las responsabilidades susceptibles de sanción.</p>
+    <p class="parrafo">3. Todos los Organismos y dependencias de la Administración están obligados a facilitar al Instructor los antecedentes e informes necesarios para el desarrollo de su actuación, que se solicitarán por el conducto y en la forma reglamentada, salvo precepto legal que lo impida.</p>
+    <p class="articulo">Artículo 45.</p>
+    <p class="parrafo_2">1. Una vez se hayan practicado las actuaciones y diligencias, el Instructor formulará el correspondiente pliego de cargos, si a ello hubiera lugar, comprendiendo en el mismo todos los hechos imputados, la calificación jurídica de los mismos y las sanciones que pudieran ser de aplicación, de conformidad con el artículo 10 de la presente Ley.</p>
+    <p class="parrafo">2. El pliego de cargos se comunicará al expedientado, quien podrá contestarlo en el plazo de cinco días, a contar desde la notificación, alegando cuanto considere oportuno a su defensa y proponiendo la práctica de las pruebas que estime necesarias.</p>
+    <p class="articulo">Artículo 46.</p>
+    <p class="parrafo_2">Contestado el pliego de cargos o transcurrido el plazo sin hacerlo, el Instructor, de oficio o a instancia de parte, acordará la práctica de las pruebas admisibles en derecho que juzgue pertinentes. La resolución que se adopte no será susceptible de recurso, sin perjuicio de que el expedientado pueda reproducir la petición de las pruebas que le fueran denegadas en el recurso contra la resolución del expediente.</p>
+    <p class="articulo">Artículo 47.</p>
+    <p class="parrafo_2">El Instructor, cuando considere concluso el expediente, formulará propuesta de resolución en la que fijará con precisión los hechos, hará la valoración jurídica de los mismos y manifestará si los estima constitutivos de falta, con indicación en su caso de cuál sea ésta, y de la responsabilidad del expedientado, proponiendo la sanción a imponer.</p>
+    <p class="articulo">Artículo 48.</p>
+    <p class="parrafo_2">1. La propuesta de resolución del expediente se notificará por el Instructor al interesado para que, en el plazo de cinco días, pueda alegar cuanto considere conveniente a su defensa.</p>
+    <p class="parrafo">2. Oído el interesado, o transcurrido el plazo sin alegación alguna, se remitirá el expediente, convenientemente foliado y numerado, a la Autoridad sancionadora competente, con carácter inmediato.</p>
+    <p class="articulo">Artículo 49.</p>
+    <p class="parrafo_2">Si en cualquier fase del procedimiento el Instructor deduce la inexistencia de responsabilidad disciplinaria o de pruebas adecuadas para fundamentarla, propondrá la terminación del expediente sin declaración de responsabilidad, expresando las causas que la motivan.</p>
+    <p class="seccion">Sección tercera. Terminación</p>
+    <p class="articulo">Artículo 50.</p>
+    <p class="parrafo_2">Recibido el expediente, la Autoridad competente procederá, tras el examen de lo actuado, a la práctica de las diligencias complementarias que considere oportunas y, previo informe del Asesor jurídico, a dictar la resolución que corresponda, si estuviera dentro de sus atribuciones o, en caso contrario, lo remitirá al órgano competente.</p>
+    <p class="articulo">Artículo 51.</p>
+    <p class="parrafo_2">1. La resolución que ponga fin al procedimiento disciplinario deberá ser motivada y fundada únicamente en los hechos que hubieran sido notificados por el Instructor al interesado, determinando con toda precisión la falta que se estime cometida, señalando los preceptos en que aparezca recogida la misma, el responsable y la sanción que se le impone con las circunstancias de su cumplimiento, haciendo expresa declaración en orden a las medidas provisionales adoptadas durante la tramitación del procedimiento.</p>
+    <p class="parrafo">2. La resolución del expediente será notificada en forma al expedientado, con indicación del recurso o recursos que contra la misma procedan, así como el órgano ante el que han de presentarse y los plazos para interponerlos.</p>
+    <p class="capitulo_num">CAPÍTULO IV</p>
+    <p class="capitulo_tit">Expediente gubernativo</p>
+    <p class="articulo">Artículo 52.</p>
+    <p class="parrafo_2">1. Será competente para incoar expediente gubernativo el Director general de la Guardia Civil.</p>
+    <p class="parrafo">2. Previamente a la imposición de la sanción será preceptivo oír al órgano superior consultivo de la Guardia Civil.</p>
+    <p class="parrafo">3. Cuando la propuesta de sanción fuera la de separación del servicio, el Director general de la Guardia Civil elevará el expediente al Ministro del Interior, quien dará traslado del mismo con su informe al de Defensa, para que adopte la resolución que corresponda.</p>
+    <p class="articulo">Artículo 53.</p>
+    <p class="parrafo_2">La incoación, tramitación y resolución del expediente gubernativo se regirá por las disposiciones establecidas en el capítulo anterior para el expediente disciplinario, con las siguientes especialidades:</p>
+    <p class="parrafo_2">1. El plazo máximo de instrucción del expediente será de seis meses.</p>
+    <p class="parrafo">2. El Instructor del expediente será, en todo caso, un Oficial del Cuerpo Jurídico Militar.</p>
+    <p class="parrafo">3. El Instructor deberá incorporar al expediente la documentación militar del interesado, sus cinco últimas conceptuaciones anuales y cuantos datos puedan servir de antecedentes, aunque sean de carácter reservado.</p>
+    <p class="parrafo">4. Cuando el expediente gubernativo se incoe por la falta muy grave, prevista en el artículo 9.10, se sustituirá el pliego de cargos por el traslado de la sentencia condenatoria del interesado, sin necesidad de cumplimentar el trámite previsto en el apartado 2 del artículo anterior.</p>
+    <p class="parrafo">5. Será preceptivo tomar declaración sobre los extremos comprendidos en el escrito de iniciación al Jefe de la Unidad o Servicio al que pertenezca el expedientado. Si éste no tuviese destino, el Jefe llamado a informar será el último a cuyas órdenes hubiese servido.</p>
+    <p class="parrafo">6. Los plazos para contestar el pliego de cargos y para formular alegaciones, a que se refieren los artículos 45.2 y 48.1, serán de diez días.</p>
+    <p class="capitulo_num">CAPÍTULO V</p>
+    <p class="capitulo_tit">Cumplimiento de las sanciones</p>
+    <p class="articulo">Artículo 54.</p>
+    <p class="parrafo_2">1. Las sanciones disciplinarias impuestas serán inmediatamente ejecutivas, no suspendiendo su cumplimiento la interposición de ningún tipo de recurso, administrativo o judicial.</p>
+    <p class="parrafo">2. Las sanciones comenzarán a cumplirse el mismo día en que se notifique al infractor la resolución por la que se le imponen, si en ésta no se dispusiera lo contrario.</p>
+    <p class="articulo">Artículo 55.</p>
+    <p class="parrafo_2">1. La Autoridad sancionadora remitirá copia certificada de la resolución punitiva a las Autoridades y órganos a los que correspondiere llevar a cabo la ejecución material de las respectivas sanciones.</p>
+    <p class="parrafo">2. En los arrestos de un mes y un día a tres meses, la Autoridad que los hubiese impuesto adoptará las medidas oportunas para el inmediato ingreso del sancionado en establecimiento disciplinario, siéndole de abono el tiempo de privación o restricción de libertad sufrido por los mismos hechos y el transcurrido desde el día de la notificación.</p>
+    <p class="articulo">Artículo 56.</p>
+    <p class="parrafo_2">1. Las sanciones de pérdida de haberes se harán efectivas por el órgano competente en materia de retribuciones, con cargo al sancionado.</p>
+    <p class="parrafo">2. No obstante lo anterior, cuando el sancionado lo sea por falta grave, podrá previa comunicación al correspondiente órgano fraccionar el pago durante los cinco meses siguientes al de la imposición de la sanción.</p>
+    <p class="parrafo">3. Para la determinación de estas sanciones se tomará como base la totalidad de las remuneraciones íntegras mensuales que percibiese en el momento de la comisión de la falta, dividiéndose por treinta aquella cantidad.</p>
+    <p class="articulo">Artículo 57.</p>
+    <p class="parrafo_2">Cuando concurran varias sanciones y no sea posible su cumplimiento simultáneo se llevará a cabo en el orden en que fueran impuestas, excepto los arrestos, que se cumplirán con preferencia a las demás, y entre ellos por orden de mayor a menor gravedad. Si la suma de los mismos excede de seis meses, no se cumplirá el tiempo que sobrepase dicho límite.</p>
+    <p class="articulo">Artículo 58.</p>
+    <p class="parrafo_2">El órgano competente para imponer la sanción podrá proponer al Director general de la Guardia Civil, por el cauce reglamentario, la suspensión de la misma por plazo inferior al de su prescripción, o la inejecución de la sanción, cuando mediase causa justa para ello.</p>
+    <p class="titulo_num">TÍTULO V</p>
+    <p class="titulo_tit">Anotación y cancelación de las sanciones</p>
+    <p class="articulo">Artículo 59.</p>
+    <p class="parrafo_2">Todas las sanciones disciplinarias se anotarán en la documentación militar del sancionado. En la nota estampada figurará, además, la expresión clara y concreta de los hechos y su calificación.</p>
+    <p class="articulo">Artículo 60.</p>
+    <p class="parrafo_2">1. Las notas desfavorables a que hace referencia el artículo anterior serán canceladas, a instancia del interesado, una vez transcurridos los plazos siguientes:</p>
+    <p class="parrafo_2">a) Un año, cuando se tratare de sanciones impuestas por faltas leves.</p>
+    <p class="parrafo">b) Dos años, cuando se tratare de sanciones por faltas graves.</p>
+    <p class="parrafo">c) Cuatro años, cuando se tratare de sanciones por faltas muy graves.</p>
+    <p class="parrafo_2">2. Dichos plazos se contarán desde que se hubiere cumplido la sanción, siempre que durante este tiempo no le hubiere sido impuesta al interesado ninguna pena o sanción disciplinaria.</p>
+    <p class="articulo">Artículo 61.</p>
+    <p class="parrafo_2">La forma en que debe hacerse la anotación y el procedimiento para la cancelación de las sanciones impuestas con arreglo a la presente Ley, serán las determinadas reglamentariamente con carácter general para el personal militar.</p>
+    <p class="articulo">Artículo 62.</p>
+    <p class="parrafo_2">1. Acordada la cancelación de una sanción por falta leve, se procederá a eliminarla de la documentación del interesado, redactándola de nuevo sin ninguna mención o referencia a la falta cometida ni a la sanción impuesta.</p>
+    <p class="parrafo">2. La cancelación de una anotación de sanción por falta grave o muy grave, producirá el efecto de anular la inscripción, sin que pueda certificarse de la misma, salvo cuando lo solicitaren las Autoridades competentes para ello y a los exclusivos efectos de las clasificaciones reglamentarias.</p>
+    <p class="titulo_num">TÍTULO VI</p>
+    <p class="titulo_tit">Recursos</p>
+    <p class="articulo">Artículo 63.</p>
+    <p class="parrafo_2">1. Contra las resoluciones sancionadoras adoptadas en los procedimientos disciplinarios, los interesados podrán interponer los recursos de alzada y reposición en los términos previstos en los artículos siguientes, sin perjuicio del cumplimiento de las sanciones impuestas.</p>
+    <p class="parrafo">2. Los recursos deberán presentarse por escrito, serán siempre motivados y en ningún caso podrán interponerse de forma colectiva.</p>
+    <p class="articulo">Artículo 64.</p>
+    <p class="parrafo_2">1. Contra las resoluciones por las que se impusiere sanción por falta leve podrá el interesado interponer, por conducto reglamentario, recurso de alzada ante la Autoridad o Mando superior al que impuso la sanción, teniendo en cuenta el escalonamiento jerárquico previsto en el artículo 19. Cuando la sanción se hubiera impuesto por el Director general de la Guardia Civil, el recurso de alzada se interpondrá ante el Ministro de Defensa. Dichos recursos podrán interponerse en un plazo que se iniciará al día siguiente de la notificación y concluirá a los quince días de su cumplimiento, cuando la sanción consistiese en arresto, o de la propia notificación en los demás casos.</p>
+    <p class="parrafo">2. Cuando la resolución del recurso de alzada hubiese correspondido a un mando de rango inferior al Jefe de Comandancia o unidad similar, podrá el interesado interponer un segundo recurso ante dicho Jefe en el plazo de quince días a partir de la notificación de la resolución que se recurre.</p>
+    <p class="parrafo">3. Contra la resolución de este segundo recurso, que deberá dictarse en el plazo máximo de un mes, o, en su caso, de la que recaiga en alzada, tan sólo cabrá interponer el recurso contencioso-disciplinario militar preferente y sumario regulado en el artículo 518 de la Ley Orgánica 2/1989, de 13 de abril, en la forma y con los efectos previstos en dicho precepto.</p>
+    <p class="articulo">Artículo 65.</p>
+    <p class="parrafo_2">1. Contra las resoluciones por las que se imponga sanción por falta grave o muy grave, cabrá interponer recurso de alzada, en la forma y plazos establecidos en el apartado 1 del artículo anterior.</p>
+    <p class="parrafo">2. Las resoluciones adoptadas en relación con dichos recursos pondrán fin a la vía administrativa y contra las mismas podrá interponerse recurso contencioso-disciplinario militar ordinario, en la forma y plazos previstos en el título IV del libro IV de la Ley Orgánica 2/1989, de 13 de abril.</p>
+    <p class="articulo">Artículo 66.</p>
+    <p class="parrafo_2">1. Contra las resoluciones del Ministro de Defensa que impongan alguna de la sanciones previstas en esta Ley sólo podrá interponerse recurso de reposición, sin perjuicio de la vía contencioso-disciplinaria militar a que se refieren los dos artículos anteriores.</p>
+    <p class="parrafo">2. Para conocer de estos recursos contencioso-disciplinarios, será en todo caso competente la Sala de lo Militar del Tribunal Supremo.</p>
+    <p class="articulo">Artículo 67.</p>
+    <p class="parrafo_2">El sancionado podrá solicitar la suspensión de la sanción privativa de libertad por falta grave durante el tiempo de tramitación del recurso. La Autoridad ante quien se presente deberá resolver dicha petición en el plazo de cinco días, debiendo denegarse si con ella se causa perjuicio a la disciplina militar.</p>
+    <p class="titulo_num">TÍTULO VII</p>
+    <p class="titulo_tit">Prescripción</p>
+    <p class="articulo">Artículo 68.</p>
+    <p class="parrafo_2">1. Las faltas muy graves prescribirán a los dos años, las graves a los seis meses y las leves a los dos meses.</p>
+    <p class="parrafo">2. El plazo de prescripción comenzará a contarse desde que la falta se hubiese cometido.</p>
+    <p class="parrafo">3. La iniciación de cualquier procedimiento disciplinario interrumpirá los plazos de prescripción establecidos en el número 1 de este artículo, que volverán a correr de no haberse concluido el expediente en el tiempo máximo establecido en esta Ley.</p>
+    <p class="parrafo">4. Si el procedimiento se inicia por sentencia judicial condenatoria, la prescripción comenzará a computarse desde que la Administración tuviese testimonio de la misma.</p>
+    <p class="parrafo">5. Las sanciones impuestas por faltas muy graves prescribirán a los cuatro años, las impuestas por faltas graves a los seis meses y las impuestas por falta leve a los dos meses. Estos plazos comenzarán a computarse desde el día en que se adoptase la resolución sancionadora o desde que se quebrantase su cumplimiento, si hubiera comenzado. La prescripción se interrumpirá cuando por cualquier motivo no imputable a la Administración fuese imposible su cumplimiento o éste se suspendiese.</p>
+    <p class="capitulo">DISPOSICIONES ADICIONALES</p>
+    <p class="articulo">Primera</p>
+    <p class="parrafo_2">La Ley del Régimen Disciplinario de las Fuerzas Armadas será de aplicación supletoria en todas las cuestiones no previstas en la presente Ley.</p>
+    <p class="articulo">Segunda</p>
+    <p class="parrafo_2">Los Jueces y Tribunales de cualquier jurisdicción pondrán en conocimiento de la Dirección General de la Guardia Civil toda resolución que ponga fin a los procesos penales por delito o falta que afecten a personal sometido a la presente Ley.</p>
+    <p class="capitulo">DISPOSICIÓN TRANSITORIA</p>
+    <p class="parrafo_2">1. Las faltas disciplinarias cometidas con anterioridad a la fecha de entrada en vigor de esta Ley serán sancionadas conforme a la normativa anterior, salvo que las disposiciones de la presente Ley fuesen más favorables al interesado en cuyo caso se aplicará ésta.</p>
+    <p class="parrafo">2. Los procedimientos que en la referida fecha se encontrasen en tramitación continuarán rigiéndose hasta su conclusión por las normas vigentes en el momento de su iniciación, salvo en aquello en que la presente Ley fuese más favorable al expedientado.</p>
+    <p class="parrafo">3. Las resoluciones firmes que a la entrada en vigor de esta Ley no hubieran sido ejecutadas total o parcialmente, así como las que no hubiesen alcanzado firmeza por hallarse pendiente de resolución el recurso interpuesto contra las mismas o por no haber transcurrido el plazo para interponer éste, serán revisadas de oficio si de la aplicación de la presente Ley se derivaran efectos más favorables para el sancionado.</p>
+    <p class="capitulo">DISPOSICIÓN FINAL</p>
+    <p class="parrafo_2">La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo_2">Por tanto,</p>
+    <p class="parrafo">Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley Orgánica.</p>
+    <p class="parrafo_2">Madrid, 17 de junio de 1991.</p>
+    <p class="firma_rey">JUAN CARLOS R.</p>
+    <p class="firma_ministro">El Presidente del Gobierno,</p>
+    <p class="firma_ministro">FELIPE GONZÁLEZ MÁRQUEZ</p>
+  </texto>
+</documento>

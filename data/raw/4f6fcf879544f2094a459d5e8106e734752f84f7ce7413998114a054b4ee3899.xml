@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a8" tipo="precepto" titulo="Artículo 8">
+      <version id_norma="BOE-A-2013-9129" fecha_publicacion="20130730" fecha_vigencia="20130819">
+        <p class="articulo">Artículo 8. Asociaciones de municipios en materia de policía local.</p>
+        <p class="parrafo">1. Los municipios limítrofes que no dispongan separadamente de recursos suficientes para prestar los servicios de policía local pueden asociarse para la ejecución de las funciones asignadas a esta policía, de acuerdo con lo establecido en la Ley Orgánica 2/1986, de 13 de marzo, de fuerzas y cuerpos de seguridad.</p>
+        <p class="parrafo">2. La competencia para autorizar la asociación para la prestación de servicios de policía local corresponde al consejero o a la consejera competente en materia de coordinación de policías locales, mediante una resolución, y requiere, además de los requisitos determinados por la legislación vigente, un informe previo de la Comisión de Coordinación de las Policías Locales de las Illes Balears.</p>
+        <p class="parrafo">3. En todo caso, para autorizar la asociación en la prestación de servicios de policía local, los ayuntamientos interesados, además de cumplir los requisitos establecidos legalmente y disponer de las autorizaciones pertinentes de acuerdo con la disposición adicional quinta de la Ley Orgánica 2/1986, de 13 de marzo, de fuerzas y cuerpos de seguridad, deben pertenecer a uno de los consejos de coordinación de las policías locales, en la forma que determina el capítulo III del título III de esta ley.</p>
+        <p class="parrafo">4. El ejercicio de las funciones de coordinación operativa de los servicios asociados de policía local corresponderá al alcalde o alcaldesa del municipio que se determine en el acuerdo de colaboración para la prestación conjunta de los servicios de policía local.</p>
+        <p class="parrafo">5. En el ejercicio de las funciones de coordinación operativa, el consejero o la consejera competente en materia de coordinación de policías locales debe asumir la dirección de la eventual cooperación entre los servicios de policía asociados, en los supuestos que señala el artículo 10.1.n) de esta ley, respetando el principio de autonomía municipal.</p>
+      </version>
+      <version id_norma="BOE-A-2018-287" fecha_publicacion="20171223" fecha_vigencia="20171224">
+        <p class="articulo">Artículo 8. Asociaciones de municipios en materia de policía local.</p>
+        <p class="parrafo">1. Los municipios limítrofes que no dispongan separadamente de recursos suficientes para prestar los servicios de policía local pueden asociarse para ejecutar las funciones asignadas a esta policía, de acuerdo con lo que establece la Ley Orgánica 2/1986, de 13 de marzo, de fuerzas y cuerpos de seguridad.</p>
+        <p class="parrafo">2. Los ayuntamientos interesados, además de cumplir los requisitos establecidos legalmente y disponer de las autorizaciones pertinentes de acuerdo con la disposición adicional quinta de la Ley Orgánica 2/1986, de 13 de marzo, de fuerzas y cuerpos de seguridad, han de pertenecer a uno de los consejos de coordinación de las policías locales, en la forma que determina el capítulo III del título III de esta ley.</p>
+        <p class="parrafo">3. El ejercicio de las funciones de coordinación operativa de los servicios asociados de policía local corresponde al alcalde o a la alcaldesa del municipio que se determine en el acuerdo de colaboración para la prestación conjunta de los servicios de policía local.</p>
+        <p class="parrafo">4. En el ejercicio de las funciones de coordinación operativa, el consejero o la consejera competente en materia de coordinación de policías locales ha de asumir la dirección de la eventual cooperación entre los servicios de policía asociados, en los supuestos que señala el artículo 10.1.o) de esta ley, respetando el principio de autonomía municipal.</p>
+        <blockquote>
+          <p class="nota_pie">Se modifica por el art. 4 de la Ley 11/2017, de 20 de diciembre. <a class="refPost">Ref. BOE-A-2018-287</a></p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2011-4120",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2011-4120",
+  "sha256": "a3a6cd1db93a017606e8a54714c7603f3d499a5fddeadd59a4a1ae054d58f30c",
+  "archivo": "data/raw/a3a6cd1db93a017606e8a54714c7603f3d499a5fddeadd59a4a1ae054d58f30c.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:09.314873+00:00"
+}

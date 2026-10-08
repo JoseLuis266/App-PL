@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a432" tipo="precepto" titulo="Artículo 432">
+      <version id_norma="BOE-A-1882-6036" fecha_publicacion="19970601" fecha_vigencia="19970601">
+        <p class="articulo">Artículo 432.</p>
+        <p class="parrafo">Si el testigo no tuviere domicilio conocido o se ignorare su paradero, el Juez instructor ordenará lo conveniente a los funcionarios de policía, u oficiará a la Autoridad administrativa a quien corresponda para que lo averigüen y le den parte del resultado dentro del plazo que les hubiere fijado. Transcurrido este plazo sin haber averiguado el paradero del testigo, se publicará la cédula de citación en el periódico oficial del pueblo de la residencia del Juez, y, en su defecto, en cualquier otro que allí se publique.</p>
+        <p class="parrafo">Se insertará también la cédula, si el Juez lo estima conveniente, en los periódicos oficiales o particulares de la capital de la provincia y del lugar donde se presuma hallarse el testigo, y en la Gaceta de Madrid.</p>
+        <p class="parrafo">En estos casos se unirá a los autos un ejemplar de cada periódico en que se hubiere publicado la citación.</p>
+      </version>
+      <version id_norma="BOE-A-2009-17493" fecha_publicacion="20091104" fecha_vigencia="20100504">
+        <p class="articulo">Artículo 432.</p>
+        <p class="parrafo">Si el testigo no tuviere domicilio conocido o se ignorare su paradero, el Juez instructor ordenará lo conveniente para la averiguación del mismo. En este caso el Secretario judicial se dirigirá a la Policía Judicial, Registros oficiales, colegios profesionales, entidad o empresas en el que el interesado ejerza su actividad interesando dicha averiguación.</p>
+        <blockquote>
+          <p class="nota_pie">Se modifica por el art. 2.48 de la Ley 13/2009, de 3 de noviembre. <a class="refPost">Ref. BOE-A-2009-17493</a>.</p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

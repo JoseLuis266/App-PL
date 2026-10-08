@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20241015194326">
+  <metadatos>
+    <identificador>BOE-A-1978-18553</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7723">Jefatura del Estado</departamento>
+    <rango codigo="1300">Ley</rango>
+    <fecha_disposicion>19780717</fecha_disposicion>
+    <numero_oficial>33/1978</numero_oficial>
+    <titulo>Ley 33/1978, de 17 de julio, por la que se da nueva redacción a los artículos 273 de la Ley de Enjuiciamiento Civil y 166 de la Ley de Enjuiciamiento Criminal.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>19780720</fecha_publicacion>
+    <diario_numero>172</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>17160</pagina_inicial>
+    <pagina_final>17160</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/1978/07/20/pdfs/A17160-17160.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia>19780809</fecha_vigencia>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+  </metadatos>
+  <analisis>
+    <materias>
+      <materia codigo="1742" orden="1">Correos y Telecomunicaciones</materia>
+      <materia codigo="1752" orden="2">Costas procesales</materia>
+      <materia codigo="3198" orden="3">Enjuiciamiento Civil</materia>
+      <materia codigo="3199" orden="4">Enjuiciamiento Criminal</materia>
+      <materia codigo="5170" orden="5">Notificaciones citaciones y emplazamientos</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1881-813" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>el art. 273 de la Ley de Enjuiciamiento Civil aprobada por Decreto de 3 de febrero de 1881 (Gazeta)</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1882-6036" orden="2016">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>el art. 166 de la Ley de Enjuiciamiento Criminal aprobada por Real Decreto de 14 de septiembre de 1882 (Gazeta)</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas/>
+  </analisis>
+  <texto>
+    <p class="parrafo_2">De conformidad con la Ley aprobada por las Cortes, vengo en sancionar:</p>
+    <p class="articulo">Artículo primero.</p>
+    <p class="parrafo">El párrafo tercero del artículo doscientos setenta y tres de la Ley de Enjuiciamiento Civil quedará redactado en los siguientes términos:</p>
+    <p class="sangrado_2">«Cuando el Juez lo estime conveniente podrán hacerse estas citaciones por correo certificado con acuse de recibo, dando fe el Secretario en los autos del contenido del sobre remitido y uniéndose a ellos el acuse de recibo.»</p>
+    <p class="parrafo_2">En este supuesto las citaciones se entenderán practicadas en la fecha en que el destinatario haga constar su recepción en el acuse de recibo.</p>
+    <p class="articulo">Artículo segundo.</p>
+    <p class="parrafo">El párrafo primero del artículo ciento sesenta y seis de la Ley de Enjuiciamiento Criminal quedará redactado del modo siguiente:</p>
+    <p class="sangrado_2">«Las notificaciones, citaciones y emplazamientos que se practiquen fuera de los estrados del Juzgado o Tribunal se harán, respectivamente, por un Agente judicial o por un Oficial de Sala. Cuando el Juez o Presidente del Tribunal lo estime conveniente podrán hacerse por correo certificado con acuse de recibo, dando fe el Secretario en los autos del contenido del sobre remitido y uniéndose el acuse de recibo.</p>
+    <p class="sangrado">Este último procedimiento no será de aplicación para las notificaciones previstas en los artículos ciento sesenta, quinientos uno y quinientos diecisiete.</p>
+    <p class="sangrado">Las notificaciones, citaciones y emplazamientos por correo se entenderán practicados en la fecha en que el destinatario haga constar su recepción en el acuse de recibo.</p>
+    <p class="sangrado">Los certificados enviados conforme a lo establecido en los párrafos precedentes gozarán de franquicia postal; su importe no será incluido en la tasación de costas.»</p>
+    <p class="parrafo_2">Dada en Madrid a, diecisiete de julio de mil novecientos setenta y ocho.</p>
+    <p class="firma_rey">JUAN CARLOS</p>
+    <p class="firma_ministro">El Presidente de las Cortes,</p>
+    <p class="firma_ministro">ANTONIO HERNÁNDEZ GIL</p>
+  </texto>
+</documento>

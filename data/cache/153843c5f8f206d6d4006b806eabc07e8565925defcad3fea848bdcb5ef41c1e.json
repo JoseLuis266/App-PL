@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto/bloque/a380",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto/bloque/a380",
+  "sha256": "3b91c5b889c0abb5a2e46aafe1075cdadce568a78b46208b9442ca737a494d22",
+  "archivo": "data/raw/3b91c5b889c0abb5a2e46aafe1075cdadce568a78b46208b9442ca737a494d22.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T18:10:23.749862+00:00"
+}

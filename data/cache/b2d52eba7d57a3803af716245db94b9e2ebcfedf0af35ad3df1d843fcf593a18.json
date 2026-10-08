@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1995-17359",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1995-17359",
+  "sha256": "044623dd20c5494c7cdc0c6919651a23aad814b2988579d85f8964dd51dd0b0c",
+  "archivo": "data/raw/044623dd20c5494c7cdc0c6919651a23aad814b2988579d85f8964dd51dd0b0c.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:00.627926+00:00"
+}

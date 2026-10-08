@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/texto/bloque/aoctavo",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/texto/bloque/aoctavo",
+  "sha256": "10edde9b72ebea267a2c22a1202ae99c8967f30bd6c47f2345b1f57516f4fb2c",
+  "archivo": "data/raw/10edde9b72ebea267a2c22a1202ae99c8967f30bd6c47f2345b1f57516f4fb2c.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:06:26.799736+00:00"
+}

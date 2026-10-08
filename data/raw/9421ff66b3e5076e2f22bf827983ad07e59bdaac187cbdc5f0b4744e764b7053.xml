@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a59" tipo="precepto" titulo="Artículo 59">
+      <version id_norma="BOE-A-2007-1893" fecha_publicacion="20061227" fecha_vigencia="20061231">
+        <p class="articulo">Artículo 59. Transferencia de competencias.</p>
+        <p class="parrafo_2">1. Los consejos y los ayuntamientos pueden recibir competencias transferidas de la Administración del Estado y de la comunidad autónoma sobre materias de su competencia mediante ley, que debe respetar sus normativas respectivas, cuando con ello se garantice el mejor ejercicio de la competencia o una prestación más eficaz de los servicios, se facilite la proximidad de la gestión administrativa a sus destinatarios y se alcance una mayor participación de la ciudadanía.</p>
+        <p class="parrafo">2. La efectividad de la transferencia de competencias requiere la aceptación por parte de la entidad local correspondiente, salvo el caso de imposición legal obligatoria. En cualquier caso, la transferencia de competencias siempre requerirá la dotación de los medios materiales, personales y económicos necesarios para su ejercicio.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

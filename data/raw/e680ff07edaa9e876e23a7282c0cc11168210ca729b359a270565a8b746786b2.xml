@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20241015195103">
+  <metadatos>
+    <identificador>BOE-A-1978-29842</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7723">Jefatura del Estado</departamento>
+    <rango codigo="1300">Ley</rango>
+    <fecha_disposicion>19781204</fecha_disposicion>
+    <numero_oficial>53/1978</numero_oficial>
+    <titulo>Ley 53/1978, de 4 de diciembre, por la que se modifican los artículos 23, 37, 53, 118, 302, 311, 333, 520 y 522 de la Ley de Enjuiciamiento Criminal y se deroga el artículo 316 de la misma.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>19781208</fecha_publicacion>
+    <diario_numero>293</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>27780</pagina_inicial>
+    <pagina_final>27781</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/1978/12/08/pdfs/A27780-27781.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia>19781228</fecha_vigencia>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+  </metadatos>
+  <analisis>
+    <materias>
+      <materia codigo="8" orden="1">Abogados</materia>
+      <materia codigo="2493" orden="2">Detención</materia>
+      <materia codigo="3199" orden="3">Enjuiciamiento Criminal</materia>
+      <materia codigo="5677" orden="4">Presos y penados</materia>
+      <materia codigo="5719" orden="5">Procuradores de los Tribunales</materia>
+      <materia codigo="5913" orden="6">Recusación</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1882-6036" orden="1010">
+          <palabra codigo="210">DEROGA</palabra>
+          <texto>el art. 316 y modifica determinados preceptos de la Ley de Enjuiciamiento Criminal aprobada por Real Decreto de 14 de septiembre de 1882 (Gazeta)</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas>
+      <alerta codigo="113" orden="1">Derecho Penal</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="parrafo_2">De conformidad con la Ley aprobada por las Cortes, vengo en sancionar:</p>
+    <p class="articulo">Artículo uno.</p>
+    <p class="parrafo">Se derogan los artículos veintitrés, treinta y siete, cincuenta y tres, ciento dieciocho, trescientos dos, trescientos once, trescientos dieciséis, trescientos treinta y tres, quinientos veinte y quinientos veintidós de la Ley de Enjuiciamiento Criminal con el alcance que se expresa en el artículo dos de la presente Ley.</p>
+    <p class="articulo">Artículo dos.</p>
+    <p class="parrafo">Uno. Los artículos veintitrés, treinta y siete, cincuenta y tres, ciento dieciocho, trescientos dos, trescientos once, trescientos treinta y tres, quinientos veinte y quinientos veintidós de la Ley de Enjuiciamiento Criminal quedan redactados así:</p>
+    <p class="sangrado_articulo">«Artículo veintitrés.</p>
+    <p class="sangrado">Si durante el sumario o en cualquier fase de instrucción de un proceso penal el Ministerio Fiscal o cualquiera de las partes entendieran que el Juez Instructor no tiene competencia para actuar en la causa, podrán reclamar ante el Tribunal superior a quien corresponda, el cual, previos los informes que estime necesarios, resolverá de plano y sin ulterior recurso.</p>
+    <p class="sangrado">En todo caso, se cumplirá lo dispuesto en el párrafo segundo del artículo anterior.»</p>
+    <p class="sangrado_articulo">«Artículo treinta y siete.</p>
+    <p class="sangrado">El Tribunal requerido acusará, inmediatamente recibo y oyendo al Ministerio Fiscal, al acusador particular, si lo hubiere, a los referidos en los artículos ciento dieciocho y quinientos veinte que se hubieren personado y a los que figuren como parte civil, por un plazo que no podrá exceder de veinticuatro horas a cada uno, dictará auto inhibiéndose o declarando que no ha lugar a hacerlo.</p>
+    <p class="sangrado">Contra el auto en que el Tribunal se inhibiera no se dará otro recurso que el de casación.»</p>
+    <p class="sangrado_articulo">«Artículo cincuenta y tres.</p>
+    <p class="sangrado">Podrán únicamente recusar, en los negocios criminales:</p>
+    <p class="sangrado_2">El representante del Ministerio Fiscal.</p>
+    <p class="sangrado">El acusador particular o los que legalmente representen sus acciones y derechos.</p>
+    <p class="sangrado">Las personas que se encuentren en la situación de los artículos ciento dieciocho y quinientos veinte.</p>
+    <p class="sangrado">Los responsables civilmente por delito o falta.»</p>
+    <p class="sangrado_articulo">«Artículo ciento dieciocho.</p>
+    <p class="sangrado">Toda persona a quien se impute un acto punible podrá ejercitar el derecho de defensa, actuando en el procedimiento, cualquiera que éste sea, desde que se le comunique su existencia, haya sido objeto de detención o de cualquiera otra medida cautelar o se haya acordado su procesamiento, a cuyo efecto se le instruirá de este derecho.</p>
+    <p class="sangrado">La admisión de denuncia o querella y cualquier actuación procesal de la que resulte la imputación de un delito contra persona o personas determinadas, será puesta inmediatamente en conocimiento de los presuntamente inculpados.</p>
+    <p class="sangrado">Para ejercitar el derecho concedido en el párrafo primero, las personas interesadas deberán ser representadas por Procurador y defendidas por Letrado, designándoseles de oficio cuando no los hubiesen nombrado por sí mismos y lo solicitaren, y en todo caso, cuando no tuvieran aptitud legal para verificarlo.</p>
+    <p class="sangrado">Si no hubiesen designado Procurador o Letrado, se les requerirá para que lo verifiquen o se les nombrará de oficio si, requeridos, no los nombrasen, cuando la causa llegue a estado en que se necesite el consejo de aquéllos o haya de intentar algún recurso que hiciese indispensable su actuación.»</p>
+    <p class="sangrado_articulo">«Artículo trescientos dos.</p>
+    <p class="sangrado">Las partes personadas podrán tomar conocimiento de las actuaciones e intervenir en todas las diligencias del procedimiento.</p>
+    <p class="sangrado">Sin embargo, de lo dispuesto en el párrafo anterior, si el delito fuere público, podrá el Juez de Instrucción, a propuesta del Ministerio Fiscal, de cualquiera de las partes personadas o de oficio, declararlo, mediante auto, total o parcialmente secreto para todas las partes personadas, por tiempo no superior a un mes y debiendo alzarse necesariamente el secreto con diez días de antelación a la conclusión del sumario.»</p>
+    <p class="sangrado_articulo">«Artículo trescientos once.</p>
+    <p class="sangrado">El Juez que instruya el sumario practicará las diligencias que le propusieran el Ministerio Fiscal o cualquiera de las partes personadas, si no las considera inútiles o perjudiciales.</p>
+    <p class="sangrado">Contra el auto denegatorio da las diligencias pedidas podrá interponerse recurso de apelación, que será admitido en un solo efecto para ante la respectiva Audiencia o Tribunal competente.</p>
+    <p class="sangrado">Cuando el Fiscal no estuviere en la misma localidad que el Juez de Instrucción, en vez de apelar, recurrirá en queja al Tribunal competente, acompañando al efecto testimonio de las diligencias sumariales que conceptúe necesarias, cuyo testimonio deberá facilitarle el Juez de Instrucción y, previo informe del mismo, acordará el Tribunal lo que estime procedente.»</p>
+    <p class="sangrado_articulo">«Artículo trescientos treinta y tres.</p>
+    <p class="sangrado">Cuando al practicarse las diligencias enumeradas en los artículos anteriores hubiese alguna persona declarada procesada como presunta autora del hecho punible, podrá presenciarlas, ya sola, ya asistida del defensor que eligiese o le fuese nombrado de oficio si así lo solicitara, uno y otro podrán hacer en el acto las observaciones que estimen pertinentes, las cuales se consignarán por diligencia, si no fuesen aceptadas.</p>
+    <p class="sangrado">Al efecto se pondrá en conocimiento del procesado el acuerdo relativo a la práctica de la diligencia con la anticipación que permita su índole y no se suspenderá por la falta de comparecencia del procesado o de su defensor. Igual derecho asiste a quien se halle privado de libertad en razón de estas diligencias.»</p>
+    <p class="sangrado_articulo">«Artículo quinientos veinte.</p>
+    <p class="sangrado">La detención, lo mismo que la prisión provisional, deben efectuarse de la manera y en la forma que perjudiquen lo menos posible a la persona y a la reputación del inculpado. Todo detenido o preso debe ser informado, desde luego y en términos claros y precisos, de modo que le sean comprensibles, de las causas que han determinado su detención y de los derechos que le asisten. En ningún caso se le podrá compeler a prestar declaración si, invitado a hacerlo, se negare.</p>
+    <p class="sangrado">Su libertad no debe restringirse sino en los límites absolutamente indispensables para asegurar su persona e impedir las comunicaciones que puedan perjudicar la instrucción de la causa.</p>
+    <p class="sangrado">Desde el momento en que se practique su detención o se acuerde su prisión, el afectado tiene derecho a designar Abogado y a solicitar su presencia en el lugar de custodia para que asista al interrogatorio, recabe, en su caso, la lectura del presente artículo e intervenga en todo reconocimiento de identidad de que sea objeto.</p>
+    <p class="sangrado">Si el detenido o preso se niega a declarar, aun en presencia de su Abogado, se consignará tal decisión en las actuaciones. Tanto si hubiera prestado declaración como si se hubiera negado a declarar, podrá entrevistarse después personalmente con el Abogado, siempre que lo desee.</p>
+    <p class="sangrado">La Autoridad bajo cuya custodia se encuentre el detenido o preso notificará, en su caso, la elección de Letrado al Colegio de Abogados, el cual, si no resulta posible la actuación del designado, proveerá lo necesario para la intervención de un Abogado de oficio en el lugar de custodia.</p>
+    <p class="sangrado">Asimismo, desde el momento de su privación de libertad, la persona afectada tendrá derecho a que se comunique al familiar o a la persona que desee el hecho de su detención, el lugar de custodia y la petición de asistencia de Abogado. Cuando se trate de menor de edad o de persona incapaz, la Autoridad bajo cuya custodia esté tendrá la obligación de notificar a la persona indicada las circunstancias antedichas, y si ésta no fuere hallada se dará cuenta inmediata al Ministerio Fiscal. Sin embargo, lo establecido en este párrafo no será de aplicación a los casos en que concurran causas que impliquen un riesgo grave y racional para la seguridad del Estado o de las personas. La aplicación de esta medida requerirá autorización judicial, que será, en todo caso, motivada y se entenderá sin perjuicio de proceder en la forma dispuesta con carácter general en el plazo más breve posible.</p>
+    <p class="sangrado">Si transcurridas ocho horas desde la notificación realizada al Colegio de Abogados no compareciese en el lugar donde el detenido se encuentra Letrado alguno, podrá procederse a su interrogatorio y a la práctica de cualesquiera otras diligencias urgentes sin perjuicio de lo establecido en el párrafo primero de este artículo.</p>
+    <p class="sangrado">Lo dispuesto en este artículo se entiende sin perjuicio de lo establecido en el capítulo III del título VI del libro segundo de la presente Ley.»</p>
+    <p class="sangrado_articulo">«Artículo quinientos veintidós.</p>
+    <p class="sangrado">Todo detenido o preso puede procurarse a sus expensas las comodidades u ocupaciones compatibles con el objeto de su detención y el régimen del establecimiento en que esté custodiado, siempre que no comprometan su seguridad o la reserva del sumario.»</p>
+    <p class="parrafo_2">Dos. El artículo trescientos dieciséis de la Ley de Enjuiciamiento Criminal queda suprimido.</p>
+    <p class="articulo">Artículo tres.</p>
+    <p class="parrafo">Se modifica la denominación del capítulo IV, título VI del libro segundo de la Ley de Enjuiciamiento Criminal en los siguientes términos: «Del ejercicio del derecho de defensa de la asistencia de Abogado y del tratamiento de los detenidos y presos.»</p>
+    <p class="parrafo_2">Dada en Madrid a cuatro de diciembre de mil novecientos setenta y ocho.</p>
+    <p class="firma_rey">JUAN CARLOS</p>
+    <p class="firma_ministro">El Presidente de las Cortes,</p>
+    <p class="firma_ministro">ANTONIO HERNÁNDEZ GIL</p>
+  </texto>
+</documento>

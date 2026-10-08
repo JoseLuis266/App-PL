@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-11722/texto/bloque/a109",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-11722/texto/bloque/a109",
+  "sha256": "40eeccc1ef64f9e4e3dc6954a6245b7f9cc1da8ed09936720d581a4810de2a20",
+  "archivo": "data/raw/40eeccc1ef64f9e4e3dc6954a6245b7f9cc1da8ed09936720d581a4810de2a20.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:05:26.209194+00:00"
+}

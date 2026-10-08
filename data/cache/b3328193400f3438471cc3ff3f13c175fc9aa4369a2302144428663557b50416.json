@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a3-4",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a3-4",
+  "sha256": "c095478d24f81d364ff02e61408cbf4c9e5cb9b8839b616bf14f8c0256d767a1",
+  "archivo": "data/raw/c095478d24f81d364ff02e61408cbf4c9e5cb9b8839b616bf14f8c0256d767a1.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:07:27.942947+00:00"
+}

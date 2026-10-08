@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20251217205601">
+  <metadatos>
+    <identificador>BOE-A-1992-9548</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7723">Jefatura del Estado</departamento>
+    <rango codigo="1300">Ley</rango>
+    <fecha_disposicion>19920430</fecha_disposicion>
+    <numero_oficial>10/1992</numero_oficial>
+    <titulo>Ley 10/1992, de 30 de abril, de Medidas Urgentes de Reforma Procesal.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>19920505</fecha_publicacion>
+    <diario_numero>108</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>15062</pagina_inicial>
+    <pagina_final>15074</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/1992/05/05/pdfs/A15062-15074.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan>/boe_catalan/dias/1992/12/31/pdfs/A00030-00046.pdf</url_pdf_catalan>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia>19920506</fecha_vigencia>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/l/1992/04/30/10</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/l/1992/04/30/10">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/l"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1992-9548</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1992-04-30</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10</eli:number>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/78"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/304"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/305"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1708"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/2414"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3198"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3199"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4012"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4701"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4703"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5708"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5774"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6017"/>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/l/1992/04/30/10/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/l"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1992-9548</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1992-04-30</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10</eli:number>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/78"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/304"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/305"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1708"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/2414"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3198"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3199"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4012"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4701"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4703"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5708"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5774"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6017"/>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/l/1992/04/30/10"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/l/1992/04/30/10/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ley 10/1992, de 30 de abril, de Medidas Urgentes de Reforma Procesal.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1992-05-05</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/l/1992/04/30/10/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/l/1992/04/30/10/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/1992/04/30/10/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/l/1992/04/30/10/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/1992/04/30/10/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/l/1992/04/30/10/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/1992/04/30/10/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/l/1992/04/30/10/dof/cat">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/cat"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Llei 10/1992, de 30 d'abril, de mesures urgents de reforma processal. («BOE» 108, de 5-5-1992.)</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1992-12-31</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/l/1992/04/30/10/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/l/1992/04/30/10/dof/cat/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/1992/04/30/10/dof/cat"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="78" orden="1">Administración de Justicia</materia>
+      <materia codigo="304" orden="2">Arrendamientos rústicos</materia>
+      <materia codigo="305" orden="3">Arrendamientos urbanos</materia>
+      <materia codigo="1708" orden="4">Cooperativas</materia>
+      <materia codigo="2414" orden="5">Demarcación judicial</materia>
+      <materia codigo="3198" orden="6">Enjuiciamiento Civil</materia>
+      <materia codigo="3199" orden="7">Enjuiciamiento Criminal</materia>
+      <materia codigo="4012" orden="8">Hipoteca</materia>
+      <materia codigo="4701" orden="9">Jurisdicción Contencioso Administrativa</materia>
+      <materia codigo="4703" orden="10">Jurisdicción Militar</materia>
+      <materia codigo="5708" orden="11">Procedimiento Militar</materia>
+      <materia codigo="5774" orden="12">Propiedad Horizontal</materia>
+      <materia codigo="6017" orden="13">Registros de la Propiedad</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1952-14091" orden="1010">
+          <palabra codigo="210">DEROGA</palabra>
+          <texto>los arts. 1 al 18 y MODIFICA determinados preceptos del Decreto de 21 de noviembre de 1952 (Gazeta)</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1989-8712" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>el art. 503 de la Ley Orgánica 2/1989,de 13 de abril</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1988-29622" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>el art. 54 de la Ley 38/1988, de 28 de diciembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1987-8685" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>el art. 90 de la Ley 3/1987, de 2 de abril</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1981-2261" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>los arts. 126, 127, 131, 132, 134 y 135 de la Ley 83/1980, de 31 de diciembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1964-21865" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>la Ley de Arrendamientos Urbanos, texto refundido aprobado por Decreto 4104/1964, de 24 de diciembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1960-10906" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>el art. 17 de la Ley 49/1960, de 21 de julio</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1956-17970" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>la Ley de la Jurisdicción Contencioso-Administrativa, de 27 de diciembre de 1956 (Gazeta)</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1946-2453" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>los arts. 14 y 131 de la Ley Hipotecaria, texto refundido aprobado por Decreto de 8 de febrero de 1946 (Gazeta)</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1882-6036" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>la Ley de Enjuiciamiento Criminal aprobada por Real Decreto de 14 de septiembre de 1882</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1881-813" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>la Ley de Enjuiciamiento Civil aprobada por Decreto de 3 de febrero de 1881 (Gazeta)</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1989-30592" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Reglamento aprobado por Real Decreto 1597/1989, de 29 de diciembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1988-29621" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Ley Orgánica 7/1988, de 28 de diciembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1988-18764" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Ley 24/1988, de 28 de julio</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1988-8678" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Ley 7/1988, de 5 de abril</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1985-12666" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Ley Orgánica 6/1985, de 1 de julio</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1979-88" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Ley 62/1978, de 26 de diciembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1973-1715" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Código Penal, texto refundido aprobado por Decreto 3096/1973, de 14 de septiembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1948-7492" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Ley de Conflictos Jurisdiccionales, de 17 de julio de 1948 (Gazeta),</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1944-7025" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Ley de Bases de la Justicia Municipal, de 19 de julio de 1944 (Gazeta),</texto>
+        </anterior>
+      </anteriores>
+      <posteriores>
+        <posterior referencia="BOE-T-1994-23061" orden="1">
+          <palabra codigo="470">SE DECLARA</palabra>
+          <texto>en las CUESTIONES acumuladas 1819/1992 y 173/1993,  la inconstitucionalidad y nulidad del art. 737 de la Ley de Enjuiciamiento Civil aprobada por Decreto de 3 de febrero de 1881, (Gazeta),  en la redacción dada, por Sentencia 254/1994, de 21 de septiembre.</texto>
+        </posterior>
+        <posterior referencia="BOE-T-1994-6202" orden="">
+          <palabra codigo="470">SE DECLARA</palabra>
+          <texto>en las Cuestiones acumuladas 2813, 2854 y 2971/1992; 112 y 518/1993,  la constitucionalidad del art. 969.2 de la Ley de Enjuiciamiento Criminal aprobada por Real Decreto de 14 de septiembre de 1882, en la redacción dada, por Sentencia 56/1994, de 24 de febrero</texto>
+        </posterior>
+        <posterior referencia="BOE-A-1993-20127" orden="3">
+          <palabra codigo="530">Cuestión</palabra>
+          <texto>2293/1993 promovida por supuesta inconstitucionalidad de la disposición final 1.2</texto>
+        </posterior>
+        <posterior referencia="BOE-A-1993-19261" orden="4">
+          <palabra codigo="530">Cuestión</palabra>
+          <texto>2274/1993 promovida por supuesta inconstitucionalidad de la disposición final 1.2</texto>
+        </posterior>
+      </posteriores>
+    </referencias>
+    <alertas>
+      <alerta codigo="121" orden="1">Organización de la Administración</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="centro_redonda">JUAN CARLOS I</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="centro_redonda">REY DE ESPAÑA</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">A todos los que la presente vieren y entendieren.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="centro_redonda">EXPOSICIÓN DE MOTIVOS</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="centro_redonda">1</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">La toma de conciencia por nuestra ciudadanía de sus derechos democráticos produce un progresivo aumento de la litigiosidad. En respuesta a esta demanda se viene planteando la necesidad de modernización de nuestras normas procesales. Una reforma global del ordenamiento procesal es tarea que debe acometerse sin precipitaciones y ponderando cuantos elementos confluyen en los distintos procesos, al objeto de conseguir un resultado que revista la deseada funcionalidad.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Ello no empece, sin embargo, para que se afronten cuantas reformas legislativas de carácter parcial sean necesarias para un más eficaz funcionamiento de la Administración de Justicia. Antes al contrario, la perspectiva de una transformación de carácter general no puede hacer olvidar la realidad cotidiana ni impedir, por lo mismo, aquellas iniciativas de carácter parcial encaminadas a adaptar paulatinamente las normas procesales a las necesidades que la experiencia muestra ineludibles.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Este es, precisamente, el objetivo de la presente Ley, que afecta a tres, el civil, el penal y el contencioso-administrativo, de los órdenes jurisdiccionales.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Con independencia de sus concretos contenidos técnicos, de los que se dará cuenta más adelante, las reformas acometidas por esta Ley tienen un hilo conductor común aprovechar los recursos a disposición de la Administración de Justicia y procurar, así, que esta última se imparta de la forma más rápida y eficaz posible, de acuerdo con las exigencias del artículo 24 de la Constitución.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="centro_redonda">2</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">En el orden penal se introducen relevantes, aunque escuetas reformas en el procedimiento abreviado, introducido por la Ley Orgánica 7/1988, que viene funcionando hasta el presente de forma satisfactoria, según la opinión común de la mayor parte de los operadores jurídicos.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Con todo, parece posible, al menos en determinados casos, que la Justicia penal se imparta de forma aún más próxima al hecho enjuiciado que en la actualidad. No hace falta destacar que ello resultaría beneficioso para todos; para los enjuiciados, que tienen derecho a un proceso sin dilaciones indebidas, para las víctimas, para la Administración de Justicia en general y, singularmente, para la sociedad en su conjunto, que vería así notablemente robustecida la ejemplaridad de la Justicia penal y considerablemente incrementadas sus defensas sociales frente al delito.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Tal posibilidad se da, especialmente, en los supuestos en los que el imputado ha sido sorprendido «in fraganti» y en los que existe carga probatoria más que suficiente para proceder, sin mayores dilaciones, al enjuiciamiento. La experiencia dicta que, en estos casos, una más inmediata celebración del juicio no siempre es practicable debido a la existencia de algunos obstáculos de menor índole.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">A enervar esos obstáculos y a posibilitar, por ende, la inmediata celebración del juicio se dirige, por lo tanto, esta reforma en la dirección de ir consiguiendo una regulación que permita introducir en nuestro ordenamiento modalidades de enjuiciamiento inmediato en materia penal, carentes de instrucción propiamente dicha, por recaer sobre hechos que por su fácil constatación no requieren ulteriores investigaciones. Se trata de evitar dilaciones indebidas. A tal fin –y ello es una importante novedad– la convocatoria para la celebración del juicio oral se podrá realizar por el Juzgado de Instrucción, incluso en servicio de guardia.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Todo ello enmarcado en el pleno respeto a las garantías de defensa reconocidas por la Constitución y sin alteración de los ámbitos funcionales que ostentan tanto el Ministerio Fiscal como los órganos jurisdiccionales. Es importante subrayar que las reformas que se introducen ni son propiamente un nuevo procedimiento ni suponen siquiera la creación de mecanismos automáticos, cuyo uso inevitable pueda acabar sobrecargándolos; se trata de mecanismos de agilización cuya posible utilización se deja en manos del Ministerio Fiscal y del Juez, de forma que se abra un margen al desarrollo de una política de la represión penal que pretenda reforzar la confianza en el Derecho y la Justicia. Tienen sentido la puesta en práctica de tales mecanismos cuando la proximidad temporal de la comisión del delito permite, si se dan las circunstancias que la ley exige, que la inmediata impartición de la justicia produzca sus efectos positivos en la comunidad, reforzando su confianza en la justicia, sin mengua de las garantías de los derechos de los imputados. La utilización de estos nuevos mecanismos perdería sentido, aunque se hayan reunido todo tipo de pruebas de inculpación, cuando el tiempo transcurrido –por la laboriosidad de las investigaciones efectuadas, o por las dudas iniciales respecto a la participación de los inculpados– hace imposible recuperar, para la conciencia social de la eficacia de la justicia, el tiempo empleado, que no perdido, en la búsqueda de evidencias y certidumbres.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Debe, pues, romperse con la idea de que todo procedimiento exige igual desarrollo con desconsiderada indiferencia a las peculiaridades que cada uno presenta. La experiencia enseña que hay supuestos en que desde el principio son dudosos los hechos, su tipicidad, su autoría, o las circunstancias modificativas de la responsabilidad, en tanto que, en otros, estos extremos aparecen con toda evidencia. Esta diferencia de circunstancias exige una diferencia de trato. Sería un error pensar que el tiempo que las investigaciones exigen dedicar a los primeros, precisamente para averiguar la verdad, es en sí mismo una garantía de inexcusable extensión a los segundos, en los que la verdad parece patente y para cuyo enjuiciamiento se prevé, en todo caso, un órgano judicial independiente.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">También en el orden penal se da respuesta a los problemas planteados por la actual regulación del recurso de revisión, abriéndolo a quienes legítimamente pueden promoverlo, de acuerdo con las recomendaciones del Defensor del Pueblo y la jurisprudencia constitucional.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Por otra parte, se establece la posibilidad de que los juicios por faltas cuya persecución la ley condiciona a la denuncia del ofendido se celebren sin la presencia del Fiscal, con el objetivo de lograr un mejor aprovechamiento de los recursos de esta institución, mediante su presencia en la persecución de infracciones penales de mayor relevancia. Nuevamente será necesario que el Fiscal General del Estado utilice sus potestades de dirección del Ministerio Fiscal para una recta administración de esta posibilidad.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="centro_redonda">3</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">Se abordan también determinadas reformas en el proceso civil.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">En primer término, se adecua el recurso de casación a las tendencias actuales, que consideran que sirve mejor a su función si se refuerza su carácter de protector de la norma, alejándolo de cualquier semejanza con una tercera instancia. Al tiempo, se regula la admisión del recurso de casación, lejos de todo formalismo, para permitir que el Tribunal pueda concentrar su atención en velar por la recta aplicación de la Ley y en la creación de una doctrina uniforme. Se aprovecha la experiencia obtenida en el recurso de casación penal.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">En materia de competencia territorial, se elimina como primera regla para determinarla la de la sumisión de las partes en determinados procesos. En efecto, los datos disponibles vienen demostrando que una muy notable proporción de los asuntos civiles dirimidos en algunas ciudades procede de otros partidos judiciales, residenciándose allí en virtud de pactos de sumisión que, sobre perjudicar generalmente al contratante más débil, distorsionan las cargas competenciales de algunos órganos jurisdiccionales en razón del único e inaceptable criterio de la comodidad de una de las partes.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Por otro lado, el orden civil tiene hoy en día atribuido el conocimiento de asuntos no jurisdiccionales cuya residencia en sede jurisdiccional dista de ser obligada. Esa atribución tenía sentido en épocas en las que el tráfico jurídico era mucho menor, la judicialización de la vida social menos intensa y las garantías ofrecidas por otras instancias nulas. En una situación como la actual, sin embargo, carece de sentido seguir atribuyendo a los órganos judiciales la realización de tareas no jurisdiccionales; tal cosa no repercute más que en disfunciones para la Administración de Justicia –que se debe primordialmente al desarrollo de su función propiamente jurisdiccional– y para los interesados, que ven cómo un asunto que podría tramitarse fácil y económicamente en otra sede, ha de esperar, para una resolución, el orden de tramitación propio de los órganos jurisdiccionales. En esta línea y de acuerdo con las recomendaciones del Consejo de Europa sobre la eliminación de tareas no propiamente jurisdiccionales del ámbito de actuación de los Tribunales de Justicia, se regula una modalidad de la obtención de la declaración de herederos mediante acta de notoriedad, tramitada ante Notario y se extraen del ámbito judicial determinadas operaciones de legalización de libros.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Se introducen relevantes modificaciones en el régimen de la apelación del juicio verbal. Se establece aprovechando la experiencia del orden jurisdiccional social, que el juicio verbal se desarrollará en única instancia cuando se hayan ejercitado acciones personales de ínfima cuantía. Se simplifica igualmente el régimen de la segunda instancia en estos juicios.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Se actualizan las cuantías que determinan la aplicación de los procedimientos civiles teniendo en cuenta la evolución de los indicadores económicos.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">En la vía de apremio, además de eliminar la posibilidad de cesión del remate para quien no sea ejecutante, se encomienda la celebración de la subasta al Secretario judicial, y se establece que el documento público judicial es documento inscribible, al tiempo que se adaptan los correspondientes preceptos de la Ley de Enjuiciamiento Civil a lo dispuesto en la legislación hipotecaria.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="centro_redonda">4</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">El proceso contencioso-administrativo, en fin, también se ve afectado por la presente Ley.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Es, en efecto, necesario abordar, sin mayor dilación, la regulación del recurso de casación en el orden jurisdiccional contencioso-administrativo. Ello no obstará para que se continúen realizando cuantas actuaciones son necesarias para mejor adecuación de este procedimiento.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">El recurso de casación en lo contencioso-administrativo –importante novedad en nuestro ordenamiento–, que sin duda ofrece algunas importantes peculiaridades, se mantiene, sin embargo, dentro de la línea típica de estas acciones de impugnación cuya finalidad básica es la protección de la norma y la creación de pautas interpretativas uniformes que presten la máxima seguridad jurídica conforme a las exigencias de un Estado de Derecho.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Junto al recurso de casación ordinario, de acceso limitado, se crea un recurso de casación para unificación de doctrina inspirado en el actual artículo 102.1.b) de la Ley de la Jurisdicción Contencioso-Administrativa y se mantiene la posibilidad impugnatoria ante el Tribunal Supremo hasta ahora vigente en interés de ley, si bien en forma casacional.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Del recurso de casación ordinario merece destacarse su exclusión en los casos de aplicación o interpretación del Derecho autonómico. La posible concurrencia de Derecho estatal y autonómico en una sentencia obliga a sentar el criterio de la relevancia e influencia de aquél en el fallo de la sentencia cuando su infracción se invoca como motivo de casación.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">En el aspecto procedimental se regula el trámite de admisión, de particular importancia en un orden jurisdiccional en que son frecuentes las impugnaciones masivas que tienen identidad de soluciones, sin perjuicio de las demás finalidades que persigue este instrumento de depuración que libera al Tribunal de toda la tramitación de un procedimiento cuando carezca, «ab initio», de sentido, en detrimento de su dedicación a aquellos que, sea cual sea su destino final, merezcan la atención del Tribunal.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">El recurso de casación para unificación de doctrina se prevé para aquellos supuestos en que, no siendo posible el recurso de casación ordinario, exista contradicción entre sentencias de los Tribunales o con la doctrina del propio Tribunal Supremo. En ambos casos el recurso es más exigente en cuanto a su procedencia, al exigirse la identidad de litigantes o situaciones y de hechos, fundamentos y pretensiones que establece el actual artículo 102.1.b) de la Ley vigente.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">El recurso de casación en interés de la Ley introduce la importante novedad de abrir su utilización a entidades que ostenten la representación de intereses generales afectados por la resolución que se impugna, únicos interesados en una depuración de doctrina, carente, sin embargo, de relevancia práctica para el caso concreto que se enjuicia.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="capitulo_num">CAPÍTULO I</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="capitulo_tit">Reforma de los procesos civiles</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="seccion">Sección 1.ª Modificación de la Ley de Enjuiciamiento Civil</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Artículo primero. Modificación de la Ley de Enjuiciamiento Civil.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Los artículos y las rúbricas que a continuación se relacionan de la Ley de Enjuiciamiento Civil, quedan redactados en los términos siguientes:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">1. El número 2.º del párrafo primero del artículo 4 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«2.º En los juicios verbales, en los de cognición y en los de desahucio, salvo cuando éstos se refieran a locales de negocio, establecimientos mercantiles o fabriles o fincas rústicas.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">2. El párrafo segundo del artículo 6 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Sólo se exceptúan los emplazamientos, citaciones y requerimientos que la Ley disponga expresamente que se practiquen a los mismos interesados en persona.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">3. Los números 2.º y 3.º del párrafo segundo del artículo 10 quedan redactados de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«2.º Los juicios verbales y los de desahucio, salvo cuando se funden en la falta de pago de la renta de locales de negocio.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">3.º Los actos de jurisdicción voluntaria de cuantía determinada que no exceda de 400.000 pesetas, así como los que tengan por objeto la adopción de medidas urgentes o que deban instarse en un plazo perentorio.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">4. El párrafo primero del artículo 11 tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Tanto los Procuradores como los Abogados podrán asistir con carácter de apoderados o con el de auxiliares de los interesados a los actos de conciliación y a los juicios a que se refieren las excepciones del número 2.º del párrafo segundo del artículo anterior, cuando las partes quieran valerse espontáneamente de ellos.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">5. En la regla 5.ª del artículo 63 se suprime la expresión «o municipales».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">6. La regla 10.ª del artículo 63 queda sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">7. La regla 11.ª del artículo 63 tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Para los juicios de desahucio será competente el Juez de Primera Instancia del lugar en que esté sita la finca.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">8. En la regla 12.ª del artículo 63 se suprime la expresión «y a prevención en los casos de urgencia, del Juez municipal del pueblo en que se hallaren».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">9. La regla 13.ª tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«En las demandas en que se ejerciten acciones de retracto, será Juez competente el del lugar en que estuviere sita la cosa litigiosa o el del domicilio del demandado, a elección del demandante.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">10. La regla 20.ª del artículo 63 queda sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">11. El artículo 71 de la Ley de Enjuiciamiento Civil tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Las reglas establecidas en los artículos anteriores, se entenderán sin perjuicio de lo que disponga la Ley para casos especiales.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">Para el conocimiento y resolución de los procesos civiles en que sean parte el Estado, las Entidades estatales de Derecho público y los Órganos Constitucionales, serán únicamente competentes los Juzgados y Tribunales que tengan su sede en las capitales de provincia, en Ceuta o en Melilla.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">La misma regla será de aplicación a las Comunidades Autónomas y Entidades de Derecho Público dependientes de las mismas. Ello no obstante, serán también competentes los Juzgados y Tribunales que tengan su sede en la capital de la Comunidad Autónoma en el caso de que la misma no sea capital de provincia.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">Lo dispuesto en los dos párrafos anteriores no será de aplicación a los juicios universales ni a los interdictos de obra nueva y obra ruinosa.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">12. En el último párrafo del artículo 74, la expresión «igual facultad tendrán las Audiencias y Tribunal Supremo» se sustituye por «igual facultad tendrán las Audiencias, los Tribunales Superiores de Justicia, en su caso, y el Tribunal Supremo» y la expresión «motivo primero» se sustituye por «motivo segundo».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">13. El artículo 80 tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«1. Podrán promover y sostener, a instancia de parte legítima, las cuestiones de competencia:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">1.ª Los Juzgados de Paz.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">2.ª Los Juzgados de Primera Instancia.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">3.ª Las Audiencias.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">2. Los Juzgados de Paz podrán plantear cuestión de competencia a otros Juzgados de Paz del mismo partido judicial. Cuando no concurriera esta circunstancia, los Juzgados de Paz tramitarán la cuestión al Juez de Primera Instancia que resolverá sobre la procedencia o no del planteamiento de la cuestión.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">14. En el párrafo segundo del artículo 83, la expresión «municipales» se sustituye por «de Paz».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">15. El párrafo segundo del artículo 99 queda suprimido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">16. El párrafo cuarto del artículo 101 queda suprimido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">17. Los artículos 112 y 113 quedan sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">18. El párrafo segundo del artículo 168 queda suprimido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">19. El artículo 248 queda sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">20. El artículo 253 queda sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">21. El párrafo segundo del artículo 254 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Los Ponentes, sin embargo, podrán cometer dichas diligencias a los Jueces de Primera Instancia, cuando deban practicarse en pueblo que no sea el de su residencia.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">22. Los artículos 257 y 258 quedan sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">23. Los párrafos tercero y cuarto del artículo 263 quedan suprimidos.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">24. Se añade un párrafo segundo en el artículo 271 con la redacción siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Las citaciones y los emplazamientos de los que, siendo parte en el juicio, estuvieren representados por Procurador o, cuando la Ley lo autorice, por Abogado, se harán por medio del representante.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">25. Se añade un cuarto párrafo al artículo 299 del siguiente tenor:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«También podrá acordarse cuando la parte interesada lo solicite, que se remita por conducto personal, en cuyo caso se aplicará lo previsto para los exhortos.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">26. El artículo 317 queda sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">27. El artículo 325 queda sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">28. El artículo 335 queda sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">29. Los artículos 348 a 358 quedan sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">30. El artículo 368 queda sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">31. En el artículo 430 se suprime la expresión «y en todo caso entre las diversas escribanías de cada Juzgado».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">32. En el artículo 432 se suprime la expresión «y escribanía».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">33. Los artículos 434, 435 y 436 quedan sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">34. En el artículo 437, la expresión «municipales» se sustituye por «de Paz».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">35. En el artículo 439, la expresión «municipales» se sustituye por «de Paz».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">36. En el párrafo segundo del artículo 447, la expresión «municipales» se sustituye por «de Paz».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">37. En el número 4.º del artículo 449, la expresión «municipales» se sustituye por «de Paz».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">38. En el párrafo tercero del artículo 453, la expresión «municipales» se sustituye por «de Paz».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">39. En el párrafo primero del artículo 456, la expresión «municipales» se sustituye por «de Paz».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">40. En el párrafo primero del artículo 460, la expresión «Distrito» se sustituye por «Primera Instancia».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">41. En el artículo 463, la expresión «Distrito» se sustituye por «Primera Instancia».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">42. En los artículos 465 a 468, la expresión «Distrito» se sustituye por «Primera Instancia».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">43. En el artículo 473 se suprime la expresión «municipal».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">44. En el artículo 480 se suprime la expresión «de Distrito y».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">45. El número 1.º del artículo 483 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«1.º Las demandas cuyo valor o interés económico exceda de 160 millones de pesetas.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">46. El número 1.º del artículo 484 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«1.º Las demandas ordinarias cuyo interés económico pase de 800.000 pesetas y no exceda de 160 millones de pesetas.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">47. El artículo 485 queda sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">48. El artículo 486 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Toda cuestión entre partes cuyo interés pase de 80.000 pesetas y no exceda de 800.000 se decidirá en juicio de cognición, y en juicio verbal si no supera las 80.000 pesetas.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">49. El artículo 487 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Lo dispuesto en los artículos que preceden se entenderá sin perjuicio de lo establecido para los juicios ejecutivos y en disposiciones especiales.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">50. El párrafo segundo del artículo 488 queda suprimido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">51. El artículo 556 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«El término extraordinario de prueba será de cuatro meses si hubiese de ejecutarse en Europa y de seis meses en cualquier otra parte del mundo.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">52. El artículo 562 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«El litigante a quien se hubiere concedido el término extraordinario y no ejecutare la prueba que haya propuesto, será condenado a pagar a su contrario una indemnización que no podrá bajar de 10.000 pesetas ni exceder de 100.000, a juicio del Juez que conozca de los autos, salvo si apareciere que no ha sido por su culpa, o si desistiere de hacer dicha prueba antes de que transcurra el término ordinario.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">Esta indemnización se impondrá en la sentencia definitiva.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">53. En el artículo 704 se suprime la expresión «Territorial».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">54. El artículo 715 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Los Jueces de Primera Instancia serán competentes para conocer en juicio verbal de toda demanda cuyo interés no exceda de 80.000 pesetas. Los Jueces de Paz conocerán, por los mismos trámites, de las demandas cuya cuantía no exceda de 8.000 pesetas.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">No se admitirán en estos juicios reconvenciones ni tercerías por cuantías que excedan de las señaladas en el párrafo precedente.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">55. El artículo 717 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«El Juez examinará de oficio su propia competencia objetiva y territorial, sin que sean aplicables las normas sobre sumisión expresa o tácita contenidas en la Sección segunda del Título II del Libro primero. De estimarse incompetente dictará auto declarándolo así. Este auto será apelable en ambos efectos.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">56. En el artículo 719, la expresión «Distrito» se sustituye por «Primera Instancia».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">57. En el artículo 721 se suprime la expresión «de Distrito o de Paz».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">58. En el artículo 724 se suprime la expresión «de Distrito o de Paz».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">59. En el artículo 727 se suprime la expresión «de Distrito o de Paz».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">60. El artículo 728 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Si no compareciere el demandante en el día y hora señalados, se le tendrá por desistido de la celebración del juicio, condenándole en todas las costas y a que indemnice al demandado que hubiere comparecido los perjuicios que le haya ocasionado.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">En el acta que se extenderá, el Juez, oyendo al demandado, fijará prudencialmente y sin ulterior recurso el importe de dichos perjuicios, sin que puedan exceder de 4.000 pesetas cuando entendieren los Jueces de Paz y de 20.000 pesetas cuando los de Primera Instancia, a no ser que aquél renuncie a los mencionados perjuicios. No renunciándolos, se exigirán con las costas por la vía de apremio.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">61. El artículo 732 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Las sentencias dictadas en los juicios verbales a los que se refiere el artículo 715 de esta Ley no serán susceptibles de recurso de apelación cuando hayan resuelto sobre acciones personales basadas en derechos de crédito.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">Contra las sentencias dictadas en procesos, distintos de los mencionados en el párrafo anterior, que deban seguirse por los trámites del juicio verbal, podrá interponerse el recurso de apelación en ambos efectos dentro del plazo de cinco días a partir del siguiente al de su notificación, desde el cual se hallarán las actuaciones en Secretaría a disposición de las partes.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">62. El artículo 733 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«El recurso se interpondrá por escrito que se presentará ante el órgano que hubiese dictado la resolución que se impugne, en el que se expondrán las alegaciones en las que se base la impugnación. Si en el recurso se pidiera la declaración de nulidad del juicio por infracción de normas o garantías procesales que hayan causado la indefensión del recurrente en términos tales que no pueda ser subsanada en la segunda instancia, se citarán las normas que se consideren infringidas y se expresarán las razones de la indefensión, acreditando haberse pedido la subsanación de la falta o infracción en la primera instancia, salvo en el caso de que se hubiesen cometido en momento en el que fuese ya imposible la reclamación.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">En el escrito de formalización podrá pedir el recurrente la práctica de las diligencias de prueba que le hubiesen sido indebidamente denegadas, siempre que hubiese formulado en su momento la oportuna reserva, y de las admitidas que no hubiesen sido practicadas por causas que no le sean imputables.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">63. El artículo 734 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Admitida la apelación, el Juez dará traslado a las demás partes por un plazo común de cinco días y transcurrido el mismo, se hayan o no presentado escritos de impugnación o adhesión, elevará en los dos días siguientes al órgano competente, los autos originales con todos los escritos presentados.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">En los escritos de interposición del recurso o de impugnación o adhesión del mismo fijarán las partes un domicilio para notificaciones en la sede del órgano competente para conocer del recurso.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">64. El artículo 735 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Denegada la admisión de la apelación, si dentro del día siguiente al de la notificación el apelante manifestare por escrito su propósito de recurrir en queja, se le expedirá certificación del auto denegatorio, con emplazamiento por diez días, en cuyo término el apelante, con presentación de testimonio, podrá alegar por escrito ante el Juez o la Audiencia las razones por las que la apelación debiera ser admitida y el órgano judicial, previo informe del Juez, resolverá sobre ello dentro del segundo día.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">Desestimada o desierta la queja, se pondrá en conocimiento del Juez para ejecución de la sentencia.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">65. El artículo 736 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Recibidos los autos por el órgano competente para decidir la apelación, si no se hubiese propuesto prueba, dictará sentencia en el plazo de diez días, confirmando o revocando la apelada con imposición de las costas al apelante en el primer caso, o haciendo, si corresponde, la declaración de nulidad que previene el artículo 496 y mandará devolver aquellos al Juez.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">Cuando estime que ello es necesario, podrá acordar la celebración de vista, citando a las partes. Si el recurso contiene proposición de prueba, se resolverá en tres días sobre la admisión de la propuesta, y en el mismo acto se señalará día para la vista dentro de los quince siguientes. En este caso la vista se celebrará empezando por la práctica de la prueba. A continuación las partes resumirán oralmente el resultado de la misma y el fundamento de sus pretensiones.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">66. El artículo 737 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Cuando corresponda conocer de la apelación a la Audiencia Provincial, ésta se constituirá con un solo Magistrado.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">67. El artículo 738 queda sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">68. El artículo 739 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Si en la ejecución de la sentencia se entablare tercería de dominio o de mejor derecho sobre los bienes embargados, la decidirá el mismo Juez por los trámites anteriores establecidos para el juicio verbal cuando el valor de lo reclamado no exceda de la cuantía límite de su competencia. Si excediere de 8.000 pesetas conocerá el Juez que resulte competente por la cuantía, por los trámites del juicio que corresponda a la misma. En este caso, entablada la tercería ordenará al inferior que suspenda el procedimiento hasta que recaiga sentencia en el juicio de tercería, si ésta fuere de dominio, y si ésta fuere de mejor derecho, que consigne en la entidad de crédito correspondiente el importe de los bienes, si se enajenaren.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">69. El artículo 740 queda sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">70. En el artículo 785, la expresión «municipales» se sustituye por «de Paz».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">71. En el artículo 786, la expresión «municipal» se sustituye por «de Paz».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">72. El artículo 854 queda sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">73. En el artículo 911, la expresión «municipal» se sustituye por «de Paz».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">74. Los artículos 914 y 915 quedan sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">75. En el artículo 965, se suprime la expresión «, o el municipal, en su caso,».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">76. Los artículos 970 y 971 quedan sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">77. El artículo 979 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«La declaración de que determinadas personas, que sean descendientes, ascendientes o cónyuge del finado, son los únicos herederos abintestato se obtendrá mediante acta de notoriedad tramitada conforme a la legislación notarial por Notario hábil para actuar en el lugar en que hubiere tenido el causante su último domicilio en España y ante el cual se practicará la prueba testifical y documental precisa.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">78. El artículo 980 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Los demás herederos abintestato podrán obtener la declaración en vía judicial justificando debidamente el fallecimiento de la persona de cuya sucesión se trate y su parentesco con la misma y, con la certificación del Registro general de actos de última voluntad y con la información testifical, que dicha persona ha fallecido sin disposición de última voluntad, y que ellos solos, o en unión de los que designen, son sus únicos herederos.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">Para deducir esta pretensión no necesitarán valerse de Procurador pero sí de Letrado cuando el valor de los bienes de la herencia exceda de 400.000 pesetas.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">Dicha información se practicará con citación del Fiscal, a quien se comunicará después el expediente con seis días para que dé su dictamen. Si encontrare incompleta la justificación, se dará vista a los interesados para que subsanen la falta.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">También se practicará el cotejo de los documentos presentados con sus originales cuando lo pidiere el Fiscal o el Juez lo estimare necesario.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">79. El artículo 981 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Practicadas por el Secretario las diligencias a que se refieren los artículos 980 y, en su caso, 984, el Juez, a propuesta de aquél, dictará auto haciendo la declaración de herederos abintestato si la estimase procedente, o denegándola con reserva de su derecho a los que la hayan pretendido para el juicio ordinario.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">Este auto será apelable en ambos efectos.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">80. Los artículos 982 y 983 quedan sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">81. El artículo 984 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Si, a juicio del Fiscal o del Juez, hubiere motivos racionalmente fundados para creer que podrán existir otros parientes de igual o mejor grado, el Juez mandará fijar edictos en los sitios públicos del lugar de su sede y en los pueblos de fallecimiento y naturaleza del finado, anunciando su muerte sin testar, y los nombres y grado de parentesco de los que reclamen la herencia, y llamando a los que se crean con igual o mejor derecho para que comparezcan en el Juzgado a reclamarlo dentro de treinta días.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">El Juez podrá ampliar este término por el tiempo que estime necesario, cuando por el punto de la naturaleza del finado o por otras circunstancias, se presuma que podrá haber parientes fuera del territorio nacional.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">Los edictos se insertarán en el Boletín Oficial de la provincia o de la Comunidad Autónoma donde se siga el juicio. También se insertarán los edictos en uno de los periódicos de mayor circulación en la provincia, a criterio del Juez.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">También se insertarán en el “Boletín Oficial del Estado” si, a juicio del Juez, las circunstancias del caso lo exigiese.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">82. Los artículos 985 a 995 quedan sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">83. El artículo 1.397 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Corresponderá a los Jueces de Primera Instancia decretar los embargos preventivos.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">Si la deuda no excede de 8.000 pesetas podrá decretarlo el Juez de Paz competente cuando se pida al tiempo de proponer la demanda reclamando el pago de aquélla.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">84. El artículo 1.398 queda sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">85. En el párrafo primero del artículo 1.411 se suprime la expresión «por cantidad superior a 500.000 pesetas».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">86. En el párrafo primero del artículo 1.418 se sustituye la expresión «Juez municipal» por la de «Juez de Paz».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">87. Se añade un apartado 7.º en el artículo 1.429 con la redacción siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«7.º Los certificados expedidos por las entidades encargadas de los registros contables respecto de los valores representados mediante anotaciones en cuenta a los que se refiere la Ley 24/1988, de 28 de julio, del Mercado de Valores, siempre que se acompañe copia de la escritura pública de representación de los valores o, en su caso, de la emisión.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">88. El último párrafo del artículo 1.435 se modifica, quedando con la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«En los casos a los que se refiere el párrafo anterior, la entidad acreedora deberá notificar previamente al deudor o al fiador el importe de la cantidad exigible.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">89. El párrafo primero del artículo 1.439 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«La demanda ejecutiva se formulará en los términos prevenidos para la ordinaria en el artículo 524 y se interpondrá ante el Juzgado de Primera Instancia del lugar del cumplimiento de la obligación, según el título, o ante el del domicilio del demandado o de alguno de ellos, o ante el del lugar en que se encuentren los bienes inmuebles especialmente hipotecados, si los hubiere, sin que sean aplicables las normas sobre sumisión expresa o tácita contenidas en la Sección segunda del Título II del Libro primero.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">90. El párrafo segundo del artículo 1.453 tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«El Registrador deberá comunicar al órgano judicial la existencia de ulteriores asientos que pudieran afectar al embargo anotado.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">91. El número 1.º del artículo 1.489 tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«1.º Que se expida mandamiento al Registrador de la Propiedad para que libre y remita al Juzgado certificación en la que conste la titularidad del dominio y de los demás derechos reales de la finca o derecho gravado, así como las hipotecas, censos y gravámenes a que estén afectos los bienes, o que se hallan libres de cargas.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">92. El artículo 1.490 tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«El Registrador de la Propiedad comunicará a los titulares de derechos que figuren en la certificación de cargas y que consten en asientos posteriores al del gravamen que se ejecuta, el estado de la ejecución para que puedan intervenir en el avalúo y subasta de los bienes, si les conviniere.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">La comunicación se practicará en el domicilio que conste en el Registro por correo o telégrafo. En la certificación a que se refiere el artículo anterior se expresará el haberse practicado esta comunicación.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">93. El párrafo tercero del artículo 1.499 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Sólo el ejecutante podrá hacer postura a calidad de ceder el remate a un tercero. El ejecutante que ejercitare esta facultad habrá de verificar dicha cesión mediante comparecencia ante el propio Juzgado que haya celebrado la subasta, con asistencia del cesionario, quien deberá aceptarla, y todo ello previa o simultáneamente al pago del resto del precio de remate.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">94. En el párrafo primero del artículo 1.500 se suprime la expresión «en la mesa del Juzgado o».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">95. El artículo 1.503 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«El acto del remate será presidido por el Secretario. Se dará principio leyendo la relación de bienes y las condiciones de la subasta. Se publicarán las posturas que se admitan y las mejoras que se vayan haciendo, y se terminará el acto cuando, por no haber quien mejore la última postura, el Secretario lo estime conveniente.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">Acto continuo se anunciará al público el precio del remate y el nombre del mejor postor, cuya conformidad y aceptación se consignará en el acta que firmará el Secretario y las partes, si concurrieren.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">Cuando el adjudicatario hubiere hecho la postura por escrito y no asistiere al acto del remate, se le requerirá para que en plazo de tres días acepte la adjudicación. Si no lo hiciere, perderá la cantidad consignada y se estará a lo dispuesto en los párrafos segundo y tercero del artículo 1.500.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">96. El artículo 1.509 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Fuera de los casos a que se refieren los tres artículos anteriores, verificado el remate en cualquiera de las subastas, lo aprobará el Juez en el mismo o al siguiente día, mandando, si fueren bienes muebles o semovientes, que se entreguen al comprador, previa la consignación del precio, dentro del tercer día.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">A dicho fin se dará la oportuna orden al depositario y se hará constar en los autos la consignación del precio y la entrega de los bienes, cuyo recibo firmará el comprador.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">97. El artículo 1.511 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Al aprobar el remate se mandará al comprador que, dentro de un breve término que no podrá exceder de ocho días, consigne el precio de aquél.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">98. El artículo 1.512 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Las cargas y gravámenes anteriores y los preferentes, si los hubiese, al crédito del actor, continuarán subsistentes, entendiéndose que el rematante los acepta y queda subrogado en la responsabilidad de los mismos, sin destinarse a su extinción el precio del remate.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">El precio del remate se destinará sin dilación al pago del crédito del ejecutante; el sobrante se entregará a los acreedores posteriores o a quien corresponda, depositándose, entre tanto, en el establecimiento destinado al efecto.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">99. El artículo 1.514 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Será título bastante para la inscripción en el Registro de la Propiedad el testimonio expedido por el Secretario, con el visto bueno del Juez, comprensivo del auto de aprobación del remate, y en el que se exprese que se ha consignado el precio así como las demás circunstancias necesarias para la inscripción con arreglo a la legislación hipotecaria.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">100. El párrafo primero del artículo 1.515 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Con el testimonio a que se refiere el artículo anterior se entregarán al comprador los títulos de propiedad y se pondrán los bienes a su disposición, dándose para ello las órdenes necesarias.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">101. Los artículos 1.516 y 1.517 quedan sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">102. El artículo 1.518 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«A instancia del comprador se cancelarán la anotación o inscripción del gravamen que haya dado lugar a la ejecución del bien adjudicado así como de los posteriores a que estuviere afecta la finca, expidiéndose para ello mandamiento al Registrador de la Propiedad, en el que se expresará que el importe de la venta no fue suficiente para cubrir el crédito del ejecutante, o que tal importe se destinó íntegramente a cubrir el crédito del ejecutante o que se ha depositado el sobrante a disposición de los interesados.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">103. El artículo 1.519 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«En el caso de haberse adjudicado la finca al ejecutante en pago de su crédito se aplicará igualmente lo dispuesto en los artículos anteriores.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">104. En el párrafo primero del artículo 1.520 se suprime la expresión «salvo lo prevenido en los artículos 1.516 y 1.517.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">105. El artículo 1.562 queda sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">106. El artículo 1.563 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«El desahucio por falta de pago de las rentas del arrendamiento de un establecimiento mercantil o fabril podrá ser enervado por el arrendatario mediante la consignación de las rentas adeudadas y de las costas causadas, si fueren conocidas y, en su caso, por la cantidad alzada que al efecto se fije por el Juzgado, durante el período comprendido entre su citación y el día señalado para la celebración del juicio verbal.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">107. El artículo 1.568 queda sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">108. El artículo 1.569 queda sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">109. La Sección segunda del Título XVII del Libro II se denominará «Del procedimiento para el desahucio».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">110. El artículo 1.570 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«El juicio de desahucio se sustanciará por los trámites establecidos para los verbales con las modificaciones contenidas en los artículos siguientes.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">111. El artículo 1.583 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«La sentencia será apelable en ambos efectos para ante la Audiencia Provincial, pudiendo interponerse la apelación dentro del tercer día, con arreglo a lo dispuesto en los artículos 733 y siguientes.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">Si la apelación se hubiera interpuesto por el demandado, el Juez no admitirá el recurso si no hubiere cumplido lo que se previene en el artículo 1.566.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">112. El artículo 1.584 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Admitida la apelación, se remitirán los autos, en el día siguiente, a la Audiencia Provincial.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">113. Los artículos 1.585 y 1.586 quedan sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">114. Los artículos 1.589 a 1.594 quedan sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">115. La actual Sección cuarta del Título XVII del Libro II, pasa a ser Sección tercera.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">116. El artículo 1.606 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Cuando el demandado limite su reclamación a lo que resulte del avalúo conocerá de ella en juicio verbal el Juez que haya conocido del desahucio.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">117. El artículo 1.607 queda sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">118. Se añade un párrafo segundo al artículo 1.686 con la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Corresponderá a las Salas de lo Civil y Penal de los Tribunales Superiores de Justicia conocer de los recursos de casación en los supuestos de infracción de las normas del derecho civil, foral o especial propio de las Comunidades Autónomas en cuyo Estatuto de Autonomía se haya previsto esta atribución, de acuerdo con lo dispuesto en la Sección novena de este Título.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">119. El artículo 1.687 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Son susceptibles de recurso de casación:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">1.º Las sentencias definitivas pronunciadas por las Audiencias Provinciales en los juicios declarativos ordinarios de mayor cuantía y en los de menor cuantía siguientes:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">a) Aquellos a los que se refiere el número 2.º del artículo 484.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">b) Aquellos en que la cuantía sea inestimable o no haya podido determinarse ni aún en forma relativa por las reglas que se establecen en el artículo 489. Se exceptúan los supuestos en que las sentencias de apelación y de primera instancia sean conformes de toda conformidad, teniendo este carácter aunque difieran en lo relativo a la imposición de costas.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">c) Aquellos en que la cuantía litigiosa exceda de 6 millones de pesetas.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">2.º Los autos dictados en apelación, en los procedimientos para la ejecución de las sentencias recaídas en los juicios a que se refiere el número anterior, cuando resuelvan puntos sustanciales no controvertidos en el pleito, no decididos en la sentencia o que contradigan lo ejecutoriado.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">3.º Las sentencias dictadas por las Audiencias en los juicios de desahucio que no tengan regulación especial y las recaídas en los juicios de retracto, cuando en ambos casos alcancen la cuantía requerida para esta clase de recursos en los declarativos ordinarios. Quedan excluidas las sentencias dictadas en los juicios de desahucio por falta de pago de la renta.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">4.º Las resoluciones para las que expresamente se admita en las circunstancias y conforme a los requisitos que vengan establecidos.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">120. El artículo 1.692 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«El recurso de casación habrá de fundarse en alguno o algunos de los siguientes motivos:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">1.º Abuso, exceso o defecto en el ejercicio de la jurisdicción.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">2.º Incompetencia o inadecuación del procedimiento.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">3.º Quebrantamiento de las formas esenciales del juicio por infracción de las normas reguladoras de la sentencia o de las que rigen los actos y garantías procesales, siempre que, en este último caso, se haya producido indefensión para la parte.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">4.º Infracción de las normas del ordenamiento jurídico o la jurisprudencia que fueren aplicables para resolver las cuestiones objeto de debate.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">121. El artículo 1.694 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«El recurso de casación se preparará, mediante escrito que se presentará dentro del plazo de diez días, computados desde el siguiente al de la notificación de la resolución, ante el mismo órgano jurisdiccional que la hubiere dictado. En dicho escrito se manifestará la intención de interponer el recurso, con exposición sucinta de la concurrencia de los requisitos exigidos, solicitando que se tenga por preparado en tiempo y forma y que se remitan a la Sala Primera del Tribunal Supremo los autos originales y, en su caso, el rollo de apelación y que se emplace a las partes. También se remitirán, si hubieren sido formulados, los votos particulares.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">Presentado el escrito preparatorio, si se recurriera sentencia recaída en procesos en que no se hubiere determinado la cuantía, la Audiencia, oídas las partes y, en su caso, con las peritaciones y avalúos necesarios a cargo de éstas, procederá a señalarla de modo indicativo.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">Transcurrido el plazo de los diez días sin presentar el escrito, la sentencia o resolución quedará firme.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">122. El párrafo segundo del artículo 1.696 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Al mismo tiempo se emplazará a las partes para su comparecencia ante la Sala Primera del Tribunal Supremo en el plazo improrrogable de treinta días, si bien sólo la parte recurrente está obligada a tal comparecencia para interponer el recurso.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">123. El artículo 1.700 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«El recurso de queja se interpondrá ante la Sala de lo Civil del Tribunal Supremo, dentro del plazo señalado en el artículo 1.698, acompañando la copia certificada del auto denegatorio, y, en su caso, de las sentencias dictadas en ambas instancias.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">La Sala sin más trámites o previa reclamación de los autos al Tribunal ante el que se preparó el recurso, dictará la resolución que proceda contra la cual no se dará recurso alguno.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">124. El artículo 1.703 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«El que hubiere preparado el recurso de casación, si ha de interponerlo y no se encuentra en la situación legal de justicia gratuita, debe constituir previamente un depósito de 50.000 pesetas en el establecimiento destinado al efecto si las sentencias o resoluciones recaídas en primera y segunda instancia son conformes de toda conformidad, teniendo este carácter, aunque difieran en lo relativo a imposición de las costas.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">En el supuesto del recurso de casación directo previsto en el artículo 1.688 no será necesaria la constitución del depósito.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">125. El párrafo primero del artículo 1.704 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«La parte que hubiese preparado el recurso presentará ante la Sala Primera del Tribunal Supremo, el escrito de interposición, dentro de los treinta días siguientes a la fecha del emplazamiento.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">126. El artículo 1.705 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Dentro del plazo expresado en el artículo anterior, la parte recurrente puede personarse y pedir que se le comuniquen los autos.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">127. El artículo 1.707 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«En el escrito de interposición del recurso de casación se expresarán el motivo o los motivos en que se ampare, citándose las normas del ordenamiento jurídico o la jurisprudencia que se consideren infringidas.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">En todo caso se razonará la pertinencia y fundamentación del recurso en relación con los motivos que la Ley permite.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">128. El artículo 1.709 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Interpuesto el recurso de casación se pasarán las actuaciones al Ministerio Fiscal por un plazo de diez días para que, además de cumplir en lo que fuera pertinente la misión que le incumbe dentro del proceso, en defensa de la legalidad, los intereses públicos y sociales, se pronuncie sobre la admisibilidad o inadmisibilidad del recurso o de alguno de sus motivos.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">De estimarlo admisible en su totalidad, devolverá las actuaciones con la fórmula de “visto”. En caso contrario, emitirá dictamen razonado del que se dará copia literal a las partes.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">129. El artículo 1.710 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«1. Devueltas las actuaciones por el Fiscal, se pasarán al Magistrado Ponente, a fin de que se instruya y someta a deliberación de la Sala lo que haya de resolverse conforme a las siguientes reglas:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">1.ª De no haberse presentado cualquiera de los documentos comprendidos en los números 1.º a 3.º del artículo 1.706 o apreciándose en ellos algún defecto, se concederá a la parte recurrente el plazo que la Sala estime suficiente, en ningún caso superior a veinte días, para que aporte los documentos omitidos o subsane los defectos apreciados. De no efectuarlo, la Sala dictará auto de inadmisión del recurso, declarando firme la resolución recurrida, con imposición de las costas, y decretando la pérdida del depósito constituido y mandará remitir las actuaciones al órgano jurisdiccional del que procedan.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">2.ª También dictará la Sala auto de inadmisión, con los mismos efectos previstos en la regla anterior si, no obstante haber tenido por preparado el recurso, estimase en este trámite la inobservancia de lo dispuesto en los artículos 1.697 y 1.707; si las normas citadas no guardaran relación alguna con las cuestiones debatidas y si, siendo necesario haber pedido la subsanación de la falta, no hubiere en los autos constancia de haberse hecho.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">3.ª Asimismo dictará la Sala auto de inadmisión, con idénticos efectos, cuando el recurso carezca manifiestamente de fundamento o cuando se hubieren desestimado en el fondo otros recursos sustancialmente iguales. En este caso, puesta de manifiesto la causa de inadmisión, se oirá a la parte recurrente por plazo de diez días antes de resolverse definitivamente. Para denegar la admisión del recurso por esta causa será necesario que el acuerdo se adopte por unanimidad.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">4.ª Se inadmitirá el recurso, con iguales efectos que los prevenidos en las reglas anteriores, cuando no se hubiese determinado la cuantía conforme a las reglas aplicables si la Sala considera que, notoriamente, no supera los límites que establece el número 1.º del artículo 1.687.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">5.ª Contra los autos a que se refieren las reglas anteriores no se dará recurso alguno.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">2. De admitirse el recurso por todos o algunos de los motivos, se entregará copia del mismo a la parte o partes recurridas y personadas, para que formalicen por escrito su impugnación en el plazo común de veinte días. Durante dicho plazo se les pondrán de manifiesto las actuaciones en la Secretaría.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">130. El artículo 1.711 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Transcurrido el plazo a que se refiere el apartado 2 del artículo anterior, se hayan presentado o no los escritos de impugnación, la Sala señalará, dentro de los noventa días siguientes, día y hora para la celebración de vista o, en su caso, para la votación y el fallo.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">Habrá lugar a la celebración de vista cuando lo pidan todas las partes en sus escritos de recurso o de impugnación o la Sala lo estime necesario.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">Para la celebración de vista se citará a las partes con quince días, al menos, de antelación, durante los cuales podrán tomar instrucción complementaria de las actuaciones en la Secretaría.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">131. El artículo 1.712 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Para la vista y decisión del recurso se constituirá la Sala con tres Magistrados, salvo cuando el proceso verse sobre derechos fundamentales o se refiera a las cuestiones que relaciona el número 2.º del artículo 484, en cuyo caso formarán la Sala cinco Magistrados.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">132. El artículo 1.714 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«La Sala dictará sentencia dentro de los quince días siguientes al de terminación de la vista o, de no celebrarse ésta, al de la celebración de la votación.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">133. El artículo 1.715 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«1. Si se estimase el recurso por todos o algunos de los motivos, la Sala en una sola sentencia, casando la resolución recurrida, resolverá conforme a derecho, teniendo en cuenta lo siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">1.º De estimarse algún motivo amparado en los números 1.º y 2.º del artículo 1.692, se dejará a salvo el derecho a ejercitar las pretensiones ante quien corresponda o por el procedimiento adecuado.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">2.º De estimarse motivos comprendidos en el número 3.º del artículo 1.692 que se refieran a transgresiones o faltas cometidas en los actos y en las garantías procesales, se mandarán reponer las actuaciones al estado y momento en que se hubiera incurrido en la falta.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">3.º De ser estimados motivos de infracción comprendidos en el número 4.º y en el primer inciso del 3.º del artículo 1.692, la Sala resolverá lo que corresponda dentro de los términos en que aparezca planteado el debate.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">2. En la sentencia que declare haber lugar al recurso, la Sala resolverá, en cuanto a las costas de las instancias, conforme a las reglas generales, y en cuanto a las del recurso, que cada parte satisfaga las suyas.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">3. Si no se estimase procedente ningún motivo, la sentencia declarará no haber lugar al recurso, con imposición de las costas al recurrente y la pérdida del depósito constituido.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">134. En el párrafo primero del artículo 1.718, la expresión «motivo 5.º» se sustituye por «motivo 4.º».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">135. La Sección novena del Título XXI del Libro II pasa a denominarse: «Del recurso de casación ante los Tribunales Superiores de Justicia».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">136. El artículo 1.729 tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«La competencia atribuida a los Tribunales Superiores de Justicia en la letra a) del apartado 1 del artículo 73 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, se ejercitará con arreglo a las normas precedentes, sobre el recurso de casación con las particularidades que se establecen en los artículos siguientes, debiendo entenderse las referencias de aquéllas a la Sala de lo Civil del Tribunal Supremo como hechas a la de lo Civil y Penal del correspondiente Tribunal Superior de Justicia.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">137. El artículo 1.730 tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Cuando el recurso de casación se fundamente conjuntamente en infracción de norma de Derecho civil común y de Derecho civil foral o especial propio de la Comunidad, corresponderá entender de él a la Sala de lo Civil del Tribunal Superior de Justicia de la Comunidad Autónoma, excepto si se fundamenta en la infracción de un precepto constitucional, supuesto en que la competencia corresponderá a la Sala de lo Civil del Tribunal Supremo.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">Si se preparasen por la misma parte sendos recursos de casación contra una misma resolución para ante la Sala de lo Civil del Tribunal Supremo y para ante la Sala de lo Civil del Tribunal Superior de Justicia, se tendrá el primero de ellos por desistido en cuanto se justifique esta circunstancia, con los efectos prevenidos en el artículo 410, párrafo segundo.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">138. El artículo 1.731 tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«En el trámite previsto en el artículo 1.709, el Ministerio Fiscal, antes de pronunciarse sobre la admisibilidad o inadmisibilidad del recurso, si entendiera que corresponde conocer de él a la Sala de lo Civil del Tribunal Supremo, en el caso de que se hubiese interpuesto ante la Sala de lo Civil del Tribunal Superior de Justicia, o a ésta, en el caso inverso, lo expondrá por escrito razonado, y la Sala, oídas las partes, resolverá por auto lo que corresponda, con remisión de las actuaciones y rollo de apelación, en el plazo de cinco días, y emplazamiento a las partes para que comparezcan ante la Sala que correspondiera, en el plazo de diez, sin perjuicio, en su caso, de lo dispuesto en el párrafo siguiente.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">Las dudas sobre competencia que pudieran suscitarse entre la atribuida al Tribunal Supremo y al Tribunal Superior de Justicia se resolverán aplicando lo que disponen los artículos 52 de la Ley Orgánica del Poder Judicial y 81 a 83 de ésta, entendiéndose referido a la Sala de lo Civil del Tribunal Superior de Justicia lo que el último de los citados preceptos dispone con respecto a las Audiencias.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">139. El artículo 1.732 tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Si el Tribunal Supremo, en la decisión del recurso, estimase que no concurre la infracción del precepto constitucional invocado, si además se hubiese fundado en infracciones de norma de Derecho civil, foral o especial, remitirá las actuaciones al Tribunal Superior de Justicia que corresponda, en el plazo de quince días, con emplazamiento de las partes por plazo de diez días.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">140. En el párrafo primero del artículo 1.799, la expresión «12.000 pesetas» se sustituye por «50.000 pesetas».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">141. El párrafo primero del artículo 1.801 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«El recurso de revisión se interpondrá ante la Sala de lo Civil del Tribunal Supremo. No obstante, cuando la sentencia firme impugnada hubiese sido dictada por un Juzgado o Audiencia con sede en una Comunidad Autónoma cuyo Estatuto de Autonomía así lo haya previsto, del recurso de revisión conocerá la Sala de lo Civil del Tribunal Superior de Justicia, de acuerdo con lo previsto en este Título.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">142. En el artículo 1.804 se suprime la expresión «en la Sala Tercera del Tribunal Supremo».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">143. El artículo 1.822 queda sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">144. El artículo 1.875 queda sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">145. Los artículos 1.919 a 1.942 quedan sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">146. Los artículos 2.128 a 2.130 quedan sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">147. Los artículos 2.175 a 2.181 quedan sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="seccion">Sección 2.ª Modificación de otras normas procesales civiles</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Artículo segundo. Modificación del Decreto de 21 de noviembre de 1952.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Los artículos que a continuación se relacionan del Decreto de 21 de noviembre de 1952, por el que se desarrolla la base décima de la Ley de 19 de julio de 1944 sobre normas procesales aplicables en la justicia municipal, quedan redactados en los términos siguientes:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">1. El artículo 26 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Los procesos de cognición que no tengan señalada una tramitación especial y cuya cuantía exceda de 80.000 pesetas sin pasar de 800.000, se sustanciarán ante los Juzgados de Primera Instancia en la forma que se determina en los artículos siguientes.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">2. El número 6.º del artículo 29 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«6.º También se fijará la cuantía litigiosa. En todo caso, habrá de limitarse a 800.000 pesetas, con renuncia expresa al exceso si sobrepasara dicha cantidad.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">3. El artículo 31 queda sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">4. El artículo 32 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Asimismo examinará el Juez de oficio su propia competencia objetiva por razón de la materia y por razón de la cuantía, e igualmente la territorial, cuando se invoque por el actor la sumisión expresa de las partes, conforme a lo dispuesto en la Ley de 17 de julio de 1948; si estimare que no tiene competencia, oído el Ministerio Fiscal, dictará, en el término de tercer día, auto absteniéndose de conocer. Contra este auto cabe el recurso de apelación en ambos efectos, en el plazo de tres días; si la Audiencia confirmare dicha resolución, se impondrán las costas al apelante.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">5. El artículo 33 queda sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">6. El párrafo primero del artículo 38 tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Si el Juez fuera competente, en el término del tercer día mandará emplazar al demandado o demandados y les conferirá traslado de la demanda con sus copias, para que comparezcan y contesten, si lo creyesen oportuno, en el plazo improrrogable de nueve días, salvo lo dispuesto en el artículo 526 de la Ley de Enjuiciamiento Civil, cuando el que haya de ser emplazado no resida en el lugar del juicio.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">7. El artículo 39 tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Cuando el demandado sea emplazado por edictos se le señalará el plazo de nueve días improrrogables para comparecer. Si comparece, se le concederán tres días para contestar, entregándole las copias de la demanda y documentos, en su caso, al notificarle la providencia en que se le tenga por personado.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">8. El artículo 46 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«La reconvención se formulará en el mismo escrito de contestación, pero con la debida separación en cuanto a los hechos, fundamentos y pretensión que se formule. No se admitirá reconvención por cuantía superior a 800.000 pesetas y tampoco cuando haya de tramitarse por un procedimiento especial. No obstante, podrán acumularse aquellas acciones que debieran tramitarse por el procedimiento del juicio verbal.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">9. El artículo 53 tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Si no hubiese conformidad en los hechos y lo solicitase una parte, al menos, el Juez recibirá el juicio a prueba por término que no podrá exceder de veinte días, practicándose, desde luego, aquellas probanzas que puedan llevarse a cabo inmediatamente, entre ellas las de confesión judicial si la parte o partes que hayan de absolver posiciones estuvieren presentes.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">10. El párrafo primero del artículo 55 tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«El Juez declarará la pertinencia o impertinencia de los medios de prueba propuestos, llevándose a cabo su práctica en una o varias audiencias, sin que en ningún caso pueda demorarse más del término de los veinte días a que alude el artículo 53.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">11. El párrafo primero del artículo 62 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«El recurso de apelación se interpondrá por escrito y con firma de Abogado en el plazo de cinco días a partir del siguiente al de su notificación, en la forma que dispone el artículo 733 de la Ley de Enjuiciamiento Civil. La apelación y, en su caso, la queja se tramitarán y resolverán conforme a lo dispuesto en los artículos 734, 735 y 736 de dicha Ley.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">12. El artículo 64 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Deberá suspenderse el curso de los autos cuando por el demandado se plantee, con los requisitos legales, alguna de las cuestiones siguientes: La acumulación de autos, que será tramitada conforme a lo dispuesto en los artículos 168 y siguientes de la Ley de Enjuiciamiento Civil; la recusación del Juez; el planteamiento de una cuestión prejudicial excluyente, y la cuestión de competencia por inhibitoria, desde el momento que el Juez requerido recibe el oficio de inhibición con el testimonio prevenido, en cuyo caso se seguirá la tramitación de los artículos 89 y siguientes de la Ley de Enjuiciamiento Civil.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">13. Los artículos 65 y 66 quedan sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">14. En el párrafo segundo del artículo 67 se suprime la expresión «de Distrito».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Artículo tercero. Modificación de la Ley de Arrendamientos Urbanos.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Los artículos que a continuación se relacionan de la Ley de Arrendamientos Urbanos, texto refundido aprobado por Decreto 4104/1964, de 24 de diciembre, quedan redactados en los términos siguientes:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">1. El artículo 122 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Los Jueces de Primera Instancia conocerán de cuantos litigios se promuevan en ejercicio de las acciones que se funden en derechos reconocidos por esta Ley.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">2. El artículo 123 queda sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">3. El artículo 125 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Cuando la acción ejercitada sea distinta de la que trata el artículo anterior, el proceso se sustanciará por las normas establecidas para los juicios de cognición.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">4. El artículo 126 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Cuando se accione de retracto, el procedimiento será el del Título XIX, del Libro II, de la Ley de Enjuiciamiento Civil, ajustándose a lo prevenido en esta Ley especial de Arrendamientos Urbanos.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">5. El apartado 1 del artículo 127 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«1. Sin otra excepción que en los juicios de desahucio por falta de pago, podrá el actor acumular las acciones contra los distintos inquilinos de una misma finca, aunque lo sean por contratos diferentes, siempre que aquéllos se fundamenten en hechos comunes a todos ellos.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">6. El artículo 128 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«El demandado podrá formular reconvención sobre materia propia de esta Ley, salvo que el juicio fuere de desahucio por falta de pago de las rentas o de las cantidades que a ellas se asimilan. Formulada la reconvención, se dará traslado al actor por plazo de tres días para que conteste concretamente sobre la reconvención así planteada.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">7. El artículo 130 queda sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">8. El artículo 131 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Contra la sentencia dictada se dará recurso de apelación.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">9. El artículo 135 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Contra la sentencia que dicte la Audiencia Provincial no se dará ulterior recurso. Por excepción, en los litigios sobre contratos de arrendamiento de local de negocio, cuya renta contractual exceda de un millón de pesetas, se dará el recurso de casación por las causas y trámites establecidos en la Ley de Enjuiciamiento Civil. No se dará recurso de casación cuando la sentencia se haya dictado en juicio de desahucio por falta de pago.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">10. El artículo 141 queda sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">11. En el artículo 142, la expresión «Sección cuarta» se sustituye por «Sección tercera».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">12. El artículo 144 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«En los restantes casos, la sentencia se ejecutará conforme a lo dispuesto en la Ley procesal común.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">13. Los apartados 1 y 2 del artículo 149 quedan sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Artículo cuarto. Modificación de la Ley de Arrendamientos Rústicos.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Los artículos que a continuación se relacionan de la Ley 83/1980, de 31 de diciembre, de Arrendamientos Rústicos, quedan redactados en los términos siguientes:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">1. El apartado 1 del artículo 126 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«1. Podrá el actor acumular las acciones que le asistan contra el mismo demandado. Se exceptúan de la norma anterior los juicios de desahucio por falta de pago y los de retracto.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">2. El artículo 127 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Los Jueces de Primera Instancia conocerán de cuantos litigios se promuevan en ejercicio de acciones que se funden en derechos reconocidos por esta Ley.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">3. El párrafo primero del artículo 131 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Los juicios no comprendidos en las normas anteriores se sustanciarán por las normas del juicio de cognición con las siguientes particularidades.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">4. El artículo 132 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Contra las sentencias que dicten las Audiencias Provinciales en los litigios en que se ejercite la acción de retracto, en los que tengan por objeto obtener la anotación de crédito refaccionario indicada en el artículo 64 de esta Ley o en los que se funden en derechos reconocidos en esta Ley, siempre que su cuantía exceda de un millón de pesetas, podrá interponerse recurso de casación.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">5. Los apartados 1 y 2 del artículo 134 quedan sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">6. El número 1.º del artículo 135 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«1.º Serán de tramitación preferente tanto en los Juzgados de Primera Instancia como en las Audiencias Provinciales y ante el Tribunal Supremo.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Artículo quinto. Modificación de la Ley de Demarcación y de Planta Judicial.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">El artículo 54 de la Ley 38/1988, de 28 de diciembre, de Demarcación y de Planta Judicial, queda sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="capitulo_num">CAPÍTULO II</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="capitulo_tit">Reformas del proceso penal</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Artículo sexto. Modificación de la Ley de Enjuiciamiento Criminal.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Los artículos y las rúbricas que a continuación se relacionan de la Ley de Enjuiciamiento Criminal, quedan redactados en los términos siguientes:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">1. En el número 5.º del artículo 175 la expresión «de 25 a 250 pesetas» se sustituye por «de 5.000 a 25.000 pesetas».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">2. En el artículo 420 la expresión «de 25 a 250 pesetas» se sustituye por «de 5.000 a 25.000 pesetas».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">3. El párrafo cuarto del artículo 569 tendrá el siguiente contenido:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«El registro se practicará a presencia del Secretario o, si así lo autoriza el Juez, de un funcionario de la Policía judicial o de otro funcionario público que haga sus veces, que extenderá acta que firmarán todos los concurrentes.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">4. En el artículo 684 la expresión «de 25 a 500 pesetas.» se sustituye por «de 5.000 a 25.000 pesetas.».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">5. En el artículo 716 la expresión «de 100 a 1.000 pesetas.» se sustituye por «de 5.000 a 25.000 pesetas.».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">6. Se añade un párrafo tercero en el artículo 781, con la redacción siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«El Fiscal General del Estado impartirá cuantas órdenes e instrucciones estime convenientes respecto a la actuación del Fiscal en este procedimiento y, en especial, respecto a la aplicación de lo dispuesto en el apartado 1 del artículo 790.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">7. El apartado 1 del artículo 788 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«1. Desde la detención o desde que de las actuaciones resultare la imputación de un delito contra persona determinada y fuera necesaria la asistencia letrada, la Policía judicial, el Ministerio Fiscal o la Autoridad judicial recabarán del Colegio de Abogados la designación de un Letrado de oficio, si no lo hubiere nombrado ya el interesado.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">8. El inciso tercero del apartado 4 del artículo 789 queda redactado como sigue:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«En igual caso deberá realizarse la instrucción al perjudicado de sus derechos prevista en el artículo 109 de esta Ley, así como del derecho a nombrar Abogado. Dicha instrucción la podrá realizar la propia Policía judicial, informando de que aun no haciéndose la citada designación, el Ministerio Fiscal ejercitará las acciones civiles correspondientes si procediere. No obstante, si no se hubiese practicado la referida instrucción, ello no impedirá la continuación del procedimiento, si bien por el medio más rápido posible, incluso telegráficamente, deberá instruirse al perjudicado de su derecho a personarse en la causa.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">9. Se añaden dos párrafos en el apartado 1 del artículo 790 con la redacción siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«No obstante, tan pronto como el Juez de Instrucción considere que existen elementos suficientes para formular la acusación por haberse practicado, en su caso, las diligencias a que se refiere el apartado 3 del artículo 789, el traslado de las actuaciones al Ministerio Fiscal y partes acusadoras podrá efectuarse de forma inmediata, incluso en el propio servicio de guardia del Juzgado de Instrucción.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">En este caso, el Ministerio Fiscal, en atención a las circunstancias de flagrancia o evidencia de los hechos, alarma social producida, detención del imputado o el aseguramiento de su puesta a disposición judicial, podrá presentar, de inmediato, su escrito de acusación y solicitud de inmediata apertura del juicio oral, y simultánea citación para su celebración.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">10. Se añaden cuatro párrafos en el apartado 6 del artículo 790, con la redacción siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«El Juez de Instrucción, si estimara justificada la solicitud prevista en el párrafo tercero del apartado 1 de este artículo, recabará la presentación urgente, dentro del plazo no superior a tres días que el propio Juez señale, del escrito de la acusación particular que faltare y mandará convocar al acusado y las demás partes personadas para la celebración del juicio oral ante el Juzgado de lo Penal o la Audiencia Provincial, en el día y hora que señale, en ningún caso antes de que transcurran diez días, y dentro de los predeterminados a este efecto por los propios órganos judiciales ante los que haya de celebrarse el juicio oral, de acuerdo con las normas que se establezcan por quien corresponda según la legislación orgánica.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">También se acordará la práctica de las citaciones propuestas por las acusaciones, llevándose a cabo en el acto aquellas en que ello sea posible, sin perjuicio de la decisión que sobre la admisión de pruebas realicen el Juez de lo Penal o la Audiencia Provincial.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">Igualmente se dará traslado a los defensores y terceros responsables, si los hubiere, de los escritos de acusación para que, dentro del término de cinco días, comparezcan ante el Juzgado de lo Penal o la Audiencia Provincial y formulen los escritos de defensa con proposición de pruebas.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">En los supuestos de conformidad con los hechos a que se refiere la regla 5.ª del apartado 5 del artículo 789 y de conformidad con la pena a que se refiere el apartado 3 del artículo 791, la citación ante el Juez de lo Penal o, en su caso, la Audiencia Provincial podrá realizarse por el Juzgado de Instrucción, incluso en su servicio de guardia, de la forma más inmediata posible y sin atenerse, necesariamente, al plazo previsto en el párrafo quinto de este apartado.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">11. Se añaden dos párrafos en el apartado 1 del artículo 791, con la redacción siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Si la defensa no presentare su escrito en el plazo señalado, se entenderá que se opone a las acusaciones y seguirá su curso el procedimiento, sin perjuicio de la responsabilidad en que pueda incurrirse de acuerdo con lo previsto en el Título V del Libro V de la Ley Orgánica del Poder Judicial.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">Transcurrido dicho plazo, la defensa sólo podrá proponer la prueba que aporte en el acto del juicio oral para su práctica en el mismo, sin perjuicio de que, además, pueda interesar previamente que se libren las comunicaciones necesarias, siempre que lo haga con antelación suficiente respecto de la fecha señalada para el juicio, y de lo previsto en el párrafo segundo del apartado 1 del artículo siguiente. Todo ello se entiende sin perjuicio de que si los afectados consideran que se ha producido indefensión puedan aducirlo de acuerdo con lo previsto en el apartado 2 del artículo 793.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">12. Se añade un apartado 3 en el artículo 792, con la redacción siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«3. Lo dispuesto en los apartados anteriores será de aplicación sin perjuicio de lo establecido para el supuesto previsto en el párrafo quinto del apartado 6 del artículo 790.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">13. El artículo 799 tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Por el Consejo General del Poder Judicial, oída la Sala de Gobierno del Tribunal Superior de Justicia correspondiente, se podrán dictar las instrucciones oportunas al efecto de la habilitación de los días y horas inhábiles en las actuaciones judiciales a las que se refiere el presente Título.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">14. El párrafo cuarto del artículo 875 queda suprimido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">15. El artículo 955 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Están legitimados para promover e interponer, en su caso, el recurso de revisión, el penado y, cuando éste haya fallecido, su cónyuge, o quien haya mantenido convivencia como tal, ascendientes y descendientes, con objeto de rehabilitar la memoria del difunto y de que se castigue, en su caso, al verdadero culpable.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">16. El artículo 957 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«La Sala, previa audiencia del Ministerio Fiscal, autorizará o denegará la interposición del recurso. Antes de dictar la resolución, la Sala podrá ordenar, si lo entiende oportuno y dadas las dudas razonables que suscite el caso, la práctica de las diligencias que estime pertinentes, a cuyo efecto podrá solicitar la cooperación judicial necesaria. Los autos en los que se acuerde la autorización o denegación a efectos de la interposición, no son susceptibles de recurso alguno. Autorizado el recurso, el promovente dispondrá de quince días para su interposición.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">17. El artículo 961 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«El Fiscal General del Estado podrá también interponer el recurso siempre que tenga conocimiento de algún caso en el que proceda y que, a su juicio, haya fundamento bastante para ello, de acuerdo con la información que haya practicado.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">18. La división en Títulos del Libro VI queda suprimida.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">19. El artículo 962 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Luego que el Juez competente tenga noticia de haberse cometido alguna de las faltas previstas en el Libro III del Código Penal o en leyes especiales que pueda perseguirse de oficio o previa denuncia del perjudicado, mandará convocar a juicio verbal al Fiscal, al querellante o denunciante, si lo hubiere, al presunto culpable y a los testigos que puedan dar razón de los hechos, señalando día y hora para la celebración del juicio. Asimismo se indicará en la citación que las partes pueden ser asistidas por Abogado.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">A la citación que se haga a los presuntos culpables se acompañará copia de la querella si se hubiese presentado, o una relación sucinta de los hechos en que consista la denuncia y, en dicha citación, se expresará que el citado debe acudir al juicio con las pruebas que tenga. Siempre deberán transcurrir, cuando menos, un día entre el acto de la citación del presunto culpable y el de la celebración del juicio, si el citado reside dentro del término municipal, y un día más por cada cien kilómetros de distancia si residiera fuera de él.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">20. En el artículo 963 se suprime la expresión «municipal».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">21. En los párrafos primero y segundo del artículo 964 se suprime la expresión «municipal».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">22. El artículo 965 queda sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">23. En el párrafo segundo del artículo 966 se suprime la expresión «municipal».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">24. En el artículo 968 se suprime la expresión «municipal».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">25. El artículo 969 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«El juicio será público, dando principio por la lectura de la querella o de la denuncia, si las hubiere, siguiendo a esto el examen de los testigos convocados, y practicándose las demás pruebas que propongan el querellante, el denunciante y el Fiscal, si asistiere, siempre que el Juez las considere admisibles. La querella habrá de reunir los requisitos del artículo 277, salvo que no necesita firma de Abogado ni Procurador. Seguidamente se oirá al acusado, se examinarán los testigos que presente en su descargo y se practicarán las demás pruebas que ofrezca y fueren pertinentes, observándose las prescripciones de esta Ley en cuanto sean aplicables. Acto continuo expondrán de palabra las partes lo que crean conveniente en apoyo de sus respectivas pretensiones, hablando primero el Fiscal, si asistiere; después el querellante particular o el denunciante y, por último, el acusado.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">El Fiscal asistirá a los juicios sobre faltas siempre que a ellos sea citado con arreglo al artículo 962. Sin embargo, el Fiscal General del Estado impartirá instrucciones sobre los supuestos en los que, en atención al interés público, los Fiscales podrían dejar de asistir al juicio, cuando la persecución de la falta exija la denuncia del ofendido o perjudicado. En esos casos la denuncia tendrá valor de acusación, sin perjuicio de entender, si el denunciante no califica el hecho denunciado o no señala la pena con que deba ser castigado, que remite ambos extremos al criterio del Juez, salvo que el Fiscal formule por escrito sus pretensiones.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">26. En el artículo 970, la expresión «Juez municipal» se sustituye por «Juez».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">27. En los artículos 971 y 972 se suprime la expresión «municipal».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">28. El párrafo segundo del artículo 973 queda suprimido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">29. El artículo 975 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Si las partes, conocido el fallo, expresan su decisión de no recurrir, el Juez, en el mismo acto, declarará la firmeza de la sentencia.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">30. El artículo 976 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«La sentencia es apelable en el plazo de los cinco días siguientes al de su notificación. Durante este período se hallan las actuaciones en Secretaría a disposición de las partes.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">El recurso se formalizará y tramitará conforme a lo dispuesto en los artículos 795 y 796 de esta Ley.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">31. El artículo 977 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Contra la sentencia que se dicte en segunda instancia no habrá lugar a recurso alguno. El órgano que la hubiese dictado mandará devolver al Juez los autos originales, con certificación de la sentencia dictada, para que proceda a su ejecución.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">32. Los artículos 978 a 982 quedan sin contenido.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">33. En el párrafo primero del artículo 984 se suprime la expresión «de la Justicia municipal».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="capitulo_num">CAPÍTULO III</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="capitulo_tit">Reformas del proceso contencioso-administrativo</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Artículo séptimo. Modificación de la Ley reguladora de la Jurisdicción Contencioso-Administrativa.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Los artículos y rúbricas que a continuación se relacionan de la Ley de la Jurisdicción Contencioso-Administrativa, de 27 de diciembre de 1956, tendrán la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">1. El artículo 64 tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«1. La resolución de la Administración autora del acto o la disposición impugnadas por la cual se acuerde la remisión del expediente administrativo al Tribunal, se notificará de inmediato a cuantos aparezcan como interesados en el mismo, emplazándoles para que puedan comparecer y personarse en los autos en el plazo de nueve días. Practicadas las notificaciones, se enviará el expediente administrativo al Tribunal, incorporando al mismo las notificaciones para emplazamiento efectuadas.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">2. Recibido el expediente, el Tribunal comprobará, a la vista del resultado de las actuaciones administrativas, que se han efectuado los emplazamientos mencionados en el párrafo anterior y si advirtiere que son incompletos ordenará que se practiquen los necesarios.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">3. La publicación de los anuncios ordenada en el artículo 60 servirá de emplazamiento de aquellos interesados que no hubieran podido ser emplazados personalmente.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">2. El artículo 66 tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«1. Los demandados y coadyuvantes podrán personarse en los autos dentro del término del emplazamiento. Si lo hicieran con posterioridad, se les tendrá por parte, sin que por ello deba retrotraerse ni interrumpirse el curso del procedimiento.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">2. Si no se personaren oportunamente continuará el procedimiento por sus trámites, sin que haya lugar a practicarles, en estrados o en cualquier otra forma, notificaciones de clase alguna.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">3. El Capítulo II del Título IV de la Ley de la Jurisdicción Contencioso-Administrativa de 27 de diciembre de 1956, queda redactado en los términos siguientes: «Capítulo II. Recursos contra providencias, autos y sentencias».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">4. La Sección 1.ª del Capítulo II del Título IV se denominará «Recursos contra providencias y autos».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">5. El artículo 92 tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«1. El recurso de súplica será admisible contra las providencias y autos que dictaren los órganos de la Jurisdicción contencioso-administrativa.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">2. Se exceptúan los autos que resuelvan recursos de súplica, los de aclaración y los de inadmisión del recurso de casación.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">3. El recurso de súplica se interpondrá en el plazo de cinco días a contar desde el siguiente al de la notificación de la resolución impugnada.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">Del escrito de interposición se dará traslado a las demás partes, por término común de tres días, a fin de que aleguen lo que a su derecho convenga. Transcurrido dicho plazo, con o sin alegaciones, el Tribunal decidirá.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">6. La Sección 2.ª del Capítulo II del Título IV se denominará «Del recurso de casación».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">7. El artículo 93 tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«1. Las sentencias de la Sala de lo Contencioso-Administrativo de la Audiencia Nacional y las dictadas en única instancia por las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia serán susceptibles de recurso de casación ante la Sala de lo Contencioso-Administrativo del Tribunal Supremo.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">2. Se exceptúan de lo establecido en el apartado anterior:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">a) Las sentencias que se refieran a cuestiones de personal al servicio de la Administración Pública salvo que, estrictamente, afecten a la extinción de la relación de servicio de los que ya tuvieren la condición de funcionarios públicos.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">b) Las recaídas, cualquiera que fuere la materia, en asuntos cuya cuantía no exceda de 6 millones de pesetas.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">c) Las dictadas en el recurso contencioso-administrativo regulado en el artículo 7.6 de la Ley 62/1978, de 26 de diciembre.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">d) Las dictadas en recursos contencioso-electorales.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">3. Las sentencias que se dicten en virtud del recurso interpuesto al amparo de los párrafos dos y cuatro del artículo 39 de esta Ley serán susceptibles, en todo caso, de recurso de casación.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">4. Las sentencias dictadas en única instancia por las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia no comprendidas en el apartado 2 de este artículo, respecto a actos o disposiciones de las Comunidades Autónomas, sólo serán susceptibles de recurso de casación cuando el recurso se funde en infracción de normas no emanadas de los órganos de aquéllas que sea relevante y determinante del fallo de la sentencia.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">5. Las resoluciones del Tribunal de Cuentas en materia de responsabilidad contable serán susceptibles de recurso de casación en los casos establecidos en la Ley 7/1988, de 5 de abril, de Funcionamiento del Tribunal de Cuentas.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">8. El artículo 94 tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«1. También serán susceptibles de recurso de casación, en los mismos casos previstos en el artículo anterior, los autos siguientes:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">a) Los que declaren la inadmisión del recurso contencioso-administrativo o hagan imposible su continuación.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">b) Los que pongan término a la pieza separada de suspensión.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">c) Los recaídos en ejecución de sentencia siempre que resuelvan cuestiones no decididas, directa o indirectamente, en aquélla o que contradigan lo ejecutoriado.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">2. Para que pueda prepararse el recurso de casación en los casos previstos en el número anterior es requisito necesario interponer previamente el recurso de súplica.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">9. El artículo 95 tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«1. El recurso de casación habrá de fundarse en alguno o algunos de los siguientes motivos:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">1.º Abuso, exceso o defecto en el ejercicio de la jurisdicción.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">2.º Incompetencia o inadecuación del procedimiento.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">3.º Quebrantamiento de las formas esenciales del juicio por infracción de las normas reguladoras de la sentencia o de las que rigen los actos y garantías procesales, siempre que, en este último caso, se haya producido indefensión para la parte.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">4.º Infracción de las normas del ordenamiento jurídico o la jurisprudencia que fueren aplicables para resolver las cuestiones objeto de debate.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">2. La infracción de las normas relativas a los actos y garantías procesales que producen indefensión sólo podrá alegarse cuando se haya pedido la subsanación de la falta o transgresión en la instancia de existir momento procesal oportuno para ello.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">10. El artículo 96 tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«1. El recurso de casación se preparará ante el mismo órgano jurisdiccional que hubiere dictado la resolución recurrida en el plazo de diez días, computado desde el siguiente a la notificación de aquélla, mediante escrito en el que deberá manifestarse la intención de interponer el recurso con sucinta exposición de la concurrencia de los requisitos exigidos.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">2. En el supuesto previsto en el artículo 93.4 de la presente Ley, habrá de justificarse que la infracción de una norma no emanada de los órganos de la Comunidad Autónoma ha sido relevante y determinante del fallo de la sentencia.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">3. Están legitimados para interponer recurso de casación quienes hubieran sido parte en el procedimiento a que se contraiga la sentencia o resolución recurrida.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">4. Transcurrido el plazo de diez días sin haberse preparado el recurso de casación, la sentencia o resolución quedará firme.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">11. El artículo 97 tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«1. Si el escrito presentado cumple los requisitos previstos en el artículo anterior y se refiere a una resolución susceptible de recurso de casación, la Sala de lo Contencioso-Administrativo de la Audiencia Nacional o del Tribunal Superior de Justicia lo tendrá por preparado y, dentro del plazo de cinco días, remitirá los autos originales. Al mismo tiempo emplazará a las partes para su comparecencia, mediante Procurador, en el plazo de treinta días ante la Sala de lo Contencioso-Administrativo del Tribunal Supremo.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">2. Si no se cumplen los requisitos señalados o la resolución impugnada no es susceptible de recurso de casación, dictará auto motivado en el que denegará la remisión de los autos a la Sala Tercera del Tribunal Supremo y el emplazamiento de las partes. Contra el auto denegatorio podrá interponerse recurso de queja, que se sustanciará en la forma prevista por la Ley de Enjuiciamiento Civil.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">12. El artículo 98 tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«1. La preparación del recurso de casación no impedirá la ejecución de la resolución recurrida.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">2. La Sala de lo Contencioso-Administrativo de la Audiencia Nacional o del Tribunal Superior de Justicia, cuando tenga por preparado un recurso de casación, dejará testimonio bastante de los autos y de la resolución recurrida para proceder a su ejecución.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">13. El artículo 99 tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«1. Dentro del término del emplazamiento, el recurrente habrá de personarse y formular ante la Sala de lo Contencioso-Administrativo del Tribunal Supremo el escrito de interposición del recurso, en el que se expresará razonadamente el motivo o motivos en que se ampare, citando las normas o la jurisprudencia que considere infringidas.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">2. Transcurrido dicho plazo sin presentar el escrito de interposición, el recurso se declarará desierto, ordenándose la devolución de las actuaciones recibidas a la Sala de que procedieren.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">3. Si el recurrente es el Abogado del Estado o el Ministerio Fiscal, en cuanto se reciban los autos, se dictará providencia dándoles traslado de los mismos por plazo de treinta días para que manifiesten si sostienen o no el recurso y, en caso afirmativo, formulen el escrito de interposición ajustado a lo que previene el número 1 de este artículo.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">Si el recurso no se sostuviera o no se formulara el escrito de interposición en el plazo antes señalado, se declarará desierto.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">14. El artículo 100 tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«1. Interpuesto el recurso de casación, se pasarán las actuaciones al Magistrado ponente para que se instruya y dé cuenta a la Sala, sometiendo a su deliberación lo que haya de resolverse sobre la admisibilidad o inadmisibilidad del recurso interpuesto.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">2. La Sala dictará auto de inadmisión en los siguientes casos:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">a) Si, no obstante haberse tenido por preparado el recurso, se estimare en este trámite la inobservancia de las previsiones de los artículos 96 o 97 o el carácter no recurrible de las resoluciones a que se refiere.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">b) Si el motivo o motivos invocados en el escrito de interposición del recurso no se encuentran comprendidos entre los que se relacionan en el artículo 95; si no se citasen las normas que se reputan infringidas; si las citadas no guardasen relación alguna con las cuestiones debatidas o si, siendo necesario haber pedido la subsanación de la falta, no hubiere constancia de haberse hecho.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">c) Si el recurso careciera manifiestamente de fundamento o se hubieran desestimado en el fondo otros recursos sustancialmente iguales. En este caso, antes de dictar el auto de inadmisión, se oirá a la parte recurrente por plazo de diez días, poniéndole sucinta y previamente de manifiesto la posible causa de inadmisión.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">3. La inadmisión del recurso comportará la imposición de las costas al recurrente.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">4. Si la Sala estimara que concurre alguna de las causas de inadmisión, dictará auto motivado declarando la inadmisión del recurso y la firmeza de la resolución recurrida. Si la inadmisión no fuera de todos los motivos aducidos, así lo resolverá la Sala mediante auto motivado, continuando la tramitación del recurso respecto de los motivos no afectados por el auto de inadmisión parcial.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">5. Contra los autos a que se refiere el presente artículo no se dará recurso alguno.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">15. El artículo 101 tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«1. De admitirse el recurso por todos o algunos de sus motivos, se entregará copia del mismo a la parte o partes recurridas y personadas para que formalicen por escrito su oposición en el plazo de treinta días. Durante dicho plazo se les pondrán de manifiesto las actuaciones en la Secretaría.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">2. Transcurrido el mismo, háyanse o no presentado escritos de oposición, la Sala señalará día y hora para la celebración de la vista o, en su caso, para la votación y fallo.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">Habrá lugar a la celebración de vista cuando lo pidan todas las partes o la Sala lo estime necesario, atendida la índole del asunto. La solicitud de vista se formulará en los escritos de interposición del recurso y de oposición a éste.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">3. La Sala dictará sentencia en el plazo de diez días desde la celebración de la vista o del señalado para la votación y fallo.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">16. El artículo 102 tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«1. Si se estimare el recurso por todos o algunos de los motivos aducidos, la Sala, en una sola sentencia, casando la recurrida, resolverá conforme a Derecho, teniendo en cuenta lo siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">1.º De estimarse por los motivos 1.º y 2.º del apartado 1 del artículo 95, se anulará la sentencia o resolución recurrida, dejando a salvo el derecho de ejercitar las pretensiones ante quien corresponda o por el procedimiento adecuado.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">2.º De estimarse la existencia de las infracciones procesales mencionadas en el motivo 3.º del apartado 1 del artículo 95, se mandarán reponer las actuaciones al estado y momento en que se hubiera incurrido en la falta, salvo si la infracción consistiera en vulneración de las normas reguladoras de la sentencia, en cuyo caso se estará a lo dispuesto en el número siguiente.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">3.º En los demás casos, la Sala resolverá lo que corresponda dentro de los términos en que apareciera planteado el debate.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">2. En la sentencia que declare haber lugar al recurso, la Sala resolverá en cuanto a las costas de la instancia conforme a las reglas generales y en cuanto a las del recurso, que cada parte satisfaga las suyas.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">3. Si no se estimase procedente ningún motivo, la sentencia declarará no haber lugar al recurso con imposición de las costas al recurrente.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">17. La Sección 3.ª del Capítulo II del Título IV se denominará «Del recurso de casación para la unificación de doctrina».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">18. Se crea un artículo 102-a que tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«1. Serán recurribles en casación para la unificación de doctrina las sentencias de las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia cuando, respecto de los mismos litigantes u otros diferentes en idéntica situación y, en mérito a hechos, fundamentos y pretensiones sustancialmente iguales, se hubiere llegado a pronunciamientos distintos sin existir doctrina legal sobre la cuestión.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">También serán recurribles en este mismo concepto las sentencias dictadas en única instancia por el Tribunal Supremo, así como las sentencias de la Audiencia Nacional y de los Tribunales Superiores de Justicia cuando la contradicción se produzca con sentencias del Tribunal Supremo en las mismas circunstancias señaladas en el párrafo anterior de identidad de partes o situación y en mérito de hechos, fundamentos y pretensiones sustancialmente iguales.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">2. Sólo serán susceptibles de recurso de casación para la unificación de doctrina aquellas sentencias que no sean susceptibles del recurso de casación ordinario a tenor del artículo 93.2 de la presente Ley, siempre que su cuantía exceda de un millón de pesetas.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">En ningún caso serán recurribles las sentencias a que se refieren los apartados a), c) y d) del apartado 2 del artículo 93.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">3. Del recurso de casación para la unificación de doctrina previsto en este artículo, conocerá dentro de la Sala de lo Contencioso-Administrativo del Tribunal Supremo, la Sección que corresponda de acuerdo con las reglas generales de organización de la misma Sala.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">Ello no obstante, cuando se trate de sentencias dictadas en única instancia por el Tribunal Supremo, del recurso conocerá una Sección compuesta por el Presidente del Tribunal Supremo, el de la Sala Tercera y cinco Magistrados de esta misma Sala que serán los dos más antiguos y los tres más modernos.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">Del recurso conocerá la Sección a que se refiere el párrafo anterior cuando la sentencia del Tribunal Supremo que se cite como infringida provenga y se haga constar así por el recurrente en el escrito de preparación, de una Sección distinta de aquélla a la que corresponda conocer de acuerdo con lo dispuesto en el párrafo primero de este apartado y esta última tenga una doctrina contraria en las mismas circunstancias de identidad de partes y situación, y en mérito de hechos, fundamentos y pretensiones sustancialmente idénticas.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">4. El escrito de preparación se presentará en el plazo de diez días a partir de la notificación de la sentencia, ante la Sala de lo Contencioso-Administrativo del Tribunal sentenciador y deberá contener la fundamentación de la infracción legal cometida en la sentencia impugnada con relación precisa y circunstanciada de la contradicción alegada, aportando certificación de la sentencia o sentencias contrarias. La no aportación de la certificación de la sentencia o sentencias contrarias deberá subsanarse en el plazo de diez días a menos que la parte acredite haberla solicitado en tiempo oportuno y no habérsele expedido, en cuyo caso la Sala la reclamará de oficio. En todo caso, se aportará copia simple del texto completo de la sentencia o sentencias alegadas.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">5. Presentado el escrito, la Sala lo tramitará de conformidad con lo dispuesto en la Sección segunda del Capítulo II de la presente Ley.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">6. Los pronunciamientos del Tribunal Supremo al resolver estos recursos en ningún caso alcanzarán las situaciones jurídicas creadas por las resoluciones precedentes a la impugnada. Si la sentencia declara que ha lugar al recurso, casará y anulará la impugnada y resolverá el debate planteado con pronunciamientos ajustados a derecho, modificando las declaraciones contenidas y las situaciones creadas por la sentencia impugnada. Lo mismo hará, resolviendo las cuestiones objeto del recurso conforme a Derecho, cuando no haya doctrina previa.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">19. Se crea una Sección 4.ª del Capítulo II del Título IV, que se denominará «Del recurso de casación en interés de la Ley».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">20. Se crea un artículo 102-b que tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«1. El Abogado del Estado, así como las Entidades o Corporaciones que ostenten la representación y defensa de intereses de carácter general o corporativo y tuviesen interés legítimo en el asunto, podrán interponer recurso de casación en interés de la Ley contra las sentencias dictadas en única instancia por las Salas de lo Contencioso-Administrativo de la Audiencia Nacional y de los Tribunales Superiores de Justicia no susceptibles de recurso de casación, cuando estimen gravemente dañosa para el interés general y errónea la resolución dictada.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">2. Se exceptúan las sentencias dictadas por las Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia respecto a actos o disposiciones de las Comunidades Autónomas, cuando se funden básicamente en normas emanadas de los órganos de aquéllas.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">3. El recurso se interpondrá, en el plazo de tres meses, directamente ante la Sala de lo Contencioso-Administrativo del Tribunal Supremo acompañando copia certificada de la sentencia impugnada. El Tribunal Supremo reclamará los autos a la Sala de instancia y, sin más trámites, resolverá lo que proceda. A la tramitación y resolución de estos recursos se dará carácter preferente.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">4. La sentencia que se dicte respetará, en todo caso, la situación jurídica particular derivada de la sentencia recurrida y, cuando fuera estimatoria, fijará en el fallo la doctrina legal.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">21. Se crea una Sección 5.ª del Capítulo II del Título IV, que se denominará «Del recurso de revisión».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">22. Se crea un artículo 102-c que tendrá la siguiente redacción:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«1. Contra las sentencias firmes de las Salas de lo Contencioso-Administrativo del Tribunal Supremo de la Audiencia Nacional y de los Tribunales Superiores de Justicia podrá utilizarse el recurso extraordinario de revisión en los siguientes casos:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">a) Si después de pronunciada la sentencia se recobraren documentos decisivos, detenidos por fuerza mayor o por obra de la parte en cuyo favor se hubiere dictado.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">b) Si hubiere recaído la sentencia en virtud de documentos que, al tiempo de dictarse aquélla, ignoraba una de las partes haber sido reconocidos y declarados falsos o cuya falsedad se reconociese o declarase después.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">c) Si habiéndose dictado la sentencia en virtud de prueba testifical, los testigos hubieren sido condenados por falso testimonio dado en las declaraciones que sirvieron de fundamento a la sentencia.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">d) Si la sentencia se hubiere ganado injustamente en virtud de cohecho, violencia u otra maquinación fraudulenta.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">2. En lo referente a términos y procedimientos respecto a este recurso, regirán las disposiciones de las Secciones segunda, tercera y cuarta del Título XXII del Libro II de la Ley de Enjuiciamiento Civil.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">3. El recurso de revisión en materia de responsabilidad contable procederá en los casos establecidos en la Ley 7/1988, de 5 de abril, de Funcionamiento del Tribunal de Cuentas.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Disposición adicional.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">A los efectos de lo previsto en el artículo 183 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, se declaran urgentes, quedando habilitado el mes de agosto del año 1992, las actuaciones judiciales a las que se refiere el Título III del Libro IV, y el Libro VI de la Ley de Enjuiciamiento Criminal, en los órganos judiciales de las provincias de Barcelona y Sevilla.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Disposiciones transitoria primera. Procesos civiles en tramitación.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Los procesos civiles iniciados antes de la entrada en vigor de esta Ley, continuarán tramitándose ante el órgano jurisdiccional competente conforme a las normas vigentes en el momento de su iniciación.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Disposición transitoria segunda. Régimen de recursos en el orden civil.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">1. Las resoluciones judiciales del orden civil que se dicten después de la entrada en vigor de esta Ley sólo serán recurribles en casación o en apelación si reúnen los requisitos que para ello establece la presente Ley.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">2. En los recursos de casación en trámite, en los que no se hubiere resuelto sobre su admisión, la Sala de lo Civil del Tribunal Supremo, o, en su caso, la del Tribunal Superior de Justicia podrá inadmitir el recurso por los motivos señalados en la redacción dada por esta Ley al artículo 1.710 de la Ley de Enjuiciamiento Civil. A este efecto, tanto los motivos en que se funde el recurso de casación, como los límites a los que se refiere la regla 4.ª del número 1 del mencionado artículo serán los determinados por la legislación vigente en el momento de la interposición del recurso. Cuando la Sala considere que puede existir causa de inadmisión, procederá en la forma prevista en aquel precepto.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Disposición transitoria tercera. Régimen de recursos en el orden contencioso-administrativo.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">1. El régimen de recursos regulado en esta Ley será de plena aplicación a las resoluciones judiciales que se dicten por los órganos del orden jurisdiccional contencioso-administrativo con posterioridad a su entrada en vigor y a las que siendo de fecha anterior no hayan ganado firmeza por no haber transcurrido el plazo establecido en la normativa precedente para interponer el recurso de apelación cuando procediera. En este último caso, el plazo para la formulación del escrito de preparación del recurso de casación, si procediere, comenzará a contarse a partir de la entrada en vigor de esta Ley.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">2. Los recursos de apelación interpuestos con anterioridad a la entrada en vigor de esta Ley se regirán por la normativa anterior. Esto no obstante, será de aplicación directa lo dispuesto en esta Ley sobre la inadmisibilidad del recurso de casación cuando el recurso careciera manifiestamente de fundamento o se hubieren desestimado en el fondo otros recursos sustancialmente iguales, a cuyo efecto la Sala de lo Contencioso-Administrativo del Tribunal Supremo podrá abrir el incidente de inadmisión cualquiera que fuera el estado de tramitación.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Disposición derogatoria primera. Derogación de preceptos del Decreto de 21 de noviembre de 1952.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Quedan derogados los artículos 1.º al 18 del Decreto de 21 de noviembre de 1952, por el que se desarrolla la base décima de la Ley de 19 de junio de 1944, sobre normas procesales aplicables en la justicia municipal.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Disposición derogatoria segunda. Derogación de normas reguladoras del proceso contencioso-administrativo.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Quedan derogadas las normas reguladoras del recurso de apelación en materia contencioso-administrativa previstas en cualquier disposición legal, sin perjuicio de la procedencia del recurso de casación, en su caso, y en los términos previstos en la presente Ley.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Disposición derogatoria tercera. Cláusula general de derogación.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente Ley.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Disposición final primera. Modificación de la Ley Hipotecaria.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Los artículos que a continuación se relacionan de la Ley Hipotecaria de 8 de febrero de 1946, quedan redactados en los términos siguientes:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">1. El párrafo primero del artículo 14 queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«El título de la sucesión hereditaria, a los efectos del Registro, es el testamento, el contrato sucesorio, la declaración judicial de herederos abintestato o el acta de notoriedad a que se refiere el artículo 979 de la Ley de Enjuiciamiento Civil.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">2. La regla 1.ª del artículo 131 queda redactada de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«1.ª Será Juez competente para conocer del procedimiento, cualquiera que sea la cuantía de la obligación, el de Primera Instancia del partido en que radique la finca y si ésta radicare en más de uno, lo mismo que si fueren varias y radicaren en diferentes partidos, el Juez de Primera Instancia de cualquiera de ellos, a elección del demandante. El Juez examinará de oficio su propia competencia territorial, sin que resulten aplicables las normas generales sobre sumisión expresa o tácita de la Ley de Enjuiciamiento Civil.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Disposición final segunda. Modificación de la Ley de Propiedad Horizontal.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">El artículo 17 de la Ley 49/1960, de 21 de julio, sobre Propiedad Horizontal, queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Los acuerdos de la junta de propietarios se reflejarán en un libro de actas diligenciado por el Registrador de la Propiedad en la forma que reglamentariamente se disponga.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Disposición final tercera. Modificación de la Ley General de Cooperativas.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">El apartado 3 del artículo 90 de la Ley 3/1987, de 2 de abril, General de Cooperativas, queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«3. Todos los libros sociales serán legalizados por el Registrador Mercantil del domicilio de la Cooperativa en los términos prevenidos por el Reglamento del Registro Mercantil.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Disposición final cuarta. Modificación de la Ley Orgánica Procesal Militar.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">El artículo 503 de la Ley Orgánica 2/1989, de 13 de abril, Procesal Militar, queda redactado de la forma siguiente:</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado_2">«Contra las sentencias y los autos a que se refiere el artículo 478 dictados por la Sala de Justicia del Tribunal Militar Central o por un Tribunal Militar Territorial cabrá el recurso de casación regulado en la Sección segunda del Capítulo II del Título IV de la Ley de la Jurisdicción Contencioso-Administrativa de 27 de diciembre de 1956, que se interpondrá ante la Sala de lo Militar del Tribunal Supremo.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="sangrado">El recurso se sustanciará por los mismos motivos y trámites que se señalan en los artículos 93 a 102 de la mencionada Ley, con la salvedad de que no se impondrán costas.»</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="articulo">Disposición final quinta. Entrada en vigor.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo">Esta Ley entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">Por tanto,</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="parrafo_2">Madrid, 30 de abril de 1992.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="firma_rey">JUAN CARLOS R.</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="firma_ministro">El Presidente del Gobierno,</p>
+    <p xmlns:xhtml="http://www.w3.org/1999/xhtml" class="firma_ministro">FELIPE GONZALEZ MÁRQUEZ</p>
+  </texto>
+</documento>

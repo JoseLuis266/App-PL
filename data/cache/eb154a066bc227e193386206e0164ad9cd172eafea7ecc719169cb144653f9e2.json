@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-4233/metadatos",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-4233/metadatos",
+  "sha256": "f72d9a725c33fe98f58a9c20b0cd4ac82d532663a7b61bff21aa4a41fc9dcfed",
+  "archivo": "data/raw/f72d9a725c33fe98f58a9c20b0cd4ac82d532663a7b61bff21aa4a41fc9dcfed.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:30:34.833125+00:00"
+}

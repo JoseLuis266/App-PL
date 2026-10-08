@@ -1,0 +1,331 @@
+{
+  "fecha": "2026-10-08T18:24:34.113074+00:00",
+  "pilotos": [
+    2,
+    7,
+    26
+  ],
+  "pasajes": 141,
+  "unidades_contrastadas": 35,
+  "fuentes": {
+    "ce:a10": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a10",
+      "archivo": "data/raw/71e46b6d986122d5cb9b168b504e3a8437e87cfb96b82edc596f996d4e9f8bf2.xml",
+      "sha256": "71e46b6d986122d5cb9b168b504e3a8437e87cfb96b82edc596f996d4e9f8bf2",
+      "fecha_contraste": "2026-10-08T18:24:34.088630+00:00",
+      "fecha_descarga": "2026-10-08T18:09:56.693912+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "ce:a11": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a11",
+      "archivo": "data/raw/a7ff80d1999653f831ccb3f26ed8e9f98404183236d99e50224c90de8ac04495.xml",
+      "sha256": "a7ff80d1999653f831ccb3f26ed8e9f98404183236d99e50224c90de8ac04495",
+      "fecha_contraste": "2026-10-08T18:24:34.089095+00:00",
+      "fecha_descarga": "2026-10-08T18:09:57.769293+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "ce:a12": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a12",
+      "archivo": "data/raw/392c261d657e5474b62cf577194aa248fe8c9b9dc18d2c1eef51075fd564f726.xml",
+      "sha256": "392c261d657e5474b62cf577194aa248fe8c9b9dc18d2c1eef51075fd564f726",
+      "fecha_contraste": "2026-10-08T18:24:34.089461+00:00",
+      "fecha_descarga": "2026-10-08T18:09:58.544628+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "ce:a13": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a13",
+      "archivo": "data/raw/0dc6f2003de7d8ed21753c281362d6ce4451653ec9988859762ee97c1915c62a.xml",
+      "sha256": "0dc6f2003de7d8ed21753c281362d6ce4451653ec9988859762ee97c1915c62a",
+      "fecha_contraste": "2026-10-08T18:24:34.089700+00:00",
+      "fecha_descarga": "2026-10-08T18:09:59.584815+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "ce:a14": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a14",
+      "archivo": "data/raw/55452db49abf4c211f9e9a8e17e06d272fe5d249443af28d5c0342a4371b570d.xml",
+      "sha256": "55452db49abf4c211f9e9a8e17e06d272fe5d249443af28d5c0342a4371b570d",
+      "fecha_contraste": "2026-10-08T18:24:34.089957+00:00",
+      "fecha_descarga": "2026-10-08T18:10:00.784282+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "ce:a15": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a15",
+      "archivo": "data/raw/bbe6ee1d57bb6d93153ab8e593ed1621567a04ea74c1a2c1b0ddcdffc3be992e.xml",
+      "sha256": "bbe6ee1d57bb6d93153ab8e593ed1621567a04ea74c1a2c1b0ddcdffc3be992e",
+      "fecha_contraste": "2026-10-08T18:24:34.090138+00:00",
+      "fecha_descarga": "2026-10-08T18:10:01.602820+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "ce:a16": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a16",
+      "archivo": "data/raw/b8466e0c59d7b86356859a48bdda6978cfc568f3a1124bd2f1dbe61cd4ce4e48.xml",
+      "sha256": "b8466e0c59d7b86356859a48bdda6978cfc568f3a1124bd2f1dbe61cd4ce4e48",
+      "fecha_contraste": "2026-10-08T18:24:34.090320+00:00",
+      "fecha_descarga": "2026-10-08T18:10:02.650949+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "ce:a17": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a17",
+      "archivo": "data/raw/60df1760d90cb4aa900fdbc59fef4088edf0867be489c4c7d145d5062e337064.xml",
+      "sha256": "60df1760d90cb4aa900fdbc59fef4088edf0867be489c4c7d145d5062e337064",
+      "fecha_contraste": "2026-10-08T18:24:34.090613+00:00",
+      "fecha_descarga": "2026-10-08T18:10:03.602614+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "ce:a18": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a18",
+      "archivo": "data/raw/3c526192680c2fec98f24c9e99a01596f221362d750f12858ba0d13818797112.xml",
+      "sha256": "3c526192680c2fec98f24c9e99a01596f221362d750f12858ba0d13818797112",
+      "fecha_contraste": "2026-10-08T18:24:34.090868+00:00",
+      "fecha_descarga": "2026-10-08T18:10:04.767967+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "ce:a19": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a19",
+      "archivo": "data/raw/f505120358959d516c34da9f34b1c28827bedeb0569169fc3e025e7475ab085d.xml",
+      "sha256": "f505120358959d516c34da9f34b1c28827bedeb0569169fc3e025e7475ab085d",
+      "fecha_contraste": "2026-10-08T18:24:34.091068+00:00",
+      "fecha_descarga": "2026-10-08T18:10:05.719045+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "ce:a20": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a20",
+      "archivo": "data/raw/7f2f56572b71ea3c646cfc165d2673be89f1ffea8a6a6bfb0e1c3caea3dd0850.xml",
+      "sha256": "7f2f56572b71ea3c646cfc165d2673be89f1ffea8a6a6bfb0e1c3caea3dd0850",
+      "fecha_contraste": "2026-10-08T18:24:34.091302+00:00",
+      "fecha_descarga": "2026-10-08T18:10:06.761857+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "ce:a21": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a21",
+      "archivo": "data/raw/e034d66d11cffeda55b362d17d7217713f6c0c23f0260eb96654eb61ae61bf66.xml",
+      "sha256": "e034d66d11cffeda55b362d17d7217713f6c0c23f0260eb96654eb61ae61bf66",
+      "fecha_contraste": "2026-10-08T18:24:34.091741+00:00",
+      "fecha_descarga": "2026-10-08T18:10:07.936917+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "ce:a22": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a22",
+      "archivo": "data/raw/610895ac9ac5a35a2e7ba4eb7abeeaf9991e022446b97743ecb42e4dc3cb90e7.xml",
+      "sha256": "610895ac9ac5a35a2e7ba4eb7abeeaf9991e022446b97743ecb42e4dc3cb90e7",
+      "fecha_contraste": "2026-10-08T18:24:34.091964+00:00",
+      "fecha_descarga": "2026-10-08T18:10:08.881024+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "ce:a23": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a23",
+      "archivo": "data/raw/fc18a7c1d55db6a43d39fd0c9d780803e6c2fd6a31fd43ce3f2c4ae216dd9d7e.xml",
+      "sha256": "fc18a7c1d55db6a43d39fd0c9d780803e6c2fd6a31fd43ce3f2c4ae216dd9d7e",
+      "fecha_contraste": "2026-10-08T18:24:34.092169+00:00",
+      "fecha_descarga": "2026-10-08T18:10:10.041199+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "ce:a24": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a24",
+      "archivo": "data/raw/46c45696e0dd6db4bfa82e18547f06d34b30e7c0fd1d8407b26cf372aa84c7b3.xml",
+      "sha256": "46c45696e0dd6db4bfa82e18547f06d34b30e7c0fd1d8407b26cf372aa84c7b3",
+      "fecha_contraste": "2026-10-08T18:24:34.092545+00:00",
+      "fecha_descarga": "2026-10-08T18:10:10.989862+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "ce:a25": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a25",
+      "archivo": "data/raw/284e412319dee660230c9bae7fe6b974d25542438314163ea1fe3df0d6e765f7.xml",
+      "sha256": "284e412319dee660230c9bae7fe6b974d25542438314163ea1fe3df0d6e765f7",
+      "fecha_contraste": "2026-10-08T18:24:34.092811+00:00",
+      "fecha_descarga": "2026-10-08T18:10:12.071821+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "ce:a26": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a26",
+      "archivo": "data/raw/384d83bd0ea06fc6ea7ad7625ba787fdab0cb44201623f77a724b8e79effc6fa.xml",
+      "sha256": "384d83bd0ea06fc6ea7ad7625ba787fdab0cb44201623f77a724b8e79effc6fa",
+      "fecha_contraste": "2026-10-08T18:24:34.093060+00:00",
+      "fecha_descarga": "2026-10-08T18:10:13.114994+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "ce:a27": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a27",
+      "archivo": "data/raw/96b56fd2bdf9d33317f74d235410ab8bbe241a1431dfbc9cb8089bee4152d36e.xml",
+      "sha256": "96b56fd2bdf9d33317f74d235410ab8bbe241a1431dfbc9cb8089bee4152d36e",
+      "fecha_contraste": "2026-10-08T18:24:34.093559+00:00",
+      "fecha_descarga": "2026-10-08T18:10:14.305879+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "ce:a28": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a28",
+      "archivo": "data/raw/489cec95b9b307d6ef165317e2ea533136dd5e25f4f1da51ba6ac31b8610da8f.xml",
+      "sha256": "489cec95b9b307d6ef165317e2ea533136dd5e25f4f1da51ba6ac31b8610da8f",
+      "fecha_contraste": "2026-10-08T18:24:34.094455+00:00",
+      "fecha_descarga": "2026-10-08T18:10:15.342667+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "ce:a29": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/bloque/a29",
+      "archivo": "data/raw/2c3764d1b99d0bbf1fb3c366a68b513378c1ee6e489a7bbd82222f7dd3e6857a.xml",
+      "sha256": "2c3764d1b99d0bbf1fb3c366a68b513378c1ee6e489a7bbd82222f7dd3e6857a",
+      "fecha_contraste": "2026-10-08T18:24:34.094789+00:00",
+      "fecha_descarga": "2026-10-08T18:10:16.298628+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "trafico:a1": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-11722/texto/bloque/a1",
+      "archivo": "data/raw/e0869eb00e0f1494a928781e560d9eb3df249f8f9db54be28c596816f2bf56d5.xml",
+      "sha256": "e0869eb00e0f1494a928781e560d9eb3df249f8f9db54be28c596816f2bf56d5",
+      "fecha_contraste": "2026-10-08T18:24:34.096867+00:00",
+      "fecha_descarga": "2026-10-08T18:10:17.349687+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "trafico:a2": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-11722/texto/bloque/a2",
+      "archivo": "data/raw/b448111ca630ba86d5c5225a0faf8ae5e7c8763e43e8d413a09e0617911ae98f.xml",
+      "sha256": "b448111ca630ba86d5c5225a0faf8ae5e7c8763e43e8d413a09e0617911ae98f",
+      "fecha_contraste": "2026-10-08T18:24:34.097217+00:00",
+      "fecha_descarga": "2026-10-08T18:10:18.410733+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "trafico:a3": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-11722/texto/bloque/a3",
+      "archivo": "data/raw/df2a623d5ebdcd0f292f320a704acc0f4be8152ab2fdcf2c9cebabb258313c02.xml",
+      "sha256": "df2a623d5ebdcd0f292f320a704acc0f4be8152ab2fdcf2c9cebabb258313c02",
+      "fecha_contraste": "2026-10-08T18:24:34.097594+00:00",
+      "fecha_descarga": "2026-10-08T18:10:19.452756+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "trafico:a7": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-11722/texto/bloque/a7",
+      "archivo": "data/raw/391de31f01a275b85132b6fc83e411c69c976d62f08a0c6544c88d1caea2bfad.xml",
+      "sha256": "391de31f01a275b85132b6fc83e411c69c976d62f08a0c6544c88d1caea2bfad",
+      "fecha_contraste": "2026-10-08T18:24:34.097848+00:00",
+      "fecha_descarga": "2026-10-08T18:10:20.507744+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "trafico:ani": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-11722/texto/bloque/ani",
+      "archivo": "data/raw/3f158e040484ae216be9f195a62d3da64b15448fce931e1ef04b8a4cc103ecf6.xml",
+      "sha256": "3f158e040484ae216be9f195a62d3da64b15448fce931e1ef04b8a4cc103ecf6",
+      "fecha_contraste": "2026-10-08T18:24:34.099262+00:00",
+      "fecha_descarga": "2026-10-08T18:10:21.837902+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "penal:a379": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto/bloque/a379",
+      "archivo": "data/raw/f5c2c50ae235e69834ff1457d0af9935976b0c4fb48e4b951c617ac5ca486759.xml",
+      "sha256": "f5c2c50ae235e69834ff1457d0af9935976b0c4fb48e4b951c617ac5ca486759",
+      "fecha_contraste": "2026-10-08T18:24:34.103112+00:00",
+      "fecha_descarga": "2026-10-08T18:10:22.678152+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "penal:a380": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto/bloque/a380",
+      "archivo": "data/raw/3b91c5b889c0abb5a2e46aafe1075cdadce568a78b46208b9442ca737a494d22.xml",
+      "sha256": "3b91c5b889c0abb5a2e46aafe1075cdadce568a78b46208b9442ca737a494d22",
+      "fecha_contraste": "2026-10-08T18:24:34.103460+00:00",
+      "fecha_descarga": "2026-10-08T18:10:23.749862+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "penal:a381": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto/bloque/a381",
+      "archivo": "data/raw/89dc1389054dff8f5c011beba6fbfcfa801590ed119b6b54dff7c74bfa14903e.xml",
+      "sha256": "89dc1389054dff8f5c011beba6fbfcfa801590ed119b6b54dff7c74bfa14903e",
+      "fecha_contraste": "2026-10-08T18:24:34.103753+00:00",
+      "fecha_descarga": "2026-10-08T18:10:24.781622+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "penal:a382": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto/bloque/a382",
+      "archivo": "data/raw/9cab1ceb5e08886c5fc7185568067833626e13a89a651e021f85dc6bd3f1a80e.xml",
+      "sha256": "9cab1ceb5e08886c5fc7185568067833626e13a89a651e021f85dc6bd3f1a80e",
+      "fecha_contraste": "2026-10-08T18:24:34.104043+00:00",
+      "fecha_descarga": "2026-10-08T18:10:25.841921+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "penal:a3-2": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto/bloque/a3-2",
+      "archivo": "data/raw/db16ec087019608b2ccfb1217aa04bd2b7469d2b93f0458d1127c0eaf67e682f.xml",
+      "sha256": "db16ec087019608b2ccfb1217aa04bd2b7469d2b93f0458d1127c0eaf67e682f",
+      "fecha_contraste": "2026-10-08T18:24:34.104376+00:00",
+      "fecha_descarga": "2026-10-08T18:10:26.898070+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "penal:a383": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto/bloque/a383",
+      "archivo": "data/raw/52abd7ebacbc7db5d9780eeadeaf654781844aceed289cc7c0c54789e78069cf.xml",
+      "sha256": "52abd7ebacbc7db5d9780eeadeaf654781844aceed289cc7c0c54789e78069cf",
+      "fecha_contraste": "2026-10-08T18:24:34.104642+00:00",
+      "fecha_descarga": "2026-10-08T18:10:27.950971+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "penal:a384": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto/bloque/a384",
+      "archivo": "data/raw/b7f876a0fc147a8e6b95656a7e785782db3101ad66ef5de6db3684fa69111e40.xml",
+      "sha256": "b7f876a0fc147a8e6b95656a7e785782db3101ad66ef5de6db3684fa69111e40",
+      "fecha_contraste": "2026-10-08T18:24:34.104867+00:00",
+      "fecha_descarga": "2026-10-08T18:10:29.010730+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "penal:a385": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto/bloque/a385",
+      "archivo": "data/raw/77054a3982a4fc901929546c5e6194a67b81f80fae16d156fe6e6121aa21dc56.xml",
+      "sha256": "77054a3982a4fc901929546c5e6194a67b81f80fae16d156fe6e6121aa21dc56",
+      "fecha_contraste": "2026-10-08T18:24:34.105111+00:00",
+      "fecha_descarga": "2026-10-08T18:10:30.075579+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "penal:a385bis": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto/bloque/a385bis",
+      "archivo": "data/raw/961711821c93e2fa3323995aad7eedb077825c149f7cc0e3ea160f93d42dcfa6.xml",
+      "sha256": "961711821c93e2fa3323995aad7eedb077825c149f7cc0e3ea160f93d42dcfa6",
+      "fecha_contraste": "2026-10-08T18:24:34.105459+00:00",
+      "fecha_descarga": "2026-10-08T18:10:31.127413+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    },
+    "penal:a385ter": {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto/bloque/a385ter",
+      "archivo": "data/raw/c9a56094de98f413ffbbbb709fd3ff462c1ef919b9b0a674291c1b2e5a67f788.xml",
+      "sha256": "c9a56094de98f413ffbbbb709fd3ff462c1ef919b9b0a674291c1b2e5a67f788",
+      "fecha_contraste": "2026-10-08T18:24:34.105656+00:00",
+      "fecha_descarga": "2026-10-08T18:10:32.184765+00:00",
+      "criterio": "comparacion_independiente_palabra_por_palabra",
+      "aprobacion_juridica_global": false
+    }
+  },
+  "excluidos": [],
+  "origen": "transformacion_literal",
+  "contenido_ia_generado": 0,
+  "revision_juridica_global": "pendiente"
+}

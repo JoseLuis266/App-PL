@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-4233/texto/bloque/a95",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-4233/texto/bloque/a95",
+  "sha256": "75c7393cbbb992f8846acc9ee59ae374f9d5d766ffc9f5b155690b43597dc7e2",
+  "archivo": "data/raw/75c7393cbbb992f8846acc9ee59ae374f9d5d766ffc9f5b155690b43597dc7e2.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:05:04.038012+00:00"
+}

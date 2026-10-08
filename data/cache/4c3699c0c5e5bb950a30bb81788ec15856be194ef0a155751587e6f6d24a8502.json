@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2006-4503",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2006-4503",
+  "sha256": "ae4e165594d471285a1174283c5f0e98a4f479b8dde371021446dbfa796f7c6c",
+  "archivo": "data/raw/ae4e165594d471285a1174283c5f0e98a4f479b8dde371021446dbfa796f7c6c.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:20.578279+00:00"
+}

@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-9129/texto/bloque/a96",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-9129/texto/bloque/a96",
+  "sha256": "4c9a700adcc1ba1de4497456e972cda9c14017799ddf83e73996e06d166f2b5e",
+  "archivo": "data/raw/4c9a700adcc1ba1de4497456e972cda9c14017799ddf83e73996e06d166f2b5e.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:06:07.622301+00:00"
+}

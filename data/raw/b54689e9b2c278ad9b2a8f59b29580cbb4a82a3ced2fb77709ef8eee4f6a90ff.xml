@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20241015193933">
+  <metadatos>
+    <identificador>BOE-A-1978-12341</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7723">Jefatura del Estado</departamento>
+    <rango codigo="1300">Ley</rango>
+    <fecha_disposicion>19780508</fecha_disposicion>
+    <numero_oficial>20/1978</numero_oficial>
+    <titulo>Ley 20/1978, de 8 de mayo, sobre modificación de determinados artículos del Código Penal y de la Ley de Enjuiciamiento Criminal.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>19780509</fecha_publicacion>
+    <diario_numero>110</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>10840</pagina_inicial>
+    <pagina_final>10842</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/1978/05/09/pdfs/A10840-10842.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia>19780529</fecha_vigencia>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+  </metadatos>
+  <analisis>
+    <materias>
+      <materia codigo="886" orden="1">Código Penal</materia>
+      <materia codigo="2345" orden="2">Delitos contra el estado civil de las personas</materia>
+      <materia codigo="2346" orden="3">Delitos contra el honor</materia>
+      <materia codigo="2351" orden="4">Delitos contra la Administración de Justicia</materia>
+      <materia codigo="2361" orden="5">Delitos contra la honestidad</materia>
+      <materia codigo="2367" orden="6">Delitos contra la libertad y seguridad</materia>
+      <materia codigo="2370" orden="7">Delitos contra la propiedad</materia>
+      <materia codigo="2377" orden="8">Delitos contra la seguridad exterior del Estado</materia>
+      <materia codigo="2378" orden="9">Delitos contra la seguridad interior del Estado</materia>
+      <materia codigo="2383" orden="10">Delitos contra las personas</materia>
+      <materia codigo="2401" orden="11">Delitos de los Funcionarios Públicos en el ejercicio de sus cargos</materia>
+      <materia codigo="2403" orden="12">Delitos de riesgo en general</materia>
+      <materia codigo="3199" orden="13">Enjuiciamiento Criminal</materia>
+      <materia codigo="3586" orden="14">Falsedades</materia>
+      <materia codigo="3590" orden="15">Faltas contra el orden público</materia>
+      <materia codigo="3592" orden="16">Faltas contra la propiedad</materia>
+      <materia codigo="3593" orden="17">Faltas contra las personas</materia>
+      <materia codigo="3595" orden="18">Faltas contra los intereses generales y régimen de las poblaciones</materia>
+      <materia codigo="3596" orden="19">Faltas de imprenta</materia>
+      <materia codigo="4269" orden="20">Inhumaciones</materia>
+      <materia codigo="4559" orden="21">Juegos ilícitos</materia>
+      <materia codigo="5539" orden="22">Penas</materia>
+      <materia codigo="7152" orden="23">Violación de sepulturas</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1973-1715" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>determinados preceptos del Código Penal, texto refundido aprobado por Decreto 3096/1973, de 14 de septiembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1882-6036" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>el art. 14.3 de la Ley de Enjuiciamiento Criminal aprobada por Real Decreto de 14 de septiembre de 1882 (Gazeta)</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1971-1454" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Ley 44/1971, de 15 de noviembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1967-40312" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Ley Constitutiva de las Cortes, texto refundido aprobado por Decreto 779/1967, de 20 de abril</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas/>
+  </analisis>
+  <texto>
+    <p class="parrafo_2">De conformidad con la Ley aprobada por las Cortes, vengo en sancionar:</p>
+    <p class="articulo">Artículo primero.</p>
+    <p class="parrafo">En el Código Penal, texto refundido conforme a la Ley cuarenta y cuatro/mil novecientos setenta y uno, de quince de noviembre, se introducen las siguientes modificaciones:</p>
+    <p class="parrafo_2">a) El límite económico de diez mil pesetas, señalado en el artículo veintiocho, párrafo primero, se entenderá de veinte mil pesetas.</p>
+    <p class="parrafo">b) La cuantía de las multas establecidas en los artículos que se citan en los números siguientes, se entenderán modificadas por las que se expresan.</p>
+    <p class="parrafo_2">Primera. La pena de multa de diez mil a cien mil pesetas, establecida en el artículo setenta y cuatro, por la de veinte mil a doscientas mil pesetas.</p>
+    <p class="parrafo">Segunda. La pena de multa, de diez mil a veinte mil pesetas, establecida en los artículos ciento sesenta y siete (segundo párrafo), ciento ochenta y cuatro, ciento noventa y uno, doscientos cuarenta, trescientos nueve, trescientos once, trescientos veintidós (primer párrafo), trescientos veintiséis (segundo párrafo), trescientos treinta y ocho bis, trescientos cuarenta y nueve (tercer párrafo), trescientos sesenta y cuatro (número segundo), trescientos sesenta y siete (primer párrafo), cuatrocientos setenta y ocho (segundo párrafo), cuatrocientos ochenta (tercer párrafo), cuatrocientos ochenta y dos, cuatrocientos ochenta y nueve bis (primer párrafo) y quinientos diecisiete (segundo párrafo), por la de veinte mil a cuarenta mil pesetas.</p>
+    <p class="parrafo">Tercera. La pena de multa de diez mil a cincuenta mil pesetas, establecida en los artículos ciento sesenta y siete (primer párrafo), ciento ochenta y ocho (último párrafo), ciento ochenta y nueve, ciento noventa y uno (número segundo), ciento noventa y dos, ciento noventa y cinco, ciento noventa y seis, ciento noventa y siete, doscientos ocho (primer párrafo), doscientos diez, doscientos treinta y dos (último párrafo), doscientos treinta y siete, doscientos treinta y nueve; doscientos cuarenta; doscientos cuarenta y seis (primer párrafo), doscientos cuarenta y siete (segundo párrafo), doscientos setenta y cinco, doscientos setenta y siete (primer párrafo), doscientos setenta y ocho, doscientos setenta y nueve bis (primer párrafo), doscientos ochenta y uno, doscientos ochenta y dos, doscientos noventa y dos, trescientos, trescientos uno (primer párrafo), trescientos doce, trescientos veinte (último párrafo), trescientos veintidós (segundo párrafo), trescientos veintitrés, trescientos veinticuatro (primer párrafo), trescientos veinticinco (numera primero), trescientos veintisiete (segundo párrafo), trescientos treinta y ocho, trescientos treinta y nueve, trescientos cuarenta, trescientos cuarenta bis, c, trescientos cuarenta y uno, trescientos cuarenta y dos, trescientos cuarenta y tres (primer párrafo), trescientos cuarenta y tres bis, trescientos cuarenta y seis (primer párrafo), trescientos cuarenta y nueve (primer párrafo), trescientos sesenta, trescientos sesenta y uno, trescientos sesenta y cuatro (número primero), trescientos sesenta y cinco, trescientos sesenta y seis, trescientos sesenta y ocho, trescientos sesenta y nueve (primer párrafo), trescientos setenta y uno, trescientos setenta y dos (primer párrafo), trescientos setenta y tres (primer párrafo), trescientos setenta y cuatro, trescientos setenta y seis (primer párrafo), trescientos setenta y siete, trescientos ochenta, trescientos ochenta y dos, trescientos noventa, cuatrocientos cuatro (primer párrafo), cuatrocientos veinte (número cuarto y segundo párrafo), cuatrocientos veintidós, cuatrocientos treinta y uno (primer párrafo), cuatrocientos cincuenta y dos bis, a, cuatrocientos cincuenta y dos bis, b, cuatrocientos cincuenta y cinco, cuatrocientos cincuenta y nueve (segundo párrafo), cuatrocientos setenta y ocho (primer párrafo), cuatrocientos ochenta y siete (primer párrafo), cuatrocientos ochenta y ocho (primer párrafo), cuatrocientos noventa, cuatrocientos noventa y tres (número segundo), cuatrocientos noventa y siete (segundo párrafo), cuatrocientos noventa y ocho y quinientos cuarenta y seis bis, c, por la de veinte mil a cien mil pesetas.</p>
+    <p class="parrafo">Cuarta. La pena de multa de diez mil a cien mil pesetas, establecida en los artículos ciento sesenta y cinco bis, b (primer párrafo), ciento setenta y cuatro (número cuarto), ciento setenta y cinco, ciento setenta y siete, ciento ochenta y ocho (último párrafo), ciento noventa, doscientos uno, doscientos dos (primer párrafo), doscientos cuatro (primer párrafo), doscientos cinco (primer párrafo), doscientos treinta y dos (primer párrafo), doscientos cuarenta y cuatro, doscientos sesenta y seis, doscientos noventa y cinco, doscientos noventa y seis, trescientos dos (primer párrafo), trescientos tres, trescientos diez (primer párrafo), trescientos veintiuno (segundo párrafo), trescientos veintiséis (primer párrafo), trescientos veintisiete (primer párrafo), trescientos veintinueve, trescientos treinta y dos, trescientos cuarenta bis, a (primer párrafo), trescientos cuarenta bis, b, trescientos cuarenta y cinco, trescientos cuarenta y nueve (primer párrafo), trescientos cincuenta y uno (primer párrafo), trescientos setenta y nueve, cuatrocientos quince (párrafos segundo y tercero), cuatrocientos veinte (número segundo), cuatrocientos treinta y dos, cuatrocientos treinta y seis (último párrafo), cuatrocientos cuarenta y uno, cuatrocientos cincuenta y cuatro, cuatrocientos cincuenta y nueve (primer párrafo), cuatrocientos sesenta y ocho (primer párrafo), cuatrocientos setenta, cuatrocientos ochenta y seis, cuatrocientos ochenta y siete (segundo párrafo), cuatrocientos ochenta y nueve (primer párrafo), cuatrocientos noventa y dos bis, cuatrocientos noventa y seis, cuatrocientos noventa y nueve, quinientos dieciséis bis, quinientos treinta y siete, quinientos sesenta (segundo párrafo), quinientos sesenta y tres bis, b (primer párrafo) y quinientos sesenta y uno, por la de veinte mil a doscientas mil pesetas.</p>
+    <p class="parrafo">Quinta. La pena de multa de diez mil a doscientas mil pesetas, establecida en los artículos ciento sesenta y cinco bis, b (segundo párrafo), doscientos treinta y ocho (número tercero), doscientos cincuenta y dos (segundo párrafo), doscientos setenta y nueve bis (segundo párrafo), cuatrocientos dieciséis (primer párrafo), cuatrocientos cincuenta y dos bis, d (primer párrafo), cuatrocientos sesenta, cuatrocientos ochenta y uno, cuatrocientos noventa y siete (primer párrafo), cuatrocientos noventa y nueve bis (primer párrafo), quinientos treinta y cuatro (primer párrafo), quinientos cuarenta y cinco y quinientos cuarenta y seis bis, a (primer párrafo), por la de veinte mil a cuatrocientas mil pesetas.</p>
+    <p class="parrafo">Sexta. La pena de multa de diez mil a quinientas mil pesetas, establecida en los artículos ciento treinta y dos (primer párrafo), ciento noventa y ocho, doscientos veintitrés (último párrafo), doscientos cincuenta y uno, doscientos noventa y uno (primer párrafo), trescientos cuarenta y cuatro (primer párrafo), quinientos cuarenta, quinientos cuarenta y dos y quinientos cuarenta y cuatro, por la de veinte mil a un millón de pesetas.</p>
+    <p class="parrafo">Séptima. La pena de multa de veinticinco mil a doscientas cincuenta mil pesetas, establecida en el artículo ciento setenta y cuatro (párrafo primero), por la de cincuenta mil a quinientas mil pesetas.</p>
+    <p class="parrafo">Octava. La pena de multa de veinticinco mil a quinientas mil pesetas, establecida en los artículos cuatrocientos quince (primer párrafo) y quinientos cuarenta y seis bis, a (último párrafo), por la de cincuenta mil a un millón de pesetas,</p>
+    <p class="parrafo">Novena. La pena de multa de diez mil a un millón de pesetas, establecida en los artículos ciento cuarenta y ocho bis (primer párrafo) y doscientos, por la de veinte mil a dos millones de pesetas.</p>
+    <p class="parrafo">Décima. La pena de multa de veinticinco mil a un millón de pesetas, establecida en el artículo doscientos treinta y ocho (número segundo), por la de cincuenta mil a dos millones de pesetas.</p>
+    <p class="parrafo">Undécima. La pena de multa de diez mil a dos millones de pesetas, establecida en el artículo trescientos cuarenta y cuatro bis (primer párrafo), por la de veinte mil a cuatro millones de pesetas.</p>
+    <p class="parrafo">Duodécima. La pena de multa de cincuenta mil a dos millones de pesetas, establecida en el artículo doscientos treinta y ocho (número primero), por la de cien mil a cuatro millones de pesetas.</p>
+    <p class="parrafo">Decimotercera. El límite máximo de dos millones de pesetas, establecido en el artículo trescientos cuarenta y nueve (segundo párrafo), se entenderá en lo sucesivo a cuatro millones de pesetas.</p>
+    <p class="parrafo">Decimocuarta. Las penas de multa establecidas en los artículos ciento ochenta, doscientos noventa y siete, trescientos diecinueve, trescientos treinta y uno, trescientos treinta y siete, trescientos setenta y cinco, trescientos ochenta y cinco, trescientos ochenta y seis, trescientos ochenta y siete, trescientos noventa y dos, trescientos noventa y cinco (primer párrafo), trescientos noventa y siete, trescientos noventa y ocho (último párrafo), cuatrocientos uno (primer párrafo), cuatrocientos dos (primer párrafo), quinientos diecisiete (primer párrafo), quinientos dieciocho, quinientos treinta y uno (primer párrafo), quinientos treinta y tres, quinientos treinta y seis, quinientos treinta y nueve, quinientos cuarenta y seis, quinientos sesenta y dos y quinientos sesenta y tres (primer párrafo), tendrán como limite mínimo el de veinte mil pesetas.</p>
+    <p class="parrafo">Decimoquinta. La pena de multa establecida en los artículos quinientos setenta, quinientos setenta y uno, quinientos setenta y siete, quinientos ochenta, quinientos ochenta y cinco, quinientos ochenta y nueve (número segundo), quinientos noventa, quinientos noventa y cuatro y quinientos noventa y seis, se entenderá en lo sucesivo de quinientas a cinco mil pesetas.</p>
+    <p class="parrafo">Decimosexta. La pena de multa establecida en los artículos quinientos sesenta y ocho, quinientos sesenta y nueve, quinientos setenta y cuatro, quinientos setenta y seis y quinientos setenta y ocho, se entenderá en lo sucesivo de quinientas a diez mil pesetas.</p>
+    <p class="parrafo">Decimoséptima. La pena de multa establecida en los artículos quinientos setenta y dos, quinientos setenta y tres, quinientos setenta y nueve, quinientos ochenta y cuatro y quinientos ochenta y nueve (número primero), se entenderá en lo sucesivo de mil a diez mil pesetas.</p>
+    <p class="parrafo">Decimoctava. La pena de multa establecida en los artículos quinientos sesenta y seis, quinientos sesenta y siete, quinientos setenta y cinco, quinientos ochenta y uno, quinientos ochenta y seis, quinientos noventa y uno, quinientos noventa y cinco, quinientos noventa y siete y seiscientos se entenderá en lo sucesivo de mil a veinte mil pesetas.</p>
+    <p class="parrafo">Decimonovena. Las penas de multa establecidas en el artículo quinientos noventa y dos se entenderán en lo sucesivo las siguientes: En su número primero, de veinte a cincuenta pesetas; en su número segundo, de diez a treinta pesetas, y en su número tercero, de cuatro a veinte pesetas.</p>
+    <p class="parrafo">Vigésima. La pena de multa establecida en los artículos quinientos noventa y ocho y quinientos noventa y nueve tendrá como límite máximo el de veinte mil pesetas.</p>
+    <p class="parrafo_2">c) Las cifras consignadas como valor, cuantía o cantidad objeto del hecho punible en los artículos que se citan en los números siguientes se sustituirán por las que se expresan:</p>
+    <p class="parrafo_2">Primera. La cifra de cinco mil pesetas, en los artículos doscientos ochenta y seis, doscientos noventa y cuatro, trescientos uno, trescientos noventa y cuatro (números primero y segundo), quinientos cinco (números primero y segundo), quinientos quince (números tercero y cuarto), quinientos dieciocho, quinientos veintiocho (números tercero y cuarto), quinientos cincuenta y dos, quinientos cincuenta y nueve, quinientos sesenta y tres, quinientos setenta y tres (número segundo), quinientos ochenta y siete (números primero y tercero), quinientos ochenta y nueve (número primero), quinientos noventa y uno (número primero), quinientos noventa y tres, quinientos noventa y cinco, quinientos noventa y siete, quinientos noventa y ocho y quinientos noventa y nueve, por la de quince mil pesetas.</p>
+    <p class="parrafo">Segunda. La cifra de diez mil pesetas, de los artículos quinientos cincuenta y tres y quinientos ochenta y siete (número segundo), por la de treinta mil pesetas.</p>
+    <p class="parrafo">Tercera. La cifra de cincuenta mil pesetas, de los artículos quinientos cinco (números segundo y tercero), quinientos quince (números segundo y tercero), quinientos veintiocho (números segundo y tercero), quinientos cuarenta y nueve (números primero y segundo), quinientos cincuenta (números primero y segundo), quinientos cincuenta y uno, quinientos cincuenta y dos, quinientos cincuenta y ocho y quinientos cincuenta y nueve, por la de ciento cincuenta mil pesetas.</p>
+    <p class="parrafo">Cuarta. La cifra de cien mil pesetas, del artículo trescientos noventa y cuatro (números segundo y tercero), por la de trescientas mil pesetas.</p>
+    <p class="parrafo">Quinta. La cifra de doscientas mil pesetas, de los artículos quinientos quince (números primero y segundo) y quinientos veintiocho (números primero y segundo), por la de seiscientas mil pesetas.</p>
+    <p class="parrafo">Sexta. La cifra de quinientas mil pesetas, del artículo trescientos noventa y cuatro (números tercero y cuarto), por la de un millón quinientas mil pesetas.</p>
+    <p class="articulo">Articulo segundo.</p>
+    <p class="parrafo">La regla tercera del artículo catorce de la Ley de Enjuiciamiento Criminal quedará redactada en los siguientes términos: «Tercero. Para la instrucción, conocimiento y fallo de las causas por delitos perseguibles de oficio castigados con pena no superior a arresto mayor, privación del permiso de conducir, multa que no exceda de doscientas mil pesetas o cualquiera de éstas conjuntamente con las demás o con una de ellas, los Jueces de Instrucción del partido en que el delito se haya cometido, salvo cuando por razón de los antecedentes penales del presunto reo o por cualquier otra circunstancia deba o pueda imponerse pena superior o por expresa disposición legal esté reservada el procesamiento a la Audiencia Provincial.»</p>
+    <p class="capitulo">DISPOSICIÓN TRANSITORIA</p>
+    <p class="parrafo_2">En las causas y recursos en tramitación por delitos definidos en los artículos que por esta Ley se modifican, si los Jueces y Tribunales, oído el Ministerio Fiscal, estimaren que el hecho punible debe ser considerado falta con arreglo a las nuevas cuantías que se fijan, remitirán lo actuado al Organismo judicial competente para que proceda can arregla al Derecho.</p>
+    <p class="parrafo">Sin embargo, las sentencias ya ejecutadas no se rectificarán, a efectos de antecedentes penales, por razón de las variaciones económicas que para la calificación de ciertos delitos se establecen en esta Ley.</p>
+    <p class="parrafo_2">Dada en Madrid a ocho de mayo de mil novecientos setenta y ocho.</p>
+    <p class="firma_rey">JUAN CARLOS</p>
+    <p class="firma_ministro">El Presidente de las Cortes,</p>
+    <p class="firma_ministro">ANTONIO HERNÁNDEZ GIL</p>
+  </texto>
+</documento>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <analisis>
+      <materias>
+        <materia codigo="433">Baleares</materia>
+        <materia codigo="4051">Igualdad de oportunidades</materia>
+        <materia codigo="5066">Mujer</materia>
+        <materia codigo="5281">Organización de las Comunidades Autónomas</materia>
+      </materias>
+      <notas>
+        <nota>Entrada en vigor, con la salvedad indicada, el 5 de agosto de 2016.</nota>
+        <nota>Publicada en el BOIB núm. 99, de 4 de agosto de 2016</nota>
+      </notas>
+      <referencias>
+        <anteriores>
+          <anterior>
+            <id_norma>BOE-A-2006-18082</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>la Ley 12/2006, de 20 de septiembre</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-2000-9098</id_norma>
+            <relacion codigo="270">MODIFICA</relacion>
+            <texto>el art. 3.f) de la Ley 5/2000, de 20 de abril</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-2007-4233</id_norma>
+            <relacion codigo="440">DE CONFORMIDAD con</relacion>
+            <texto>el Estatuto aprobado por Ley Orgánica 1/2007, de 28 de febrero</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-2007-6115</id_norma>
+            <relacion codigo="330">CITA</relacion>
+            <texto>Ley Orgánica 3/2007, de 22 de marzo</texto>
+          </anterior>
+          <anterior>
+            <id_norma>DOUE-L-2004-82937</id_norma>
+            <relacion codigo="330">CITA</relacion>
+            <texto>Directiva 2004/113/CE, de 13 de diciembre de 2004</texto>
+          </anterior>
+          <anterior>
+            <id_norma>DOUE-L-2002-81758</id_norma>
+            <relacion codigo="330">CITA</relacion>
+            <texto>Directiva 2002/73/CE, de 23 de septiembre de 2002</texto>
+          </anterior>
+        </anteriores>
+      </referencias>
+    </analisis>
+  </data>
+</response>

@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-11722/texto/indice",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-11722/texto/indice",
+  "sha256": "1076a15a026e37f02458fa3b2373cdbd28252e8dfcc9f420d353fe8a88a34096",
+  "archivo": "data/raw/1076a15a026e37f02458fa3b2373cdbd28252e8dfcc9f420d353fe8a88a34096.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:30:46.261214+00:00"
+}

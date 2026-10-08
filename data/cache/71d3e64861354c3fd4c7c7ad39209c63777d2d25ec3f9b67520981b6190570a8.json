@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-18391",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-18391",
+  "sha256": "c66f40ac9485df4afa89aa5426190d8a9a44a9cf4bbe31ddfa3d3366ca9fec57",
+  "archivo": "data/raw/c66f40ac9485df4afa89aa5426190d8a9a44a9cf4bbe31ddfa3d3366ca9fec57.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:40.883065+00:00"
+}

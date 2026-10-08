@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2012-9868",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2012-9868",
+  "sha256": "f8791e3fddbe9477155f77b0e490cb7dbd6990a380dc81aa5d2b0e5df5b6a84b",
+  "archivo": "data/raw/f8791e3fddbe9477155f77b0e490cb7dbd6990a380dc81aa5d2b0e5df5b6a84b.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:14.796633+00:00"
+}

@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1994-24612",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1994-24612",
+  "sha256": "aae9498170f8f843a9ce7df94b933389ba9d202ce9abb147906fd38266237ee7",
+  "archivo": "data/raw/aae9498170f8f843a9ce7df94b933389ba9d202ce9abb147906fd38266237ee7.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:20:57.814313+00:00"
+}

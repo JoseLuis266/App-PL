@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a3-11" tipo="precepto" titulo="Artículo 39">
+      <version id_norma="BOE-A-2016-7994" fecha_publicacion="20160804" fecha_vigencia="20160805">
+        <p class="articulo">Artículo 39. Calidad en el empleo.</p>
+        <p class="parrafo">1. El Gobierno de las Illes Balears garantizará la igualdad de género en el acceso al empleo. En especial, deberá incidir en aspectos relacionados con la estabilidad, la calidad y la igualdad de remuneración entre mujeres y hombres. También deberá fomentar la igualdad en la promoción profesional en procesos de formación continua y en el desarrollo de la trayectoria profesional, y velar por la prevención del acoso sexual y el acoso por razón de sexo, orientación sexual o identidad sexual.</p>
+        <p class="parrafo">2. El Gobierno de las Illes Balears garantizará la igualdad de oportunidades en todos los aspectos de la relación laboral y, en especial, en cuanto a la igualdad de retribución por trabajo del mismo valor. Con esta finalidad, deberá promover que en los planes de actuación de la Inspección de Trabajo y Seguridad Social tenga un carácter prioritario el cumplimiento del principio de igualdad de oportunidades en los ámbitos laboral y del empleo y el desarrollo de actuaciones específicas relativas a la lucha contra la brecha salarial.</p>
+        <p class="parrafo">3. Las administraciones públicas de las Illes Balears, con la colaboración de los agentes sociales, incentivarán la calidad en el empleo y la promoción de la igualdad de mujeres y hombres.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

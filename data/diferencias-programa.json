@@ -1,0 +1,182 @@
+[
+  {
+    "id_tema": 1,
+    "titulo_2022": "La Constitución española de 1978. La Constitución como norma suprema. Características y estructura de la Constitución española. Principios constitucionales básicos.",
+    "titulo_2026": "La Constitución española de 1978. La Constitución como norma suprema. Características y estructura de la Constitución española. Principios constitucionales básicos.",
+    "cambio_literal": false
+  },
+  {
+    "id_tema": 2,
+    "titulo_2022": "La Constitución española de 1978. Derechos y deberes fundamentales.",
+    "titulo_2026": "La Constitución española de 1978. Derechos y deberes fundamentales.",
+    "cambio_literal": false
+  },
+  {
+    "id_tema": 3,
+    "titulo_2022": "La Constitución española de 1978. La Corona. Las Cortes Generales. El Gobierno y la Administración. Las relaciones entre las Cortes Generales y el Gobierno. El poder judicial. El Tribunal Constitucional.",
+    "titulo_2026": "La Constitución española de 1978. La Corona. Las Cortes Generales. El Gobierno y la Administración. Las relaciones entre las Cortes Generales y el Gobierno. El poder judicial. El Tribunal Constitucional.",
+    "cambio_literal": false
+  },
+  {
+    "id_tema": 4,
+    "titulo_2022": "La Constitución española de 1978. La organización territorial del Estado.",
+    "titulo_2026": "La Constitución española de 1978. La organización territorial del Estado.",
+    "cambio_literal": false
+  },
+  {
+    "id_tema": 5,
+    "titulo_2022": "El Estatuto de autonomía de las Illes Balears. Disposiciones generales. Las competencias de la Comunidad Autónoma de las Illes Balears. Instituciones de la Comunidad Autónoma de las Illes Balears: el Parlamento, el presidente o la presidenta, Gobierno de las Illes Balears, los consejos insulares, los municipios y otras entidades locales. El poder judicial en las Illes Balears: el Tribunal Superior de Justicia de las Illes Balears, competencias, el presidente o la presidenta del Tribunal Superior de Justicia de las Illes Balears. Financiación y hacienda: principios generales: principios.",
+    "titulo_2026": "El Estatuto de Autonomía de las Illes Balears. Disposiciones generales. Las competencias de la Comunidad Autónoma de las Illes Balears. Instituciones de la Comunidad Autónoma de las Illes Balears: el Parlamento, el presidente, el Gobierno de las Illes Balears, los consejos insulares, los municipios y otras entidades locales. El poder judicial a las Illes Balears: el Tribunal Superior de Justicia de las Illes Balears y sus competencias, el presidente del Tribunal Superior de Justicia de las Illes Balears. Financiación y hacienda: principios generales.",
+    "cambio_literal": true
+  },
+  {
+    "id_tema": 6,
+    "titulo_2022": "La Ley 20/2006, de 15 de diciembre, municipal y de régimen local de las Illes Balears. Los municipios: los elementos del municipio. Identificación, la población municipal, la organización municipal, competencias. Disposiciones comunes a las entidades locales: reglamentos, ordenanzas y bandos.",
+    "titulo_2026": "La Ley 20/2006, de 15 de diciembre, Municipal y de Régimen Local de las Illes Balears. Los municipios: los elementos del municipio. Identificación, la población municipal, la organización municipal y las competencias. Disposiciones comunes a las entidades locales: reglamentos, ordenanzas y bandos.",
+    "cambio_literal": true
+  },
+  {
+    "id_tema": 7,
+    "titulo_2022": "El Real decreto legislativo 6/2015, de 30 de octubre, por el que se aprueba el Texto refundido de la Ley sobre tránsito, circulación de vehículos de motor y seguridad vial. Disposiciones generales. Ejercicio y coordinación de las competencias sobre tránsito, circulación de vehículos a motor y seguridad vial: competencias de los municipios. Anexo I: conceptos básicos.",
+    "titulo_2026": "El Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el Texto refundido de la Ley sobre tránsito, circulación de vehículos de motor y seguridad viaria. Disposiciones generales. Ejercicio y coordinación de las competencias sobre tráfico, circulación de vehículos a motor y seguridad vial: competencias de los municipios. Anexo I: conceptos básicos.",
+    "cambio_literal": true
+  },
+  {
+    "id_tema": 8,
+    "titulo_2022": "El Real decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento general de circulación para la aplicación y el desarrollo del texto articulado de la Ley sobre tránsito, circulación de vehículos de motor y seguridad vial, aprobado por el Real decreto legislativo 339/1990. Normas generales de comportamiento en la circulación: normas generales, normas generales de los conductores, normas sobre bebidas alcohólicas, normas sobre estupefacientes, psicotrópicos, estimulantes u otras sustancias análogas.",
+    "titulo_2026": "El Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento general de circulación para la aplicación y el desarrollo del texto articulado de la Ley sobre tráfico, circulación de vehículos de motor y seguridad vial, aprobado por el Real Decreto Legislativo 339/1990. Normas generales de comportamiento en la circulación: normas generales; normas generales de los conductores; normas sobre bebidas alcohólicas, y normas sobre estupefacientes, psicotrópicos, estimulantes u otras sustancias análogas.",
+    "cambio_literal": true
+  },
+  {
+    "id_tema": 9,
+    "titulo_2022": "El Real decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento general de circulación para la aplicación y el desarrollo del texto articulado de la Ley sobre tránsito, circulación de vehículos de motor y seguridad vial, aprobado por el Real decreto legislativo 339/1990. La circulación de vehículos.",
+    "titulo_2026": "El Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento general de circulación para la aplicación y el desarrollo del texto articulado de la Ley sobre tráfico, circulación de vehículos de motor y seguridad vial, aprobado por el Real Decreto Legislativo 339/1990. La circulación de vehículos.",
+    "cambio_literal": true
+  },
+  {
+    "id_tema": 10,
+    "titulo_2022": "El Real decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento general de circulación para la aplicación y el desarrollo del texto articulado de la Ley sobre tránsito, circulación de vehículos de motor y seguridad viaria, aprobado por el Real decreto legislativo 339/1990. La señalización: normas generales, prioridad entre señales. Las señales y órdenes de los agentes de circulación.",
+    "titulo_2026": "El Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento general de circulación para la aplicación y el desarrollo del texto articulado de la Ley sobre tráfico, circulación de vehículos de motor y seguridad vial, aprobado por el Real Decreto Legislativo 339/1990. La señalización: normas generales y prioridad entre señales. Las señales y las órdenes de los agentes de circulación.",
+    "cambio_literal": true
+  },
+  {
+    "id_tema": 11,
+    "titulo_2022": "El Real decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento general de conductores. Las autorizaciones administrativas para conducir: el permiso y la licencia de conducción.",
+    "titulo_2026": "El Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento general de conductores. Las autorizaciones administrativas para conducir: el permiso y la licencia de conducción.",
+    "cambio_literal": true
+  },
+  {
+    "id_tema": 12,
+    "titulo_2022": "El Real decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento general de vehículos. Normas generales.",
+    "titulo_2026": "El Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento general de vehículos. Normas generales.",
+    "cambio_literal": true
+  },
+  {
+    "id_tema": 13,
+    "titulo_2022": "El Real decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento general de vehículos. Ciclomotores, ciclos, vehículos de tracción animal y tranvías.",
+    "titulo_2026": "El Real Decreto 2822/1998, de 23 de diciembre, por el cual se aprueba el Reglamento general de vehículos. Ciclomotores, ciclos, vehículos de tracción animal y tranvías.",
+    "cambio_literal": true
+  },
+  {
+    "id_tema": 14,
+    "titulo_2022": "El Real decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento general de vehículos. Autorizaciones de circulación de los vehículos: matriculación y matriculación ordinaria.",
+    "titulo_2026": "El Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento general de vehículos. Autorizaciones de circulación de los vehículos: matriculación y matriculación ordinaria.",
+    "cambio_literal": true
+  },
+  {
+    "id_tema": 15,
+    "titulo_2022": "El Real decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento general de vehículos. Anexo II: definiciones y categorías de los vehículos.",
+    "titulo_2026": "El Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento general de vehículos. Anexo II: definiciones y categorías de los vehículos.",
+    "cambio_literal": true
+  },
+  {
+    "id_tema": 16,
+    "titulo_2022": "El Real decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento general de vehículos. Anexo XVIII: placas de matrícula, colores e inscripciones, contraseñas de las placas.",
+    "titulo_2026": "El Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento general de vehículos. Anexo XVIII: placas de matrícula, colores e inscripciones y contraseñas de las placas.",
+    "cambio_literal": true
+  },
+  {
+    "id_tema": 17,
+    "titulo_2022": "El accidente de tráfico. Definición, tipo, causas y clases de accidentes. La actividad policial ante los accidentes de tráfico. El orden cronológico de las actuaciones.",
+    "titulo_2026": "El accidente de tráfico. Definición, tipo, causas y clases de accidentes. La actividad policial ante los accidentes de tráfico. El orden cronológico de las actuaciones.",
+    "cambio_literal": false
+  },
+  {
+    "id_tema": 18,
+    "titulo_2022": "La Ley 4/2013, de 17 de julio, de coordinación de las policías locales de las Illes Balears. Principios generales. Cuerpos de policía local. Estructura y régimen de funcionamiento.",
+    "titulo_2026": "La Ley 4/2013, de 17 de julio, de coordinación de las policías locales de las Illes Balears. Principios generales. Cuerpos de policía local. Estructura y régimen de funcionamiento.",
+    "cambio_literal": false
+  },
+  {
+    "id_tema": 19,
+    "titulo_2022": "La Ley 4/2013, de 17 de julio, de coordinación de las policías locales de las Illes Balears. Régimen disciplinario: principios generales, infracciones, sanciones y potestad sancionadora, extinción y prescripción.",
+    "titulo_2026": "La Ley 4/2013, de 17 de julio, de coordinación de las policías locales de las Illes Balears. Régimen disciplinario: principios generales, infracciones, sanciones y potestad sancionadora y extinción y prescripción.",
+    "cambio_literal": true
+  },
+  {
+    "id_tema": 20,
+    "titulo_2022": "El Decreto 40/2019, de 24 de mayo, por el que se aprueba el Reglamento marco de coordinación de las policías locales de las Illes Balears y se modifica el Decreto 55/2017, de 15 de diciembre, del Fondo de Seguridad Pública de las Illes Balears. Uso del equipo básico de autodefensa y protección: disposiciones generales, normas generales sobre tenencia de armas, utilización de armas de fuego, utilización de la defensa y del bastón extensible, utilización del aerosol de defensa. Uniformidad y equipamiento. Normas de apariencia externa, presentación y uniformidad.",
+    "titulo_2026": "El Decreto 40/2019, de 24 de mayo, por el que se aprueba el Reglamento marco de coordinación de las policías locales de las Illes Balears y se modifica el Decreto 55/2017, de 15 de diciembre, del Fondo de Seguridad Pública de las Illes Balears. Uso del equipo básico de autodefensa y protección: disposiciones generales, normas generales sobre tenencia de armas, utilización de armas de fuego, utilización de la defensa y del bastón extensible, y utilización del aerosol de defensa. Uniformidad y equipamiento. Normas de apariencia externa, presentación y uniformidad.",
+    "cambio_literal": true
+  },
+  {
+    "id_tema": 21,
+    "titulo_2022": "La Ley orgánica 2/1986, de 13 de marzo, de fuerzas y cuerpos de seguridad. Principios básicos de actuación. Disposiciones estatutarias comunas. De las policías locales.",
+    "titulo_2026": "La Ley Orgánica 2/1986, de 13 de marzo, de fuerzas y cuerpos de seguridad. Principios básicos de actuación. Disposiciones estatutarias comunas. Las policías locales.",
+    "cambio_literal": true
+  },
+  {
+    "id_tema": 22,
+    "titulo_2022": "La policía local como policía judicial. La detención. Concepto. Derechos y garantías del detenido. Ley orgánica 6/1984, de 24 de mayo, reguladora del procedimiento de habeas corpus.",
+    "titulo_2026": "La policía local como policía judicial. La detención. Concepto. Derechos y garantías del detenido. La Ley Orgánica 6/1984, de 24 de mayo, reguladora del procedimiento de habeas corpus.",
+    "cambio_literal": true
+  },
+  {
+    "id_tema": 23,
+    "titulo_2022": "El Real decreto de 14 de septiembre de 1882 por el que se aprueba la Ley de enjuiciamiento criminal. La denuncia.",
+    "titulo_2026": "El Real Decreto de 14 de septiembre de 1882 por el que se aprueba la Ley de enjuiciamiento criminal. La denuncia.",
+    "cambio_literal": true
+  },
+  {
+    "id_tema": 24,
+    "titulo_2022": "La Ley orgánica 10/1995, de 23 de noviembre, del Código penal. De la infracción penal. De las personas criminalmente responsables de los delitos.",
+    "titulo_2026": "La Ley Orgánica 10/1995, de 23 de noviembre, del Código penal. La infracción penal. Las personas criminalmente responsables de los delitos.",
+    "cambio_literal": true
+  },
+  {
+    "id_tema": 25,
+    "titulo_2022": "La Ley orgánica 10/1995, de 23 de noviembre, del Código penal. Delitos contra el patrimonio y contra el orden socioeconómico: de los hurtos, de los robos, del robo y hurto de uso de vehículos, de la usurpación, de las defraudaciones, de los daños.",
+    "titulo_2026": "La Ley Orgánica 10/1995, de 23 de noviembre, del Código penal. Delitos contra el patrimonio y contra el orden socioeconómico: los hurtos, de los robos, el robo y hurto de uso de vehículos, la usurpación, las defraudaciones, los daños.",
+    "cambio_literal": true
+  },
+  {
+    "id_tema": 26,
+    "titulo_2022": "La Ley orgánica 10/1995, de 23 de noviembre, del Código penal. Delitos contra la seguridad vial.",
+    "titulo_2026": "La Ley Orgánica 10/1995, de 23 de noviembre, del Código penal. Delitos contra la seguridad viaria.",
+    "cambio_literal": true
+  },
+  {
+    "id_tema": 27,
+    "titulo_2022": "La Ley orgánica 10/1995, de 23 de noviembre, del Código penal. Delitos cometidos con motivo del ejercicio de los derechos fundamentales y de las libertades públicas garantizadas por la Constitución.",
+    "titulo_2026": "La Ley Orgánica 10/1995, de 23 de noviembre, del Código penal. Delitos cometidos con motivo del ejercicio de los derechos fundamentales y de las libertades públicas garantizadas por la Constitución.",
+    "cambio_literal": true
+  },
+  {
+    "id_tema": 28,
+    "titulo_2022": "La Ley orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales. Disposiciones generales. Principios de protección de datos. Derechos de las personas.",
+    "titulo_2026": "La Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales. Disposiciones generales. Principios de protección de datos. Derechos de las personas.",
+    "cambio_literal": true
+  },
+  {
+    "id_tema": 29,
+    "titulo_2022": "La Ley 11/2016, de 28 de julio, de igualdad de mujeres y hombres. Disposiciones generales. Competencias, funciones, organización institucional y financiación. Violencia machista.",
+    "titulo_2026": "La Ley 11/2016, de 28 de julio, de igualdad de mujeres y hombres. Disposiciones generales. Competencias, funciones, organización institucional y financiación. La violencia machista.",
+    "cambio_literal": true
+  },
+  {
+    "id_tema": 30,
+    "titulo_2022": "La Ley 8/2016, de 30 de mayo, para garantizar los derechos de lesbianas, gays, trans, bisexuales e intersexuales y para erradicar la LGTBI fobia. Disposiciones generales. Políticas públicas para promover la igualdad efectiva de las personas LGTBI: profesionales que actúan en ámbitos sensibles. Mecanismos para garantizar el derecho a la igualdad: disposiciones generales.",
+    "titulo_2026": "La Ley 8/2016, de 30 de mayo, para garantizar los derechos de lesbianas, gays, trans, bisexuales e intersexuales y para erradicar la LGTBI fobia. Disposiciones generales. Políticas públicas para promover la igualdad efectiva de las personas LGTBI: profesionales que actúan en ámbitos sensibles. Mecanismos para garantizar el derecho a la igualdad: disposiciones generales.",
+    "cambio_literal": true
+  }
+]

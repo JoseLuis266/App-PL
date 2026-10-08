@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20260622102601">
+  <metadatos>
+    <identificador>BOE-A-1974-293</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7723">Jefatura del Estado</departamento>
+    <rango codigo="1300">Ley</rango>
+    <fecha_disposicion>19740213</fecha_disposicion>
+    <numero_oficial>6/1974</numero_oficial>
+    <titulo>Ley 6/1974, de 13 de febrero, sobre modificación de determinados artículos de la Ley de Enjuiciamiento Criminal.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>19740215</fecha_publicacion>
+    <diario_numero>40</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>3056</pagina_inicial>
+    <pagina_final>3056</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/1974/02/15/pdfs/A03056-03056.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia>19740307</fecha_vigencia>
+    <estatus_derogacion>S</estatus_derogacion>
+    <fecha_derogacion>19781209</fecha_derogacion>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>S</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+  </metadatos>
+  <analisis>
+    <materias>
+      <materia codigo="78" orden="1">Administración de Justicia</materia>
+      <materia codigo="2175" orden="2">Cuerpo General de Policía</materia>
+      <materia codigo="3199" orden="3">Enjuiciamiento Criminal</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1882-6036" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>determinados preceptos Ley de Enjuiciamiento Criminal aprobada por Real Decreto de 14 de septiembre de 1882 (Gazeta)</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1955-9871" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>art. 416 de la Ley de Régimen local, texto articulado y refundido aprobado por Decreto de 24 de julio de 1955 (Gazeta)</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1882-6664" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>art. 4 de la Ley adicional á la Orgánica del Poder judicial, de 14 de octubre de 1882 (Gazeta)</texto>
+        </anterior>
+      </anteriores>
+      <posteriores>
+        <posterior referencia="BOE-A-1978-29844" orden="1">
+          <palabra codigo="210">SE DEROGA</palabra>
+          <texto>por la Ley 55/1978, de 4 de diciembre</texto>
+        </posterior>
+      </posteriores>
+    </referencias>
+    <alertas/>
+  </analisis>
+  <texto>
+    <p class="parrafo">La Ley Orgánica del Poder Judicial de mil ochocientos setenta en su artículo doscientos setenta y seis, y el cuarto de la Ley adicional de mil ochocientos ochenta y dos establecieron especiales normas procesales respecto a determinadas autoridades y funcionarios civiles. Posteriormente, la Ley de Régimen Local de veinticuatro de junio de mil novecientos cincuenta y cinco dispone en su artículo cuatrocientos dieciséis que el procesamiento de los Alcaldes, Concejales, Presidentes de Diputaciones y Diputados provinciales, por delitos cometidos en el ejercicio de sus cargos, sólo podrá ser acordado por las respectivas Audiencias Provinciales.</p>
+    <p class="parrafo">La imperiosa necesidad de salvaguardar el orden público, absolutamente indispensable para la convivencia social, impone extender aquellas normas al Cuerpo General de Policía, que de manera decisiva contribuye a su mantenimiento, en una actuación tanto más eficiente y meritoria cuanto que la misma implica a veces un grave riesgo de la integridad física e incluso de la vida de sus funcionarios, todo lo cual ha de llevar como justa contrapartida, por la delicada misión que se les encomienda, el otorgamiento de determinadas garantías en orden a su protección jurídica, en los casos en que los expresados funcionarios cometan algunos hechos, en el ejercicio de su cargo, que pudieran revestir los caracteres de delito.</p>
+    <p class="parrafo">En su virtud, y de conformidad con la Ley aprobada por las Cortes Españolas, vengo en sancionar:</p>
+    <p class="articulo">Artículo primero.</p>
+    <p class="parrafo_2">En el supuesto de hechos que puedan revestir caracteres de delito cometidos por funcionarios del Cuerpo General de Policía en el ejercicio de las funciones de su cargo, corresponderá su conocimiento a las Audiencias Provinciales, conforme a las normas del capítulo lII, título III, del libro IV de la Ley de Enjuiciamiento Criminal, o por las establecidas en la misma con carácter ordinario, y en todo caso con las modificaciones que se disponen en la presente, aun cuando por la penalidad que al delito pudiera corresponder estuvieran comprendidos en la disposición tercera del artículo catorce, de la precitada Ley.</p>
+    <p class="articulo">Artículo segundo.</p>
+    <p class="parrafo_2">El Juez de Instrucción competente procederá a la incoación del correspondiente sumario, en el que se practicarán cuantas diligencias se estimen precisas para el mejor esclarecimiento de los hechos. En el supuesto de que el Juzgado no estuviere desempeñado por el Juez de Instrucción por razón de vacante, enfermedad u otro motivo legal, el que eventualmente le sustituya, una vez practicadas las diligencias más urgentes, remitirá las actuaciones, dentro del plazo de tres días, al Presidente de la Audiencia Territorial, cuya Sala de Gobierno designará a la mayor brevedad un Juez de Instrucción para que se encargue de la tramitación del sumario.</p>
+    <p class="articulo">Artículo tercero.</p>
+    <p class="parrafo_2">Uno. Cuando de las diligencias sumaríales resultaren indicios racionales suficientes para apreciar la comisión de un delito por parte de funcionarios del Cuerpo General de Policía en el ejercicio de las funciones de su cargo, el Juez de Instrucción se limitará a remitir las actuaciones, en el estado en que se encuentren, a la Audiencia Provincial, quien a la vista de las mismas acordará el procesamiento cuando fuere procedente, devolviendo el sumario al Juez para la continuación de su trámite hasta su conclusión.</p>
+    <p class="parrafo">Dos Contra los autos de las Audiencias Provinciales en los que se acuerde el procesamiento de los funcionarios del Cuerpo General de Policía por delitos cometidos en el ejercicio de su cargo no cabrá otro recurso que el de súplica ante la misma Audiencia Provincial que lo dictó.</p>
+    <p class="articulo">Artículo cuarto.</p>
+    <p class="parrafo_2">Uno. Cuando los hechos cometidos por funcionarios del Cuerpo General de Policía en el ejercicio de las funciones de su cargo no revistan los caracteres de delito y sí los de falta, corresponderá su conocimiento a los Jueces de Instrucción, con arreglo a las normas de procedimiento previstas en el libro VI de la Ley de Enjuiciamiento Criminal y el Decreto de veintiuno de noviembre de mil novecientos cincuenta y dos.</p>
+    <p class="parrafo">Dos. Contra las sentencias dictadas por los Jueces de Instrucción en estos casos cabrá recurso de apelación ante la Audiencia Provincial respectiva.</p>
+    <p class="articulo">Artículo quinto.</p>
+    <p class="parrafo_2">Quedan derogadas cuantas disposiciones se opongan a lo prevenido en la presente Ley.</p>
+    <p class="parrafo_2">Dada en el Palacio de El Pardo a trece de febrero de mil novecientos setenta y cuatro.</p>
+    <p class="firma_rey">FRANCISCO FRANCO</p>
+    <p class="firma_ministro">El Presidente de las Cortes Españolas,</p>
+    <p class="firma_ministro">ALEJANDRO RODRÍGUEZ DE VALCÁRCEL Y NEBREDA</p>
+  </texto>
+</documento>

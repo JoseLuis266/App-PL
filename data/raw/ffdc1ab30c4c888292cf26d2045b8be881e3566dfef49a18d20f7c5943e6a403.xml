@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20251216135601">
+  <metadatos>
+    <identificador>BOE-A-1980-8713</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7723">Jefatura del Estado</departamento>
+    <rango codigo="1300">Ley</rango>
+    <fecha_disposicion>19800422</fecha_disposicion>
+    <numero_oficial>16/1980</numero_oficial>
+    <titulo>Ley 16/1980, de 22 de abril, sobre modificación de los artículos 503, 504 y 505 de la Ley de Enjuiciamiento Criminal en materia de prisión provisional.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>19800426</fecha_publicacion>
+    <diario_numero>101</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>9060</pagina_inicial>
+    <pagina_final>9060</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/1980/04/26/pdfs/A09060-09060.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan>/boe_catalan/dias/1980/12/30/pdfs/A00029-00030.pdf</url_pdf_catalan>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia>19800516</fecha_vigencia>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/l/1980/04/22/16</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/l/1980/04/22/16">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/l"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1980-8713</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1980-04-22</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16</eli:number>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3199"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5698"/>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/l/1980/04/22/16/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/l"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1980-8713</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1980-04-22</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16</eli:number>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3199"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5698"/>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/l/1980/04/22/16"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/l/1980/04/22/16/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ley 16/1980, de 22 de abril, sobre modificación de los artículos 503, 504 y 505 de la Ley de Enjuiciamiento Criminal en materia de prisión provisional.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1980-04-26</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/l/1980/04/22/16/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/l/1980/04/22/16/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/1980/04/22/16/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/l/1980/04/22/16/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/1980/04/22/16/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/l/1980/04/22/16/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/1980/04/22/16/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/l/1980/04/22/16/dof/cat">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/cat"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LLEI 16/1980, de 22 d'abril, sobre modificació dels articles 503, 504 i 505 de la Llei d'enjudiciament criminal en matèria de presó provisional.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1980-12-30</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/l/1980/04/22/16/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/l/1980/04/22/16/dof/cat/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/1980/04/22/16/dof/cat"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="3199" orden="1">Enjuiciamiento Criminal</materia>
+      <materia codigo="5698" orden="2">Prisión provisional</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1882-6036" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>los arts. 503, 504 y 505 de la Ley de Enjuiciamiento Criminal aprobada por Real Decreto de 14 de septiembre de 1882 (Gazeta)</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas>
+      <alerta codigo="113" orden="1">Derecho Penal</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="centro_redonda">DON JUAN CARLOS I,</p>
+    <p class="centro_redonda">REY DE ESPAÑA</p>
+    <p class="parrafo_2">A todos los que la presente vieren y entendieren,</p>
+    <p class="parrafo">Sabed: Que las Cortes Generales han aprobado, y Yo vengo en sancionar, la siguiente Ley:</p>
+    <p class="articulo">Artículo único.</p>
+    <p class="parrafo">Los artículos quinientos tres, quinientos cuatro y quinientos cinco de la Ley de Enjuiciamiento Criminal quedarán redactados de la siguiente forma:</p>
+    <p class="sangrado_articulo">«Artículo quinientos tres.</p>
+    <p class="sangrado">El Juez decretará la prisión provisional cuando concurran las circunstancias siguientes:</p>
+    <p class="sangrado_2">Primero. Que conste en la causa la existencia de un hecho que presenta los caracteres de delito.</p>
+    <p class="sangrado">Segundo. Que tenga señalada pena superior a la de arresto mayor, y</p>
+    <p class="sangrado">Tercero. Que aparezcan en la causa motivos bastantes para creer responsable criminalmente del delito a la persona contra quien se haya de dictar el auto de prisión.»</p>
+    <p class="sangrado_articulo">«Artículo quinientos cuatro.</p>
+    <p class="sangrado">No obstante lo dispuesto en el artículo anterior, aunque el delito tenga señalada pena superior a arresto mayor, cuando el inculpado no tenga antecedentes penales o se pueda creer fundadamente que no tratará de sustraerse a la acción de la justicia y cuando, además, el delito no haya producido alarma ni sea de los que se cometen con frecuencia, podrá el Juez o Tribunal acordar con o sin fianza la libertad del inculpado con expresión de las razones que lo justifiquen.</p>
+    <p class="sangrado">Concurriendo las circunstancias primera y tercera, aunque la pena no exceda de arresto mayor, teniendo en cuenta la alarma que haya podido producir el hecho, los antecedentes y circunstancias del inculpado o el fundado temor de que no comparezca al llamamiento de la autoridad judicial, podrá decretarse la prisión, con expresión igualmente de las razones en que se justifique.</p>
+    <p class="sangrado">En ningún caso la prisión provisional podrá exceder de la mitad del tiempo que presuntivamente pueda corresponder al delito imputado.</p>
+    <p class="sangrado">A estos efectos se entenderá como pena la que en razón de las posibles circunstancias modificativas pueda corresponder al inculpado. No existiendo éstas a juicio de la autoridad judicial, se computará como tiempo el que corresponda al grado medio.»</p>
+    <p class="sangrado_articulo">«Artículo quinientos cinco.</p>
+    <p class="sangrado">Para llevar a efecto el auto de prisión se expedirán dos mandamientos: uno cometido al alguacil del Juzgado o portero del Tribunal o al funcionario de Policía Judicial que haya de ejecutarlo, y otro al Director del establecimiento que deba recibir al preso.</p>
+    <p class="sangrado">Los Jueces podrán acordar la prisión atenuada cuando por razón de enfermedad del inculpado el internamiento entrañe grave peligro para su salud.</p>
+    <p class="sangrado">En el mandamiento se consignará a la letra el auto de prisión, el nombre, apellidos, naturaleza, edad, estado y domicilio del procesado, si constaren; el delito que dé lugar al procedimiento; si se procede de oficio o a instancia de parte, y si la prisión ha de ser con comunicación o sin ella.</p>
+    <p class="sangrado">Los Directores de los establecimientos no recibirán a ninguna persona en clase de preso sin que se les entregue mandamiento de prisión.»</p>
+    <p class="parrafo_2">Por tanto,</p>
+    <p class="parrafo">Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta Ley</p>
+    <p class="parrafo_2">Palacio Real, de Madrid, a veintidós de abril de mil novecientos ochenta.</p>
+    <p class="firma_rey">JUAN CARLOS R.</p>
+    <p class="firma_ministro">El Presidente del Gobierno,</p>
+    <p class="firma_ministro">ADOLFO SUÁREZ GONZÁLEZ</p>
+  </texto>
+</documento>

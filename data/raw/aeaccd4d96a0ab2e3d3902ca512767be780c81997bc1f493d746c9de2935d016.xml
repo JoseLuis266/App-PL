@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <analisis>
+      <materias>
+        <materia codigo="85">Administración Local</materia>
+        <materia codigo="421">Ayuntamientos</materia>
+        <materia codigo="433">Baleares</materia>
+        <materia codigo="1597">Consejos Insulares</materia>
+        <materia codigo="3188">Energía eléctrica</materia>
+        <materia codigo="3242">Entidades Locales Menores</materia>
+        <materia codigo="3848">Funcionarios de la Administración Local</materia>
+        <materia codigo="3958">Gravámenes</materia>
+        <materia codigo="3986">Haciendas Locales</materia>
+        <materia codigo="5068">Municipios</materia>
+        <materia codigo="5185">Obras y Servicios de las Corporaciones Locales</materia>
+        <materia codigo="5281">Organización de las Comunidades Autónomas</materia>
+      </materias>
+      <notas>
+        <nota>Publicada en el BOIB extraordinario núm. 186, de 27 de diciembre de 2006.</nota>
+      </notas>
+      <referencias>
+        <anteriores>
+          <anterior>
+            <id_norma>BOE-A-2006-1526</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>Disposición adicional 6 de la Ley 13/2005, de 27 de diciembre</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-2005-953</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>Disposición adicional 12.4 de la Ley 8/2004, de 23 de diciembre</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1991-10603</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>Ley 5/1991, de 27 de febrero</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1983-6316</id_norma>
+            <relacion codigo="440">DE CONFORMIDAD con</relacion>
+            <texto>el art. 11.2 del Estatuto aprobado por Ley Orgánica 2/1983, de 25 de febrero</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-2003-23103</id_norma>
+            <relacion codigo="330">CITA</relacion>
+            <texto>Ley 57/2003, de 16 de diciembre</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1985-5392</id_norma>
+            <relacion codigo="330">CITA</relacion>
+            <texto>Ley 7/1985, de 2 de abril</texto>
+          </anterior>
+        </anteriores>
+        <posteriores>
+          <posterior>
+            <id_norma>BOE-A-2019-5581</id_norma>
+            <relacion codigo="210">SE DEROGA</relacion>
+            <texto>el art. 123, por Ley 12/2019, de 12 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2018-9775</id_norma>
+            <relacion codigo="210">SE DEROGA</relacion>
+            <texto>el art. 188.3, por Ley 6/2018, de 22 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2014-6438</id_norma>
+            <relacion codigo="210">SE DEROGA</relacion>
+            <texto>art. 185.1, por Ley 2/2014, de 25 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2008-9686</id_norma>
+            <relacion codigo="210">SE DEROGA</relacion>
+            <texto>el art. 185.2, por Ley 4/2008, de 14 de mayo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOIB-i-2025-90242</id_norma>
+            <relacion codigo="230">SE DEJA SIN EFECTO</relacion>
+            <texto>la modificación del art. 130.2, en la redacción dada por el Decreto-ley 6/2025, de 5 de septiembre, por Resolución de 2 de octubre de 2025</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2026-15579</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 130.2, por Ley 4/2026, de 11 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2026-487</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 130.2, por Decreto-ley 8/2025, de 5 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOIB-i-2025-90220</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 130.2, por Decreto-ley 6/2025, de 5 de septiembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2025-720</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>la disposición adicional, por Ley 7/2024, de 11 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2024-1569</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art, 205.2, SE SUSPENDE, para el año 2024, en los casos indicados, la aplicación de la regla 4º del art. 205.3.b) y SE AÑADE la disposición adicional 4, por Ley 12/2023, de 29 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2023-2981</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 206, por Decreto-ley 9/2022, de 7 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2022-13847</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>, con efectos desde el 7 de agosto de 2022, el art. 76.5, por Ley 4/2022, de 28 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2022-230</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 130, por Ley 4/2021, de 17 de diciembre de 2021</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2021-9286</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 130, por Decreto-ley 3/2021, de 12 de abril</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2020-14467</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 70, 84 y 92, por Ley 2/2020, de 15 de octubre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2019-996</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>art. 205.3.b), y SE SUSPENDE, para el año 2019 y en los casos indicados, la aplicación de la regla 4 del art. 205.3.b), por Ley 14/2018, de 28 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2018-929</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 205.2 y SE SUSPENDE la aplicación, para el año 2018, de la regla 4.ª del artículo 205.3.b, por Ley 13/2017, de 29 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2017-10494</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 72.2, 120 y SE AÑADE los arts. 119 bis, 122 bis y 122 ter, por Ley 3/2017, de 7 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2017-1680</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 190, por Decreto-ley 1/2017, de 13 de enero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2017-558</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 205.2 y SE SUSPENDE para el año 2017, la aplicación de la regla 4 del art. 205.3.b), por Ley 18/2016, de 29 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2013-9129</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>lo indicado y SE AÑADE el art. 201 bis, por Ley 4/2013, de 17 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2013-631</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>lo indicado del art. 205, por Ley 15/2012, de 27 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2010-19487</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 178 y 179, por Ley 12/2010, de 12 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2008-5651</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 74.1, 102, 205 y la disposición transitoria 2, por Ley 6/2007, de 27 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2020-850</id_norma>
+            <relacion codigo="231">SE SUSPENDE</relacion>
+            <texto>la aplicación, para el año 2020 y en los casos indicados, de la regla 4 del art. 205.3.b), de 15 de diciembre, por Ley 19/2019, de 30 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2016-824</id_norma>
+            <relacion codigo="231">SE SUSPENDE</relacion>
+            <texto>para el año 2016, la aplicación de la regla 4 del art.205.3.b), por Ley 12/2015, de 29 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2015-1059</id_norma>
+            <relacion codigo="231">SE SUSPENDE</relacion>
+            <texto>para el año 2015, la aplicación del art. 205.3.b).4, por Ley 13/2014, de 29 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2014-656</id_norma>
+            <relacion codigo="231">SE SUSPENDE</relacion>
+            <texto>, para el año 2014, la aplicación del art. 205.3.b).4, por Ley 8/2013, de 23 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2012-2272</id_norma>
+            <relacion codigo="231">SE SUSPENDE</relacion>
+            <texto>para el año 2012, la aplicación del art. 205.3.b).4, por Ley 9/2011, de 23 de diciembre</texto>
+          </posterior>
+        </posteriores>
+      </referencias>
+    </analisis>
+  </data>
+</response>

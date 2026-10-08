@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1987-5471",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1987-5471",
+  "sha256": "69fb10ee8c29b7b1f884773d30b9e7577c1d9b697b6b469893f591e3ffa9b14c",
+  "archivo": "data/raw/69fb10ee8c29b7b1f884773d30b9e7577c1d9b697b6b469893f591e3ffa9b14c.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:20:41.762087+00:00"
+}

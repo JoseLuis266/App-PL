@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a559" tipo="precepto" titulo="Artículo 559">
+      <version id_norma="BOE-A-1882-6036" fecha_publicacion="19970601" fecha_vigencia="19970601">
+        <p class="articulo">Artículo 559.</p>
+        <p class="parrafo">Para la entrada y registro en los edificios destinados a la habitación u oficina de los representantes de naciones extranjeras acreditados cerca del Gobierno de España, les pedirá su venia el Juez, por medio de atento oficio, en el que les rogará que contesten en el término de doce horas.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

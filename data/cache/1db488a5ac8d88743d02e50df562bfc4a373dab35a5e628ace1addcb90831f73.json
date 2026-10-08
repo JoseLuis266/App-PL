@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2002-3783",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2002-3783",
+  "sha256": "40d4f2b778addeb87f87834c215f86b3767947d635cbc41a70dce6eb843bc60c",
+  "archivo": "data/raw/40d4f2b778addeb87f87834c215f86b3767947d635cbc41a70dce6eb843bc60c.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:13.312816+00:00"
+}

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20251127082602">
+  <metadatos>
+    <identificador>BOE-A-1986-19505</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="1410">Tribunal Constitucional</departamento>
+    <rango codigo="63">Providencia</rango>
+    <fecha_disposicion>19860619</fecha_disposicion>
+    <numero_oficial>487/1986</numero_oficial>
+    <titulo>Planteamiento de la cuestión de inconstitucionalidad número 487/1986.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>19860721</fecha_publicacion>
+    <diario_numero>173</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>26185</pagina_inicial>
+    <pagina_final>26185</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/1986/07/21/pdfs/A26185-26185.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia/>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+  </metadatos>
+  <analisis>
+    <materias>
+      <materia codigo="78" orden="1">Administración de Justicia</materia>
+      <materia codigo="85" orden="2">Administración Local</materia>
+      <materia codigo="421" orden="3">Ayuntamientos</materia>
+      <materia codigo="665" orden="4">Cataluña</materia>
+      <materia codigo="1320" orden="5">Comunidades Autónomas</materia>
+      <materia codigo="1429" orden="6">Consejo de Política de Seguridad</materia>
+      <materia codigo="1983" orden="7">Cuerpo de la Guardia Civil</materia>
+      <materia codigo="1984" orden="8">Cuerpo de la Policía Nacional</materia>
+      <materia codigo="2202" orden="9">Cuerpo Nacional de Policía</materia>
+      <materia codigo="2222" orden="10">Cuerpo Superior de Policía</materia>
+      <materia codigo="2745" orden="11">Dirección General de la Guardia Civil</materia>
+      <materia codigo="2753" orden="12">Dirección General de la Policía</materia>
+      <materia codigo="3841" orden="13">Fuerzas y Cuerpos de Seguridad del Estado</materia>
+      <materia codigo="3848" orden="14">Funcionarios de la Administración Local</materia>
+      <materia codigo="3939" orden="15">Gobiernos civiles</materia>
+      <materia codigo="4134" orden="16">Incompatibilidades</materia>
+      <materia codigo="4969" orden="17">Ministerio de Defensa</materia>
+      <materia codigo="5008" orden="18">Ministerio del Interior</materia>
+      <materia codigo="5010" orden="19">Ministerio Fiscal</materia>
+      <materia codigo="5143" orden="20">Navarra</materia>
+      <materia codigo="5247" orden="21">Oposiciones y concursos</materia>
+      <materia codigo="5345" orden="22">País Vasco</materia>
+      <materia codigo="5618" orden="23">Plantillas</materia>
+      <materia codigo="5635" orden="24">Policía</materia>
+      <materia codigo="6649" orden="25">Sindicatos</materia>
+      <materia codigo="6951" orden="26">Tribunal Constitucional</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1986-6859" orden="4040">
+          <palabra codigo="530">Cuestión promovida por supuesta inconstitucionalidad</palabra>
+          <texto>del art. 8, epígrafe 1, párrafo 2 de la Ley Orgánica 2/1986, de 13 de marzo</texto>
+        </anterior>
+      </anteriores>
+      <posteriores>
+        <posterior referencia="BOE-T-1990-9176" orden="1">
+          <palabra codigo="693">SE DICTA</palabra>
+          <texto>en la misma y se declara la inconstitucionalidad y nulidad del art. 8.1, párrafo segundo, por Sentencia 55/1990, de 28 de marzo</texto>
+        </posterior>
+      </posteriores>
+    </referencias>
+    <alertas/>
+  </analisis>
+  <texto>
+    <p class="parrafo">EL TRIBUNAL CONSTITUCIONAL, POR PROVIDENCIA DE 19 DE JUNIO ACTUAL, HA ADMITIDO A TRAMITE LA CUESTION DE INCONSTITUCIONALIDAD NUMERO 487/1986, PROMOVIDA POR EL JUZGADO DE INSTRUCCION NUMERO 12 DE MADRID, POR SUPUESTA INCONSTITUCIONALIDAD DEL ARTICULO 8., EPIGRAFE 1, PARRAFO 2., DE LA LEY ORGANICA 2/1986, DE 13 DE MARZO, DE FUERZAS Y CUERPOS DE SEGURIDAD, POR OPOSICION A LOS ARTICULOS 14 Y 24.1 Y 2 DE LA CONSTITUCION.</p>
+    <p class="parrafo">LO QUE SE PUBLICA PARA GENERAL CONOCIMIENTO.</p>
+    <p class="parrafo">MADRID, 19 DE JUNIO DE 1986. EL SECRETARIO DE JUSTICIA. FIRMADO Y RUBRICADO.</p>
+  </texto>
+</documento>

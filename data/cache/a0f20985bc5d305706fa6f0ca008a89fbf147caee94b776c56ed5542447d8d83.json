@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-24103",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-24103",
+  "sha256": "f3e032c9e08fb4e2bd5679d0cb48dc2b930226adfe99a61fceca5de8d29bdaa2",
+  "archivo": "data/raw/f3e032c9e08fb4e2bd5679d0cb48dc2b930226adfe99a61fceca5de8d29bdaa2.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:36.753139+00:00"
+}

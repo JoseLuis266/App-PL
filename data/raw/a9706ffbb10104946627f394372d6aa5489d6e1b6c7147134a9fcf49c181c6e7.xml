@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a98" tipo="precepto" titulo="Artículo 98">
+      <version id_norma="BOE-A-2015-11722" fecha_publicacion="20151031" fecha_vigencia="20151101">
+        <p class="articulo">Artículo 98. Infracciones.</p>
+        <p class="parrafo">El intercambio transfronterizo de información se llevará a cabo sobre las siguientes infracciones de tráfico:</p>
+        <p class="parrafo_2">a) Exceso de velocidad.</p>
+        <p class="parrafo">b) Conducción con tasas de alcohol superiores a las reglamentariamente establecidas.</p>
+        <p class="parrafo">c) No utilización del cinturón de seguridad u otros sistemas de retención homologados.</p>
+        <p class="parrafo">d) No detención ante un semáforo en rojo o en el lugar prescrito por la señal de «stop».</p>
+        <p class="parrafo">e) Circulación por un carril prohibido, circulación indebida por el arcén o por un carril reservado para determinados usuarios.</p>
+        <p class="parrafo">f) Conducción con presencia de drogas en el organismo.</p>
+        <p class="parrafo">g) No utilización del casco de protección.</p>
+        <p class="parrafo">h) Utilización del teléfono móvil o de cualquier otro dispositivo de comunicación durante la conducción cuando no esté permitido.</p>
+      </version>
+      <version id_norma="BOE-A-2021-21006" fecha_publicacion="20211221" fecha_vigencia="20211222">
+        <p class="articulo">Artículo 98. Infracciones.</p>
+        <p class="parrafo">El intercambio transfronterizo de información se llevará a cabo sobre las siguientes infracciones de tráfico:</p>
+        <p class="parrafo_2">a) Exceso de velocidad.</p>
+        <p class="parrafo">b) Conducción con tasas de alcohol superiores a las reglamentariamente establecidas.</p>
+        <p class="parrafo">c) No utilización del cinturón de seguridad u otros sistemas de retención homologados.</p>
+        <p class="parrafo">d) No detención ante un semáforo en rojo o en el lugar prescrito por la señal de «stop».</p>
+        <p class="parrafo">e) Circulación por un carril prohibido, circulación indebida por el arcén o por un carril reservado para determinados usuarios.</p>
+        <p class="parrafo">f) Conducción con presencia de drogas en el organismo.</p>
+        <p class="parrafo">g) No utilización del casco de protección.</p>
+        <p class="parrafo">h) Utilización del teléfono móvil o de cualquier otro dispositivo de comunicación durante la conducción cuando no esté permitido.</p>
+        <p class="parrafo">i) El impago de peaje, tasa o precio público, cuando estos fueran exigibles.</p>
+        <blockquote>
+          <p class="nota_pie">Se añade la letra i) por el art. único.30 de la Ley 18/2021, de 20 de diciembre. <a class="refPost">Ref. BOE-A-2021-21006#au</a></p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

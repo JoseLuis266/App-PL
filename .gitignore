@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.db-journal
+*.db-wal
+*.db-shm
+data/cache/.lock
+node_modules/
+dist/
+public/legal/
+test-results/
+playwright-report/
+*.tsbuildinfo

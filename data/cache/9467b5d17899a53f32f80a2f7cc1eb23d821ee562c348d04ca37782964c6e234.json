@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-12649",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-12649",
+  "sha256": "9d886e26f4db52409080d59b15fafd84ae64e5e23f37881ac03ab49bfdd017f8",
+  "archivo": "data/raw/9d886e26f4db52409080d59b15fafd84ae64e5e23f37881ac03ab49bfdd017f8.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:58.910955+00:00"
+}

@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2016-9891",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2016-9891",
+  "sha256": "a1aa738e604a6e4f6e1f2ec810d134a28b046d030af2db9d24171a46d041597b",
+  "archivo": "data/raw/a1aa738e604a6e4f6e1f2ec810d134a28b046d030af2db9d24171a46d041597b.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:24.067979+00:00"
+}

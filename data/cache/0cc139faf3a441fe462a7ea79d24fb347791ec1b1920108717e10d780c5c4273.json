@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2011-10598",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2011-10598",
+  "sha256": "f0000b22e427ecc737a172c52f7b4727cac2da8c33e94b4cf76c1514e12a276a",
+  "archivo": "data/raw/f0000b22e427ecc737a172c52f7b4727cac2da8c33e94b4cf76c1514e12a276a.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:03.402196+00:00"
+}

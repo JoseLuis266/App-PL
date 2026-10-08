@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-16790",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-16790",
+  "sha256": "db68582828077bd37943ce72002cd71876788da2007491128eb94d2cf2486b2a",
+  "archivo": "data/raw/db68582828077bd37943ce72002cd71876788da2007491128eb94d2cf2486b2a.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:37.459247+00:00"
+}

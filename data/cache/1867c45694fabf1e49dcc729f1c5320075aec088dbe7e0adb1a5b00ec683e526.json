@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-1893/metadatos",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-1893/metadatos",
+  "sha256": "a5e38f49e97080454f1362bbde0e04508a78361aa2e3d501eead5403d3edb2df",
+  "archivo": "data/raw/a5e38f49e97080454f1362bbde0e04508a78361aa2e3d501eead5403d3edb2df.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:30:38.681629+00:00"
+}

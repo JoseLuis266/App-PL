@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2002-2504",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2002-2504",
+  "sha256": "0e0554d1c6e5b77e5cd9ee8c864753a685fc60bb7fe2bcb25c6d8099bfcc9102",
+  "archivo": "data/raw/0e0554d1c6e5b77e5cd9ee8c864753a685fc60bb7fe2bcb25c6d8099bfcc9102.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:53.630403+00:00"
+}

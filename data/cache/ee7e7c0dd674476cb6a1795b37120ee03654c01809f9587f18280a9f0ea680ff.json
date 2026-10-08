@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2005-13466",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2005-13466",
+  "sha256": "087f4ea13cf2fabefbab82485670c7446b70cc580f961dd0ff79d76e7ef384d6",
+  "archivo": "data/raw/087f4ea13cf2fabefbab82485670c7446b70cc580f961dd0ff79d76e7ef384d6.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:56.826644+00:00"
+}

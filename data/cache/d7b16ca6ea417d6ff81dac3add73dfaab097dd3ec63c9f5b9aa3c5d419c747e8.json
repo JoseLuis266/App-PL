@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-17756",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-17756",
+  "sha256": "49e8b18b0f49bef324973d849671081d72caa3e1e68ac511b3329919a8bd7c07",
+  "archivo": "data/raw/49e8b18b0f49bef324973d849671081d72caa3e1e68ac511b3329919a8bd7c07.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:47.171461+00:00"
+}

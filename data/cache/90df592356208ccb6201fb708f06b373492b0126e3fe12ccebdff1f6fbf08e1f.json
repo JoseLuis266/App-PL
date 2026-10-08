@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/metadatos",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/metadatos",
+  "sha256": "f5e6fc6080422a40932638424a5beb5bb31fce233cdc9d2108c4b2e075f74e5e",
+  "archivo": "data/raw/f5e6fc6080422a40932638424a5beb5bb31fce233cdc9d2108c4b2e075f74e5e.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:31:45.158588+00:00"
+}

@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto/bloque/a385bis",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto/bloque/a385bis",
+  "sha256": "961711821c93e2fa3323995aad7eedb077825c149f7cc0e3ea160f93d42dcfa6",
+  "archivo": "data/raw/961711821c93e2fa3323995aad7eedb077825c149f7cc0e3ea160f93d42dcfa6.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T18:10:31.127413+00:00"
+}

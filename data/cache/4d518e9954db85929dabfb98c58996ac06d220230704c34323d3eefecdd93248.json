@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-2386",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-2386",
+  "sha256": "e3d284941dbf1268a3c6d048eedbe8059bbdddafe3d095d6736386bbbf88f917",
+  "archivo": "data/raw/e3d284941dbf1268a3c6d048eedbe8059bbdddafe3d095d6736386bbbf88f917.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:49.097969+00:00"
+}

@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2015-1061",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2015-1061",
+  "sha256": "d2a0871cbe76de04492e9cecf9e9a9ab07ac9c80b8a306ecdba9a32f08ba5678",
+  "archivo": "data/raw/d2a0871cbe76de04492e9cecf9e9a9ab07ac9c80b8a306ecdba9a32f08ba5678.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:15.640098+00:00"
+}

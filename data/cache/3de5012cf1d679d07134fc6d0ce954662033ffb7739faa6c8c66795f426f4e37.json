@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-12527",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-12527",
+  "sha256": "f6fe868d03fc8d69dc7d3b0fdc259546b648d736c2a4b8814eae5b123b47da95",
+  "archivo": "data/raw/f6fe868d03fc8d69dc7d3b0fdc259546b648d736c2a4b8814eae5b123b47da95.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:23.027323+00:00"
+}

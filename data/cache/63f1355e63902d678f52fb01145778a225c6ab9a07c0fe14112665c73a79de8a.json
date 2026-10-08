@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1985-64",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1985-64",
+  "sha256": "bd44fd7d2074bc6f7acb2b8bfd84377a8fbf1825605a4c7576b757358a5dd007",
+  "archivo": "data/raw/bd44fd7d2074bc6f7acb2b8bfd84377a8fbf1825605a4c7576b757358a5dd007.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:20:35.269152+00:00"
+}

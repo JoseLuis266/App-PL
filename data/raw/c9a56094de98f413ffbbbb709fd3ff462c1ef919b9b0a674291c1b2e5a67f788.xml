@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a385ter" tipo="precepto" titulo="Artículo 385 ter">
+      <version id_norma="BOE-A-2010-9953" fecha_publicacion="20100623" fecha_vigencia="20101223">
+        <p class="articulo">Artículo 385 ter.</p>
+        <p class="parrafo">En los delitos previstos en los artículos 379, 383, 384 y 385, el Juez o Tribunal, razonándolo en sentencia, podrá rebajar en un grado la pena de prisión en atención a la menor entidad del riesgo causado y a las demás circunstancias del hecho.</p>
+        <blockquote>
+          <p class="nota_pie">Se añade por el art. único.112 de la Ley Orgánica 5/2010, de 22 de junio. <a class="refPost">Ref. BOE-A-2010-9953</a></p>
+        </blockquote>
+        <p>
+          <span class="parrafo"> </span>
+        </p>
+      </version>
+    </bloque>
+  </data>
+</response>

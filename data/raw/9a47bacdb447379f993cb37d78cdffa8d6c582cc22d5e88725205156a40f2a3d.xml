@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20251218202601">
+  <metadatos>
+    <identificador>BOE-A-2001-11659</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="5270">Ministerio de Ciencia y Tecnología</departamento>
+    <rango codigo="1350">Orden</rango>
+    <fecha_disposicion>20010606</fecha_disposicion>
+    <numero_oficial/>
+    <titulo>Orden de 6 de junio de 2001 por la que se determinan las condiciones técnicas que deben cumplir las láminas de material plástico destinadas a ser adheridas a los vidrios de las ventanas laterales traseras y a los de la luneta trasera de los vehículos de motor en servicio.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>20010619</fecha_publicacion>
+    <diario_numero>146</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>21589</pagina_inicial>
+    <pagina_final>21591</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/2001/06/19/pdfs/A21589-21591.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia>20010620</fecha_vigencia>
+    <estatus_derogacion>S</estatus_derogacion>
+    <fecha_derogacion>20101024</fecha_derogacion>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>S</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/o/2001/06/06/(1)</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/o/2001/06/06/(1)">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/o"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2001-11659</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2001-06-06</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1)</eli:number>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4020"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6054"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/7116"/>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/o/2001/06/06/(1)/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/o"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2001-11659</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2001-06-06</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1)</eli:number>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4020"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6054"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/7116"/>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/o/2001/06/06/(1)"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/o/2001/06/06/(1)/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orden de 6 de junio de 2001 por la que se determinan las condiciones técnicas que deben cumplir las láminas de material plástico destinadas a ser adheridas a los vidrios de las ventanas laterales traseras y a los de la luneta trasera de los vehículos de motor en servicio.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2001-06-19</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/o/2001/06/06/(1)/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2001/06/06/(1)/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2001/06/06/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2001/06/06/(1)/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2001/06/06/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2001/06/06/(1)/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2001/06/06/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="4020" orden="1">Homologación</materia>
+      <materia codigo="6054" orden="2">Remolques</materia>
+      <materia codigo="7116" orden="3">Vehículos de motor</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="DOUE-L-1992-80673" orden="3020">
+          <palabra codigo="426">TRANSPONE</palabra>
+          <texto>la Directiva 92/22/CEE, de 31 de marzo</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1999-1826" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>los arts. 11 y 12 del Reglamento aprobado por Real Decreto 2822/1998, de 23 de diciembre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores>
+        <posterior referencia="BOE-A-2010-11822" orden="">
+          <palabra codigo="210">SE DEROGA</palabra>
+          <texto>, por Orden ITC/1992/2010, de 14 de julio</texto>
+        </posterior>
+        <posterior referencia="BOE-A-2004-14654" orden="">
+          <palabra codigo="270">SE MODIFICA</palabra>
+          <texto>el apartado 3.1.b), por Orden ITC/2664/2004, de 2 de agosto de 2004</texto>
+        </posterior>
+      </posteriores>
+    </referencias>
+    <alertas/>
+  </analisis>
+  <texto>
+    <p class="parrafo">Las láminas de material plástico adhesivas pueden homologarse junto con el vidrio al que van destinadas, en aplicación de la Directiva 92/22/CEE del Consejo, de 31 de marzo, relativa a los cristales de seguridad y a los materiales para acristalamiento de vehículos a motor y sus remolques, o del Reglamento de la CEPE/ONU 43R00. Sin embargo, en interpretación de los servicios de la Comisión Europea, estas reglamentaciones no se extienden al caso de una lámina que vaya a ser adherida a un vidrio sobre el cual no ha sido homologada y que forme parte de un vehículo en servicio.</p>
+    <p class="parrafo">En aplicación de ese criterio, la Comisión Europea ha incoado un procedimiento de infracción contra el Reino de España instando a las autoridades españolas para que ajusten su legislación a las exigencias de la libre circulación de mercancías regulada en el artículo 28 del Tratado constitutivo de la Comunidad Europea. La acomodación necesaria para superar el citado procedimiento exige interpretar en el sentido señalado por la Comisión las disposiciones contenidas en el artículo 11 y 12 del Reglamento General de Vehículos, aprobado por el Real Decreto 2822/1998, de 23 de diciembre, sobre los elementos y materiales transparentes de los vehículos que tienen por objeto garantizar la visibilidad del conductor y reducir los riesgos de lesiones corporales en caso de rotura o impacto contra ellos.</p>
+    <p class="parrafo">Esta disposición ha sido sometida al procedimiento de información en materia de normas y reglamentaciones técnicas y de reglamentos relativos a los servicios de la sociedad de la información, previsto en la Directiva 98/34/CE del Parlamento Europeo y del Consejo de 22 de junio, modificada por la Directiva 98/48/CE de 20 de julio, así como en el Real Decreto 1337/1999, de 31 de julio que incorpora estas Directivas al ordenamiento jurídico español.</p>
+    <p class="parrafo">Con objeto de resolver las cuestiones anteriores en línea con la interpretación de la Comisión Europea, se dicta la presente Orden que pretende establecer las condiciones mínimas técnicas que deben emplearse en el montaje de estas láminas de modo que no se alteren las condiciones de seguridad exigidas a los vehículos en servicio para circular por las vías públicas; y para facilitar y promover la libre circulación de bienes y de servicios. Esta Orden ha sido informada favorablemente por la Comisión Europea.</p>
+    <p class="parrafo">La disposición final primera del Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento General de Vehículos, faculta al Ministro de Industria y Energía (cuyas competencias en la materia han sido atribuidas al Ministerio de Ciencia y Tecnología por el Real Decreto 557/2000, de 27 de abril, de reestructuración de los Departamentos ministeriales) para dictar las disposiciones necesarias para la aplicación e interpretación del mismo. Todo ello, al amparo de la competencia estatal prevista en el artículo 149.1.13.<sup>a </sup>de la Constitución, relativa a las bases y coordinación de la planificación general de la actividad económica.</p>
+    <p class="parrafo">En su virtud,</p>
+    <p class="centro_redonda">DISPONGO:</p>
+    <p class="articulo">Primero. Ámbito de aplicación.</p>
+    <p class="parrafo">Conforme a lo establecido en los artículos 11 y 12 del Reglamento General de Vehículos, aprobado por el Real Decreto 2822/1998, de 23 de diciembre, las especificaciones contenidas en la presente disposición se aplicarán a las láminas adhesivas no homologadas conjuntamente con el vidrio soporte y destinadas a ser adheridas en los vidrios de seguridad homologados ya instalados en las ventanas laterales traseras o en la luneta trasera de los vehículos de motor y sus remolques en servicio que se ensayen en cualquier laboratorio acreditado conforme a lo dispuesto en el apartado tercero de la presente disposición.</p>
+    <p class="articulo">Segundo. Definiciones.</p>
+    <p class="parrafo_2">A los efectos de la presente disposición se entiende por:</p>
+    <p class="parrafo_2">1. «Acristalado de vidrio templado homologado», el acristalado formado por una sola hoja de vidrio a la que se ha sometido a un tratamiento especial para aumentar la resistencia mecánica y controlar la fragmentación en caso de rotura; que está provisto del correspondiente número de homologación y que está destinado a ser utilizado como acristalamiento en casos distintos del parabrisas delantero.</p>
+    <p class="parrafo">2. «Lámina plástica», la lámina de material plástico destinada a ser adherida en la superficie interior del vidrio homologado de un vehículo, que no esté situado en el campo de visión directa del conductor en 180<sup>o </sup>hacia adelante.</p>
+    <p class="parrafo">3. «Altura del segmento», la distancia máxima entre la superficie más interior del vidrio y un plano que pasa por el borde más alejado del mismo, medida en una dirección prácticamente normal al vidrio.</p>
+    <p class="parrafo">4. «Tipo de la lámina adhesiva», las láminas adhesivas que no presenten entre sí diferencias esenciales, en particular, con referencia a las características siguientes:</p>
+    <p class="parrafo_2">a) el nombre del fabricante o designación comercial;</p>
+    <p class="parrafo">b) el marcado del modelo dado por el fabricante;</p>
+    <p class="parrafo">c) el proceso de fabricación;</p>
+    <p class="parrafo">d) el número de láminas componentes que la forman;</p>
+    <p class="parrafo">e) el espesor nominal de la lámina. Se permitirá una tolerancia de ± 20 por 100 del espesor indicado por el fabricante;</p>
+    <p class="parrafo">f) el color de la lámina;</p>
+    <p class="parrafo">g) la naturaleza del adhesivo y el sistema que debe utilizarse para su adhesión.</p>
+    <p class="articulo">Tercero. Ensayos.</p>
+    <p class="parrafo">1. Láminas que se ensayen en un laboratorio acreditado en España.–La solicitud de ensayo la realizará el fabricante de la lámina o su representante debidamente acreditado e irá acompañada de la documentación y de las muestras que se especifican a continuación:</p>
+    <p class="parrafo_2">a) una descripción técnica del proceso de fabricación de la lámina y del sistema de adhesión al vidrio.</p>
+    <p class="parrafo">b) doce muestras de vidrio soporte que tengan las siguientes características: longitud mínima desarrollada, 1.350 mm; anchura mínima desarrollada, 400 mm; altura mínima del segmento, 180 mm.</p>
+    <p class="parrafo_2">Cada muestra deberá estar provista, como mínimo, de cuatro elementos de calefacción (hilos de luneta térmica). De las doce muestras, seis tendrán un espesor nominal de 3 mm y las seis restantes tendrán un espesor nominal de 5 mm. De cada grupo de muestra de seis láminas, cuatro deberán tener adherida la lámina adhesiva objeto del ensayo. Se admitirán tanto las muestras especialmente fabricadas a los propósitos de estos ensayos como muestras de vidrios comerciales que existan en el mercado.</p>
+    <p class="parrafo">2. Ensayos a realizar.–Cada grupo de seis muestras numeradas será sometido a los ensayos que se especifican en el cuadro siguiente, sobre las muestras que asimismo se determinan:</p>
+    <table class="tabla">
+      <thead>
+        <tr>
+          <th class="cabeza_tabla" rowspan="2">Tipo de ensayo</th>
+          <th class="cabeza_tabla" colspan="4">
+            <p>Con lámina adherida</p>
+            <p>muestra N.<sup>o</sup></p>
+          </th>
+          <th class="cabeza_tabla" colspan="2">
+            <p>Sin lámina adherida</p>
+            <p>muestra N.<sup>o</sup></p>
+          </th>
+        </tr>
+        <tr>
+          <th class="cabeza_tabla">1</th>
+          <th class="cabeza_tabla">2</th>
+          <th class="cabeza_tabla">3</th>
+          <th class="cabeza_tabla">4</th>
+          <th class="cabeza_tabla">5</th>
+          <th class="cabeza_tabla">6</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="cuerpo_tabla_izq">Fragmentación.</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+        </tr>
+        <tr>
+          <td class="cuerpo_tabla_izq">Resistencia al fuego.</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro">X</td>
+          <td class="cuerpo_tabla_centro"> </td>
+          <td class="cuerpo_tabla_centro"> </td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="parrafo_2">a) Ensayo de fragmentación.</p>
+    <p class="parrafo_2">El vidrio que se desee ensayar no deberá fijarse de forma rígida. No obstante, podrá unirse a un vidrio idéntico con tiras adhesivas pegadas a todo su alrededor.</p>
+    <p class="parrafo">Para efectuar la fragmentación se utilizará un martillo de un peso de unos 75 g u otro dispositivo con el que se obtengan resultados equivalentes. El radio de curvatura de la punta será de 0,2 ± 0,05 mm. El punto de impacto será el centro geométrico de la muestra.</p>
+    <p class="parrafo">El examen de los fragmentos deberá realizarse con copias obtenidas en papel fotográfico de contacto, debiendo comenzar la exposición, a más tardar, diez segundos después del impacto y terminar, como máximo, tres minutos después del mismo. Sólo se tomarán en consideración las líneas marcadas, representativas de la rotura inicial. El Laboratorio deberá conservar las reproducciones fotográficas de las fragmentaciones obtenidas.</p>
+    <p class="parrafo">El resultado de la fragmentación en la muestra provista de lámina y en la muestra sin lámina será equivalente. Esta equivalencia podrá demostrar la posible interacción de la lámina sobre el vidrio soporte homologado.</p>
+    <p class="parrafo">Si la equivalencia no resulta evidente o si sobre las muestras con lámina aparecen fragmentos con superficie mayor de 300 mm<sup>2</sup>, longitud mayor de 70 mm o el número de fragmentos en cualquier cuadrado de 50 × 50 mm no es inferior a 40 ni superior a 400, (o a 450 en el caso de vidrios cuyo espesor no exceda de 3,5 mm), se entenderá que la colocación de la lámina sobre el vidrio soporte modifica las características del templado del vidrio y se considerará que el ensayo no ha dado resultados válidos. A los efectos del cálculo, los fragmentos situados de manera que sobresalgan parcialmente de un lado del cuadrado serán contado como medio fragmento, y no se tendrán en cuenta los fragmentos que se encuentren dentro de una franja de 20 mm de anchura alrededor del contorno de la muestra y que representa el encastre del vidrio, ni en un radio de 75 mm alrededor del punto de impacto.</p>
+    <p class="parrafo_2">b) Ensayo de resistencia al fuego.</p>
+    <p class="parrafo_2">Se colocará la muestra horizontalmente sobre un soporte en forma de «U» y se expondrá al efecto de la llama viva durante 15 segundos de manera que la llama incida sobre el borde libre de la muestra y por el lado de la lámina adhesiva. La llama se producirá mediante la instrumentación y los medios siguientes:</p>
+    <p class="parrafo_2">Mechero Bunsen con 9,5 mm de Ø interior.</p>
+    <p class="parrafo">La boquilla se colocará 19 mm por debajo del lado interior del borde libre de la muestra.</p>
+    <p class="parrafo">El gas de combustión deberá ser del tipo comercial (aproximadamente 38 MJ/m<sup>3</sup>).</p>
+    <p class="parrafo_2">Se considerará que el resultado del ensayo es válido si, después de 15 segundos de exposición a la llama viva, no se produce ignición de la lámina o, en el caso de que se produzca, se autoextingue en un plazo no superior a 5 segundos.</p>
+    <p class="parrafo">3. Láminas que hayan sido ensayadas en un laboratorio acreditado por otro Estado miembro o por un país integrante del Acuerdo Europeo de Libre Comercio (AELC), parte contratante del Acuerdo sobre el Espacio Económico Europeo (en lo sucesivo E.E.E.).</p>
+    <p class="parrafo">Se considera que estas láminas satisfacen las disposiciones de esta Orden cuando el laboratorio acreditado en España certifique que los ensayos realizados en aquel laboratorio pueden considerarse equivalentes a los prescritos por la presente Orden, tanto en lo que concierne a los tipos de ensayos como a los resultados exigidos.</p>
+    <p class="articulo">Cuarto. Marcado.</p>
+    <p class="parrafo">Todas las láminas, incluidas las presentadas a los ensayos, deberán llevar la marca de fábrica o comercial de la lámina fijada por el fabricante. Esta marca deberá ser claramente legible e indeleble aun cuando la lámina esté adherida al vidrio soporte.</p>
+    <p class="articulo">Quinto. Conformidad de la producción.</p>
+    <p class="parrafo">Los fabricantes dispondrán de un sistema de Calidad que garantice el cumplimiento por las láminas adhesivas de las especificaciones técnicas anteriormente descritas. El Organismo competente en materia de Seguridad podrá solicitar en todo momento la conformidad de la producción hecha por el fabricante.</p>
+    <p class="articulo">Sexto. Especificaciones de instalación.</p>
+    <p class="parrafo">1. Las láminas de material plástico adhesivas por el interior del vidrio no podrán montarse sobre el parabrisas delantero, ni sobre las ventanas laterales anteriores del vehículo si están incluidas en el arco de 180<sup>o </sup>de visión directa hacia adelante del conductor. Tampoco podrán montarse sobre vidrios de ventana o de salida de vehículos que estén marcados como «ventana de socorro», «salida de socorro» o cualquier otra marca de significado equivalente.</p>
+    <p class="parrafo">Los vehículos equipados con láminas de material plástico adhesivas por el interior de la luneta trasera deberán estar equipados con dos espejos retrovisores exteriores, uno a la izquierda y otro a la derecha del conductor, homologados según la Directiva 71/127/CEE o el Reglamento CEPE/ONU 46R01.</p>
+    <p class="parrafo">2. El órgano competente de la Comunidad Autónoma en la que se efectúe la inspección inicial del montaje de las láminas verificará a la vista del marcado, si éstas se corresponden con las certificadas por el laboratorio acreditado en virtud de los puntos 1 y 3 del apartado tercero de la presente Orden. Si en el marco de dicha verificación se encontrase con serios indicios de fraude recabará la presentación de una copia del acta de ensayo de las láminas.</p>
+    <p class="parrafo">Dicha autoridad verificará igualmente si se respetan las especificaciones técnicas de instalación contenidas en el apartado primero de este artículo, y controlarán que la adhesión de las láminas a los vidrios laterales o posteriores del vehículo se efectúan de manera que no existan burbujas ni síntomas de despegue entre ambos cuerpos.</p>
+    <p class="parrafo">La vigilancia de las condiciones en que permanecen las láminas adhesivas serán objeto de comprobación en la Inspección Técnica de Vehículos periódica.</p>
+    <p class="articulo">Séptimo. Entrada en vigor.</p>
+    <p class="parrafo_2">La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo_2">Madrid, 6 de junio de 2001.</p>
+    <p class="firma_rey">BIRULÉS I BERTRAN</p>
+    <p class="parrafo_2">Excmo. Sr. Secretario de Estado de Política Científica y Tecnológica.</p>
+    <p class="parrafo_2"> </p>
+    <p class="parrafo"> </p>
+  </texto>
+</documento>

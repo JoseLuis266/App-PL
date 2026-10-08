@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a3-10",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/bloque/a3-10",
+  "sha256": "b83b7039550c5ed6bf8ce757bb3a30d35da8ceefbe4a3d400fce8d21bbabc9f3",
+  "archivo": "data/raw/b83b7039550c5ed6bf8ce757bb3a30d35da8ceefbe4a3d400fce8d21bbabc9f3.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:07:23.732961+00:00"
+}

@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-3514",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-3514",
+  "sha256": "afa7e3065e829c002d6fcc341620bab8fed43cb2620acc8833b923a9ce6aa0e9",
+  "archivo": "data/raw/afa7e3065e829c002d6fcc341620bab8fed43cb2620acc8833b923a9ce6aa0e9.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:07.000023+00:00"
+}

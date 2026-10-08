@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1994-22921",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1994-22921",
+  "sha256": "ddfb130d0eebca5a926f52a508d7c16e3dda5fa47b502167a8697ff48a8808d4",
+  "archivo": "data/raw/ddfb130d0eebca5a926f52a508d7c16e3dda5fa47b502167a8697ff48a8808d4.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:20:56.530495+00:00"
+}

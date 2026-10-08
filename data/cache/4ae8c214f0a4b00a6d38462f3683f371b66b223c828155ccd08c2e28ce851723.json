@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1988-12744",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1988-12744",
+  "sha256": "dac8c8a7b1cf7903296fb1620c9917f03ce7f22389d58ffc05f8dea4825057d6",
+  "archivo": "data/raw/dac8c8a7b1cf7903296fb1620c9917f03ce7f22389d58ffc05f8dea4825057d6.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:20:42.691638+00:00"
+}

@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-4407",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-4407",
+  "sha256": "9ddc0dc2284868d380f85db90cdfbbc031547954841b574bd0aa3fdcaff2d1b2",
+  "archivo": "data/raw/9ddc0dc2284868d380f85db90cdfbbc031547954841b574bd0aa3fdcaff2d1b2.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:40.052259+00:00"
+}

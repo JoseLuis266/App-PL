@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a51",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/bloque/a51",
+  "sha256": "ecf4299a42c280e235457fe3b08cdde530f50ebba3578f99655a4b9c37416fb6",
+  "archivo": "data/raw/ecf4299a42c280e235457fe3b08cdde530f50ebba3578f99655a4b9c37416fb6.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:05:51.623246+00:00"
+}

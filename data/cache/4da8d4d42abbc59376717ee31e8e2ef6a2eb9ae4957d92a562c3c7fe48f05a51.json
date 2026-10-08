@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1882-6036/texto/bloque/a594",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1882-6036/texto/bloque/a594",
+  "sha256": "bcf079507a35f65cb11ba9eb59be2c3c1c9fb8e6304457ba6d7474db23af0d3d",
+  "archivo": "data/raw/bcf079507a35f65cb11ba9eb59be2c3c1c9fb8e6304457ba6d7474db23af0d3d.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:06:39.851160+00:00"
+}

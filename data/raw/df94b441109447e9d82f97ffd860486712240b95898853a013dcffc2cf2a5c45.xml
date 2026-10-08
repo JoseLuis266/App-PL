@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a6-9" tipo="precepto" titulo="Artículo 67">
+      <version id_norma="BOE-A-2018-16673" fecha_publicacion="20181206" fecha_vigencia="20181207">
+        <p class="articulo">Artículo 67. Actuaciones previas de investigación.</p>
+        <p class="parrafo">1. Antes de la adopción del acuerdo de inicio de procedimiento, y una vez admitida a trámite la reclamación si la hubiese, la Agencia Española de Protección de Datos podrá llevar a cabo actuaciones previas de investigación a fin de lograr una mejor determinación de los hechos y las circunstancias que justifican la tramitación del procedimiento.</p>
+        <p class="parrafo">La Agencia Española de Protección de Datos actuará en todo caso cuando sea precisa la investigación de tratamientos que implique un tráfico masivo de datos personales.</p>
+        <p class="parrafo">2. Las actuaciones previas de investigación se someterán a lo dispuesto en la Sección 2.ª del Capítulo I del Título VII de esta ley orgánica y no podrán tener una duración superior a doce meses a contar desde la fecha del acuerdo de admisión a trámite o de la fecha del acuerdo por el que se decida su iniciación cuando la Agencia Española de Protección de Datos actúe por propia iniciativa o como consecuencia de la comunicación que le hubiera sido remitida por la autoridad de control de otro Estado miembro de la Unión Europea, conforme al artículo 64.3 de esta ley orgánica.</p>
+      </version>
+      <version id_norma="BOE-A-2023-11022" fecha_publicacion="20230509" fecha_vigencia="20230510">
+        <p class="articulo">Artículo 67. Actuaciones previas de investigación.</p>
+        <p class="parrafo">1. Antes de la adopción del acuerdo de inicio de procedimiento, y una vez admitida a trámite la reclamación si la hubiese, la Agencia Española de Protección de Datos podrá llevar a cabo actuaciones previas de investigación a fin de lograr una mejor determinación de los hechos y las circunstancias que justifican la tramitación del procedimiento.</p>
+        <p class="parrafo">La Agencia Española de Protección de Datos actuará en todo caso cuando sea precisa la investigación de tratamientos que implique un tráfico masivo de datos personales.</p>
+        <p class="parrafo">2. Las actuaciones previas de investigación se someterán a lo dispuesto en la sección 2.ª del capítulo I del título VII de esta ley orgánica y no podrán tener una duración superior a dieciocho meses a contar desde la fecha del acuerdo de admisión a trámite o de la fecha del acuerdo por el que se decida su iniciación cuando la Agencia Española de Protección de Datos actúe por propia iniciativa.</p>
+        <blockquote>
+          <p class="nota_pie">Se modifica el apartado 2 por la disposición final 9.7 de la Ley 11/2023, de 8 de mayo. <a class="refPost">Ref. BOE-A-2023-11022#df-9</a></p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

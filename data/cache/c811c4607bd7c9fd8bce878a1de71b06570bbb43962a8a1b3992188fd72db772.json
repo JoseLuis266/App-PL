@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1986-19505",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1986-19505",
+  "sha256": "95e52ae7b0162e39e36e9881963a41d41ef8e2e5e94f04b83c2fc8d63ce0961c",
+  "archivo": "data/raw/95e52ae7b0162e39e36e9881963a41d41ef8e2e5e94f04b83c2fc8d63ce0961c.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:20:36.217098+00:00"
+}

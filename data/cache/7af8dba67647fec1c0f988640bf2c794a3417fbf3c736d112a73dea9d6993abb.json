@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1974-1189",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1974-1189",
+  "sha256": "1b99bca343426fa6c1785261ad040e85b4f7caafe009af110362ec882e781dd3",
+  "archivo": "data/raw/1b99bca343426fa6c1785261ad040e85b4f7caafe009af110362ec882e781dd3.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:19:37.243995+00:00"
+}

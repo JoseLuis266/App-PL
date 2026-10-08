@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1967-5578",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1967-5578",
+  "sha256": "4f805031b59e2ecd3d15b4ceea51aac5052acc38bed67288dff8100b9112dd54",
+  "archivo": "data/raw/4f805031b59e2ecd3d15b4ceea51aac5052acc38bed67288dff8100b9112dd54.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:19:36.516726+00:00"
+}

@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto/bloque/a280",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto/bloque/a280",
+  "sha256": "a2f6fcf2716550b06a1c41b793187badaec8155394fefffad9081c0f3e53893a",
+  "archivo": "data/raw/a2f6fcf2716550b06a1c41b793187badaec8155394fefffad9081c0f3e53893a.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:25:29.784858+00:00"
+}

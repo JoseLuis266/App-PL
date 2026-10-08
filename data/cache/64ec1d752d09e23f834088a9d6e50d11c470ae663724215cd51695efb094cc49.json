@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-13263",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-13263",
+  "sha256": "77ff81454c0c4490f03008dddc0f5b14a6abfbddd5485090fa49f71285e757eb",
+  "archivo": "data/raw/77ff81454c0c4490f03008dddc0f5b14a6abfbddd5485090fa49f71285e757eb.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:23.757006+00:00"
+}

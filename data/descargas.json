@@ -1,0 +1,602 @@
+[
+  {
+    "id_norma": "ce",
+    "endpoint": "metadatos",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/metadatos",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/metadatos",
+    "sha256": "9a963cf4e0b6e610fd86312d7db178728b3e98f1c16df3b27f0eaaa369c1f00f",
+    "archivo": "data/raw/9a963cf4e0b6e610fd86312d7db178728b3e98f1c16df3b27f0eaaa369c1f00f.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:57:31.838783+00:00"
+  },
+  {
+    "id_norma": "ce",
+    "endpoint": "texto",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto",
+    "sha256": "f4cf08f1255614b88bcb848ad72faf41e3a10c0b7cbd4dcb98a8198cb2e9048a",
+    "archivo": "data/raw/f4cf08f1255614b88bcb848ad72faf41e3a10c0b7cbd4dcb98a8198cb2e9048a.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:57:33.030504+00:00"
+  },
+  {
+    "id_norma": "ce",
+    "endpoint": "texto/indice",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/indice",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/texto/indice",
+    "sha256": "b9b92e33459b6d1d0194ce0cd33640ebce572e99438e1af51d76d7dfc78f6658",
+    "archivo": "data/raw/b9b92e33459b6d1d0194ce0cd33640ebce572e99438e1af51d76d7dfc78f6658.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:57:33.856591+00:00"
+  },
+  {
+    "id_norma": "ce",
+    "endpoint": "analisis",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/analisis",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/analisis",
+    "sha256": "429403496eb73870985092bc61caf043d09f81e12c22644ed2a6d7e7f1ca2f8a",
+    "archivo": "data/raw/429403496eb73870985092bc61caf043d09f81e12c22644ed2a6d7e7f1ca2f8a.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:57:34.716659+00:00"
+  },
+  {
+    "id_norma": "estatuto",
+    "endpoint": "metadatos",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-4233/metadatos",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-4233/metadatos",
+    "sha256": "f72d9a725c33fe98f58a9c20b0cd4ac82d532663a7b61bff21aa4a41fc9dcfed",
+    "archivo": "data/raw/f72d9a725c33fe98f58a9c20b0cd4ac82d532663a7b61bff21aa4a41fc9dcfed.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:57:35.631399+00:00"
+  },
+  {
+    "id_norma": "estatuto",
+    "endpoint": "texto",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-4233/texto",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-4233/texto",
+    "sha256": "a246d2445e171611eb9d6927a666e44d48af8afab2d5b4d4dfaa4cc62113fbe0",
+    "archivo": "data/raw/a246d2445e171611eb9d6927a666e44d48af8afab2d5b4d4dfaa4cc62113fbe0.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:57:37.163957+00:00"
+  },
+  {
+    "id_norma": "estatuto",
+    "endpoint": "texto/indice",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-4233/texto/indice",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-4233/texto/indice",
+    "sha256": "d69faeab029bd95df0b3571204006e1167f05a76aa8d268b3be3e5fdfa5ad2e8",
+    "archivo": "data/raw/d69faeab029bd95df0b3571204006e1167f05a76aa8d268b3be3e5fdfa5ad2e8.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:57:37.645268+00:00"
+  },
+  {
+    "id_norma": "estatuto",
+    "endpoint": "analisis",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-4233/analisis",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-4233/analisis",
+    "sha256": "1809cee87642bb17e8bc3811e0ecf8723cf58806ac257063fb4cbc0059126664",
+    "archivo": "data/raw/1809cee87642bb17e8bc3811e0ecf8723cf58806ac257063fb4cbc0059126664.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:57:38.701047+00:00"
+  },
+  {
+    "id_norma": "local",
+    "endpoint": "metadatos",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-1893/metadatos",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-1893/metadatos",
+    "sha256": "a5e38f49e97080454f1362bbde0e04508a78361aa2e3d501eead5403d3edb2df",
+    "archivo": "data/raw/a5e38f49e97080454f1362bbde0e04508a78361aa2e3d501eead5403d3edb2df.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:57:39.766091+00:00"
+  },
+  {
+    "id_norma": "local",
+    "endpoint": "texto",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-1893/texto",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-1893/texto",
+    "sha256": "5301fb1c5e270fe026cc254df50047b7b77fb581617030298418b572b97832a9",
+    "archivo": "data/raw/5301fb1c5e270fe026cc254df50047b7b77fb581617030298418b572b97832a9.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:57:41.420907+00:00"
+  },
+  {
+    "id_norma": "local",
+    "endpoint": "texto/indice",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-1893/texto/indice",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-1893/texto/indice",
+    "sha256": "6ebb418301d9e2a5f9274d505e7965750ce08c98947e5cbf37526139b516fc79",
+    "archivo": "data/raw/6ebb418301d9e2a5f9274d505e7965750ce08c98947e5cbf37526139b516fc79.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:57:41.887158+00:00"
+  },
+  {
+    "id_norma": "local",
+    "endpoint": "analisis",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-1893/analisis",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-1893/analisis",
+    "sha256": "aeaccd4d96a0ab2e3d3902ca512767be780c81997bc1f493d746c9de2935d016",
+    "archivo": "data/raw/aeaccd4d96a0ab2e3d3902ca512767be780c81997bc1f493d746c9de2935d016.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:57:43.048097+00:00"
+  },
+  {
+    "id_norma": "trafico",
+    "endpoint": "metadatos",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-11722/metadatos",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-11722/metadatos",
+    "sha256": "437c8b3977f054ba5f359abecfd732f93e348cf85a76e865bda7ed4c4e23c858",
+    "archivo": "data/raw/437c8b3977f054ba5f359abecfd732f93e348cf85a76e865bda7ed4c4e23c858.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:57:44.116544+00:00"
+  },
+  {
+    "id_norma": "trafico",
+    "endpoint": "texto",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-11722/texto",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-11722/texto",
+    "sha256": "d44b9fb0ccccb98edbada0432dccaafa330ec6bd078587941cd90b2c95776c8f",
+    "archivo": "data/raw/d44b9fb0ccccb98edbada0432dccaafa330ec6bd078587941cd90b2c95776c8f.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:57:45.685413+00:00"
+  },
+  {
+    "id_norma": "trafico",
+    "endpoint": "texto/indice",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-11722/texto/indice",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-11722/texto/indice",
+    "sha256": "1076a15a026e37f02458fa3b2373cdbd28252e8dfcc9f420d353fe8a88a34096",
+    "archivo": "data/raw/1076a15a026e37f02458fa3b2373cdbd28252e8dfcc9f420d353fe8a88a34096.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:57:46.328479+00:00"
+  },
+  {
+    "id_norma": "trafico",
+    "endpoint": "analisis",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-11722/analisis",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-11722/analisis",
+    "sha256": "4a9eb9e9c13bfd6f899f7af52b9042b8834f92bee1446a33408690432271c7a4",
+    "archivo": "data/raw/4a9eb9e9c13bfd6f899f7af52b9042b8834f92bee1446a33408690432271c7a4.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:57:47.171042+00:00"
+  },
+  {
+    "id_norma": "circulacion",
+    "endpoint": "metadatos",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-23514/metadatos",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-23514/metadatos",
+    "sha256": "e0af8b7a6cdd95a8bc705eea09ba9167f4a96633337a951dd78dd173a5b99b29",
+    "archivo": "data/raw/e0af8b7a6cdd95a8bc705eea09ba9167f4a96633337a951dd78dd173a5b99b29.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:57:48.325554+00:00"
+  },
+  {
+    "id_norma": "circulacion",
+    "endpoint": "texto",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-23514/texto",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-23514/texto",
+    "sha256": "1105a26b121e2048816438ddf8a36910e04d5a92ee49e87982608d027ab40072",
+    "archivo": "data/raw/1105a26b121e2048816438ddf8a36910e04d5a92ee49e87982608d027ab40072.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:57:50.064926+00:00"
+  },
+  {
+    "id_norma": "circulacion",
+    "endpoint": "texto/indice",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-23514/texto/indice",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-23514/texto/indice",
+    "sha256": "6130d082011f8dbea1f9e5fa9f62c30add53836ebfce9eab00e297e41141b8c4",
+    "archivo": "data/raw/6130d082011f8dbea1f9e5fa9f62c30add53836ebfce9eab00e297e41141b8c4.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:57:50.607614+00:00"
+  },
+  {
+    "id_norma": "circulacion",
+    "endpoint": "analisis",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-23514/analisis",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-23514/analisis",
+    "sha256": "c7a6ebf91eeeca23d1c666c608c379665d38f70ae0ed4c54692cd565133ee59d",
+    "archivo": "data/raw/c7a6ebf91eeeca23d1c666c608c379665d38f70ae0ed4c54692cd565133ee59d.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:57:51.382216+00:00"
+  },
+  {
+    "id_norma": "conductores",
+    "endpoint": "metadatos",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-9481/metadatos",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-9481/metadatos",
+    "sha256": "a19e3081c7906cb035f4aa2a6cd28fa69f678f08000ec8a3171ddb0e027340ce",
+    "archivo": "data/raw/a19e3081c7906cb035f4aa2a6cd28fa69f678f08000ec8a3171ddb0e027340ce.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:57:52.417878+00:00"
+  },
+  {
+    "id_norma": "conductores",
+    "endpoint": "texto",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-9481/texto",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-9481/texto",
+    "sha256": "984131262402ae94f50edc33bc9e05b40172bfcfabb8358921c07a8e17fbab8b",
+    "archivo": "data/raw/984131262402ae94f50edc33bc9e05b40172bfcfabb8358921c07a8e17fbab8b.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:57:54.450650+00:00"
+  },
+  {
+    "id_norma": "conductores",
+    "endpoint": "texto/indice",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-9481/texto/indice",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-9481/texto/indice",
+    "sha256": "a2f55032ecc0e2e1923e4aeb2104865ca3bd0b5997952c076754a0404bbcf3fb",
+    "archivo": "data/raw/a2f55032ecc0e2e1923e4aeb2104865ca3bd0b5997952c076754a0404bbcf3fb.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:57:56.590490+00:00"
+  },
+  {
+    "id_norma": "conductores",
+    "endpoint": "analisis",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-9481/analisis",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-9481/analisis",
+    "sha256": "c81ecbdb50e8be030260a82bf1ca2afa75ff8a49228a55fa58a7d2d30b1a2901",
+    "archivo": "data/raw/c81ecbdb50e8be030260a82bf1ca2afa75ff8a49228a55fa58a7d2d30b1a2901.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:57:58.603809+00:00"
+  },
+  {
+    "id_norma": "vehiculos",
+    "endpoint": "metadatos",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/metadatos",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/metadatos",
+    "sha256": "e9b835eb7e24a25af3aaf5b87da3770a36171d075e18b2faa7c96403b7c01a11",
+    "archivo": "data/raw/e9b835eb7e24a25af3aaf5b87da3770a36171d075e18b2faa7c96403b7c01a11.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:00.710775+00:00"
+  },
+  {
+    "id_norma": "vehiculos",
+    "endpoint": "texto",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto",
+    "sha256": "6062cd9015bde99d7e2ff9e2c1418114e9aa36963fef79fc09cf9399a6aa1fe7",
+    "archivo": "data/raw/6062cd9015bde99d7e2ff9e2c1418114e9aa36963fef79fc09cf9399a6aa1fe7.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:05.043440+00:00"
+  },
+  {
+    "id_norma": "vehiculos",
+    "endpoint": "texto/indice",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/indice",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/indice",
+    "sha256": "b00d189982f331fad4d6e925c664281e4af4d6df1fc10325fec1fd3527ffdfb7",
+    "archivo": "data/raw/b00d189982f331fad4d6e925c664281e4af4d6df1fc10325fec1fd3527ffdfb7.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:08.057096+00:00"
+  },
+  {
+    "id_norma": "vehiculos",
+    "endpoint": "analisis",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/analisis",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/analisis",
+    "sha256": "daf652a49ae08a115561d10d6ca281a0bc04ce265f3ba1925251ee7afb380215",
+    "archivo": "data/raw/daf652a49ae08a115561d10d6ca281a0bc04ce265f3ba1925251ee7afb380215.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:08.656845+00:00"
+  },
+  {
+    "id_norma": "policias",
+    "endpoint": "metadatos",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-9129/metadatos",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-9129/metadatos",
+    "sha256": "e7a2074dffc99720ad576dbdd315415c72e459a70407e4ca43fe97c21c03f447",
+    "archivo": "data/raw/e7a2074dffc99720ad576dbdd315415c72e459a70407e4ca43fe97c21c03f447.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:09.637471+00:00"
+  },
+  {
+    "id_norma": "policias",
+    "endpoint": "texto",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-9129/texto",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-9129/texto",
+    "sha256": "e1464c374af03bb828eefd8d19ee6be76e5b77f0d79bda6f35babfdf22279d1e",
+    "archivo": "data/raw/e1464c374af03bb828eefd8d19ee6be76e5b77f0d79bda6f35babfdf22279d1e.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:11.305050+00:00"
+  },
+  {
+    "id_norma": "policias",
+    "endpoint": "texto/indice",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-9129/texto/indice",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-9129/texto/indice",
+    "sha256": "2b7fc16f8e7691fcb905541def32dc5491f2054ebb7ce1dbef8c585466050061",
+    "archivo": "data/raw/2b7fc16f8e7691fcb905541def32dc5491f2054ebb7ce1dbef8c585466050061.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:12.198213+00:00"
+  },
+  {
+    "id_norma": "policias",
+    "endpoint": "analisis",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-9129/analisis",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-9129/analisis",
+    "sha256": "29791e2ce8bfa469f7ad89e68c82d8b2fd4cac51a6f1c99d8817a022d85c0c94",
+    "archivo": "data/raw/29791e2ce8bfa469f7ad89e68c82d8b2fd4cac51a6f1c99d8817a022d85c0c94.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:12.656901+00:00"
+  },
+  {
+    "id_norma": "fcs",
+    "endpoint": "metadatos",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/metadatos",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/metadatos",
+    "sha256": "07527a46a4b37d05e454f9852a90101ab391013f3da568d9137dc105a940dee5",
+    "archivo": "data/raw/07527a46a4b37d05e454f9852a90101ab391013f3da568d9137dc105a940dee5.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:13.821869+00:00"
+  },
+  {
+    "id_norma": "fcs",
+    "endpoint": "texto",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto",
+    "sha256": "92766baeffd35ee7fa9b6cd89250ccdfc37575fbf23e8b000bfa2202ded75075",
+    "archivo": "data/raw/92766baeffd35ee7fa9b6cd89250ccdfc37575fbf23e8b000bfa2202ded75075.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:15.122170+00:00"
+  },
+  {
+    "id_norma": "fcs",
+    "endpoint": "texto/indice",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/indice",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/indice",
+    "sha256": "25e1ec5995e2344c6124776d202eebc636a1495b2c10b5525b020ceadc63b885",
+    "archivo": "data/raw/25e1ec5995e2344c6124776d202eebc636a1495b2c10b5525b020ceadc63b885.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:15.823325+00:00"
+  },
+  {
+    "id_norma": "fcs",
+    "endpoint": "analisis",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/analisis",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/analisis",
+    "sha256": "beebde3055bf9515e79e7966df2fe011f7d67aea38630b6652cf3b6dace37023",
+    "archivo": "data/raw/beebde3055bf9515e79e7966df2fe011f7d67aea38630b6652cf3b6dace37023.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:17.039311+00:00"
+  },
+  {
+    "id_norma": "habeas",
+    "endpoint": "metadatos",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/metadatos",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/metadatos",
+    "sha256": "00f3a56c648a7a54dfcc37b7466e123547f36ce1ecf40a7e1266858f732ffca0",
+    "archivo": "data/raw/00f3a56c648a7a54dfcc37b7466e123547f36ce1ecf40a7e1266858f732ffca0.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:17.862438+00:00"
+  },
+  {
+    "id_norma": "habeas",
+    "endpoint": "texto",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/texto",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/texto",
+    "sha256": "3f4f9828c14df921fa856d94aa9c91c805694cfe360f0bccaf36217e93b30c30",
+    "archivo": "data/raw/3f4f9828c14df921fa856d94aa9c91c805694cfe360f0bccaf36217e93b30c30.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:19.114734+00:00"
+  },
+  {
+    "id_norma": "habeas",
+    "endpoint": "texto/indice",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/texto/indice",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/texto/indice",
+    "sha256": "89042afc9d8c6f0854981fab769674024b2bec740d78a6c822c2d4465b296c7b",
+    "archivo": "data/raw/89042afc9d8c6f0854981fab769674024b2bec740d78a6c822c2d4465b296c7b.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:19.949383+00:00"
+  },
+  {
+    "id_norma": "habeas",
+    "endpoint": "analisis",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/analisis",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/analisis",
+    "sha256": "6e4e827b16a745b3c5d08f5e695e0c2020b24c28e858ddb3d2ebaad776583fd7",
+    "archivo": "data/raw/6e4e827b16a745b3c5d08f5e695e0c2020b24c28e858ddb3d2ebaad776583fd7.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:21.001413+00:00"
+  },
+  {
+    "id_norma": "lecrim",
+    "endpoint": "metadatos",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1882-6036/metadatos",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1882-6036/metadatos",
+    "sha256": "165b12f75711cb4fb58eda97e9461e7d22a70c50ee961686f521b23a05a9dcec",
+    "archivo": "data/raw/165b12f75711cb4fb58eda97e9461e7d22a70c50ee961686f521b23a05a9dcec.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:22.061606+00:00"
+  },
+  {
+    "id_norma": "lecrim",
+    "endpoint": "texto",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1882-6036/texto",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1882-6036/texto",
+    "sha256": "5694b1c3a8052d0ff202ea2a6cfcd8cf01b04f09bb22cff6d834722d42091fcf",
+    "archivo": "data/raw/5694b1c3a8052d0ff202ea2a6cfcd8cf01b04f09bb22cff6d834722d42091fcf.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:24.373750+00:00"
+  },
+  {
+    "id_norma": "lecrim",
+    "endpoint": "texto/indice",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1882-6036/texto/indice",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1882-6036/texto/indice",
+    "sha256": "1aa289f04c362cc12e97234827064ac4d3f7c8121c87a4f62ee47f1ea8797fef",
+    "archivo": "data/raw/1aa289f04c362cc12e97234827064ac4d3f7c8121c87a4f62ee47f1ea8797fef.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:25.328248+00:00"
+  },
+  {
+    "id_norma": "lecrim",
+    "endpoint": "analisis",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1882-6036/analisis",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1882-6036/analisis",
+    "sha256": "dc534d8889201234678438db13612f6f5716291416a965a6ee9f8e4b1de04d2c",
+    "archivo": "data/raw/dc534d8889201234678438db13612f6f5716291416a965a6ee9f8e4b1de04d2c.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:25.632937+00:00"
+  },
+  {
+    "id_norma": "penal",
+    "endpoint": "metadatos",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/metadatos",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/metadatos",
+    "sha256": "b8f8fda009631408e76eaded32560a6a323f5e81aef4df8799def7948ea97182",
+    "archivo": "data/raw/b8f8fda009631408e76eaded32560a6a323f5e81aef4df8799def7948ea97182.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:26.690836+00:00"
+  },
+  {
+    "id_norma": "penal",
+    "endpoint": "texto",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto",
+    "sha256": "073f5c8ce332fdde637f93dcb70e335d520caf8f7dd65eb89f521446ff2bf542",
+    "archivo": "data/raw/073f5c8ce332fdde637f93dcb70e335d520caf8f7dd65eb89f521446ff2bf542.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:29.079876+00:00"
+  },
+  {
+    "id_norma": "penal",
+    "endpoint": "texto/indice",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto/indice",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto/indice",
+    "sha256": "72f7ed99414f572c20266ab42cfce19f0cea2eaa7579b6991aadc37c1ebb3fbb",
+    "archivo": "data/raw/72f7ed99414f572c20266ab42cfce19f0cea2eaa7579b6991aadc37c1ebb3fbb.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:29.250555+00:00"
+  },
+  {
+    "id_norma": "penal",
+    "endpoint": "analisis",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/analisis",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/analisis",
+    "sha256": "b90970eb43e6dfc9678aae55b6ac5e7f525bb4c3f8a0cac932e1aec423e6491c",
+    "archivo": "data/raw/b90970eb43e6dfc9678aae55b6ac5e7f525bb4c3f8a0cac932e1aec423e6491c.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:30.581939+00:00"
+  },
+  {
+    "id_norma": "datos",
+    "endpoint": "metadatos",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-16673/metadatos",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-16673/metadatos",
+    "sha256": "9a1a33b2da2c5144e4050f5a24d0fbe6edb15e629836fde0d9f7b46e3283c219",
+    "archivo": "data/raw/9a1a33b2da2c5144e4050f5a24d0fbe6edb15e629836fde0d9f7b46e3283c219.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:31.405475+00:00"
+  },
+  {
+    "id_norma": "datos",
+    "endpoint": "texto",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-16673/texto",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-16673/texto",
+    "sha256": "18144157087656060bd9210224675d22f3c77c3e180d57ea66436fc195ef54a7",
+    "archivo": "data/raw/18144157087656060bd9210224675d22f3c77c3e180d57ea66436fc195ef54a7.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:32.934561+00:00"
+  },
+  {
+    "id_norma": "datos",
+    "endpoint": "texto/indice",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-16673/texto/indice",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-16673/texto/indice",
+    "sha256": "ac3eba3878922fe521a6f635fc09c08355a5e276e7e01fce8e8fc93fcc5e3725",
+    "archivo": "data/raw/ac3eba3878922fe521a6f635fc09c08355a5e276e7e01fce8e8fc93fcc5e3725.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:34.805300+00:00"
+  },
+  {
+    "id_norma": "datos",
+    "endpoint": "analisis",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-16673/analisis",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-16673/analisis",
+    "sha256": "260c094379f22044860af80f5d304e508749fcfcc6e6ef1360abce4e3af55cea",
+    "archivo": "data/raw/260c094379f22044860af80f5d304e508749fcfcc6e6ef1360abce4e3af55cea.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:36.755787+00:00"
+  },
+  {
+    "id_norma": "igualdad",
+    "endpoint": "metadatos",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/metadatos",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/metadatos",
+    "sha256": "f5e6fc6080422a40932638424a5beb5bb31fce233cdc9d2108c4b2e075f74e5e",
+    "archivo": "data/raw/f5e6fc6080422a40932638424a5beb5bb31fce233cdc9d2108c4b2e075f74e5e.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:37.824615+00:00"
+  },
+  {
+    "id_norma": "igualdad",
+    "endpoint": "texto",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto",
+    "sha256": "cd124fac32a40ffe6dc6d2091b94b7e18735767d537a84813b29062afb8fd58f",
+    "archivo": "data/raw/cd124fac32a40ffe6dc6d2091b94b7e18735767d537a84813b29062afb8fd58f.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:39.271073+00:00"
+  },
+  {
+    "id_norma": "igualdad",
+    "endpoint": "texto/indice",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/indice",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/texto/indice",
+    "sha256": "817f85e952f67a992f9afa58e20dfd51bda39214e2793db9de7eba273f7ee159",
+    "archivo": "data/raw/817f85e952f67a992f9afa58e20dfd51bda39214e2793db9de7eba273f7ee159.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:39.939799+00:00"
+  },
+  {
+    "id_norma": "igualdad",
+    "endpoint": "analisis",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/analisis",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/analisis",
+    "sha256": "557bb795f4fd36a96d669c3575b50ff269160f3c1fdb8df45b30a1798f225252",
+    "archivo": "data/raw/557bb795f4fd36a96d669c3575b50ff269160f3c1fdb8df45b30a1798f225252.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:40.992931+00:00"
+  },
+  {
+    "id_norma": "lgtbi",
+    "endpoint": "metadatos",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-6310/metadatos",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-6310/metadatos",
+    "sha256": "803fdd223448612556eefa20ad34971618c1840e2dd1a590d6f810bde56c6de4",
+    "archivo": "data/raw/803fdd223448612556eefa20ad34971618c1840e2dd1a590d6f810bde56c6de4.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:42.049048+00:00"
+  },
+  {
+    "id_norma": "lgtbi",
+    "endpoint": "texto",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-6310/texto",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-6310/texto",
+    "sha256": "067cc20ac1ae86519c47a627c581967eae424f0b86cbc4af468fd4003f9e919d",
+    "archivo": "data/raw/067cc20ac1ae86519c47a627c581967eae424f0b86cbc4af468fd4003f9e919d.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:43.456435+00:00"
+  },
+  {
+    "id_norma": "lgtbi",
+    "endpoint": "texto/indice",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-6310/texto/indice",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-6310/texto/indice",
+    "sha256": "550886d0b2e36ebe693f7b78b1e1f5d519487e88592c31577f74d554d70f6a4b",
+    "archivo": "data/raw/550886d0b2e36ebe693f7b78b1e1f5d519487e88592c31577f74d554d70f6a4b.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:44.171895+00:00"
+  },
+  {
+    "id_norma": "lgtbi",
+    "endpoint": "analisis",
+    "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-6310/analisis",
+    "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-6310/analisis",
+    "sha256": "116c4b163b05a1e275f3e7c6d921efa588674e7bb0fb152781de7d840beeb5c6",
+    "archivo": "data/raw/116c4b163b05a1e275f3e7c6d921efa588674e7bb0fb152781de7d840beeb5c6.xml",
+    "content_type": "application/xml",
+    "fecha_descarga": "2026-10-08T16:58:45.219006+00:00"
+  }
+]

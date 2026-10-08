@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-17757",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-17757",
+  "sha256": "7df4a322e91ac9aab562746962452148239e209ee94e4a6d79bf3f7ecee6b9b5",
+  "archivo": "data/raw/7df4a322e91ac9aab562746962452148239e209ee94e4a6d79bf3f7ecee6b9b5.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:48.368388+00:00"
+}

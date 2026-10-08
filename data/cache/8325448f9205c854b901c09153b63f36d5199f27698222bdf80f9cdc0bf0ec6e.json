@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/indice",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-1826/texto/indice",
+  "sha256": "b00d189982f331fad4d6e925c664281e4af4d6df1fc10325fec1fd3527ffdfb7",
+  "archivo": "data/raw/b00d189982f331fad4d6e925c664281e4af4d6df1fc10325fec1fd3527ffdfb7.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:31:01.800715+00:00"
+}

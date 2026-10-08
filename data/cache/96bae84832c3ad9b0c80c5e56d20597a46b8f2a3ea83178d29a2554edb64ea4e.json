@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1983-17890",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1983-17890",
+  "sha256": "4b3dc90354ed3f4b2e15a12fb327a3047b26b780fdf45836468ed82d273abb17",
+  "archivo": "data/raw/4b3dc90354ed3f4b2e15a12fb327a3047b26b780fdf45836468ed82d273abb17.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:20:30.040548+00:00"
+}

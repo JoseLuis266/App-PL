@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <analisis>
+      <materias>
+        <materia codigo="632">Carreteras</materia>
+        <materia codigo="858">Circulación vial</materia>
+        <materia codigo="883">Código de la Circulación</materia>
+        <materia codigo="1337">Conductores de vehículos de motor</materia>
+        <materia codigo="2425">Deporte</materia>
+        <materia codigo="5709">Procedimiento sancionador</materia>
+        <materia codigo="6500">Seguridad vial</materia>
+        <materia codigo="6938">Transportes terrestres</materia>
+        <materia codigo="7116">Vehículos de motor</materia>
+      </materias>
+      <referencias>
+        <anteriores>
+          <anterior>
+            <id_norma>BOE-A-1992-2205</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>el Reglamento aprobado por Real Decreto 13/1992, de 17 de enero</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1934-8197</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>el art. 108 y anexo 2 del Código de la Circulación, aprobado por Decreto de 25 de septiembre de 1934 (Gazeta)</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1990-6396</id_norma>
+            <relacion codigo="270">MODIFICA</relacion>
+            <texto>lo indicado del anexo de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, texto articulado aprobado por Real Decreto Legislativo 339/1990, de 2 de marzo</texto>
+          </anterior>
+        </anteriores>
+        <posteriores>
+          <posterior>
+            <id_norma>BOE-A-2021-21006</id_norma>
+            <relacion codigo="210">SE DEROGA</relacion>
+            <texto>, en la forma indicada, el art. 51, por Ley 18/2021, de 20 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2026-13889</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>, con efectos desde el 1 de octubre de 2026, determinados preceptos, SE SUPRIME el art. 93 y SE AÑADE el título VI, por Real Decreto 518/2026, de 24 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2026-12035</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 37, 39, 139 y el anexo II, por Real Decreto 450/2026, de 3 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2025-12199</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>determinados preceptos, por Real Decreto 465/2025, de 10 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2021-4194</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 46.1.f), 85.4, 97.3.c), 113 y 130, por Real Decreto 159/2021, de 16 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2020-13969</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>, con los efectos indicados, los arts. 38 y 50, por Real Decreto 970/2020, de 10 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2018-18002</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 48 y SE AÑADE la disposición final 4 al Reglamento, por Real Decreto 1514/2018, de 28 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2015-8047</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 117, por Real Decreto 667/2015, de 17 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2011-4120</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>, con efectos desde las 6:00 horas del 7 de marzo, hasta el 30 de junio de 2011, el art. 48.1.a), por Real Decreto 303/2011, de 4 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2006-15406</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los art. 9, 18, 48, 116 a 119, disposición adicional 2 y SE AÑADE las disposiciones adicional 4 y final 3 y el anexo IV, por Real Decreto 965/2006, de 1 de septiembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2022-987</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>y se aprueba el manual de características de los vehículos de movilidad personal, por Resolución  de 12 de enero de 2022</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2009-9838</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>, aprobando el manual de señalización variable: Resolución de 1 de junio de 2009</texto>
+          </posterior>
+        </posteriores>
+      </referencias>
+    </analisis>
+  </data>
+</response>

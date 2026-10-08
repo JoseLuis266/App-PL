@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-23514/texto/bloque/a120",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-23514/texto/bloque/a120",
+  "sha256": "cdf4b65caae057c6e34a821bda887ddf2c785d95088b86f5a457c7f90e4d6365",
+  "archivo": "data/raw/cdf4b65caae057c6e34a821bda887ddf2c785d95088b86f5a457c7f90e4d6365.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:05:32.558311+00:00"
+}

@@ -1,0 +1,1989 @@
+[
+  {
+    "id_norma": "ce",
+    "lagunas": [
+      {
+        "numero": "1",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "2",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "3",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "4",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "5",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "6",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "7",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "8",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "9",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "10",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "11",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "12",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "13",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "14",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "15",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "16",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "17",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "18",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "19",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "20",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "21",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "22",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "23",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "24",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "25",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "26",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "27",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "28",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "29",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "30",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "31",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "32",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "33",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "34",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "35",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "36",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "37",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "38",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "39",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "40",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "41",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "42",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "43",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "44",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "45",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "46",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "47",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "48",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "49",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "50",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "51",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "52",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "53",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "54",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "55",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "56",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "57",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "58",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "59",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "60",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "61",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "62",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "63",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "64",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "65",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "66",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "67",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "68",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "69",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "70",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "71",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "72",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "73",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "74",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "75",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "76",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "77",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "78",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "79",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "80",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "81",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "82",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "83",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "84",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "85",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "86",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "87",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "88",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "89",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "90",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "91",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "92",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "93",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "94",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "95",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "96",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "97",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "98",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "99",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "100",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "101",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "102",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "103",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "104",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "105",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "106",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "107",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "108",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "109",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "110",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "111",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "112",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "113",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "114",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "115",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "116",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "117",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "118",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "119",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "120",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "121",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "122",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "123",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "124",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "125",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "126",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "127",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "128",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "129",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "130",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "131",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "132",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "133",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "134",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "135",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "136",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "137",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "138",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "139",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "140",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "141",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "142",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "143",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "144",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "145",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "146",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "147",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "148",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "149",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "150",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "151",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "152",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "153",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "154",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "155",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "156",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "157",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "158",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "159",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "160",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "161",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "162",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "163",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "164",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "165",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "166",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "167",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "168",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "169",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      }
+    ]
+  },
+  {
+    "id_norma": "estatuto",
+    "lagunas": [
+      {
+        "numero": "1",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "2",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "3",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "4",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "5",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "6",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "7",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "8",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "9",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "10",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "11",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "12",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "13",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "14",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "15",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "16",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "17",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "18",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "19",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "20",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "21",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "22",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "23",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "24",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "25",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "26",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "27",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "28",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "29",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "30",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "31",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "32",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "33",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "34",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "35",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "36",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "37",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "38",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "39",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "40",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "41",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "42",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "43",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "44",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "45",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "46",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "47",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "48",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "49",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "50",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "51",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "52",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "53",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "54",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "55",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "56",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "57",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "58",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "59",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "60",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "61",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "62",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "63",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "64",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "65",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "66",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "67",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "68",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "69",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "70",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "71",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "72",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "73",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "74",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "75",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "76",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "77",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "78",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "79",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "80",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "81",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "82",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "83",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "84",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "85",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "86",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "87",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "88",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "89",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "90",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "91",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "92",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "93",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "94",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "95",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "96",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "97",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "98",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "99",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "100",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "101",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "102",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "103",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "104",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "105",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "106",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "107",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "108",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "109",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "110",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "111",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "112",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "113",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "114",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "115",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "116",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "117",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "118",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "119",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "120",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "121",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "122",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "123",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "124",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "125",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "126",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "127",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "128",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "129",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "130",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "131",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "132",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "133",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "134",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "135",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "136",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "137",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "138",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "139",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      }
+    ]
+  },
+  {
+    "id_norma": "lecrim",
+    "lagunas": [
+      {
+        "numero": "48",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "49",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "50",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "128",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "129",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "130",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "131",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "132",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "133",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "134",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "135",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "136",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "137",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "138",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "139",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "140",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "602",
+        "motivo": "bloque histórico fuera de vigencia",
+        "bloques": [
+          "a602"
+        ]
+      },
+      {
+        "numero": "603",
+        "motivo": "bloque histórico fuera de vigencia",
+        "bloques": [
+          "a603"
+        ]
+      },
+      {
+        "numero": "604",
+        "motivo": "bloque histórico fuera de vigencia",
+        "bloques": [
+          "a604"
+        ]
+      },
+      {
+        "numero": "605",
+        "motivo": "bloque histórico fuera de vigencia",
+        "bloques": [
+          "a605"
+        ]
+      },
+      {
+        "numero": "606",
+        "motivo": "bloque histórico fuera de vigencia",
+        "bloques": [
+          "a606"
+        ]
+      },
+      {
+        "numero": "607",
+        "motivo": "bloque histórico fuera de vigencia",
+        "bloques": [
+          "a607"
+        ]
+      },
+      {
+        "numero": "608",
+        "motivo": "bloque histórico fuera de vigencia",
+        "bloques": [
+          "a608"
+        ]
+      },
+      {
+        "numero": "609",
+        "motivo": "bloque histórico fuera de vigencia",
+        "bloques": [
+          "a609"
+        ]
+      },
+      {
+        "numero": "610",
+        "motivo": "bloque histórico fuera de vigencia",
+        "bloques": [
+          "a610"
+        ]
+      },
+      {
+        "numero": "800",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "801",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "802",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "803",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "907",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "908",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "909",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "910",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "911",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "912",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "913",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "914",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "915",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "916",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "917",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "918",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "919",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "920",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "921",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "922",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "923",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "924",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "925",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "926",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "927",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "928",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "929",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "930",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "931",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "932",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "933",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "935",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "936",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "937",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "938",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "939",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "940",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "941",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "942",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "943",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "944",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "945",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "946",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "947",
+        "motivo": "bloque histórico fuera de vigencia",
+        "bloques": [
+          "a947"
+        ]
+      },
+      {
+        "numero": "948",
+        "motivo": "bloque histórico fuera de vigencia",
+        "bloques": [
+          "a948"
+        ]
+      },
+      {
+        "numero": "949",
+        "motivo": "bloque histórico fuera de vigencia",
+        "bloques": [
+          "a949"
+        ]
+      },
+      {
+        "numero": "950",
+        "motivo": "bloque histórico fuera de vigencia",
+        "bloques": [
+          "a950"
+        ]
+      },
+      {
+        "numero": "951",
+        "motivo": "bloque histórico fuera de vigencia",
+        "bloques": [
+          "a951"
+        ]
+      },
+      {
+        "numero": "952",
+        "motivo": "bloque histórico fuera de vigencia",
+        "bloques": [
+          "a952"
+        ]
+      },
+      {
+        "numero": "953",
+        "motivo": "bloque histórico fuera de vigencia",
+        "bloques": [
+          "a953"
+        ]
+      },
+      {
+        "numero": "978",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "979",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "980",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "981",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      },
+      {
+        "numero": "982",
+        "motivo": "no aparece en el índice oficial actual; no se ha rellenado",
+        "bloques": []
+      }
+    ]
+  }
+]

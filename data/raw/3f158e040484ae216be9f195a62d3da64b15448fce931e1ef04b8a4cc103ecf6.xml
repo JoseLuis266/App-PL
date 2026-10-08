@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="ani" tipo="encabezado" titulo="ANEXO I">
+      <version id_norma="BOE-A-2015-11722" fecha_publicacion="20151031" fecha_vigencia="20160131">
+        <p class="anexo_num">ANEXO I</p>
+        <p class="anexo_tit">Conceptos básicos</p>
+        <p class="parrafo_2">A los efectos de esta ley y sus disposiciones complementarias, se entiende por:</p>
+        <p class="parrafo_2">1. Conductor. Persona que, con las excepciones del párrafo segundo del punto 4 maneja el mecanismo de dirección o va al mando de un vehículo, o a cuyo cargo está un animal o animales. En vehículos que circulen en función de aprendizaje de la conducción, tiene la consideración de conductor la persona que está a cargo de los mandos adicionales.</p>
+        <p class="parrafo">2. Conductor habitual. Persona que, contando con el permiso o licencia de conducción necesarios, inscrito en el Registro de Conductores e Infractores y previo su consentimiento, se comunica por el titular del vehículo o, en su caso, por el arrendatario a largo plazo al Registro de Vehículos, por ser aquella que de manera usual o con mayor frecuencia conduce dicho vehículo.</p>
+        <p class="parrafo">3. Conductor profesional. Persona provista de la correspondiente autorización administrativa para conducir, cuya actividad laboral principal sea la conducción de vehículos a motor dedicados al transporte de mercancías o de personas, extremo que se acreditará mediante certificación expedida por la empresa para la que ejerza aquella actividad, acompañada de la correspondiente documentación acreditativa de la cotización a la Seguridad Social como trabajador de dicha empresa.</p>
+        <p class="parrafo">Si se trata de un empresario autónomo, la certificación a que se hace referencia en el párrafo anterior será sustituida por una declaración del propio empresario.</p>
+        <p class="parrafo">Este concepto sólo será de aplicación en lo que se refiere al sistema del permiso de conducción por puntos.</p>
+        <p class="parrafo">4. Peatón. Persona que, sin ser conductor, transita a pie por las vías o terrenos a que se refiere el artículo 2.</p>
+        <p class="parrafo">También tienen la consideración de peatones quienes empujan o arrastran un coche de niño o de una persona con discapacidad o cualquier otro vehículo sin motor de pequeñas dimensiones, los que conducen a pie un ciclo o ciclomotor de dos ruedas, y las personas con discapacidad que circulan al paso en una silla de ruedas, con o sin motor.</p>
+        <p class="parrafo">5. Titular de vehículo. Persona a cuyo nombre figura inscrito el vehículo en el registro oficial correspondiente.</p>
+        <p class="parrafo">6. Vehículo. Aparato apto para circular por las vías o terrenos a que se refiere el artículo 2.</p>
+        <p class="parrafo">7. Ciclo. Vehículo provisto de, al menos, dos ruedas y propulsado exclusiva o principalmente por la energía muscular de la persona o personas que están sobre el vehículo, en particular por medio de pedales.</p>
+        <p class="parrafo">Se incluyen en esta definición los ciclos de pedaleo asistido.</p>
+        <p class="parrafo">8. Bicicleta. Ciclo de dos ruedas.</p>
+        <p class="parrafo">9. Ciclomotor: Tienen la condición de ciclomotores los vehículos que se definen a continuación:</p>
+        <p class="parrafo_2">a) Vehículo de dos ruedas, con una velocidad máxima por construcción no superior a 45 km/h y con un motor de cilindrada inferior o igual a 50 cm³, si es de combustión interna, o bien con una potencia continua nominal máxima inferior o igual a 4 kW si es de motor eléctrico.</p>
+        <p class="parrafo">b) Vehículo de tres ruedas, con una velocidad máxima por construcción no superior a 45 km/h y con un motor cuya cilindrada sea inferior o igual a 50 cm³ para los motores de encendido por chispa (positiva), o bien cuya potencia máxima neta sea inferior o igual a 4 kW para los demás motores de combustión interna, o bien cuya potencia continua nominal máxima sea inferior o igual a 4 kW para los motores eléctricos.</p>
+        <p class="parrafo">c) Vehículos de cuatro ruedas, cuya masa en vacío sea inferior o igual a 350 kilogramos no incluida la masa de baterías para los vehículos eléctricos, cuya velocidad máxima por construcción sea inferior o igual a 45 km/h, y cuya cilindrada del motor sea inferior o igual a 50 cm³ para los motores de encendido por chispa (positiva), o cuya potencia máxima neta sea inferior o igual a 4 kW para los demás motores de combustión interna, o cuya potencia continua nominal máxima sea inferior o igual a 4 kW para los motores eléctricos.</p>
+        <p class="parrafo_2">10. Tranvía. Vehículo que marcha por raíles instalados en la vía.</p>
+        <p class="parrafo">11. Vehículo para personas de movilidad reducida. Vehículo cuya tara no sea superior a 350 kilogramos y que, por construcción, no puede alcanzar en llano una velocidad superior a 45 km/h, proyectado y construido especialmente (y no meramente adaptado) para el uso de personas con alguna disfunción o incapacidad física. En cuanto al resto de sus características técnicas se les equipara a los ciclomotores de tres ruedas.</p>
+        <p class="parrafo">12. Vehículo de motor. Vehículo provisto de motor para su propulsión. Se excluyen de esta definición los ciclomotores, los tranvías y los vehículos para personas de movilidad reducida.</p>
+        <p class="parrafo">13. Automóvil. Vehículo de motor que sirve, normalmente, para el transporte de personas o de cosas, o de ambas a la vez, o para la tracción de otros vehículos con aquel fin. Se excluyen de esta definición los vehículos especiales.</p>
+        <p class="parrafo">14. Motocicleta. Tienen la condición de motocicleta los automóviles que se definen a continuación:</p>
+        <p class="parrafo_2">a) Motocicletas de dos ruedas. Automóvil de dos ruedas, sin sidecar, provistos de un motor de cilindrada superior a 50 cm³, si es de combustión interna, y/o con una velocidad máxima por construcción superior a 45 km/h.</p>
+        <p class="parrafo">b) Motocicletas con sidecar. Automóvil de tres ruedas asimétricas respecto a su eje medio longitudinal, provistos de un motor de cilindrada superior a 50 cm³, si es de combustión interna, y/o con una velocidad máxima por construcción superior a 45 km/h.</p>
+        <p class="parrafo_2">15. Turismo. Automóvil destinado al transporte de personas que tenga, por lo menos, cuatro ruedas y que tenga, además del asiento del conductor, ocho plazas como máximo.</p>
+        <p class="parrafo">16. Autobús o autocar. Automóvil que tenga más de nueve plazas, incluida la del conductor, destinado, por su construcción y acondicionamiento, al transporte de personas y sus equipajes. Se incluye en este término el trolebús, es decir, el vehículo conectado a una línea eléctrica y que no circula por raíles.</p>
+        <p class="parrafo">17. Autobús o autocar articulado. Autobús o autocar compuesto por dos partes rígidas unidas entre sí por una sección articulada. En este tipo de vehículos, los compartimentos para viajeros de cada una de ambas partes rígidas se comunican entre sí.</p>
+        <p class="parrafo">La sección articulada permite la libre circulación de los viajeros entre las partes rígidas. La conexión y disyunción entre las dos partes únicamente podrá realizarse en el taller.</p>
+        <p class="parrafo">18. Camión. Automóvil con cuatro ruedas o más, concebido y construido para el transporte de mercancías, cuya cabina no está integrada en el resto de la carrocería y con un máximo de nueve plazas, incluido el conductor.</p>
+        <p class="parrafo">19. Vehículo mixto adaptable. Automóvil especialmente dispuesto para el transporte, simultáneo o no, de mercancías y personas hasta un máximo de nueve incluido el conductor, y en el que se puede sustituir eventualmente la carga, parcial o totalmente, por personas mediante la adición de asientos.</p>
+        <p class="parrafo">20. Remolque. Vehículo no autopropulsado diseñado y concebido para ser remolcado por un vehículo de motor.</p>
+        <p class="parrafo">21. Remolque ligero. Aquél cuya masa máxima autorizada no exceda de 750 kg. A efectos de esta clasificación, se excluyen los agrícolas.</p>
+        <p class="parrafo">22. Semirremolque. Vehículo no autopropulsado diseñado y concebido para ser acoplado a un automóvil, sobre el que reposará parte del mismo, transfiriéndole una parte sustancial de su masa.</p>
+        <p class="parrafo">23. Tractocamión. Automóvil concebido y construido para realizar, principalmente, el arrastre de un semirremolque.</p>
+        <p class="parrafo">24. Conjunto de vehículos. Tienen la condición de conjunto de vehículos:</p>
+        <p class="parrafo_2">a) Vehículo articulado. Automóvil constituido por un vehículo de motor acoplado a un semirremolque.</p>
+        <p class="parrafo">b) Tren de carretera. Automóvil constituido por un vehículo de motor enganchado a un remolque.</p>
+        <p class="parrafo_2">25. Vehículo especial (V.E.). Vehículo, autopropulsado o remolcado, concebido y construido para realizar obras o servicios determinados y que, por sus características, está exceptuado de cumplir alguna de las condiciones técnicas reglamentariamente establecidas o sobrepasa permanentemente los límites establecidos en el mismo para masas o dimensiones, así como la maquinaria agrícola y sus remolques.</p>
+        <p class="parrafo">26. Tractor de obras. Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para arrastrar o empujar útiles, máquinas o vehículos de obras.</p>
+        <p class="parrafo">27. Tractor de servicios. Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para arrastrar o empujar vehículos de servicio, vagones u otros aparatos.</p>
+        <p class="parrafo">28. Tractor agrícola. Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para arrastrar, empujar, llevar o accionar aperos, maquinaria o remolques agrícolas.</p>
+        <p class="parrafo">29. Motocultor. Vehículo especial autopropulsado, de un eje, dirigible por manceras por un conductor que marche a pie. Ciertos motocultores pueden, también, ser dirigidos desde un asiento incorporado a un remolque o máquina agrícola o a un apero o bastidor auxiliar con ruedas.</p>
+        <p class="parrafo">30. Tractocarro. Vehículo especial autopropulsado, de dos o más ejes, especialmente concebido para el transporte en campo de productos agrícolas.</p>
+        <p class="parrafo">31. Máquina agrícola automotriz. Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para efectuar trabajos agrícolas.</p>
+        <p class="parrafo">32. Portador. Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para portar máquinas agrícolas.</p>
+        <p class="parrafo">33. Máquina agrícola remolcada. Vehículo especial concebido y construido para efectuar trabajos agrícolas que, para trasladarse y maniobrar debe ser arrastrado o empujado por un tractor agrícola, motocultor, portador o máquina agrícola automotriz. Se excluyen de esta definición los aperos agrícolas, entendiéndose por tales los útiles o instrumentos agrícolas, sin motor, concebidos y construidos para efectuar trabajos de preparación del terreno o laboreo, que, además, no se consideran vehículos, así como también el resto de la maquinaria agrícola remolcada de menos de 750 kilogramos de masa.</p>
+        <p class="parrafo">34. Remolque agrícola. Vehículo especial de transporte construido y destinado para ser arrastrado por un tractor agrícola, motocultor, portador o máquina agrícola automotriz. Se incluyen en esta definición a los semirremolques agrícolas.</p>
+        <p class="parrafo">35. Tara. Masa del vehículo, con su equipo fijo autorizado, sin personal de servicio, pasajeros ni carga, y con su dotación completa de agua, combustible, lubricante, repuestos, herramientas y accesorios reglamentarios.</p>
+        <p class="parrafo">36. Masa en carga. La masa efectiva del vehículo y de su carga, incluida la masa del personal de servicio y de los pasajeros.</p>
+        <p class="parrafo">37. Masa máxima autorizada (M.M.A.). La masa máxima para la utilización de un vehículo con carga en circulación por las vías públicas.</p>
+        <p class="parrafo">38. Masa por eje. La que gravita sobre el suelo, transmitida por la totalidad de las ruedas acopladas a ese eje.</p>
+        <p class="parrafo">39. Grupo de ejes. Los ejes que forman parte de un bogie. En el caso de dos ejes, el grupo se denominará tándem, y tándem triaxial en caso de tres ejes.</p>
+        <p class="parrafo">40. Luz de carretera o de largo alcance. Luz utilizada para alumbrar una distancia larga de la vía por delante del vehículo.</p>
+        <p class="parrafo">41. Luz de cruce o de corto alcance. Luz utilizada para alumbrar la vía por delante del vehículo, sin deslumbrar ni molestar a los conductores que vengan en sentido contrario, ni a los demás usuarios de la vía.</p>
+        <p class="parrafo">42. Luz de posición delantera. Luz utilizada para indicar la presencia y la anchura del vehículo, cuando se le vea desde delante.</p>
+        <p class="parrafo">43. Luz de posición trasera. Luz utilizada para indicar la presencia y la anchura del vehículo, cuando se le vea desde detrás.</p>
+        <p class="parrafo">44. Catadióptrico. Dispositivo utilizado para indicar la presencia del vehículo mediante la reflexión de la luz procedente de una fuente luminosa independiente de dicho vehículo, hallándose el observador cerca de la fuente.</p>
+        <p class="parrafo">No se considerarán catadióptricos:</p>
+        <p class="parrafo_2">– Las placas de matrícula retrorreflectantes.</p>
+        <p class="parrafo">– Las señales retrorreflectantes mencionadas en el ADR.</p>
+        <p class="parrafo">– Las demás placas y señales retrorreflectantes que deban llevarse para cumplir la reglamentación vigente sobre la utilización de determinadas categorías de vehículos o de determinados modos de funcionamiento.</p>
+        <p class="parrafo_2">45. Luz de marcha atrás. Luz utilizada para iluminar la vía por detrás del vehículo y para advertir a los demás usuarios de la vía que el vehículo va, o está a punto de ir, marcha atrás.</p>
+        <p class="parrafo">46. Luz indicadora de dirección. Luz utilizada para indicar a los demás usuarios de la vía que el conductor quiere cambiar de dirección hacia la derecha o hacia la izquierda.</p>
+        <p class="parrafo">47. Luz de frenado. Luz utilizada para indicar, a los usuarios de la vía que circulan detrás del vehículo, que el conductor de éste está accionando el freno de servicio.</p>
+        <p class="parrafo">48. Luz de gálibo. Luz instalada lo más cerca posible del borde exterior más elevado del vehículo y destinada claramente a indicar la anchura total del vehículo. En determinados vehículos y remolques, esta luz sirve de complemento a las luces de posición delanteras y traseras del vehículo para señalar su volumen.</p>
+        <p class="parrafo">49. Señal de emergencia. El funcionamiento simultáneo de todas las luces indicadoras de dirección del vehículo para advertir que el vehículo representa temporalmente un peligro para los demás usuarios de la vía.</p>
+        <p class="parrafo">50. Luz antiniebla delantera. Luz utilizada para mejorar el alumbrado de la carretera en caso de niebla, nevada, tormenta o nube de polvo.</p>
+        <p class="parrafo">51. Luz antiniebla trasera. Luz utilizada para hacer el vehículo más visible por detrás en caso de niebla densa.</p>
+        <p class="parrafo">52. Luz de alumbrado interior. Luz destinada a la iluminación del habitáculo del vehículo en forma tal que no produzca deslumbramiento ni moleste indebidamente a los demás usuarios de la vía.</p>
+        <p class="parrafo">53. Luz de estacionamiento. Luz utilizada para señalizar la presencia de un vehículo estacionado en zona edificada. En tales circunstancias sustituye a las luces de posición delanteras y traseras.</p>
+        <p class="parrafo">54. Plataforma. Zona de la carretera dedicada al uso de vehículos, formada por la calzada y los arcenes.</p>
+        <p class="parrafo">55. Calzada. Parte de la carretera dedicada a la circulación de vehículos. Se compone de un cierto número de carriles.</p>
+        <p class="parrafo">56. Carril. Banda longitudinal en que puede estar subdividida la calzada, delimitada o no por marcas viales longitudinales, siempre que tenga una anchura suficiente para permitir la circulación de una fila de automóviles que no sean motocicletas.</p>
+        <p class="parrafo">57. Carril para vehículos con alta ocupación. Aquel especialmente reservado o habilitado para la circulación de los vehículos con alta ocupación.</p>
+        <p class="parrafo">58. Acera. Zona longitudinal de la carretera elevada o no, destinada al tránsito de peatones.</p>
+        <p class="parrafo">59. Zona peatonal. Parte de la vía, elevada o delimitada de otra forma, reservada a la circulación de peatones. Se incluye en esta definición la acera, el andén y el paseo.</p>
+        <p class="parrafo">60. Refugio. Zona peatonal situada en la calzada y protegida del tránsito rodado.</p>
+        <p class="parrafo">61. Arcén. Franja longitudinal afirmada contigua a la calzada, no destinada al uso de vehículos automóviles, más que en circunstancias excepcionales.</p>
+        <p class="parrafo">62. Intersección. Nudo de la red viaria en el que todos los cruces de trayectorias posibles de los vehículos que lo utilizan se realizan a nivel.</p>
+        <p class="parrafo">63. Glorieta. Tipo especial de intersección caracterizado por que los tramos que en él confluyen se comunican a través de un anillo en el que se establece una circulación rotatoria alrededor de una isleta central. No son glorietas propiamente dichas las denominadas glorietas partidas en las que dos tramos, generalmente opuestos, se conectan directamente a través de la isleta central, por lo que el tráfico pasa de uno a otro y no la rodea.</p>
+        <p class="parrafo">64. Paso a nivel. Cruce a la misma altura entre una vía y una línea de ferrocarril con plataforma independiente.</p>
+        <p class="parrafo">65. Carretera. Vía pública pavimentada situada fuera de poblado, salvo los tramos en travesía.</p>
+        <p class="parrafo">66. Autopista. Carretera especialmente proyectada, construida y señalizada como tal para la exclusiva circulación de automóviles y que tiene las siguientes características:</p>
+        <p class="parrafo_2">a) No tener acceso a la misma las propiedades colindantes.</p>
+        <p class="parrafo">b) No cruzar a nivel ninguna otra senda, vía, línea de ferrocarril o tranvía, ni ser cruzada a nivel por senda, vía de comunicación o servidumbre de paso alguna.</p>
+        <p class="parrafo">c) Constar de distintas calzadas para cada sentido de circulación, separadas entre sí, salvo en puntos singulares o con carácter temporal, por una franja de terreno no destinada a la circulación o, en casos excepcionales, por otros medios.</p>
+        <p class="parrafo_2">67. Autovía. Carretera especialmente proyectada, construida y señalizada como tal que tiene las siguientes características:</p>
+        <p class="parrafo_2">a) Tener acceso limitado a ella las propiedades colindantes.</p>
+        <p class="parrafo">b) No cruzar a nivel ninguna otra senda, vía, línea de ferrocarril o tranvía, ni ser cruzada a nivel por senda, vía de comunicación o servidumbre de paso alguna.</p>
+        <p class="parrafo">c) Constar de distintas calzadas para cada sentido de circulación, separadas entre sí, salvo en puntos singulares o con carácter temporal, por una franja de terreno no destinada a la circulación, o por otros medios.</p>
+        <p class="parrafo_2">68. Vía para automóviles. Vía reservada exclusivamente a la circulación de automóviles, con una sola calzada y con limitación total de accesos a las propiedades colindantes, y señalizada con las señales S-3 y S-4, respectivamente.</p>
+        <p class="parrafo">69. Carretera convencional. Carretera que no reúne las características propias de las autopistas, autovías y vías para automóviles.</p>
+        <p class="parrafo">70. Poblado. Espacio que comprende edificios y en cuyas vías de entrada y de salida están colocadas, respectivamente, las señales de entrada a poblado y de salida de poblado.</p>
+        <p class="parrafo">71. Travesía. Tramo de carretera que discurre por poblado. No tendrán la consideración de travesías aquellos tramos que dispongan de una alternativa viaria o variante a la cual tiene acceso.</p>
+        <p class="parrafo">72. Vía interurbana. Vía pública situada fuera de poblado.</p>
+        <p class="parrafo">73. Vía urbana. Vía pública situada dentro de poblado, excepto las travesías.</p>
+        <p class="parrafo">74. Vía ciclista. Vía específicamente acondicionada para el tráfico de ciclos, con la señalización horizontal y vertical correspondiente, y cuyo ancho permite el paso seguro de estos vehículos.</p>
+        <p class="parrafo">75. Carril-bici. Vía ciclista que discurre adosada a la calzada, en un solo sentido o en doble sentido.</p>
+        <p class="parrafo">76. Carril-bici protegido. Carril-bici provisto de elementos laterales que lo separan físicamente del resto de la calzada, así como de la acera.</p>
+        <p class="parrafo">77. Acera-bici. Vía ciclista señalizada sobre la acera.</p>
+        <p class="parrafo">78. Pista-bici. Vía ciclista segregada del tráfico motorizado, con trazado independiente de las carreteras.</p>
+        <p class="parrafo">79. Senda ciclable. Vía para peatones y ciclos, segregada del tráfico motorizado, y que discurre por espacios abiertos, parques, jardines o bosques.</p>
+        <p class="parrafo">80. Detención. Inmovilización de un vehículo por emergencia, por necesidades de la circulación o para cumplir algún precepto reglamentario.</p>
+        <p class="parrafo">81. Parada. Inmovilización de un vehículo durante un tiempo inferior a dos minutos, sin que el conductor pueda abandonarlo.</p>
+        <p class="parrafo">82. Estacionamiento. Inmovilización de un vehículo que no se encuentra en situación de detención o parada.</p>
+      </version>
+      <version id_norma="BOE-A-2026-13889" fpub="" fecha_publicacion="20260626" fecha_vigencia="20261001">
+        <p class="anexo_num">ANEXO I</p>
+        <p class="anexo_tit">Conceptos básicos</p>
+        <p class="parrafo_2">A los efectos de esta ley y sus disposiciones complementarias, se entiende por:</p>
+        <p class="parrafo_2">1. Conductor. Persona que, con las excepciones del párrafo segundo del punto 4 maneja el mecanismo de dirección o va al mando de un vehículo, o a cuyo cargo está un animal o animales. En vehículos que circulen en función de aprendizaje de la conducción, tiene la consideración de conductor la persona que está a cargo de los mandos adicionales.</p>
+        <p class="parrafo">2. Conductor habitual. Persona que, contando con el necesario permiso o licencia de conducción, inscrito en el Registro de Conductores e Infractores y previo su consentimiento, se comunica por el titular del vehículo o, en su caso, por el arrendatario a largo plazo al Registro de Vehículos, por ser aquella la que de manera usual o con mayor frecuencia conduce dicho vehículo.</p>
+        <p class="parrafo">Cuando se matricule un vehículo por una persona física que carezca de autorización administrativa para conducir, será obligatorio designar un conductor habitual.</p>
+        <blockquote caduca="20261001" class="soloTexto">
+          <p class="parrafo">Téngase en cuenta que esta última actualización del concepto 2, establecida por la disposición final 1 del Real Decreto 518/2026, de 24 de junio, <a class="refPost">Ref. BOE-A-2026-13889</a>, entra en vigor el 1 de octubre de 2026, según establece su disposición final 3.</p>
+          <p class="cita_con_pleca">Redacción anterior:</p>
+          <p class="parrafo">"2. Conductor habitual. Persona que, contando con el permiso o licencia de conducción necesarios, inscrito en el Registro de Conductores e Infractores y previo su consentimiento, se comunica por el titular del vehículo o, en su caso, por el arrendatario a largo plazo al Registro de Vehículos, por ser aquella que de manera usual o con mayor frecuencia conduce dicho vehículo."</p>
+        </blockquote>
+        <p class="parrafo">3. Conductor profesional. Persona provista de la correspondiente autorización administrativa para conducir, cuya actividad laboral principal sea la conducción de vehículos a motor dedicados al transporte de mercancías o de personas, extremo que se acreditará mediante certificación expedida por la empresa para la que ejerza aquella actividad, acompañada de la correspondiente documentación acreditativa de la cotización a la Seguridad Social como trabajador de dicha empresa.</p>
+        <p class="parrafo">Si se trata de un empresario autónomo, la certificación a que se hace referencia en el párrafo anterior será sustituida por una declaración del propio empresario.</p>
+        <p class="parrafo">Este concepto sólo será de aplicación en lo que se refiere al sistema del permiso de conducción por puntos.</p>
+        <p class="parrafo">4. Peatón. Persona que, sin ser conductor, transita a pie por las vías o terrenos a que se refiere el artículo 2.</p>
+        <p class="parrafo">También tienen la consideración de peatones quienes empujan o arrastran un coche de niño o de una persona con discapacidad o cualquier otro vehículo sin motor de pequeñas dimensiones, los que conducen a pie un ciclo o ciclomotor de dos ruedas, y las personas con discapacidad que circulan al paso en una silla de ruedas, con o sin motor.</p>
+        <p class="parrafo">5. Titular de vehículo. Persona a cuyo nombre figura inscrito el vehículo en el registro oficial correspondiente.</p>
+        <p class="parrafo">6. Vehículo. Aparato apto para circular por las vías o terrenos a que se refiere el artículo 2.</p>
+        <p class="parrafo">7. Ciclo. Vehículo provisto de, al menos, dos ruedas y propulsado exclusiva o principalmente por la energía muscular de la persona o personas que están sobre el vehículo, en particular por medio de pedales.</p>
+        <p class="parrafo">Se incluyen en esta definición los ciclos de pedaleo asistido.</p>
+        <p class="parrafo">8. Bicicleta. Ciclo de dos ruedas.</p>
+        <p class="parrafo">9. Ciclomotor: Tienen la condición de ciclomotores los vehículos que se definen a continuación:</p>
+        <p class="parrafo_2">a) Vehículo de dos ruedas, con una velocidad máxima por construcción no superior a 45 km/h y con un motor de cilindrada inferior o igual a 50 cm³, si es de combustión interna, o bien con una potencia continua nominal máxima inferior o igual a 4 kW si es de motor eléctrico.</p>
+        <p class="parrafo">b) Vehículo de tres ruedas, con una velocidad máxima por construcción no superior a 45 km/h y con un motor cuya cilindrada sea inferior o igual a 50 cm³ para los motores de encendido por chispa (positiva), o bien cuya potencia máxima neta sea inferior o igual a 4 kW para los demás motores de combustión interna, o bien cuya potencia continua nominal máxima sea inferior o igual a 4 kW para los motores eléctricos.</p>
+        <p class="parrafo">c) Vehículos de cuatro ruedas, cuya masa en vacío sea inferior o igual a 350 kilogramos no incluida la masa de baterías para los vehículos eléctricos, cuya velocidad máxima por construcción sea inferior o igual a 45 km/h, y cuya cilindrada del motor sea inferior o igual a 50 cm³ para los motores de encendido por chispa (positiva), o cuya potencia máxima neta sea inferior o igual a 4 kW para los demás motores de combustión interna, o cuya potencia continua nominal máxima sea inferior o igual a 4 kW para los motores eléctricos.</p>
+        <p class="parrafo_2">10. Tranvía. Vehículo que marcha por raíles instalados en la vía.</p>
+        <p class="parrafo">11. Vehículo para personas de movilidad reducida. Vehículo cuya tara no sea superior a 350 kilogramos y que, por construcción, no puede alcanzar en llano una velocidad superior a 45 km/h, proyectado y construido especialmente (y no meramente adaptado) para el uso de personas con alguna disfunción o incapacidad física. En cuanto al resto de sus características técnicas se les equipara a los ciclomotores de tres ruedas.</p>
+        <p class="parrafo">12. Vehículo de motor. Vehículo provisto de motor para su propulsión. Se excluyen de esta definición los ciclomotores, los tranvías y los vehículos para personas de movilidad reducida.</p>
+        <p class="parrafo">13. Automóvil. Vehículo de motor que sirve, normalmente, para el transporte de personas o de cosas, o de ambas a la vez, o para la tracción de otros vehículos con aquel fin. Se excluyen de esta definición los vehículos especiales.</p>
+        <p class="parrafo">14. Motocicleta. Tienen la condición de motocicleta los automóviles que se definen a continuación:</p>
+        <p class="parrafo_2">a) Motocicletas de dos ruedas. Automóvil de dos ruedas, sin sidecar, provistos de un motor de cilindrada superior a 50 cm³, si es de combustión interna, y/o con una velocidad máxima por construcción superior a 45 km/h.</p>
+        <p class="parrafo">b) Motocicletas con sidecar. Automóvil de tres ruedas asimétricas respecto a su eje medio longitudinal, provistos de un motor de cilindrada superior a 50 cm³, si es de combustión interna, y/o con una velocidad máxima por construcción superior a 45 km/h.</p>
+        <p class="parrafo_2">15. Turismo. Automóvil destinado al transporte de personas que tenga, por lo menos, cuatro ruedas y que tenga, además del asiento del conductor, ocho plazas como máximo.</p>
+        <p class="parrafo">16. Autobús o autocar. Automóvil que tenga más de nueve plazas, incluida la del conductor, destinado, por su construcción y acondicionamiento, al transporte de personas y sus equipajes. Se incluye en este término el trolebús, es decir, el vehículo conectado a una línea eléctrica y que no circula por raíles.</p>
+        <p class="parrafo">17. Autobús o autocar articulado. Autobús o autocar compuesto por dos partes rígidas unidas entre sí por una sección articulada. En este tipo de vehículos, los compartimentos para viajeros de cada una de ambas partes rígidas se comunican entre sí.</p>
+        <p class="parrafo">La sección articulada permite la libre circulación de los viajeros entre las partes rígidas. La conexión y disyunción entre las dos partes únicamente podrá realizarse en el taller.</p>
+        <p class="parrafo">18. Camión. Automóvil con cuatro ruedas o más, concebido y construido para el transporte de mercancías, cuya cabina no está integrada en el resto de la carrocería y con un máximo de nueve plazas, incluido el conductor.</p>
+        <p class="parrafo">19. Vehículo mixto adaptable. Automóvil especialmente dispuesto para el transporte, simultáneo o no, de mercancías y personas hasta un máximo de nueve incluido el conductor, y en el que se puede sustituir eventualmente la carga, parcial o totalmente, por personas mediante la adición de asientos.</p>
+        <p class="parrafo">20. Remolque. Vehículo no autopropulsado diseñado y concebido para ser remolcado por un vehículo de motor.</p>
+        <p class="parrafo">21. Remolque ligero. Aquél cuya masa máxima autorizada no exceda de 750 kg. A efectos de esta clasificación, se excluyen los agrícolas.</p>
+        <p class="parrafo">22. Semirremolque. Vehículo no autopropulsado diseñado y concebido para ser acoplado a un automóvil, sobre el que reposará parte del mismo, transfiriéndole una parte sustancial de su masa.</p>
+        <p class="parrafo">23. Tractocamión. Automóvil concebido y construido para realizar, principalmente, el arrastre de un semirremolque.</p>
+        <p class="parrafo">24. Conjunto de vehículos. Tienen la condición de conjunto de vehículos:</p>
+        <p class="parrafo_2">a) Vehículo articulado. Automóvil constituido por un vehículo de motor acoplado a un semirremolque.</p>
+        <p class="parrafo">b) Tren de carretera. Automóvil constituido por un vehículo de motor enganchado a un remolque.</p>
+        <p class="parrafo_2">25. Vehículo especial (V.E.). Vehículo, autopropulsado o remolcado, concebido y construido para realizar obras o servicios determinados y que, por sus características, está exceptuado de cumplir alguna de las condiciones técnicas reglamentariamente establecidas o sobrepasa permanentemente los límites establecidos en el mismo para masas o dimensiones, así como la maquinaria agrícola y sus remolques.</p>
+        <p class="parrafo">26. Tractor de obras. Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para arrastrar o empujar útiles, máquinas o vehículos de obras.</p>
+        <p class="parrafo">27. Tractor de servicios. Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para arrastrar o empujar vehículos de servicio, vagones u otros aparatos.</p>
+        <p class="parrafo">28. Tractor agrícola. Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para arrastrar, empujar, llevar o accionar aperos, maquinaria o remolques agrícolas.</p>
+        <p class="parrafo">29. Motocultor. Vehículo especial autopropulsado, de un eje, dirigible por manceras por un conductor que marche a pie. Ciertos motocultores pueden, también, ser dirigidos desde un asiento incorporado a un remolque o máquina agrícola o a un apero o bastidor auxiliar con ruedas.</p>
+        <p class="parrafo">30. Tractocarro. Vehículo especial autopropulsado, de dos o más ejes, especialmente concebido para el transporte en campo de productos agrícolas.</p>
+        <p class="parrafo">31. Máquina agrícola automotriz. Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para efectuar trabajos agrícolas.</p>
+        <p class="parrafo">32. Portador. Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para portar máquinas agrícolas.</p>
+        <p class="parrafo">33. Máquina agrícola remolcada. Vehículo especial concebido y construido para efectuar trabajos agrícolas que, para trasladarse y maniobrar debe ser arrastrado o empujado por un tractor agrícola, motocultor, portador o máquina agrícola automotriz. Se excluyen de esta definición los aperos agrícolas, entendiéndose por tales los útiles o instrumentos agrícolas, sin motor, concebidos y construidos para efectuar trabajos de preparación del terreno o laboreo, que, además, no se consideran vehículos, así como también el resto de la maquinaria agrícola remolcada de menos de 750 kilogramos de masa.</p>
+        <p class="parrafo">34. Remolque agrícola. Vehículo especial de transporte construido y destinado para ser arrastrado por un tractor agrícola, motocultor, portador o máquina agrícola automotriz. Se incluyen en esta definición a los semirremolques agrícolas.</p>
+        <p class="parrafo">35. Tara. Masa del vehículo, con su equipo fijo autorizado, sin personal de servicio, pasajeros ni carga, y con su dotación completa de agua, combustible, lubricante, repuestos, herramientas y accesorios reglamentarios.</p>
+        <p class="parrafo">36. Masa en carga. La masa efectiva del vehículo y de su carga, incluida la masa del personal de servicio y de los pasajeros.</p>
+        <p class="parrafo">37. Masa máxima autorizada (M.M.A.). La masa máxima para la utilización de un vehículo con carga en circulación por las vías públicas.</p>
+        <p class="parrafo">38. Masa por eje. La que gravita sobre el suelo, transmitida por la totalidad de las ruedas acopladas a ese eje.</p>
+        <p class="parrafo">39. Grupo de ejes. Los ejes que forman parte de un bogie. En el caso de dos ejes, el grupo se denominará tándem, y tándem triaxial en caso de tres ejes.</p>
+        <p class="parrafo">40. Luz de carretera o de largo alcance. Luz utilizada para alumbrar una distancia larga de la vía por delante del vehículo.</p>
+        <p class="parrafo">41. Luz de cruce o de corto alcance. Luz utilizada para alumbrar la vía por delante del vehículo, sin deslumbrar ni molestar a los conductores que vengan en sentido contrario, ni a los demás usuarios de la vía.</p>
+        <p class="parrafo">42. Luz de posición delantera. Luz utilizada para indicar la presencia y la anchura del vehículo, cuando se le vea desde delante.</p>
+        <p class="parrafo">43. Luz de posición trasera. Luz utilizada para indicar la presencia y la anchura del vehículo, cuando se le vea desde detrás.</p>
+        <p class="parrafo">44. Catadióptrico. Dispositivo utilizado para indicar la presencia del vehículo mediante la reflexión de la luz procedente de una fuente luminosa independiente de dicho vehículo, hallándose el observador cerca de la fuente.</p>
+        <p class="parrafo">No se considerarán catadióptricos:</p>
+        <p class="parrafo_2">– Las placas de matrícula retrorreflectantes.</p>
+        <p class="parrafo">– Las señales retrorreflectantes mencionadas en el ADR.</p>
+        <p class="parrafo">– Las demás placas y señales retrorreflectantes que deban llevarse para cumplir la reglamentación vigente sobre la utilización de determinadas categorías de vehículos o de determinados modos de funcionamiento.</p>
+        <p class="parrafo_2">45. Luz de marcha atrás. Luz utilizada para iluminar la vía por detrás del vehículo y para advertir a los demás usuarios de la vía que el vehículo va, o está a punto de ir, marcha atrás.</p>
+        <p class="parrafo">46. Luz indicadora de dirección. Luz utilizada para indicar a los demás usuarios de la vía que el conductor quiere cambiar de dirección hacia la derecha o hacia la izquierda.</p>
+        <p class="parrafo">47. Luz de frenado. Luz utilizada para indicar, a los usuarios de la vía que circulan detrás del vehículo, que el conductor de éste está accionando el freno de servicio.</p>
+        <p class="parrafo">48. Luz de gálibo. Luz instalada lo más cerca posible del borde exterior más elevado del vehículo y destinada claramente a indicar la anchura total del vehículo. En determinados vehículos y remolques, esta luz sirve de complemento a las luces de posición delanteras y traseras del vehículo para señalar su volumen.</p>
+        <p class="parrafo">49. Señal de emergencia. El funcionamiento simultáneo de todas las luces indicadoras de dirección del vehículo para advertir que el vehículo representa temporalmente un peligro para los demás usuarios de la vía.</p>
+        <p class="parrafo">50. Luz antiniebla delantera. Luz utilizada para mejorar el alumbrado de la carretera en caso de niebla, nevada, tormenta o nube de polvo.</p>
+        <p class="parrafo">51. Luz antiniebla trasera. Luz utilizada para hacer el vehículo más visible por detrás en caso de niebla densa.</p>
+        <p class="parrafo">52. Luz de alumbrado interior. Luz destinada a la iluminación del habitáculo del vehículo en forma tal que no produzca deslumbramiento ni moleste indebidamente a los demás usuarios de la vía.</p>
+        <p class="parrafo">53. Luz de estacionamiento. Luz utilizada para señalizar la presencia de un vehículo estacionado en zona edificada. En tales circunstancias sustituye a las luces de posición delanteras y traseras.</p>
+        <p class="parrafo">54. Plataforma. Zona de la carretera dedicada al uso de vehículos, formada por la calzada y los arcenes.</p>
+        <p class="parrafo">55. Calzada. Parte de la carretera dedicada a la circulación de vehículos. Se compone de un cierto número de carriles.</p>
+        <p class="parrafo">56. Carril. Banda longitudinal en que puede estar subdividida la calzada, delimitada o no por marcas viales longitudinales, siempre que tenga una anchura suficiente para permitir la circulación de una fila de automóviles que no sean motocicletas.</p>
+        <p class="parrafo">57. Carril para vehículos con alta ocupación. Aquel especialmente reservado o habilitado para la circulación de los vehículos con alta ocupación.</p>
+        <p class="parrafo">58. Acera. Zona longitudinal de la carretera elevada o no, destinada al tránsito de peatones.</p>
+        <p class="parrafo">59. Zona peatonal. Parte de la calle, elevada o delimitada de otra forma, reservada al tránsito y estancia prioritarios de los peatones. Se incluyen en esta definición las aceras, plazas, bulevares, paseos, andenes y demás zonas similares.</p>
+        <blockquote caduca="20261001" class="soloTexto">
+          <p class="parrafo">Téngase en cuenta que esta última actualización del concepto 59, establecida por la disposición final 1 del Real Decreto 518/2026, de 24 de junio, <a class="refPost">Ref. BOE-A-2026-13889</a>, entra en vigor el 1 de octubre de 2026, según establece su disposición final 3.</p>
+          <p class="cita_con_pleca">Redacción anterior:</p>
+          <p class="parrafo">"59. Zona peatonal. Parte de la vía, elevada o delimitada de otra forma, reservada a la circulación de peatones. Se incluye en esta definición la acera, el andén y el paseo."</p>
+        </blockquote>
+        <p class="parrafo">60. Refugio. Zona peatonal situada en la calzada y protegida del tránsito rodado.</p>
+        <p class="parrafo">61. Arcén. Franja longitudinal afirmada contigua a la calzada, no destinada al uso de vehículos automóviles, más que en circunstancias excepcionales.</p>
+        <p class="parrafo">62. Intersección. Nudo de la red viaria en el que todos los cruces de trayectorias posibles de los vehículos que lo utilizan se realizan a nivel.</p>
+        <p class="parrafo">63. Glorieta. Tipo especial de intersección caracterizado por que los tramos que en él confluyen se comunican a través de un anillo en el que se establece una circulación rotatoria alrededor de una isleta central. No son glorietas propiamente dichas las denominadas glorietas partidas en las que dos tramos, generalmente opuestos, se conectan directamente a través de la isleta central, por lo que el tráfico pasa de uno a otro y no la rodea.</p>
+        <p class="parrafo">64. Paso a nivel. Cruce a la misma altura entre una vía y una línea de ferrocarril con plataforma independiente.</p>
+        <p class="parrafo">65. Carretera. Vía pública pavimentada situada fuera de poblado, salvo los tramos en travesía.</p>
+        <p class="parrafo">66. Autopista. Carretera especialmente proyectada, construida y señalizada como tal para la exclusiva circulación de automóviles y que tiene las siguientes características:</p>
+        <p class="parrafo_2">a) No tener acceso a la misma las propiedades colindantes.</p>
+        <p class="parrafo">b) No cruzar a nivel ninguna otra senda, vía, línea de ferrocarril o tranvía, ni ser cruzada a nivel por senda, vía de comunicación o servidumbre de paso alguna.</p>
+        <p class="parrafo">c) Constar de distintas calzadas para cada sentido de circulación, separadas entre sí, salvo en puntos singulares o con carácter temporal, por una franja de terreno no destinada a la circulación o, en casos excepcionales, por otros medios.</p>
+        <p class="parrafo_2">67. Autovía. Carretera especialmente proyectada, construida y señalizada como tal que tiene las siguientes características:</p>
+        <p class="parrafo_2">a) Tener acceso limitado a ella las propiedades colindantes.</p>
+        <p class="parrafo">b) No cruzar a nivel ninguna otra senda, vía, línea de ferrocarril o tranvía, ni ser cruzada a nivel por senda, vía de comunicación o servidumbre de paso alguna.</p>
+        <p class="parrafo">c) Constar de distintas calzadas para cada sentido de circulación, separadas entre sí, salvo en puntos singulares o con carácter temporal, por una franja de terreno no destinada a la circulación, o por otros medios.</p>
+        <p class="parrafo_2">68. Vía para automóviles. Vía reservada exclusivamente a la circulación de automóviles, con una sola calzada y con limitación total de accesos a las propiedades colindantes, y señalizada con las señales S-3 y S-4, respectivamente.</p>
+        <p class="parrafo">69. Carretera convencional. Carretera que no reúne las características propias de las autopistas, autovías y vías para automóviles.</p>
+        <p class="parrafo">70. Poblado. Espacio que comprende edificios y en cuyas vías de entrada y de salida están colocadas, respectivamente, las señales de entrada a poblado y de salida de poblado.</p>
+        <p class="parrafo">71. Travesía. Tramo de carretera que discurre por poblado. No tendrán la consideración de travesías aquellos tramos que dispongan de una alternativa viaria o variante a la cual tiene acceso.</p>
+        <p class="parrafo">72. Vía interurbana. Vía pública situada fuera de poblado.</p>
+        <p class="parrafo">73. Vía urbana. Vía pública situada dentro de poblado, excepto las travesías.</p>
+        <p class="parrafo">74. Vía ciclista. Vía específicamente acondicionada para el tráfico de ciclos, con la señalización horizontal y vertical correspondiente, y cuyo ancho permite el paso seguro de estos vehículos. La circulación de otros vehículos deberá estar autorizada por la autoridad competente en materia de regulación, ordenación y gestión del tráfico, con la señalización que lo indique.</p>
+        <p class="parrafo">75. Carril-bici. Vía ciclista que discurre adosada a la calzada, en un solo sentido o en doble sentido. La circulación de otros vehículos deberá estar autorizada por la autoridad competente en materia de regulación, ordenación y gestión del tráfico, con la señalización que indique.</p>
+        <p class="parrafo">76. Carril-bici protegido. Carril-bici provisto de elementos laterales que lo separan físicamente del resto de la calzada, así como de la acera. La circulación de otros vehículos deberá estar autorizada por la autoridad competente en materia de regulación, ordenación y gestión del tráfico, con la señalización que indique.</p>
+        <p class="parrafo">77. Acera-bici. Vía ciclista señalizada sobre la acera. La circulación de otros vehículos deberá estar autorizada por la autoridad competente en materia de regulación, ordenación y gestión del tráfico.</p>
+        <blockquote caduca="20261001" class="soloTexto">
+          <p class="parrafo">Téngase en cuenta que esta última actualización de los conceptos 74, 75, 76 y 77, establecida por la disposición final 1 del Real Decreto 518/2026, de 24 de junio, <a class="refPost">Ref. BOE-A-2026-13889</a>, entra en vigor el 1 de octubre de 2026, según establece su disposición final 3.</p>
+          <p class="cita_con_pleca">Redacción anterior:</p>
+          <p class="parrafo">"74. Vía ciclista. Vía específicamente acondicionada para el tráfico de ciclos, con la señalización horizontal y vertical correspondiente, y cuyo ancho permite el paso seguro de estos vehículos.</p>
+          <p class="parrafo">75. Carril-bici. Vía ciclista que discurre adosada a la calzada, en un solo sentido o en doble sentido.</p>
+          <p class="parrafo">76. Carril-bici protegido. Carril-bici provisto de elementos laterales que lo separan físicamente del resto de la calzada, así como de la acera.</p>
+          <p class="parrafo">77. Acera-bici. Vía ciclista señalizada sobre la acera."</p>
+        </blockquote>
+        <p class="parrafo">78. Pista-bici. Vía ciclista segregada del tráfico motorizado, con trazado independiente de las carreteras.</p>
+        <p class="parrafo">79. Senda ciclable. Vía para peatones y ciclos, segregada del tráfico motorizado, y que discurre por espacios abiertos, parques, jardines o bosques.</p>
+        <p class="parrafo">80. Detención. Inmovilización de un vehículo por emergencia, por necesidades de la circulación o para cumplir algún precepto reglamentario.</p>
+        <p class="parrafo">81. Parada. Inmovilización de un vehículo durante un tiempo inferior a dos minutos, sin que el conductor pueda abandonarlo.</p>
+        <p class="parrafo">82. Estacionamiento. Inmovilización de un vehículo que no se encuentra en situación de detención o parada.</p>
+        <p class="parrafo">83. Zona con plataforma única de calzada y acera. Zona especialmente diseñada y acondicionada para favorecer el tránsito peatonal. En ella el peatón goza de prioridad de paso en cualquier punto de la calzada. En estas zonas se reduce al mínimo la señalización horizontal y vertical.</p>
+        <p class="parrafo">84. Zona o área de prioridad residencial. Área delimitada y regulada por la Autoridad municipal en la que, con objeto de mantener el uso sostenible de la misma, se introducen medidas de restricción de acceso o de circulación a vehículos de vecinos no residentes, y otras que favorezcan el citado uso.</p>
+        <p class="parrafo">85. Camino o ruta escolar seguro. Conjunto de vías acondicionadas por la autoridad competente para favorecer que los niños y niñas se trasladen a los centros escolares caminando, en transporte público o utilizando medios de movilidad no motorizados. Se podrán establecer señales, marcas viales o paneles de información, así como limitaciones de velocidad específicas y restricciones a los vehículos a motor.</p>
+        <p class="parrafo">86. Usuarios vulnerables de la vía o con mayor riesgo de vulnerabilidad. Usuario de la vía que, por razón del medio de desplazamiento que utiliza o por las características físicas del grupo de edad al que pertenece tiene un mayor riesgo de sufrir lesiones en caso de accidente de tráfico o que éstas sean de mayor gravedad. Incluye a los peatones y, dentro de ellos, a las personas con discapacidad, a los menores, a las personas mayores, a quienes tengan movilidad reducida; a los ciclistas; a los conductores de vehículos de movilidad personal y a los conductores y pasajeros de motocicletas y ciclomotores.</p>
+        <blockquote caduca="20261001" class="soloTexto">
+          <p class="parrafo">Téngase en cuenta que los conceptos 83, 84, 85 y 86 añadidos por la disposición final 1 del Real Decreto 518/2026, de 24 de junio, <a class="refPost">Ref. BOE-A-2026-13889</a>, entran en vigor el 1 de octubre de 2026, según establece su disposición final 3.</p>
+        </blockquote>
+        <blockquote>
+          <p class="nota_pie">Se modifican los conceptos 2, 59, 74, 75, 76 y 77 y se añaden el 83, 84, 85 y 86 por la disposición final 1 del Real Decreto 518/2026, de 24 de junio. <a class="refPost">Ref. BOE-A-2026-13889</a></p>
+          <p class="nota_pie_2">Esta modificación entra en vigor el 1 de octubre de 2026, según establece la disposición final 3 del citado Real Decreto.</p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

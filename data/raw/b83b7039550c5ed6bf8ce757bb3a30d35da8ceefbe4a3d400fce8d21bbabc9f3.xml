@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a3-10" tipo="precepto" titulo="Artículo 38">
+      <version id_norma="BOE-A-2016-7994" fecha_publicacion="20160804" fecha_vigencia="20160805">
+        <p class="articulo">Artículo 38. Promoción empresarial.</p>
+        <p class="parrafo">1. Las administraciones públicas de las Illes Balears incluirán en el marco de sus políticas de fomento empresarial ayudas específicas para mujeres con el objeto de crear empresas o cooperativas, o ayudas al autoempleo. Asimismo, establecerán medidas de formación, asesoramiento y seguimiento que permitan la consolidación de los proyectos empresariales.</p>
+        <p class="parrafo">2. Las medidas dirigidas al fomento del empresariado femenino o cooperativismo tendrán en cuenta especialmente a las mujeres emprendedoras con dificultades especiales de inserción laboral o en situaciones de desventaja social.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

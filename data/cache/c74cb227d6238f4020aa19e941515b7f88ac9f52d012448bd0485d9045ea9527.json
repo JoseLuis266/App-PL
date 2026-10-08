@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-13758",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-13758",
+  "sha256": "5eaa97c9bde61ebb482c3e02e322f145b3f976922cf6dd878b09960311f17ebb",
+  "archivo": "data/raw/5eaa97c9bde61ebb482c3e02e322f145b3f976922cf6dd878b09960311f17ebb.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:30.305298+00:00"
+}

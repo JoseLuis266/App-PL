@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-21711",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-21711",
+  "sha256": "15b4d66917f1da6068ed57fb359162ac268e97d9f1e14cb661abc0b43d8f7c5e",
+  "archivo": "data/raw/15b4d66917f1da6068ed57fb359162ac268e97d9f1e14cb661abc0b43d8f7c5e.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:35.837941+00:00"
+}

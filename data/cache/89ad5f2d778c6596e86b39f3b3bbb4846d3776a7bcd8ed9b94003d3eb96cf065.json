@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-26697",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-26697",
+  "sha256": "89c884286f049ae6a0b6554ce7ac4ac7989b722d7314cd44aa7b302750d014cb",
+  "archivo": "data/raw/89c884286f049ae6a0b6554ce7ac4ac7989b722d7314cd44aa7b302750d014cb.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:39.131468+00:00"
+}

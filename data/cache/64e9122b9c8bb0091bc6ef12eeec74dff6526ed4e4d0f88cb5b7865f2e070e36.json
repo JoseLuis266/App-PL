@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-16673/texto/indice",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-16673/texto/indice",
+  "sha256": "ac3eba3878922fe521a6f635fc09c08355a5e276e7e01fce8e8fc93fcc5e3725",
+  "archivo": "data/raw/ac3eba3878922fe521a6f635fc09c08355a5e276e7e01fce8e8fc93fcc5e3725.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:31:43.336425+00:00"
+}

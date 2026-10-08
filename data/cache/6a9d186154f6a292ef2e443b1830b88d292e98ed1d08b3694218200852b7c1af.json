@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/analisis",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-7994/analisis",
+  "sha256": "557bb795f4fd36a96d669c3575b50ff269160f3c1fdb8df45b30a1798f225252",
+  "archivo": "data/raw/557bb795f4fd36a96d669c3575b50ff269160f3c1fdb8df45b30a1798f225252.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:31:48.281006+00:00"
+}

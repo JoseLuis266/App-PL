@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-16782",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-16782",
+  "sha256": "cdcca6d182c2c9167ac9f37ceac966726e5bf78ed1e8f08c666b81106866f89b",
+  "archivo": "data/raw/cdcca6d182c2c9167ac9f37ceac966726e5bf78ed1e8f08c666b81106866f89b.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:32.185054+00:00"
+}

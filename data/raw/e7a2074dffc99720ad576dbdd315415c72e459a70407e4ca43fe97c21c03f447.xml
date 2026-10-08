@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <metadatos>
+      <fecha_actualizacion>20260717T084628Z</fecha_actualizacion>
+      <identificador>BOE-A-2013-9129</identificador>
+      <ambito codigo="2">Autonómico</ambito>
+      <departamento codigo="8121">Comunidad Autónoma de las Illes Balears</departamento>
+      <rango codigo="1300">Ley</rango>
+      <fecha_disposicion>20130717</fecha_disposicion>
+      <numero_oficial>4/2013</numero_oficial>
+      <titulo>Ley 4/2013, de 17 de julio, de coordinación de las policías locales de las Illes Balears.</titulo>
+      <diario>Boletín Oficial del Estado</diario>
+      <fecha_publicacion>20130824</fecha_publicacion>
+      <diario_numero>203</diario_numero>
+      <fecha_vigencia>20130819</fecha_vigencia>
+      <estatus_derogacion>N</estatus_derogacion>
+      <estatus_anulacion>N</estatus_anulacion>
+      <vigencia_agotada>N</vigencia_agotada>
+      <estado_consolidacion codigo="3">Finalizado</estado_consolidacion>
+      <url_eli>https://www.boe.es/eli/es-ib/l/2013/07/17/4</url_eli>
+      <url_html_consolidada>https://www.boe.es/buscar/act.php?id=BOE-A-2013-9129</url_html_consolidada>
+    </metadatos>
+  </data>
+</response>

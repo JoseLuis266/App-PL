@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a384" tipo="precepto" titulo="Artículo 384">
+      <version id_norma="BOE-A-1995-25444" fecha_publicacion="19951124" fecha_vigencia="19960524">
+        <p class="articulo">Artículo 384.</p>
+        <p class="parrafo">Será castigado con las penas de prisión de uno a cuatro años, multa de seis a doce meses y privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a seis y hasta diez años, el que, con consciente desprecio por la vida de los demás, incurra en la conducta descrita en el artículo 381.</p>
+        <p class="parrafo">Cuando no se haya puesto en concreto peligro la vida o la integridad de las personas, la pena de prisión será de uno a dos años, manteniéndose el resto de las penas.</p>
+      </version>
+      <version id_norma="BOE-A-2007-20636" fecha_publicacion="20071201" fecha_vigencia="20071202">
+        <p class="articulo">Artículo 384.</p>
+        <p class="parrafo">El que condujere un vehículo de motor o ciclomotor en los casos de pérdida de vigencia del permiso o licencia por pérdida total de los puntos asignados legalmente, será castigado con la pena de prisión de tres a seis meses o con la de multa de doce a veinticuatro meses y trabajos en beneficio de la comunidad de treinta y uno a noventa días.</p>
+        <p class="parrafo">Las mismas penas se impondrán al que realizare la conducción tras haber sido privado cautelar o definitivamente del permiso o licencia por decisión judicial y al que condujere un vehículo de motor o ciclomotor sin haber obtenido nunca permiso o licencia de conducción.</p>
+        <blockquote>
+          <p class="nota_pie">Se modifica por el art. único.8 de la Ley Orgánica 15/2007, de 30 de noviembre. <a class="refPost">Ref. BOE-A-2007-20636</a></p>
+          <p class="nota_pie_2">La modificación del párrafo 2 entra en vigor el 1 de mayo de 2008, según establece la disposición final 3.</p>
+        </blockquote>
+      </version>
+      <version id_norma="BOE-A-2010-9953" fecha_publicacion="20100623" fecha_vigencia="20101223">
+        <p class="articulo">Artículo 384.</p>
+        <p class="parrafo">El que condujere un vehículo de motor o ciclomotor en los casos de pérdida de vigencia del permiso o licencia por pérdida total de los puntos asignados legalmente, será castigado con la pena de prisión de tres a seis meses o con la de multa de doce a veinticuatro meses o con la de trabajos en beneficio de la comunidad de treinta y uno a noventa días.</p>
+        <p class="parrafo">La misma pena se impondrá al que realizare la conducción tras haber sido privado cautelar o definitivamente del permiso o licencia por decisión judicial y al que condujere un vehículo de motor o ciclomotor sin haber obtenido nunca permiso o licencia de conducción.</p>
+        <blockquote>
+          <p class="nota_pie">Se modifica por el art. único.110 de la Ley Orgánica 5/2010, de 22 de junio. <a class="refPost">Ref. BOE-A-2010-9953</a></p>
+          <p class="nota_pie">Se modifica por el art. único.8 de la Ley Orgánica 15/2007, de 30 de noviembre. <a class="refPost">Ref. BOE-A-2007-20636</a></p>
+          <p class="nota_pie_2">La modificación del párrafo 2 entra en vigor el 1 de mayo de 2008, según establece la disposición final 3.</p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

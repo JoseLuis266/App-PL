@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20251216202601">
+  <metadatos>
+    <identificador>BOE-A-1984-7960</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7723">Jefatura del Estado</departamento>
+    <rango codigo="1300">Ley</rango>
+    <fecha_disposicion>19840331</fecha_disposicion>
+    <numero_oficial>6/1984</numero_oficial>
+    <titulo>Ley 6/1984, de 31 de marzo, de modificación de determinados artículos de los Códigos Civil y de Comercio y de las Leyes Hipotecarias, de Enjuiciamiento Criminal y de Régimen Jurídico de las Sociedades Anónimas, sobre interdicción.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>19840403</fecha_publicacion>
+    <diario_numero>80</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>9254</pagina_inicial>
+    <pagina_final>9254</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/1984/04/03/pdfs/A09254-09254.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan>/boe_catalan/dias/1984/12/31/pdfs/A00018-00018.pdf</url_pdf_catalan>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia>19840423</fecha_vigencia>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/l/1984/03/31/6</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/l/1984/03/31/6">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/l"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1984-7960</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1984-03-31</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</eli:number>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/609"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/880"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/881"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/999"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1664"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3199"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4853"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6017"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6674"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6676"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6802"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6880"/>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/l/1984/03/31/6/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/l"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1984-7960</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1984-03-31</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</eli:number>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/609"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/880"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/881"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/999"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1664"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3199"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4853"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6017"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6674"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6676"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6802"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/6880"/>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/l/1984/03/31/6"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/l/1984/03/31/6/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ley 6/1984, de 31 de marzo, de modificación de determinados artículos de los Códigos Civil y de Comercio y de las Leyes Hipotecarias, de Enjuiciamiento Criminal y de Régimen Jurídico de las Sociedades Anónimas, sobre interdicción.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1984-04-03</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/l/1984/03/31/6/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/l/1984/03/31/6/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/1984/03/31/6/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/l/1984/03/31/6/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/1984/03/31/6/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/l/1984/03/31/6/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/1984/03/31/6/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/l/1984/03/31/6/dof/cat">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/cat"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Llei 6/1984, de 31 de març, de modificació de determinats articles dels codis civil i de comerç i de les lleis hipotecàries, d'enjudiciament criminal i de règim jurídic de les societats anònimes, sobre interdicció.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1984-12-31</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/l/1984/03/31/6/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/l/1984/03/31/6/dof/cat/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/l/1984/03/31/6/dof/cat"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="609" orden="1">Capacidad</materia>
+      <materia codigo="880" orden="2">Código Civil</materia>
+      <materia codigo="881" orden="3">Código de Comercio</materia>
+      <materia codigo="999" orden="4">Comerciantes</materia>
+      <materia codigo="4853" orden="6">Contrato de mandato</materia>
+      <materia codigo="1664" orden="">Contratos</materia>
+      <materia codigo="3199" orden="5">Enjuiciamiento Criminal</materia>
+      <materia codigo="6017" orden="7">Registros de la Propiedad</materia>
+      <materia codigo="6674" orden="8">Sociedades</materia>
+      <materia codigo="6676" orden="9">Sociedades Anónimas</materia>
+      <materia codigo="6802" orden="10">Sucesiones</materia>
+      <materia codigo="6880" orden="11">Testamentos</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1951-7800" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>el art. 82 de la Ley de Sociedades Anonimas, de 17 de julio de 1951</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1946-2453" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>el art. 2.4. de la Ley Hipotecaria, texto refundido aprobado por Decreto de 8 de febrero de 1946 (Gazeta)</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1889-4763" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>los arts. 681, 853, 1700 y 1732 del Código Civil de 24 de julio de 1889 (Gazeta)</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1885-6627" orden="2060">
+          <palabra codigo="235">SUPRIME</palabra>
+          <texto>el art. 13.1 del Código de Comercio, publicado por Real Decreto de 22 de agosto de 1885 (Gazeta)</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1882-6036" orden="2060">
+          <palabra codigo="235">SUPRIME</palabra>
+          <texto>el art. 995 de la Ley de Enjuiciamiento Criminal aprobada por Real Decreto de 14 de septiembre de 1882 (Gazeta)</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas>
+      <alerta codigo="110" orden="1">Derecho Civil</alerta>
+      <alerta codigo="112" orden="2">Derecho Mercantil</alerta>
+      <alerta codigo="113" orden="3">Derecho Penal</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="centro_redonda">JUAN CARLOS I,</p>
+    <p class="parrafo">REY DE ESPAÑA</p>
+    <p class="parrafo">A todos los que la presente vieren y entendieren,</p>
+    <p class="parrafo">Sabed: Que las Cortes Generales han aprobado y yo vengo en sancionar la siguiente Ley:</p>
+    <p class="articulo">Artículo primero.</p>
+    <p class="parrafo">Las disposiciones del Código Civil que a continuación se expresan quedan suprimidas o modificadas en los siguientes términos</p>
+    <p class="parrafo">1. Artículo 681.-En su número sexto, se suprime la expresión: &lt;... y los que estén sufriendo pena de interdicción civil.&gt;</p>
+    <p class="parrafo">2. Artículo 853.-Se suprime la causa 4</p>
+    <p class="parrafo">3. Artículo 1.700.-Su apartado 3 queda así redactado: &lt;Por la muerte o insolvencia de cualquiera de los socios, y en el caso previsto en el artículo 1.699.&gt;</p>
+    <p class="parrafo">4. Artículo 1.732.-Su apartado 3 queda así redactado: &lt;Por muerte, quiebra o insolvencia del mandante o mandatario.&gt;</p>
+    <p class="articulo">Artículo segundo.</p>
+    <p class="parrafo">Queda suprimido el apartado 1 del artículo 13 del Código de Comercio.</p>
+    <p class="articulo">Artículo tercero.</p>
+    <p class="parrafo">Queda suprimido el artículo 995 de la Ley de Enjuiciamiento Criminal.</p>
+    <p class="articulo">Artículo cuarto.</p>
+    <p class="parrafo">El artículo 82 de la Ley de Régimen Jurídico de las Sociedades Anónimas quedará redactado de la siguiente forma:</p>
+    <p class="parrafo">&lt;No pueden ser administradores los quebrados y concursados no rehabilitados, los menores e incapacitados, los condenados a penas que lleven aneja la inhabilitación para el ejercicio de cargo público, los que hubieran sido condenados por grave incumplimiento de leyes o disposiciones sociales y aquéllos que por razón de su cargo no puedan ejercer el comercio. Tampoco podrán ser administradores de las Sociedades los funcionarios al servicio de la Administración con funciones a su cargo qué se relacionen con las actividades propias de la Sociedad de que se trate.&gt;</p>
+    <p class="articulo">Artículo quinto.</p>
+    <p class="parrafo">El número 4 del artículo 2 de la Ley Hipotecaria quedará redactado en la siguiente forma:</p>
+    <p class="parrafo">4 Las resoluciones judiciales en que se declare la incapacidad legal para administrar la ausencia, el fallecimiento y cualesquiera otras por las que se modifique la capacidad civil de las personas en cuanto a la libre disposición de sus bienes.&gt; Por tanto,</p>
+    <p class="parrafo">Mando a todos los españoles, particulares,y autoridades que guarden y hagan guardar esta Ley.</p>
+    <p class="parrafo">Palacio de la Zarzuela, Madrid, 31 de marzo de 1984.-JUAN CARLOS R.-El Presidente del Gobierno, Felipe González Márquez.</p>
+  </texto>
+</documento>

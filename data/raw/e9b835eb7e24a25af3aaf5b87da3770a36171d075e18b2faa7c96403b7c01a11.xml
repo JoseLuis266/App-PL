@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <metadatos>
+      <fecha_actualizacion>20261001T072928Z</fecha_actualizacion>
+      <identificador>BOE-A-1999-1826</identificador>
+      <ambito codigo="1">Estatal</ambito>
+      <departamento codigo="7710">Ministerio de la Presidencia</departamento>
+      <rango codigo="1340">Real Decreto</rango>
+      <fecha_disposicion>19981223</fecha_disposicion>
+      <numero_oficial>2822/1998</numero_oficial>
+      <titulo>Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento General de Vehículos.</titulo>
+      <diario>Boletín Oficial del Estado</diario>
+      <fecha_publicacion>19990126</fecha_publicacion>
+      <diario_numero>22</diario_numero>
+      <fecha_vigencia>19990726</fecha_vigencia>
+      <estatus_derogacion>N</estatus_derogacion>
+      <estatus_anulacion>N</estatus_anulacion>
+      <vigencia_agotada>N</vigencia_agotada>
+      <estado_consolidacion codigo="3">Finalizado</estado_consolidacion>
+      <url_eli>https://www.boe.es/eli/es/rd/1998/12/23/2822</url_eli>
+      <url_html_consolidada>https://www.boe.es/buscar/act.php?id=BOE-A-1999-1826</url_html_consolidada>
+    </metadatos>
+  </data>
+</response>

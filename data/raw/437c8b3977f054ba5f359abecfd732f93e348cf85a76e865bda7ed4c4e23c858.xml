@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <metadatos>
+      <fecha_actualizacion>20261001T071852Z</fecha_actualizacion>
+      <identificador>BOE-A-2015-11722</identificador>
+      <ambito codigo="1">Estatal</ambito>
+      <departamento codigo="7320">Ministerio del Interior</departamento>
+      <rango codigo="1310">Real Decreto Legislativo</rango>
+      <fecha_disposicion>20151030</fecha_disposicion>
+      <numero_oficial>6/2015</numero_oficial>
+      <titulo>Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial.</titulo>
+      <diario>Boletín Oficial del Estado</diario>
+      <fecha_publicacion>20151031</fecha_publicacion>
+      <diario_numero>261</diario_numero>
+      <fecha_vigencia>20160131</fecha_vigencia>
+      <estatus_derogacion>N</estatus_derogacion>
+      <estatus_anulacion>N</estatus_anulacion>
+      <vigencia_agotada>N</vigencia_agotada>
+      <estado_consolidacion codigo="3">Finalizado</estado_consolidacion>
+      <url_eli>https://www.boe.es/eli/es/rdlg/2015/10/30/6</url_eli>
+      <url_html_consolidada>https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722</url_html_consolidada>
+    </metadatos>
+  </data>
+</response>

@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/indice",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1986-6859/texto/indice",
+  "sha256": "25e1ec5995e2344c6124776d202eebc636a1495b2c10b5525b020ceadc63b885",
+  "archivo": "data/raw/25e1ec5995e2344c6124776d202eebc636a1495b2c10b5525b020ceadc63b885.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:31:22.885218+00:00"
+}

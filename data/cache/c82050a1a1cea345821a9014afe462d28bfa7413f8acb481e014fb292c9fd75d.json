@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-14040",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2008-14040",
+  "sha256": "3f05be795bc79e313c7134c0a85f192557a4fd6df0d5a3d7f8c1aac9564382ab",
+  "archivo": "data/raw/3f05be795bc79e313c7134c0a85f192557a4fd6df0d5a3d7f8c1aac9564382ab.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:24:05.385871+00:00"
+}

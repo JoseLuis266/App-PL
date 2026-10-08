@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <analisis>
+      <materias>
+        <materia codigo="11">Aborto</materia>
+        <materia codigo="155">Agravantes</materia>
+        <materia codigo="380">Atenuantes</materia>
+        <materia codigo="886">Código Penal</materia>
+        <materia codigo="2339">Delitos</materia>
+        <materia codigo="2346">Delitos contra el honor</materia>
+        <materia codigo="2411">Delitos contra el medio ambiente</materia>
+        <materia codigo="2347">Delitos contra el orden público</materia>
+        <materia codigo="2348">Delitos contra el orden socioeconómico</materia>
+        <materia codigo="2349">Delitos contra el patrimonio</materia>
+        <materia codigo="2351">Delitos contra la Administración de Justicia</materia>
+        <materia codigo="2353">Delitos contra la Administración Pública</materia>
+        <materia codigo="2355">Delitos contra la Comunidad Internacional</materia>
+        <materia codigo="2356">Delitos contra la Constitución</materia>
+        <materia codigo="2360">Delitos contra la Hacienda Pública</materia>
+        <materia codigo="2363">Delitos contra la integridad moral</materia>
+        <materia codigo="2364">Delitos contra la intimidad</materia>
+        <materia codigo="2365">Delitos contra la libertad</materia>
+        <materia codigo="2366">Delitos contra la libertad sexual</materia>
+        <materia codigo="2369">Delitos contra la paz o la independencia del Estado</materia>
+        <materia codigo="2372">Delitos contra la seguridad colectiva</materia>
+        <materia codigo="2381">Delitos contra la Seguridad Social</materia>
+        <materia codigo="2384">Delitos contra las relaciones familiares</materia>
+        <materia codigo="2392">Delitos contra los derechos de los trabajadores</materia>
+        <materia codigo="2404">Delitos de traición</materia>
+        <materia codigo="2408">Delitos relativos a la Defensa Nacional</materia>
+        <materia codigo="2409">Delitos relativos a la manipulación genética</materia>
+        <materia codigo="2412">Delitos sobre el Patrimonio Histórico</materia>
+        <materia codigo="2413">Delitos sobre la ordenación del territorio</materia>
+        <materia codigo="2437">Derecho al honor a la intimidad personal y familiar y a la propia imagen</materia>
+        <materia codigo="2467">Derechos fundamentales</materia>
+        <materia codigo="3199">Enjuiciamiento Criminal</materia>
+        <materia codigo="3509">Eximentes</materia>
+        <materia codigo="3586">Falsedades</materia>
+        <materia codigo="3589">Faltas</materia>
+        <materia codigo="3590">Faltas contra el orden público</materia>
+        <materia codigo="3591">Faltas contra el patrimonio</materia>
+        <materia codigo="3593">Faltas contra las personas</materia>
+        <materia codigo="3594">Faltas contra los intereses generales</materia>
+        <materia codigo="4019">Homicidio</materia>
+        <materia codigo="4170">Informática</materia>
+        <materia codigo="4525">Inviolabilidad del domicilio</materia>
+        <materia codigo="4696">Jurado</materia>
+        <materia codigo="4759">Lesiones</materia>
+        <materia codigo="4760">Lesiones al feto</materia>
+        <materia codigo="4916">Medidas de seguridad</materia>
+        <materia codigo="5244">Omisión del deber de socorro</materia>
+        <materia codigo="5539">Penas</materia>
+        <materia codigo="5679">Prestación Social Sustitutoria</materia>
+        <materia codigo="6067">Reproducción asistida</materia>
+        <materia codigo="6218">Responsabilidad Civil</materia>
+        <materia codigo="6220">Responsabilidad Criminal</materia>
+        <materia codigo="6905">Torturas</materia>
+        <materia codigo="6962">Tribunal del Jurado</materia>
+      </materias>
+      <notas>
+        <nota>Entrada en vigor, con la salvedad indicada, el 24 de mayo de 1996.</nota>
+      </notas>
+      <referencias>
+        <anteriores>
+          <anterior>
+            <id_norma>BOE-A-1989-14247</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>la Ley Orgánica 3/1989, de 21 de junio, excepto disposiciones adicionales 1 y 2</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1985-11672</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>términos indicados del art. 137 de la Ley Orgánica 5/1985, de 19 de junio</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1984-28224</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>art. 2 de la Ley Orgánica 8/1984, de 26 de diciembre</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1984-11619</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>art. 4 de la Ley Orgánica 5/1984, de 24 de mayo</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1981-14095</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>art. 256 del Reglamento aprobado por Real Decreto 1201/1981, de 8 de mayo</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1981-10325</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>art. 24, segundo párrafo, de la Ley Orgánica 3/1981, de 6 de abril</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1973-1715</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>Decreto 3096/1973, de 14 de septiembre, y sus modificaciones, excepto los arts. 8.2, 9.3, Regla 1a. del 20, párrafo 2 del 22, 65 y 417 Bis</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1971-922</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>Ley 33/1971, de 21 de julio</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1970-854</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>Ley 16/1970, de 4 de agosto, con sus modificaciones y normas Complementarias</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1970-369</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>, en la forma indicada los precepto penales sustantivos de la Ley 1/1970, de 4 de abril</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1968-909</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>art. 6 de la Ley 57/1968, de 27 de julio</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1964-21509</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>arts. 29 y 49 de la Ley 209/1964, de 24 de diciembre</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1964-7544</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>arts. 84 a 90 de la Ley 25/1964, de 29 de abril</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1956-4270</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>arts. 65 a 73 del Reglamento de los servicios de Prisiones, aprobado por Decreto de 2 de febrero de 1956 (Gazeta)</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1947-70</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>, en la forma indicada Ley de 31 de diciembre de 1946, sobre Pesca con Explosivos (Gazeta)</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1942-2205</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>, en la forma indicada Ley de 20 de febrero de 1942, de Pesca Fluvial (Gazeta)</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1908-2175</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>Ley de 17 de marzo de 1908, de Condena Condicional, con sus modificaciones y normas complementarias (Gazeta)</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1903-4713</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>, en la forma indicada Ley de 23 de julio de 1903, sobre Mendicidad de Menores (Gazeta)</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1902-3818</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>, en la forma indicada Ley de 16 de mayo de 1902, sobre la Propiedad industrial (Gazeta)</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1896-5539</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>, en la forma indicada Ley de 19 de septiembre de 1896, para la protección de Pajaros Insectivoros (Gazeta)</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1878-5205</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>Ley de 26 de julio de 1878, de Prohibición de Ejercicios Peligrosos Ejecutados por Menores (Gazeta)</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1995-15869</id_norma>
+            <relacion codigo="270">MODIFICA</relacion>
+            <texto>la disposición adicional 2 de la Ley Orgánica 6/1995, de 29 de junio</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1995-12095</id_norma>
+            <relacion codigo="270">MODIFICA</relacion>
+            <texto>el art. 1.2 de la Ley Orgánica 5/1995, de 22 de mayo</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1988-27108</id_norma>
+            <relacion codigo="270">MODIFICA</relacion>
+            <texto>art. 20 del capítulo VI, renumera el art. 21 como art. 24 del capítulo VII de la Ley 35/1988, de 22 de noviembre</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1982-11196</id_norma>
+            <relacion codigo="270">MODIFICA</relacion>
+            <texto>los arts. 1 y 7 de la Ley Orgánica 1/1982, de 5 de mayo</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1882-6036</id_norma>
+            <relacion codigo="270">MODIFICA</relacion>
+            <texto>arts. 14 y 779 de la Ley de Enjuiciamiento Criminal aprobada por Real Decreto de 14 de septiembre de 1882 (Gazeta)</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1990-27152</id_norma>
+            <relacion codigo="330">CITA</relacion>
+            <texto>Convención de 20 de diciembre de 1988</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1989-23643</id_norma>
+            <relacion codigo="330">CITA</relacion>
+            <texto>Protocolos de 8 de junio de 1977</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1989-17696</id_norma>
+            <relacion codigo="330">CITA</relacion>
+            <texto>Protocolos de 8 de junio de 1977</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1987-25628</id_norma>
+            <relacion codigo="330">CITA</relacion>
+            <texto>Ley 22/1987, de 11 de noviembre</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1985-12666</id_norma>
+            <relacion codigo="330">CITA</relacion>
+            <texto>Ley Orgánica 6/1985, de 1 de julio</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1979-18904</id_norma>
+            <relacion codigo="330">CITA</relacion>
+            <texto>Convenio de 12 de agosto de 1949</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1971-1454</id_norma>
+            <relacion codigo="330">CITA</relacion>
+            <texto>Ley 44/1971, de 15 de noviembre</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1900-7589</id_norma>
+            <relacion codigo="330">CITA</relacion>
+            <texto>Convenio de 29 de julio de 1899 (Gazeta)</texto>
+          </anterior>
+        </anteriores>
+        <posteriores>
+          <posterior>
+            <id_norma>BOE-A-2015-3439</id_norma>
+            <relacion codigo="210">SE DEROGA</relacion>
+            <texto>el libro III, SE AÑADE, SE SUPRIME, SE MODIFICA determinados preceptos, las referencias indicadas, y SE DECLARA el carácter de Ley ordinaria al art. 128, por Ley Orgánica 1/2015, de 30 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2012-15647</id_norma>
+            <relacion codigo="210">SE DEROGA</relacion>
+            <texto>los arts. 309, 627 y 628, SE MODIFICA los arts. 31 bis, 305 a 308, 310 bis, 311 y 398, y SE AÑADE los arts. 305 bis, 307 bis, 307 ter y 433 bis, por Ley Orgánica 7/2012, de 27 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2003-18088</id_norma>
+            <relacion codigo="210">SE DEROGA</relacion>
+            <texto>el último párrafo del art. 617.2 y SE MODIFICA determinados preceptos, por Ley Orgánica 11/2003, de 29 de septiembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2000-641</id_norma>
+            <relacion codigo="210">SE DEROGA</relacion>
+            <texto>la disposición transitoria 12, por Ley Orgánica 5/2000, de 12 de enero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1998-23133</id_norma>
+            <relacion codigo="210">SE DEROGA</relacion>
+            <texto>el art. 528 y se modifican los arts. 527 y 604 , por Ley Orgánica 7/1998, de 5 de octubre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2002-9848</id_norma>
+            <relacion codigo="230">SE DEJA SIN EFECTO</relacion>
+            <texto>los arts. 527 y 604, se suprime la sección 3 del capítulo IV del título XXI del libro II y se modifica lo indicado de los títulos XXI y XXIII del libro II, por Ley Orgánica 3/2002, de 22 de mayo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2026-7966</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 22, 66.2, 80.2, 234.2, 235.1, 248, 250.1, 255 y 568, por Ley Orgánica 1/2026, de 8 de abril</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2024-11776</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 130.1, por Ley Orgánica 1/2024, de 10 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2023-10213</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 132, 173, 178 a 181 y 189 bis, por Ley Orgánica 4/2023, de 27 de abril</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2023-7935</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 334, 335, 336 y la rúbrica del capítulo IV del título XVI del libro II, AÑADE el título XVI bis del libro II y SUPRIME los arts. 337 y 337 bis, por Ley Orgánica 3/2023, de 28 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2023-5364</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 145 bis.1, 172 ter.1 y 5, por Ley Orgánica 1/2023, de 28 de febrero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2022-21800</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>, SE AÑADE y SE SUPRIME determinados preceptos, por Ley Orgánica 14/2022, de 22 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2022-21676</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 177 bis.4, por Ley Orgánica 13/2022, de 20 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2022-14965</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 142.2, 152.2 y 382 bis.1, por Ley Orgánica 11/2022, de 13 de septiembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2022-14630</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>, SE SUPRIME y SE AÑADE determinados preceptos, con efectos desde el 7 de octubre de 2022, por Ley Orgánica 10/2022, de 6 de septiembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2022-12644</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>, con efectos desde el 29 de agosto de 2022, el art. 234.2, por Ley Orgánica 9/2022, de 28 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2022-11588</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 22 y 510.1 y 2, por Ley Orgánica 6/2022, de 12 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2021-10957</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 24.1, 132 y 306, por Ley Orgánica 9/2021, de 1 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2021-9347</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>y SE AÑADE determinados preceptos, por Ley Orgánica 8/2021, de 4 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2021-9233</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>, con efectos desde el 3 de septiembre de 2021, los arts. 118, 120 y la disposición adicional 1, por Ley 8/2021, de 2 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2021-6944</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 301 y 302, por Ley Orgánica 6/2021, de 28 de abril</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2021-4628</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>, con efectos desde el 25 de junio de 2021, el art.143, por Ley Orgánica 3/2021, de 24 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2020-16345</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 156, por Ley Orgánica 2/2020, de 16 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2019-2973</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 142, 152, 382, y SE AÑADE los arts. 142 bis, 152 bis y 382 bis, por Ley Orgánica 2/2019, de 1 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2019-2363</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>determinados preceptos y SE AÑADE los arts. 285 bis, 285 ter, 285 quater, 435 bis, 580 bis, por Ley Orgánica 1/2019, de 20 de febrero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2015-4606</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>, con efectos desde el 28 de octubre de 2015, el art. 126, por Ley 4/2015, de 27 de abril</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2015-3440</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el capítulo VII del título XXII del libro II, por Ley Orgánica 2/2015, de 30 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2011-1640</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 131, 197, 288 y 570, por Ley Orgánica 3/2011, de 28 de enero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2010-9953</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>determinados preceptos , por Ley Orgánica 5/2010, de 22 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2010-3514</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 145, SE AÑADE el 145 bis y SE SUPRIME el inciso indicado de la disposición derogatoria única 1.a), por Ley Orgánica 2/2010, de 3 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-20636</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 47, 379 a 385 y la rúbrica del capítulo IV del título XVII del libro II, por Ley Orgánica 15/2007, de 30 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-19879</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 313.1 y 318 bis.1, por Ley Orgánica 13/2007, de 19 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2005-16825</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>la sección 3 del capítulo I del título XVII del libro II y el art. 348, por Ley Orgánica 4/2005, de 10 de octubre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2004-21760</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 83, 84, 88, 148, 153, 171, 172, 468 y 620, por Ley Orgánica 1/2004, de 28 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2003-21538</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>por Ley Orgánica 15/2003, de 25 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2003-13022</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 36, 76, 78, 90, 91 y 93, por Ley Orgánica 7/2003, de 30 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2003-4923</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 505, por Ley Orgánica 1/2003, de 10 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2002-24044</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 224, 622 y SE AÑADE una sección y un art. 225 bis al capítulo III del título XII del Libro II, por Ley Orgánica 9/2002, de 10 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2000-23660</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 89, por Ley Orgánica 8/2000, de 22 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2000-23659</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 40, 266, 346, 351, 504, 505, 551, 577, 578 y 579, por Ley Orgánica 7/2000, de 22 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2000-544</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 312.1, 518 y el párrafo 1 del 517, y SE AÑADE el apartado 6 al art. 515 y el título XV bis, por Ley Orgánica 4/2000 de 11 de enero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2000-412</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 566 y 567, por Ley Orgánica 2/2000, de 7 de enero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1999-12907</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 33, 39, 48, 57, 83, 105, 132.1, 153, 617 y 620, por Ley Orgánica 14/1999, de 9 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1999-9744</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los capítulos I a V y el epígrafe del título VIII del libro II y los arts. 132.1, 57, 83.1, 105.1 y 617.2, por Ley Orgánica 11/1999, de 30 de abril</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1998-14062</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 170 y SE AÑADE los apartados 4 y 5 al art. 514, por Ley Orgánica 2/1998, de 15 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2022-6044</id_norma>
+            <relacion codigo="407">SE AÑADE</relacion>
+            <texto>el art. 172 quater, por Ley Orgánica 4/2022, de 12 de abril</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2006-20263</id_norma>
+            <relacion codigo="407">SE AÑADE</relacion>
+            <texto>el art. 361 bis, por Ley Orgánica 7/2006, de 21 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2003-23645</id_norma>
+            <relacion codigo="407">SE AÑADE</relacion>
+            <texto>los arts. 506 bis, 521 bis y 576 bis, por Ley Orgánica 20/2003, de 23 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2000-543</id_norma>
+            <relacion codigo="407">SE AÑADE</relacion>
+            <texto>título XIX bis, por Ley Orgánica 3/2000 de 11 de enero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2021-6462</id_norma>
+            <relacion codigo="235">SE SUPRIME</relacion>
+            <texto>el art. 315.3, por Ley Orgánica 5/2021, de 22 de abril</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2005-10621</id_norma>
+            <relacion codigo="235">SE SUPRIME</relacion>
+            <texto>los arts. 506 bis, 521 bis y 576 bis, por Ley Orgánica 2/2005, de 22 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1996-4943</id_norma>
+            <relacion codigo="201">CORRECCIÓN de errores</relacion>
+            <texto>en BOE núm. 54, de 2 de marzo de 1996</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2015-6465</id_norma>
+            <relacion codigo="203">SE CORRIGEN errores</relacion>
+            <texto>de la Ley Orgánica 1/2015, de 30 de marzo, en BOE núm. 139, de 11 de junio de 2015</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2011-10598</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>sobre ejecución de las penas de trabajo y localización permanente en centro penitenciario: Real Decreto 840/2011, de 17 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2005-7426</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>, sobre circunstancias de ejecución de las penas y las medidas de seguridad: Real Decreto 515/2005, de 6 de mayo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1996-10993</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>con los arts. 37 y 49, sobre Ejecución de Penas de Trabajo en Beneficio de la Comunidad y Arresto de Fin de Semana: Real Decreto 690/1996, de 26 de abril</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2025-26697</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en la Cuestión 6699/2024, la desestimación en relación al art. 130.1, en la redacción dada por la disposición final 2 de la Ley Orgánica 1/2024, de 10 de junio, por Sentencia 182/2025, de 20 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2025-26696</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en la Cuestión 6597/2024, la desestimación en relación al art. 130.1, en la redacción dada por la disposición final 2 de la Ley Orgánica 1/2024, de 10 de junio, por Sentencia 181/2025, de 20 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2024-15427</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en el Recurso 3630/2023, su desestimación en relación con el art. 145 bis, en la redacción dada por la Ley Orgánica 1/2023, de 28 de febrero, por Sentencia 92/2024, de 18 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2024-11773</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en el recurso 5041/2022, la desestimación en relación con el art. 172 quater,  en la redacción dada por el art. único de la Ley Orgánica 4/2022, de 12 de abril,  por Sentencia 75/2024, de 8 de mayo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2021-18372</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>, en el Recurso 3866/2015, la constitucionalidad, interpretado en los términos del fj 9.b), del art. 92.3 y 4, en la redacción dada por la por la Ley Orgánica 1/2015, de 30 de marzo y la desestimación de todo lo demás , por Sentencia 169/2021, de 6 de octubre de 2021</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2015-1892</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en la Cuestión 7360/2013, la inadmisión, por Sentencia 4/2015, de 19 de enero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2015-1891</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la DESESTIMACIÓN de la Cuestión 7045/2013,  y la constitucionalidad del párrafo 2 del art. 623.1, interpretado en el sentido expuesto, por Sentencia 3/2015, de 19 de enero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2015-463</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>, en la Cuestión 1140/2014, la constitucionalidad, interpretado según se indica, en relación con el art. 623.1, párrafo 2, y su DESESTIMACIÓN, por Sentencia 206/2014, de 15 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2015-462</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>, en la Cuestión 6634/2013, la constitucionalidad, interpretado según se indica, en relación con el art. 623.1, párrafo 2, y su DESESTIMACIÓN, por Sentencia 205/2014, de 15 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2015-460</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>, en la Cuestión 5802/2013, la inadmisión, por Sentencia 203/2014, de 15 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2014-12651</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>, en el Recurso 5318/2013, la constitucionalidad, interpretado según se indica, del art. 623.1, párrafo 2, y su desestimación, por Sentencia 185/2014, de 6 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2012-8625</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>, en la Cuestión 4916/2002, la extinción por desaparición sobrevenida de su objeto, en relación con el art. 335, por Auto de 19 de junio de 2012</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2012-7511</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>, en la Cuestión 4246/2001, inconstitucional y nulo, en la redacción original, el art. 335, por Sentencia 101/2012, de 8 de mayo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2010-19817</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la desestimación en las Cuestiones acumuladas 2155/2009 y 9610/2009, en relación con el art. 57.2, en la redacción dada por la Ley Orgánica 15/2003, de 25 de noviembre,  por Sentencia 119/2010, de 24 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2010-19816</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la desestimación en las Cuestiones acumuladas, 5256/2007, 6316/2007 y 4383/2010, en relación con el art 57.2, por Sentencia 118/2010, de 24 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2010-19815</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la desestimación en las Cuestiones acumuladas, 3964/2006 y 3965/2006, en relación con el art 57.2, por Sentencia 117/2010, de 24 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2010-19814</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la desestimación de las Cuestiones acumuladas, 7259/2005 y 7542/2005,  en relación con el art 57.2, en la redacción dada por la Ley Orgánica 15/2003, de 25 de noviembre, por Sentencia 116/2010, de 24 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2010-19813</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la desestimación de las Cuestiones acumuladas 3916/2005, 8820/2005, 6292/2006, 3899/2007, 5947/2008 y 7433/2008, en relación con el art. 57.2, en la redacción dada por la Ley Orgánica 15/2003, de 25 de noviembre, por Sentencia 115/2010, de 24 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2010-18649</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en la Cuestión 3213/2009, la inadmisión de lo indicado y la desestimación de todo lo demás en relación al art. 57.2 en la redacción dada por la Ley Orgánica 15/2003, de 25 de noviembre,  por Sentencia 86/2010, de 3 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2010-18648</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en la Cuestión 5163/2008, la desestimación, en relación con el art. 57.2 en la redacción dada por la Ley Orgánica 15/2003, de 25 de noviembre, por Sentencia 85/2010, de 3 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2010-18647</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en la Cuestión 7790/2007, la desestimación, por Sentencia 84/2010, de 3 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2010-18646</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en la Cuestión 9201/2006, la inadmisión en relación al art. 153.3, en la redacción dada por la Ley Orgánica 1/2004 de 28 de diciembre,  y la desestimación de todo lo demás, por Sentencia 83/2010, de 3 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2010-18645</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en la Cuestión 7728/2005, la inadmisión de lo indicado y la desestimación de todo lo demás en relación con el art. 57.2, en la redacción dada por la Ley Orgánica 15/2003, de 25 de noviembre,  por Sentencia 82/2010, de 3 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2010-18644</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la desestimación de la Cuestión 4976/2005, en relación con el art. 57.2 en la redacción dada por la Ley Orgánica 15/2003, de 25 de noviembre, por Sentencia 81/2010, de 3 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2010-17757</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en la Cuestión 9130/2007, la desestimación, por Sentencia 80/2010, de 26 de octubre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2010-17756</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en la Cuestión 9853/2006, la INADMISIÓN de lo indicado en relación con el art. 171, en la redacción dada por la Ley Orgánica 1/2004, de 28 de diciembre,  y la desestimación en relación con el art. 57.2, en la redacción dada por la Ley Orgánica 15/2003, por Sentencia 79/2010, de 26 de octubre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2010-17754</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en la Cuestión 3508/2008, la INADMISIÓN de lo indicado en relación al art. 171.4, párrafo 2 en la redacción dada por el art. 38 de la Ley Orgánica 1/2004, de 28 de diciembre,  y del art. 173.3 y 2, salvo el inciso indicado, en la redacción dada por la Ley Orgánica 11/2003, de 29 de septiembre,  y la DESESTIMACIÓN de todo lo demás, por Sentencia 77/2010, de 18 de octubre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2010-16548</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la desestimación de la Cuestión 8821/2005, en relación con el art. 57.2, por Sentencia 60/2010, de 7 de octubre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2010-13113</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la desestimación de la Cuestión 5003/2007, en relación con los arts. 148.4 y 153.1, por Sentencia 45/2010, de 28 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2010-12885</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la desestimación de las Cuestiones acumuladas 2755/2007 y 7291/2008, en relación con el art. 148.4, por Sentencia 41/2010, de 22 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2009-18824</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en la Cuestión 2523/2008, la INADMISIÓN de lo indicado y la desestimación de todo lo demás, en relación con los arts. 153.1 y 171.4, por Sentencia 203/2009, de 27 de octubre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2009-18823</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en las Cuestiones acumuladas 10789/2006 y 4615/2007, la INADMISIÓN de lo indicado y la desestimación de todo lo demás, en relación con los arts. 153.1 y 171.4, por Sentencia 202/2009, de 27 de octubre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2009-18822</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la DESESTIMACIÓN de las Cuestiones acumuladas 6812, 10662 y 11334/2006, 6883/2007, y 1038 y 6733/2008, en relación a los arts. 153.1 y 171.4, por Sentencia 201/2009, de 27 de octubre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2009-13758</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en las Cuestiones acumuladas 9131 y 1877/2008, la INADMISIÓN en relación con lo indicado del art. 171.4 y 5 y la desestimación en todo lo demás, por Sentencia 180/2009, de 21 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2009-13757</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en las Cuestiones acumuladas 7453 y 9194/2007, 1230 y 3802/2008, la inadmisión en relación con lo indicado del art. 171.4, por Sentencia 179/2009, de 21 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2009-13756</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la desestimación de la Cuestión 9804/2006, en relación con el párrafo 1 de los arts. 153.1 y 171.4, por Sentencia 178/2009, de 21 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2009-13755</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en la Cuestión 9266/2005, la INADMISIÓN en relación con lo indicado del art. 171.4 y 6 y la desestimación de todo lo demás, por Sentencia 177/2009, de 21 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2009-12530</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la desestimación de la Cuestión 7825/2007, en relación con los artículos 153.1 y 172.2, por Sentencia 167/2009, de 2 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2009-12529</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en la Cuestión 11335/2006, la INADMISIÓN de lo indicado en relación con el art. 153.1 y la desestimación en todo lo demás, por Sentencia 166/2009, de 2 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2009-12528</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la INADMISIÓN de la Cuestión 2000/2007, 941, 1316, 5257, 8016, 8058 y 9495/2007, 963, 2857 y 3177/2008, en relación con el art. 171.4, por Sentencia 165/2009, de 2 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2009-12527</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la INADMISIÓN de lo indicado y la desestimación en todo lo demás de la Cuestión 5465/2006,  en relación con los arts. 153.1 y 172.2, por Sentencia 164/2009, de 2 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2009-12517</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en la Cuestión 5438/2006, la INADMISIÓN de lo indicado en relación con el art. 171.4 y la desestimación de todo lo demás, por Sentencia 154/2009, de 25 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2009-12516</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la desestimación de las Cuestiones 1040, 8262 y 8965/2006, 46, 793, 1220, 2141, 3490, 6882, 7826, 8328, 9369, 9425 y 9927/2007, 717, 1039, 5752, 5753, 5756, 6620, 6621, 6734, 6777, 6954 y 8437/2008, en relación con el art. 171.4, por Sentencia 153/2009, de 25 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2009-12515</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la desestimación de las Cuestiones acumuladas 649, 1820, 2879, 4016, 5266, 6898, y 7123/2006, en relación con el art. 171.4, por Sentencia 152/2009, de 25 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2009-12514</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la desestimación de las Cuestiones acumuladas 7258/2005, 208, 5865, 5866, 6171 y 6477/2006, en relación con el art. 171.4, por Sentencia 151/2009, de 25 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2009-10260</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la INADMISIÓN en lo indicado y la desestimación en todo lo demás de las Cuestiones acumuladas 7393 y 8198/2006, 6138/2007 y 6878/2008; en relación con el art. 172.2, por Sentencia 127/2009, de 26 de mayo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2009-4366</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la INADMISIÓN de la Cuestión 7616/2007 y la DESESTIMACIÓN de las Cuestiones 5983/2005, 8295 y 9765/2006, 954, 1264, 2083, 3088, 6968 y 8972/2007, 52 y 2315/2008, en relación con el art. 171.4, por Sentencia 45/2009, de 19 de febrero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-T-2008-18814</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en la CUESTIÓN 6563/2006,  la INADMISIÓN en relación con el art. 57.2, por Sentencia 141/2008, de 30 de octubre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-T-2008-18813</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la INADMISIÓN de la CUESTIÓN 594/2006,  en relación con el art. 57.2, por Sentencia 140/2008, de 28 de octubre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-T-2008-18812</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la INADMISIÓN de la CUESTIÓN 640/2005,  en relación con los arts. 57 y 48.2, por Sentencia 139/2008, de 28 de octubre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-T-2008-14044</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en las CUESTIONES acumuladas 1 y 2169/2008,  la INADMISIÓN en lo indicado y la desestimación en todo lo demás en relación con el art. 153, por Sentencia 100/2008, de 24 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-T-2008-14043</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la desestimación de las CUESTIONES acumuladas 8300, 9744 y 9745/2007, 2, 716, 1124 y 1879/2008, en relación con el art. 153.1, por Sentencia 99/2008, de 24 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-T-2008-14042</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la desestimación de la CUESTIÓN 51/2007,  en relación con el art. 153.1, por Sentencia 98/2008, de 24 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-T-2008-14041</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la desestimación de la CUESTIÓN 10487/2006,  en relación con el art. 153.1, por Sentencia 97/2008, de 24 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-T-2008-14040</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la desestimación de la CUESTIÓN 4655/2006,  en relación con el art. 153.1, por Sentencia 96/2008, de 24 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-T-2008-14039</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la desestimación de la CUESTIÓN 2013/2006,  en relación con el art. 153.1, por Sentencia 95/2008, de 24 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-T-2008-14027</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la desestimación en las CUESTIONES acumuladas 5163, 5439, 5937, 6034, 8109, 8231, 8232, 9154 y 9155/2006, 306, 4660, 6288, 7617, 8846, 8847, 8973, 9018, 9019, 9746/2007 y 483/2008, en relación con el art. 153.1, por Sentencia 83/2008, de 17 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-T-2008-14026</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la desestimación en las Cuestiones acumuladas 9579/2005, 2213, 2495, 2496, 2684, 3442, 4654 y 9592/2006, en relación con el art. 153.1, por Sentencia 82/2008, de 17 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-T-2008-14025</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en las CUESTIONES acumuladas 8202 y 8992/2005, 768, 4574, 4575, 4998, 6035, 6438, 7229, 8199, 8261, 8966, 10596 y 10661/2006, 47, 1218, 1219, 2922, 4616, 4763, 4815, 5924, 5925, 6360, 6662, 6663, 8622, 9318, 9368, 9423 y 9424/2007 y 1037/2008 ,  la INADMISIÓN en lo indicado y la desestimación en todo lo demás, en relación con el art. 153.1, por Sentencia 81/2008, de 17 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-T-2008-14024</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en las CUESTIONES acumuladas 6660, 7729 y 8970/2005, 4576, 4577 y 9359/2006, 2848, 3340, 6439, 7827, 7828, 7829 y 7987/2007 y 84 y 85/2008,  la INADMISIÓN en lo indicado y la desestimación en todo lo demás, en relación con el art. 153.1, por Sentencia 80/2008, de 17 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-T-2008-12649</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la desestimación en las CUESTIONES acumuladas 6618 y 8236/2005, 760, 1579, 2215, 5351, 7558, 8437, 8906, 9361, 10486, 10913/2006,1415, 4561, 4814, 5615, 5926, 7497 y 8384/2007 y 543 y 1036/2008, en relación con el art. 153.1, por Sentencia 76/2008, de 3 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-T-2008-9606</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la desestimación de la CUESTIÓN 5939/2005, en relación con el art. 153.1, por Sentencia 59/2008, de 14 de mayo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-T-2007-21161</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en la Cuestión 5152/2000, la inconstitucionalidad y nulidad de lo indicado del art. 607.2 y la constitucionalidad del primer inciso del mismo, interpretado según el f.j 9, por Sentencia 235/2007, de 7 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-13266</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en el Recurso 1915/2004, la extinción por desaparición sobrevenida de su objeto, en relación con los arts. 506.bis, 521.bis y 576.bis en la redacción dada por la Ley Orgánica 20/2003, de 23 de diciembre, por Auto de 19 de junio de 2007</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-T-2004-5478</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la desestimación de la CUESTIÓN 3371/1997,  y la constitucionalidad del primer inciso del art. 563, interpretado en el sentido expuesto en el FJ 8., por Sentencia 24/2004, de 24 de febrero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2000-24010</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en la Cuestión 4162/1998, la extinción, por desaparición sobrevenida de su objeto en relación con lo indicado del art. 403, por Auto de 12 de diciembre de 2000</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-T-1998-1176</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en las Cuestiones 4783/1996, 581, 582, 1135, 1591, 2606, 3203, 1592, 1621, 1623, 1640, 1892, 2688, 2083, 2281, 2632, 2888 y 2905/1997, la desestimación en relación con el art. 380 y que inadmite las Cuestiones 2755/1996 y 342/1997, por Sentencia 234/1997, de 18 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-T-1997-22974</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en la Cuestión 4198/1996,  la desestimación en relación con el art. 380, por Sentencia 161/1997, de 2 de octubre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2024-25863</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>6596/2024 promovida por supuesta inconstitucionalidad del art. 130.1, en la redacción dada por la disposición final 2 de la Ley Orgánica 1/2024, de 10 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2010-1</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>9610/2009 promovida por supuesta inconstitucionalidad del art. 57.2</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2008-4902</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>1038/2008 promovida por supuesta inconstitucionalidad de los arts. 153.1 y 171.4</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2008-4900</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>1036/2008 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2008-4895</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>543/2008 promovida por supuesta inconstitucionalidad del artículo 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2008-4893</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>9746/2007 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2008-3521</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>483/2008 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2008-3520</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>85/2008 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2008-3518</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>9744/2007 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2008-3515</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>9318/2007 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2008-3514</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>9019/2007 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2008-3513</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>9018/2007 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2008-2329</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>9424/2007 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2008-1623</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>9423/2007 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2008-1621</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>9368/2007 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2008-1619</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>8973/2007 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-22523</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>8847/2007 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-22522</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>8846/2007 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-22521</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>8622/2007 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-20264</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>6663/2007 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-20263</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>5925/2007 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-19008</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>7617/2007 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-18533</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>6883/2007 promovida por supuesta inconstitucionalidad del art. 153.1, inciso 1 y 171.4</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-17574</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>6662/2007 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-16791</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>6360/2007 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-16790</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>6288/2007 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-16788</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>5926/2007 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-16787</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>5924/2007 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-16785</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>5256/2007 promovida por supuesta inconstitucionalidad del art. 57.2</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-16784</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>4815/2007 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-16782</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>51/2007 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-16781</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>10661/2006 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-14326</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>4763/2007 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-13273</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>4660/2007 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-13270</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>2922/2007 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-13264</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>4616/2007 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-13263</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>4615/2007 promovida por supuesta inconstitucionalidad de los arts. 153.1 y 171.4</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-11311</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>10662/2006 promovida por supuesta inconstitucionalidad de los arts. 153.1 y 171.4</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-6413</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>1219/2007 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-6412</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>1218/2007 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-4365</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>306/2007 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-4364</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>47/2007 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-4362</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>11334/2006 promovida por supuesta inconstitucionalidad de los arts. 153.1 y 171.4</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-2388</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>10596/2006 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-2386</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>8261/2006 promovida por supuesta inconstitucionalidad del art. 153.1</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2006-16776</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>6812/2006 promovida por supuesta inconstitucionalidad de los arts. 153.1 y 171.4</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2006-4503</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>208/2006 promovida por supuesta inconstitucionalidad del art. 171.4</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1997-4837</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>582/1997 por supuesta inconstitucionalidad del art. 380</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2023-15067</id_norma>
+            <relacion codigo="552">Recurso</relacion>
+            <texto>3630/2023 promovido contra el art. 145 bis, en la redacción dada por la Ley Orgánica 1/2023, de 28 de febrero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2022-16279</id_norma>
+            <relacion codigo="552">Recurso</relacion>
+            <texto>5041/2022, promovido contra el art. 172 quater, en la redacción dada por el art. único de la Ley Orgánica 4/2022, de 12 de abril</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2008-2326</id_norma>
+            <relacion codigo="552">Recurso</relacion>
+            <texto>6316/2007 promovido contra el art. 57.2</texto>
+          </posterior>
+        </posteriores>
+      </referencias>
+    </analisis>
+  </data>
+</response>

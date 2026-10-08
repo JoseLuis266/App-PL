@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a610" tipo="precepto" titulo="Artículo 610">
+      <version id_norma="BOE-A-1995-25444" fecha_publicacion="19951124" fecha_vigencia="19960524">
+        <p class="articulo">Artículo 610.</p>
+        <p class="parrafo">El que, con ocasión de un conflicto armado, emplee u ordene emplear métodos o medios de combate prohibidos o destinados a causar sufrimientos innecesarios o males superfluos, así como aquellos concebidos para causar o de los que fundadamente quepa prever que causen daños extensos, duraderos y graves al medio ambiente natural, comprometiendo la salud o la supervivencia de la población, será castigado con la pena de prisión de diez a quince años, sin perjuicio de la pena que corresponda por los resultados producidos.</p>
+      </version>
+      <version id_norma="BOE-A-2003-21538" fecha_publicacion="20031126" fecha_vigencia="20041001">
+        <p class="articulo">Artículo 610.</p>
+        <p class="parrafo">El que, con ocasión de un conflicto armado, emplee u ordene emplear métodos o medios de combate prohibidos o destinados a causar sufrimientos innecesarios o males superfluos, así como aquéllos concebidos para causar o de los que fundamentalmente quepa prever que causen daños extensos, duraderos y graves al medio ambiente natural, comprometiendo la salud o la supervivencia de la población, u ordene no dar cuartel, será castigado con la pena de prisión de 10 a 15 años, sin perjuicio de la pena que corresponda por los resultados producidos.</p>
+        <blockquote>
+          <p class="nota_pie">Se modifica por el art. único.162 de la Ley Orgánica 15/2003, de 25 noviembre. <a class="refPost">Ref. BOE-A-2003-21538</a></p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

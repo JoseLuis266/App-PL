@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-11722/metadatos",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-11722/metadatos",
+  "sha256": "437c8b3977f054ba5f359abecfd732f93e348cf85a76e865bda7ed4c4e23c858",
+  "archivo": "data/raw/437c8b3977f054ba5f359abecfd732f93e348cf85a76e865bda7ed4c4e23c858.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:30:43.029395+00:00"
+}

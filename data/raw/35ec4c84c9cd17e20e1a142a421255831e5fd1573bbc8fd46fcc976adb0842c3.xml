@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a3-2" tipo="precepto" titulo="Artículo 30">
+      <version id_norma="BOE-A-2016-7994" fecha_publicacion="20160804" fecha_vigencia="20160805">
+        <p class="articulo">Artículo 30. Formación.</p>
+        <p class="parrafo">1. La administración educativa adoptará las medidas necesarias para incluir en los planes de formación del profesorado una preparación específica en materia de igualdad de oportunidades de mujeres y hombres, coeducación, violencia machista y educación afectiva y sexual.</p>
+        <p class="parrafo">2. La oferta de formación permanente dirigida al profesorado, además de integrar la filosofía de la coeducación, incluirá entre las temáticas dirigidas a la formación en centros las relacionadas con la historia de las mujeres y la prevención, la detección y las formas de actuación ante la violencia en el ámbito escolar.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

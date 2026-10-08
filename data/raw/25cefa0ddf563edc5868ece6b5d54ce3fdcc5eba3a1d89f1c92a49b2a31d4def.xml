@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a6" tipo="precepto" titulo="Artículo 6">
+      <version id_norma="BOE-A-2003-23514" fecha_publicacion="20031223" fecha_vigencia="20040123">
+        <p class="articulo">Artículo 6. Prevención de incendios.</p>
+        <p class="parrafo">1. Se prohíbe arrojar a la vía o en sus inmediaciones cualquier objeto que pueda dar lugar a la producción de incendios o, en general, poner en peligro la seguridad vial (artículo 10.4 del texto articulado).</p>
+        <p class="parrafo">2. Las infracciones a este precepto tendrán la consideración de infracción grave de acuerdo con lo dispuesto en el artículo 65.4.b) del texto articulado de la Ley sobre tráfico, circulación de vehículos a motor y seguridad vial.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

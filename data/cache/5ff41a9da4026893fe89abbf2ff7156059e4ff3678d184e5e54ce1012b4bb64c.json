@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-9129/texto/bloque/a79",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-9129/texto/bloque/a79",
+  "sha256": "3141df01bb52a91fddbe25edacb2f80b2e015d32941b1f3081f7032a5c914f14",
+  "archivo": "data/raw/3141df01bb52a91fddbe25edacb2f80b2e015d32941b1f3081f7032a5c914f14.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:06:10.457280+00:00"
+}

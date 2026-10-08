@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-13969",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2007-13969",
+  "sha256": "9af709c66cfe7b321636cd3080d13462784bbcd6c821b42bbc3e27014e74bbfd",
+  "archivo": "data/raw/9af709c66cfe7b321636cd3080d13462784bbcd6c821b42bbc3e27014e74bbfd.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:29.022578+00:00"
+}

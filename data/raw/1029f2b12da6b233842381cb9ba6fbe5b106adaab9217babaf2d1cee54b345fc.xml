@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a88" tipo="precepto" titulo="Artículo 88">
+      <version id_norma="BOE-A-2015-11722" fecha_publicacion="20151031" fecha_vigencia="20160131">
+        <p class="articulo">Artículo 88. Valor probatorio de las denuncias de los agentes de la autoridad encargados de la vigilancia del tráfico, en el ejercicio de las funciones que tienen encomendadas.</p>
+        <p class="parrafo">Las denuncias formuladas por los agentes de la autoridad encargados de la vigilancia del tráfico en el ejercicio de las funciones que tienen encomendadas tendrán valor probatorio, salvo prueba en contrario, de los hechos denunciados, de la identidad de quienes los hubieran cometido y, en su caso, de la notificación de la denuncia, sin perjuicio del deber de aquéllos de aportar todos los elementos probatorios que sean posibles sobre el hecho denunciado.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

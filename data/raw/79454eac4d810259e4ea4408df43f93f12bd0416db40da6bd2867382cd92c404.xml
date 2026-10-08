@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20251103125602">
+  <metadatos>
+    <identificador>BOIB-i-2025-90242</identificador>
+    <origen_legislativo codigo="2">Autonómico</origen_legislativo>
+    <departamento codigo="8121">Comunidad Autónoma de las Illes Balears</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <fecha_disposicion>20251002</fecha_disposicion>
+    <numero_oficial/>
+    <titulo>Resolución del Parlamento de las Illes Balears por la que, no habiendo sido convalidado el Decreto ley 6/2025, de 5 de septiembre, de medidas urgentes para acelerar proyectos estratégicos que contribuyan a la transformación económica de las Illes Balears, queda derogado.</titulo>
+    <diario codigo="BOIB">Boletín Oficial de las Islas Baleares</diario>
+    <fecha_publicacion>20251009</fecha_publicacion>
+    <diario_numero>134</diario_numero>
+    <seccion>A</seccion>
+    <subseccion/>
+    <pagina_inicial>58133</pagina_inicial>
+    <pagina_final>58133</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/ccaa/boib/2025/134/i58133-58133.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia/>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>i</letra_imagen>
+    <suplemento_letra_imagen/>
+  </metadatos>
+  <analisis>
+    <materias>
+      <materia codigo="56" orden="1">Actividades económicas</materia>
+      <materia codigo="85" orden="1">Administración Local</materia>
+      <materia codigo="433" orden="1">Baleares</materia>
+      <materia codigo="632" orden="1">Carreteras</materia>
+      <materia codigo="1633" orden="1">Contaminación del suelo</materia>
+      <materia codigo="1640" orden="1">Contratación administrativa</materia>
+      <materia codigo="3114" orden="1">Educación</materia>
+      <materia codigo="3160" orden="1">Empleo</materia>
+      <materia codigo="3187" orden="1">Energía</materia>
+      <materia codigo="3986" orden="1">Haciendas Locales</materia>
+      <materia codigo="4157" orden="1">Industrias</materia>
+      <materia codigo="4518" orden="1">Inversiones</materia>
+      <materia codigo="4918" orden="1">Medio ambiente</materia>
+      <materia codigo="5181" orden="1">Obras</materia>
+      <materia codigo="5281" orden="1">Organización de las Comunidades Autónomas</materia>
+      <materia codigo="5645" orden="1">Política económica</materia>
+      <materia codigo="5703" orden="1">Procedimiento administrativo</materia>
+      <materia codigo="6988" orden="1">Turismo</materia>
+    </materias>
+    <notas>
+      <nota codigo="0" orden="999">La pérdida de efectos de las derogaciones, modificaciones y adhesiones de los preceptos indicados se establece de acuerdo con la derogación del Decreto-ley 6/2025, de 5 de septiembre.</nota>
+    </notas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOIB-i-2025-90220" orden="1010">
+          <palabra codigo="210">DEROGA</palabra>
+          <texto>el Decreto-ley 6/2025, de 5 de septiembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2022-230" orden="1090">
+          <palabra codigo="230">DEJA SIN EFECTO</palabra>
+          <texto>la derogación de los arts. 1 a 5, las disposiciones adicionales 2, 4, 5 y 9, transitoria 1 y finales 1 y 2 y la modificación del art. 25.3 de la Ley 4/2021, de 17 de diciembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2019-6699" orden="1090">
+          <palabra codigo="230">DEJA SIN EFECTO</palabra>
+          <texto>la derogación de la Ley 14/2019, de 29 de marzo</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2019-5579" orden="1090">
+          <palabra codigo="230">DEJA SIN EFECTO</palabra>
+          <texto>la modificación del art. 4 y la adhesión del 45 bis a la Ley 10/2019, de 22 de febrero</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2019-5577" orden="1090">
+          <palabra codigo="230">DEJA SIN EFECTO</palabra>
+          <texto>la adhesión de las disposiciones adicionales 8 y 9 a la Ley 8/2019, de 19 de febrero</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2019-1543" orden="1090">
+          <palabra codigo="230">DEJA SIN EFECTO</palabra>
+          <texto>la derogación del Decreto-ley 5/2018, de 21 de diciembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2018-3363" orden="1090">
+          <palabra codigo="230">DEJA SIN EFECTO</palabra>
+          <texto>la derogación del Decreto-ley 1/2018, de 19 de enero</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2017-10495" orden="1090">
+          <palabra codigo="230">DEJA SIN EFECTO</palabra>
+          <texto>la modificación de los arts. 11.2 y 13.4 de la Ley 4/2017, de 12 de julio</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2014-655" orden="1090">
+          <palabra codigo="230">DEJA SIN EFECTO</palabra>
+          <texto>la modificación de determinados preceptos de la Ley 7/2013, de 26 de noviembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2012-10610" orden="1090">
+          <palabra codigo="230">DEJA SIN EFECTO</palabra>
+          <texto>la derogación del art. 6.e) y la modificación de los arts. 74 y 77 de la Ley 8/2012, de 19 de julio</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2010-10714" orden="1090">
+          <palabra codigo="230">DEJA SIN EFECTO</palabra>
+          <texto>la derogación de la Ley 4/2010, de 16 de junio</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2007-1893" orden="1090">
+          <palabra codigo="230">DEJA SIN EFECTO</palabra>
+          <texto>la modificación del art. 130.2 de la Ley 20/2006, de 15 de diciembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1990-18519" orden="1090">
+          <palabra codigo="230">DEJA SIN EFECTO</palabra>
+          <texto>la derogación del art. 33.3.e bis) y la modificación del art. 33.3.e) de la Ley 5/1990, de 24 de mayo</texto>
+        </anterior>
+        <anterior referencia="---" orden="1090">
+          <palabra codigo="230">DEJA SIN EFECTO</palabra>
+          <texto>la derogación de la disposición adicional 6 del Decreto 16/2022, de 23 de mayo (BOIB núm. 67, de 24 de mayo de 2022)</texto>
+        </anterior>
+        <anterior referencia="---" orden="1090">
+          <palabra codigo="230">DEJA SIN EFECTO</palabra>
+          <texto>la derogación del Decreto 16/2021, de 15 de marzo (BOIB núm. 037, de 18 de marzo de 2021)</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas/>
+  </analisis>
+  <texto>
+    <p class="parrafo">De acuerdo con el artículo 49.2 del Estatuto de Autonomía de las Illes Balears, el Pleno del Parlamento de las Illes Balears, en sesión de día 30 de septiembre de 2025, tras un debate y una votación de totalidad, acordó no convalidar el Decreto ley 6/2025, de 5 de septiembre,  de medidas urgentes para acelerar proyectos estratégicos que contribuyan a la transformación económica de las Illes Balears (RGE núm. 13877/25) (Butlletí Oficial de les Illes Balears núm. 119 de 6 de septiembre de 2025) y, por lo tanto, queda derogado.</p>
+    <p class="parrafo">De acuerdo con lo establecido en el apartado 6 del artículo 157 del Reglamento del Parlamento de las Illes Balears, se ordena la publicación en el Butlletí Oficial de les Illes Balears del mencionado acuerdo de derogación.</p>
+    <p class="parrafo"> </p>
+    <p class="centro_redonda">A la fecha de la firma electrónica (2 de octubre de 2025)</p>
+    <p class="centro_redonda">El presidente del Parlamento de las Illes Balears </p>
+    <p class="centro_redonda">Gabriel Le Senne Presedo</p>
+  </texto>
+</documento>

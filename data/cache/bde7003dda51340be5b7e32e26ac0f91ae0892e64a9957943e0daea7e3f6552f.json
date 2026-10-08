@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-9481/texto/bloque/a7",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-9481/texto/bloque/a7",
+  "sha256": "be713047e1ec532ac80c232d161e8e9a7728ddf4fef94c9bd2c2c6f61cd4ea7b",
+  "archivo": "data/raw/be713047e1ec532ac80c232d161e8e9a7728ddf4fef94c9bd2c2c6f61cd4ea7b.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:05:45.248627+00:00"
+}

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <analisis>
+      <materias>
+        <materia codigo="433">Baleares</materia>
+        <materia codigo="3842">Función Pública</materia>
+        <materia codigo="5068">Municipios</materia>
+        <materia codigo="5247">Oposiciones y concursos</materia>
+        <materia codigo="5281">Organización de las Comunidades Autónomas</materia>
+        <materia codigo="5635">Policía</materia>
+      </materias>
+      <notas>
+        <nota>Publicada en el BOIB núm. 106, de 30 de julio de 2013.</nota>
+      </notas>
+      <referencias>
+        <anteriores>
+          <anterior>
+            <id_norma>BOE-A-2005-11133</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>la Ley 6/2005, de 3 de junio</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-2007-1893</id_norma>
+            <relacion codigo="270">MODIFICA</relacion>
+            <texto>do y SE AÑADE el art. 201 bis de la Ley 20/2006, de 15 de diciembre</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-2007-4233</id_norma>
+            <relacion codigo="440">DE CONFORMIDAD con</relacion>
+            <texto>Arts. 48.2 y 30.19 del Estatuto aprobado por Ley Orgánica 1/2007, de 28 de febrero</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1985-5392</id_norma>
+            <relacion codigo="330">CITA</relacion>
+            <texto>Ley 7/1985, de 2 de abril</texto>
+          </anterior>
+        </anteriores>
+        <posteriores>
+          <posterior>
+            <id_norma>BOE-A-2025-720</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 24, 48, 51, 53, disposición adicional 3 ySE  AÑADE el art. 34 ter, por Ley 7/2024, de 11 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2024-16940</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>la disposición adicional 3 y SE AÑADE el art. 34 ter, por Decreto-ley 3/2024, de 24 de mayo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2022-13798</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 41 y la disposición adicional 8, por Decreto-ley 6/2022, de 13 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2021-14602</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 28.3, 34.2, 41 y SE AÑADE las disposiciones adicionales 8, 9, por Decreto-ley 6/2021, de 9 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2019-3914</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>, con efectos desde el 17 de febrero de 2019, los arts. 57 y 60, por Ley 6/2019, de 8 de febrero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2018-287</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>y SE AÑADE determinados preceptos, por Ley 11/2017, de 20 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2026-15579</id_norma>
+            <relacion codigo="407">SE AÑADE</relacion>
+            <texto>la disposición adicional 10, por Ley 4/2026, de 11 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2019-14727</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en la Cuestión 1461/2019, la desestimación en relación al art. 41, por Sentencia 106/2019, de 19 de septiembre</texto>
+          </posterior>
+        </posteriores>
+      </referencias>
+    </analisis>
+  </data>
+</response>

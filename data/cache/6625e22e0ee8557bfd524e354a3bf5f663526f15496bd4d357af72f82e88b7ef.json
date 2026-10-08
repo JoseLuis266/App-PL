@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2005-111",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2005-111",
+  "sha256": "9632557e93d0212b0cd9c1f84fa60411d1f2f3aaeb75d3e080b1724f26776b98",
+  "archivo": "data/raw/9632557e93d0212b0cd9c1f84fa60411d1f2f3aaeb75d3e080b1724f26776b98.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:56.002167+00:00"
+}

@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/metadatos",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1978-31229/metadatos",
+  "sha256": "9a963cf4e0b6e610fd86312d7db178728b3e98f1c16df3b27f0eaaa369c1f00f",
+  "archivo": "data/raw/9a963cf4e0b6e610fd86312d7db178728b3e98f1c16df3b27f0eaaa369c1f00f.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:30:30.627771+00:00"
+}

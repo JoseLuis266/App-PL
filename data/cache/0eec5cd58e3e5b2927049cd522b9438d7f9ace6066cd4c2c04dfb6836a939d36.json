@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto/bloque/a3-2",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-25444/texto/bloque/a3-2",
+  "sha256": "db16ec087019608b2ccfb1217aa04bd2b7469d2b93f0458d1127c0eaf67e682f",
+  "archivo": "data/raw/db16ec087019608b2ccfb1217aa04bd2b7469d2b93f0458d1127c0eaf67e682f.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T18:10:26.898070+00:00"
+}

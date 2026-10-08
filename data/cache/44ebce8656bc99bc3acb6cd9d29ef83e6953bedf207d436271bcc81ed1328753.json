@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1882-6036/texto",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1882-6036/texto",
+  "sha256": "5694b1c3a8052d0ff202ea2a6cfcd8cf01b04f09bb22cff6d834722d42091fcf",
+  "archivo": "data/raw/5694b1c3a8052d0ff202ea2a6cfcd8cf01b04f09bb22cff6d834722d42091fcf.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:31:32.588946+00:00"
+}

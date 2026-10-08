@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "id_tema": null,
+    "id_norma": "trafico",
+    "codigo": "importacion_fallida",
+    "detalle": "Unidad vacía: ir",
+    "estado": "pendiente"
+  },
+  {
+    "id": 2,
+    "id_tema": null,
+    "id_norma": "marco",
+    "codigo": "pdf_revision",
+    "detalle": "Texto en catalán. Separación por tamaño de letra pendiente de contraste: conservar PDF, páginas completas y notas. Anexos abreviados en la fuente: ANNEX 2 (A), ANNEX 2 (B), ANNEX 4, ANNEX 5, ANNEX 6",
+    "estado": "pendiente"
+  },
+  {
+    "id": 3,
+    "id_tema": 1,
+    "id_norma": null,
+    "codigo": "alcance_pendiente",
+    "detalle": "La referencia amplia no acredita que toda la norma sea exigible. Revisar el alcance antes de verificar el tema.",
+    "estado": "pendiente"
+  },
+  {
+    "id": 4,
+    "id_tema": 5,
+    "id_norma": null,
+    "codigo": "alcance_pendiente",
+    "detalle": "La referencia amplia no acredita que toda la norma sea exigible. Revisar el alcance antes de verificar el tema.",
+    "estado": "pendiente"
+  },
+  {
+    "id": 5,
+    "id_tema": 20,
+    "id_norma": null,
+    "codigo": "alcance_pendiente",
+    "detalle": "La referencia amplia no acredita que toda la norma sea exigible. Revisar el alcance antes de verificar el tema.",
+    "estado": "pendiente"
+  },
+  {
+    "id": 6,
+    "id_tema": 22,
+    "id_norma": null,
+    "codigo": "alcance_pendiente",
+    "detalle": "La referencia amplia no acredita que toda la norma sea exigible. Revisar el alcance antes de verificar el tema.",
+    "estado": "pendiente"
+  },
+  {
+    "id": 7,
+    "id_tema": 17,
+    "id_norma": null,
+    "codigo": "tema17_sin_norma",
+    "detalle": "El programa no cita norma específica. Solo fuentes de apoyo verificables; definiciones, tipos, causas y secuencia de actuación pendientes de fuente EBAP. No se ha generado contenido IA.",
+    "estado": "pendiente"
+  },
+  {
+    "id": 8,
+    "id_tema": null,
+    "id_norma": "marco",
+    "codigo": "contraste_pdf_independiente",
+    "detalle": "Cinco muestras contrastadas con pdftotext: 104, 178, 151, 77 y 49 bis. Discordancias de espacios internos y notas; revisar páginas y extracción candidata antes de sustituir texto. Informe: data/marco-contraste-independiente.json.",
+    "estado": "pendiente"
+  }
+]

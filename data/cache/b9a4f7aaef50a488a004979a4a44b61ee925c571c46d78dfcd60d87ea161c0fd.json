@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1987-27143",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1987-27143",
+  "sha256": "374565ccca12efe5be41d6ba204834ed7d7440eb1fbf467d77fb05f6904d4749",
+  "archivo": "data/raw/374565ccca12efe5be41d6ba204834ed7d7440eb1fbf467d77fb05f6904d4749.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:20:40.568368+00:00"
+}

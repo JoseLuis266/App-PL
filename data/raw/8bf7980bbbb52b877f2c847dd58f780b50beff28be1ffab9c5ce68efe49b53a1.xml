@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a131" tipo="precepto" titulo="Artículo 131">
+      <version id_norma="BOE-A-2003-23514" fecha_publicacion="20031223" fecha_vigencia="20040123">
+        <p class="articulo">Artículo 131. Concepto.</p>
+        <p class="parrafo">La señalización es el conjunto de señales y órdenes de los agentes de circulación, señales circunstanciales que modifican el régimen normal de utilización de la vía y señales de balizamiento fijo, semáforos, señales verticales de circulación y marcas viales, destinadas a los usuarios de la vía y que tienen por misión advertir e informar a éstos u ordenar o reglamentar su comportamiento con la necesaria antelación de determinadas circunstancias de la vía o de la circulación.</p>
+      </version>
+      <version id_norma="BOE-A-2025-12199" fecha_publicacion="20250617" fecha_vigencia="20250701">
+        <p class="articulo">Artículo 131. Concepto.</p>
+        <p class="parrafo">La señalización es el conjunto de señales y órdenes de los agentes de la autoridad encargados de la vigilancia del tráfico, señales circunstanciales que modifican el régimen normal de utilización de la vía y elementos de balizamiento, semáforos, señales verticales de circulación y marcas viales, destinadas a los usuarios de la vía y que tienen por misión advertir e informar a estos u ordenar o reglamentar su comportamiento con la necesaria antelación de determinadas circunstancias de la vía o de la circulación.</p>
+        <blockquote>
+          <p class="nota_pie">Se modifica por el art. único.15 del Real Decreto 465/2025, de 10 de junio. <a class="refPost">Ref. BOE-A-2025-12199</a></p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

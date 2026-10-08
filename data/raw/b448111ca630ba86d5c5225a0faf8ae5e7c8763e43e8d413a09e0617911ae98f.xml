@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a2" tipo="precepto" titulo="Artículo 2">
+      <version id_norma="BOE-A-2015-11722" fecha_publicacion="20151031" fecha_vigencia="20160131">
+        <p class="articulo">Artículo 2. Ámbito de aplicación.</p>
+        <p class="parrafo">Los preceptos de esta ley son aplicables en todo el territorio nacional y obligan a los titulares y usuarios de las vías y terrenos públicos aptos para la circulación, tanto urbanos como interurbanos, a los de las vías y terrenos que, sin tener tal aptitud, sean de uso común y, en defecto de otras normas, a los titulares de las vías y terrenos privados que sean utilizados por una colectividad indeterminada de usuarios.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

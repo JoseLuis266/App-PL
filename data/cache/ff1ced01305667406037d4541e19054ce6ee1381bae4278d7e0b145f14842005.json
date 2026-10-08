@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1994-15796",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-1994-15796",
+  "sha256": "ffbe1867db698a4ca49ce991fddb7989a2dedd1231ab7035077b030955da2c00",
+  "archivo": "data/raw/ffbe1867db698a4ca49ce991fddb7989a2dedd1231ab7035077b030955da2c00.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:20:55.254068+00:00"
+}

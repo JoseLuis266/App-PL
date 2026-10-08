@@ -1,0 +1,153 @@
+[
+  {
+    "id_norma": "ce",
+    "cambio": false,
+    "anadidos": [],
+    "eliminados": [],
+    "modificados": [],
+    "temas_afectados": [],
+    "accion": "Sin cambios de texto detectados"
+  },
+  {
+    "id_norma": "estatuto",
+    "cambio": false,
+    "anadidos": [],
+    "eliminados": [],
+    "modificados": [],
+    "temas_afectados": [],
+    "accion": "Sin cambios de texto detectados"
+  },
+  {
+    "id_norma": "local",
+    "cambio": false,
+    "anadidos": [],
+    "eliminados": [],
+    "modificados": [],
+    "temas_afectados": [],
+    "accion": "Sin cambios de texto detectados"
+  },
+  {
+    "id_norma": "trafico",
+    "cambio": false,
+    "anadidos": [],
+    "eliminados": [],
+    "modificados": [],
+    "temas_afectados": [],
+    "accion": "Sin cambios de texto detectados"
+  },
+  {
+    "id_norma": "circulacion",
+    "cambio": false,
+    "anadidos": [],
+    "eliminados": [],
+    "modificados": [],
+    "temas_afectados": [],
+    "accion": "Sin cambios de texto detectados"
+  },
+  {
+    "id_norma": "conductores",
+    "cambio": false,
+    "anadidos": [],
+    "eliminados": [],
+    "modificados": [],
+    "temas_afectados": [],
+    "accion": "Sin cambios de texto detectados"
+  },
+  {
+    "id_norma": "vehiculos",
+    "cambio": false,
+    "anadidos": [],
+    "eliminados": [],
+    "modificados": [],
+    "temas_afectados": [],
+    "accion": "Sin cambios de texto detectados"
+  },
+  {
+    "id_norma": "policias",
+    "cambio": false,
+    "anadidos": [],
+    "eliminados": [],
+    "modificados": [],
+    "temas_afectados": [],
+    "accion": "Sin cambios de texto detectados"
+  },
+  {
+    "id_norma": "marco",
+    "cambio": false,
+    "temas_afectados": [
+      20
+    ],
+    "accion": "Revisar PDF y extracción antes de sustituir",
+    "fuente": {
+      "url_solicitada": "https://www.caib.es/sites/institutestudisautonomics/f/311092",
+      "url_final": "https://www.caib.es/sites/institutestudisautonomics/f/311092",
+      "sha256": "7fd09cdef15f6cdc96c03b60db2ab5c445476887b39041de7416699ac6469003",
+      "archivo": "data/raw/7fd09cdef15f6cdc96c03b60db2ab5c445476887b39041de7416699ac6469003.pdf",
+      "content_type": "application/pdf;charset=UTF-8",
+      "fecha_descarga": "2026-10-08T17:31:20.479317+00:00"
+    }
+  },
+  {
+    "id_norma": "fcs",
+    "cambio": false,
+    "anadidos": [],
+    "eliminados": [],
+    "modificados": [],
+    "temas_afectados": [],
+    "accion": "Sin cambios de texto detectados"
+  },
+  {
+    "id_norma": "habeas",
+    "cambio": false,
+    "anadidos": [],
+    "eliminados": [],
+    "modificados": [],
+    "temas_afectados": [],
+    "accion": "Sin cambios de texto detectados"
+  },
+  {
+    "id_norma": "lecrim",
+    "cambio": false,
+    "anadidos": [],
+    "eliminados": [],
+    "modificados": [],
+    "temas_afectados": [],
+    "accion": "Sin cambios de texto detectados"
+  },
+  {
+    "id_norma": "penal",
+    "cambio": false,
+    "anadidos": [],
+    "eliminados": [],
+    "modificados": [],
+    "temas_afectados": [],
+    "accion": "Sin cambios de texto detectados"
+  },
+  {
+    "id_norma": "datos",
+    "cambio": false,
+    "anadidos": [],
+    "eliminados": [],
+    "modificados": [],
+    "temas_afectados": [],
+    "accion": "Sin cambios de texto detectados"
+  },
+  {
+    "id_norma": "igualdad",
+    "cambio": false,
+    "anadidos": [],
+    "eliminados": [],
+    "modificados": [],
+    "temas_afectados": [],
+    "accion": "Sin cambios de texto detectados"
+  },
+  {
+    "id_norma": "lgtbi",
+    "cambio": false,
+    "anadidos": [],
+    "eliminados": [],
+    "modificados": [],
+    "temas_afectados": [],
+    "accion": "Sin cambios de texto detectados"
+  }
+]

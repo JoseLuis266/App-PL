@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-4366",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-4366",
+  "sha256": "2fe600e1e1257e3c496e79f6a0ec69a34aba9262a375c4c873f99a67d77760c6",
+  "archivo": "data/raw/2fe600e1e1257e3c496e79f6a0ec69a34aba9262a375c4c873f99a67d77760c6.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:35.833486+00:00"
+}

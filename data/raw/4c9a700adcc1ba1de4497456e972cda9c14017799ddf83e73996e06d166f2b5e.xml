@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a96" tipo="precepto" titulo="Artículo 96">
+      <version id_norma="BOE-A-2013-9129" fecha_publicacion="20130730" fecha_vigencia="20130819">
+        <p class="articulo">Artículo 96. Alegaciones.</p>
+        <p class="parrafo">La propuesta de resolución del expediente se notificará a la persona interesada para que en el plazo de diez días alegue lo que considere oportuno para su defensa, incluso sobre la denegación de la prueba propuesta.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

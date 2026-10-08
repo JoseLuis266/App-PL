@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="aprimero" tipo="precepto" titulo="Artículo primero">
+      <version id_norma="BOE-A-1984-11620" fecha_publicacion="19840526" fecha_vigencia="19840527">
+        <p class="articulo">Artículo primero.</p>
+        <p class="parrafo">Mediante el procedimiento del «Habeas Corpus», regulado en la presente ley, se podrá obtener la inmediata puesta a disposición de la Autoridad judicial competente, de cualquier persona detenida ilegalmente.</p>
+        <p class="parrafo">A los efectos de esta ley se consideran personas ilegalmente detenidas:</p>
+        <p class="parrafo_2">a) Las que lo fueren por una autoridad, agente de la misma, funcionario público o particular, sin que concurran los supuestos legales, o sin haberse cumplido las formalidades prevenidas y requisitos exigidos por las leyes.</p>
+        <p class="parrafo">b) Las que estén ilícitamente internadas en cualquier establecimiento o lugar.</p>
+        <p class="parrafo">c) Las que lo estuvieran por plazo superior al señalado en las leyes, si transcurrido el mismo, no fuesen puestas en libertad o entregadas al Juez más próximo al lugar de la detención.</p>
+        <p class="parrafo">d) Las privadas de libertad a quienes no les sean respetados los derechos que la Constitución y las leyes procesales garantizan a toda persona detenida.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

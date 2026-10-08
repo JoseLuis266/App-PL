@@ -1,0 +1,52 @@
+{
+  "fecha": "2026-10-08T17:56:00.465033+00:00",
+  "herramienta": "pdftotext -layout",
+  "archivo": "data/raw/7fd09cdef15f6cdc96c03b60db2ab5c445476887b39041de7416699ac6469003.pdf",
+  "sha256": "7fd09cdef15f6cdc96c03b60db2ab5c445476887b39041de7416699ac6469003",
+  "extraccion_independiente": "data/marco-extraccion-independiente.txt",
+  "sha256_extraccion": "e12e32bfef07a7916da52097398b91da0c7fe559fa252e5b8f82489a93aaf1a8",
+  "muestras": [
+    {
+      "id_articulo": "marco:pdf-segmento-116",
+      "numero": "104",
+      "url": "https://www.caib.es/sites/institutestudisautonomics/f/311092#page=41",
+      "hash_texto": "a6928ee074bdc3b404587b6711e50c4978b62abc020be623b6f38993e1cb5cdf",
+      "resultado": "discordancia_o_intercalacion_notas_pendiente_revision",
+      "criterio": "Fragmento íntegro contiguo tras normalizar exclusivamente espacios; notas y encabezados no eliminados."
+    },
+    {
+      "id_articulo": "marco:pdf-segmento-192",
+      "numero": "178",
+      "url": "https://www.caib.es/sites/institutestudisautonomics/f/311092#page=69",
+      "hash_texto": "4cc38cecb632c554cfa3d812a4ada9d36bedc3545ec68773dabeb2ee4d904e91",
+      "resultado": "discordancia_o_intercalacion_notas_pendiente_revision",
+      "criterio": "Fragmento íntegro contiguo tras normalizar exclusivamente espacios; notas y encabezados no eliminados."
+    },
+    {
+      "id_articulo": "marco:pdf-segmento-164",
+      "numero": "151",
+      "url": "https://www.caib.es/sites/institutestudisautonomics/f/311092#page=57",
+      "hash_texto": "e43a265a79b46d4603eea0c8a0adefa7d6f106712fdd1b835c61d1fadd0fd82b",
+      "resultado": "discordancia_o_intercalacion_notas_pendiente_revision",
+      "criterio": "Fragmento íntegro contiguo tras normalizar exclusivamente espacios; notas y encabezados no eliminados."
+    },
+    {
+      "id_articulo": "marco:pdf-segmento-88",
+      "numero": "77",
+      "url": "https://www.caib.es/sites/institutestudisautonomics/f/311092#page=33",
+      "hash_texto": "c1da1ed6da4cf0857c409a9b62db21abd12824ca9761aef0b6f1ec8cf4ea9482",
+      "resultado": "discordancia_o_intercalacion_notas_pendiente_revision",
+      "criterio": "Fragmento íntegro contiguo tras normalizar exclusivamente espacios; notas y encabezados no eliminados."
+    },
+    {
+      "id_articulo": "marco:pdf-segmento-60",
+      "numero": "49 bis",
+      "url": "https://www.caib.es/sites/institutestudisautonomics/f/311092#page=26",
+      "hash_texto": "4b0e6c8462e586d3c67f1a398e7aa1ed62151423a5ae372355fb1c085fa60081",
+      "resultado": "discordancia_o_intercalacion_notas_pendiente_revision",
+      "criterio": "Fragmento íntegro contiguo tras normalizar exclusivamente espacios; notas y encabezados no eliminados."
+    }
+  ],
+  "aprobacion_juridica": false,
+  "aviso": "Una coincidencia confirma la presencia del fragmento, no la ausencia de omisiones en toda la norma ni su vigencia. Ningún estado jurídico se modifica."
+}

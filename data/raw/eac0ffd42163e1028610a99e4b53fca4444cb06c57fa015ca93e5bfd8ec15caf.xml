@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a2-5" tipo="precepto" titulo="Artículo 23">
+      <version id_norma="BOE-A-2016-6310" fecha_publicacion="20160602" fecha_vigencia="20160603">
+        <p class="articulo">Artículo 23. Protocolo de atención integral a personas intersexuales.</p>
+        <p class="parrafo">1. Se establecerá un protocolo específico de actuación en materia de intersexualidad que incluirá la atención psicológica adecuada a la persona intersexual y a los padres/madres o personas tutoras, y los tratamientos requeridos en atención al género con el cual se identifica.</p>
+        <p class="parrafo">Se evitará siempre que sea posible la intervención médica inmediata (quirúrgica u hormonal) del proceso de normalización sexual para ajustarse a las normas físicas del binarismo de género.</p>
+        <p class="parrafo">2. El sistema sanitario público de las Illes Balears velará por la erradicación de las prácticas de modificación genital en bebés recién nacidos atendiendo únicamente a criterios quirúrgicos y en un momento en el cual se desconoce cuál es la identidad real de la persona intersexual recién nacida. Todo ello con la excepción de los criterios médicos basados en la protección de la salud de la persona recién nacida.</p>
+        <p class="parrafo">3. Se procurará conservar las gónadas con el fin de preservar una futura aportación hormonal no inducida, incluyendo en los controles los marcadores tumorales.</p>
+        <p class="parrafo">4. No se realizarán pruebas de hormonación inducida con finalidades experimentales ni de otro tipo hasta que la propia persona o sus tutores legales así lo requieran en función de la identidad sexual con la cual se identifica.</p>
+        <p class="parrafo">5. Se formará al personal sanitario haciendo especial hincapié en la corrección de trato y la privacidad.</p>
+        <p class="parrafo">6. Se preservará la intimidad del paciente en su historia clínica de forma que no todo el personal sanitario pueda conocer su condición, excepto cuando sea estrictamente necesario.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

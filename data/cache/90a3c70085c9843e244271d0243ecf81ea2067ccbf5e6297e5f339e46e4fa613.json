@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.caib.es/eboibfront/cercar?lang=es&publico=N&texto=convocatoria&organisme=ESCUELA+BALEAR&fec_ini=01%2F01%2F2026&fec_fin=08%2F10%2F2026",
+  "url_final": "https://www.caib.es/eboibfront/cercar?lang=es&publico=N&texto=convocatoria&organisme=ESCUELA+BALEAR&fec_ini=01%2F01%2F2026&fec_fin=08%2F10%2F2026",
+  "sha256": "f8e9d37e884d0920501000e6e892946ceb5774ae8b4d2339a7b0cedb4de67aaa",
+  "archivo": "data/raw/f8e9d37e884d0920501000e6e892946ceb5774ae8b4d2339a7b0cedb4de67aaa.html",
+  "content_type": "text/html;charset=UTF-8",
+  "fecha_descarga": "2026-10-08T17:03:20.298962+00:00"
+}

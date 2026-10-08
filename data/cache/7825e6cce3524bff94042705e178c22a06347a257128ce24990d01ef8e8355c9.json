@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-16673/metadatos",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-16673/metadatos",
+  "sha256": "9a1a33b2da2c5144e4050f5a24d0fbe6edb15e629836fde0d9f7b46e3283c219",
+  "archivo": "data/raw/9a1a33b2da2c5144e4050f5a24d0fbe6edb15e629836fde0d9f7b46e3283c219.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:31:40.955163+00:00"
+}

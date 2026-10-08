@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a380" tipo="precepto" titulo="Artículo 380">
+      <version id_norma="BOE-A-1995-25444" fecha_publicacion="19951124" fecha_vigencia="19960524">
+        <p class="articulo">Artículo 380.</p>
+        <p class="parrafo">El conductor que, requerido por el agente de la autoridad, se negare a someterse a las pruebas legalmente establecidas para la comprobación de los hechos descritos en el artículo anterior, será castigado como autor de un delito de desobediencia grave, previsto en el artículo 556 de este Código.</p>
+      </version>
+      <version id_norma="BOE-A-2007-20636" fecha_publicacion="20071201" fecha_vigencia="20071202">
+        <p class="articulo">Artículo 380.</p>
+        <p class="parrafo">1. El que condujere un vehículo a motor o un ciclomotor con temeridad manifiesta y pusiere en concreto peligro la vida o la integridad de las personas será castigado con las penas de prisión de seis meses a dos años y privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta seis años.</p>
+        <p class="parrafo">2. A los efectos del presente precepto se reputará manifiestamente temeraria la conducción en la que concurrieren las circunstancias previstas en el apartado primero y en el inciso segundo del apartado segundo del artículo anterior.</p>
+        <blockquote>
+          <p class="nota_pie">Se modifica por el art. único.4 de la Ley Orgánica 15/2007, de 30 de noviembre. <a class="refPost">Ref. BOE-A-2007-20636</a></p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

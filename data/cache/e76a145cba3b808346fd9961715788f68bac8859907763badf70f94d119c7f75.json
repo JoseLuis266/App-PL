@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2006-624",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2006-624",
+  "sha256": "2b2bd92777933dc6796468878e2abd00f24cdaf94473a1cb4208abff02f34272",
+  "archivo": "data/raw/2b2bd92777933dc6796468878e2abd00f24cdaf94473a1cb4208abff02f34272.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:21:21.879866+00:00"
+}

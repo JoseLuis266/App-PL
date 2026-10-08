@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.caib.es/eboibfront/cercar?lang=es&publico=N&texto=unificado&organisme=ESCUELA+BALEAR&fec_ini=01%2F01%2F2024&fec_fin=08%2F10%2F2026",
+  "url_final": "https://www.caib.es/eboibfront/cercar?lang=es&publico=N&texto=unificado&organisme=ESCUELA+BALEAR&fec_ini=01%2F01%2F2024&fec_fin=08%2F10%2F2026",
+  "sha256": "526b8d4635c156673d9abdf37461112e218e671d4f66399414ddabd81a81c51f",
+  "archivo": "data/raw/526b8d4635c156673d9abdf37461112e218e671d4f66399414ddabd81a81c51f.html",
+  "content_type": "text/html;charset=UTF-8",
+  "fecha_descarga": "2026-10-08T17:02:37.392508+00:00"
+}

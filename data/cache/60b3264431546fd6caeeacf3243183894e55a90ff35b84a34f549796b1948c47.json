@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-2329",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2008-2329",
+  "sha256": "38707436a0d42f8728d5e24457b41f73a5accfd6e4803f863dff7a6f10c934b5",
+  "archivo": "data/raw/38707436a0d42f8728d5e24457b41f73a5accfd6e4803f863dff7a6f10c934b5.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:05.204316+00:00"
+}

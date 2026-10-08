@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1990-9176",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1990-9176",
+  "sha256": "0c59c96b85dd68a16a8744e6664a2d9e90d65a358dd2c1b90a168062efc46707",
+  "archivo": "data/raw/0c59c96b85dd68a16a8744e6664a2d9e90d65a358dd2c1b90a168062efc46707.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:23:45.429492+00:00"
+}

@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1882-6036/texto/bloque/a559",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1882-6036/texto/bloque/a559",
+  "sha256": "43fde08a10d4ffdfa18d68e7fe7d946f9c09269de5c0093dd5d398d2d17ad42e",
+  "archivo": "data/raw/43fde08a10d4ffdfa18d68e7fe7d946f9c09269de5c0093dd5d398d2d17ad42e.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:06:38.787160+00:00"
+}

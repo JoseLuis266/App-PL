@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20251217202601">
+  <metadatos>
+    <identificador>BOE-A-1991-5780</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7730">Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno</departamento>
+    <rango codigo="1340">Real Decreto</rango>
+    <fecha_disposicion>19910222</fecha_disposicion>
+    <numero_oficial>246/1991</numero_oficial>
+    <titulo>Real Decreto 246/1991, de 22 de febrero, por el que se regula el Servicio Marítimo de la Guardia Civil.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>19910301</fecha_publicacion>
+    <diario_numero>52</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>7057</pagina_inicial>
+    <pagina_final>7057</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/1991/03/01/pdfs/A07057-07057.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia>19910302</fecha_vigencia>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="3">Finalizado</estado_consolidacion>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/rd/1991/02/22/246</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/rd/1991/02/22/246">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/rd"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1991-5780</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1991-02-22</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">246</eli:number>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1638"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1983"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3841"/>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/rd/1991/02/22/246/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/rd"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1991-5780</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1991-02-22</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">246</eli:number>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1638"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1983"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3841"/>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/rd/1991/02/22/246"/>
+            <eli:consolidated_by rdf:resource="https://www.boe.es/eli/es/rd/1991/02/22/246/con/19910301"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/rd/1991/02/22/246/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Real Decreto 246/1991, de 22 de febrero, por el que se regula el Servicio Marítimo de la Guardia Civil.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1991-03-01</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/rd/1991/02/22/246/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rd/1991/02/22/246/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rd/1991/02/22/246/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rd/1991/02/22/246/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rd/1991/02/22/246/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rd/1991/02/22/246/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rd/1991/02/22/246/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/rd/1991/02/22/246/con/19910301">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/rd"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-1991-5780</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1991-02-22</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">246</eli:number>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1638"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/1983"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3841"/>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/con"/>
+            <eli:version_date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1991-03-01</eli:version_date>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/rd/1991/02/22/246"/>
+            <eli:consolidates rdf:resource="https://www.boe.es/eli/es/rd/1991/02/22/246/dof"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/rd/1991/02/22/246/con/19910301/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Real Decreto 246/1991, de 22 de febrero, por el que se regula el Servicio Marítimo de la Guardia Civil.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/rd/1991/02/22/246/con/19910301"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rd/1991/02/22/246/con/19910301/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rd/1991/02/22/246/con/19910301/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="1638" orden="1">Contrabando</materia>
+      <materia codigo="1983" orden="2">Cuerpo de la Guardia Civil</materia>
+      <materia codigo="3841" orden="3">Fuerzas y Cuerpos de Seguridad del Estado</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-1986-6859" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 11, apartados 1 y 2.B) de la Ley Orgánica 2/1986, de 13 de marzo</texto>
+        </anterior>
+        <anterior referencia="BOE-A-1980-14755" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Ley Orgánica 6/1980, de 1 de julio</texto>
+        </anterior>
+      </anteriores>
+      <posteriores>
+        <posterior referencia="BOE-A-2000-6882" orden="1">
+          <palabra codigo="440">SE DICTA DE CONFORMIDAD</palabra>
+          <texto>sobre manejo de embarcaciones neumáticas o semirrígidas : Orden de 7 de abril de 2000</texto>
+        </posterior>
+        <posterior referencia="BOE-A-1992-9444" orden="3">
+          <palabra codigo="440">SE DICTA DE CONFORMIDAD</palabra>
+          <texto>conla disposición final primera, sobre Habilitación para Manejo de Embarcaciones: Orden de 27 de abril de 1992</texto>
+        </posterior>
+        <posterior referencia="BOE-A-1994-17900" orden="2">
+          <palabra codigo="331">SE DICTA EN RELACIÓN</palabra>
+          <texto>, regulando el régimen, Abanderamiento y Matriculación del Servicio: Orden de 26 de julio de 1994</texto>
+        </posterior>
+      </posteriores>
+    </referencias>
+    <alertas>
+      <alerta codigo="126" orden="1">Seguridad y Defensa</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="parrafo">La Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, establece en su disposición adicional tercera, apartado 5, que el Gobierno, a propuesta conjunta de los Ministerios de Defensa y del Interior, determinará la extensión del mar territorial sobre el que se ejercerán las competencias atribuidas por esta Ley al Cuerpo de la Guardia Civil.</p>
+    <p class="parrafo">Por otra parte, el artículo 11, apartado 1, de la citada Ley Orgánica señala de forma genérica las funciones a desempeñar por las Fuerzas y Cuerpos de Seguridad del Estado, estableciendo en el apartado 2.b) del mismo artículo que dichas funciones serán ejercidas por la Guardia Civil en el territorio nacional no asignado al Cuerpo Nacional de Policía y en el mar territorial.</p>
+    <p class="parrafo">La importancia creciente de las actividades que se desarrollan dentro del mar territorial hacen necesario y urgente poner en marcha el ejercicio de las indicadas funciones de la Guardia Civil, sin perjuicio de las competencias atribuidas a otros Departamentos Ministeriales.</p>
+    <p class="parrafo">En su virtud, a propuesta conjunta de los Ministros de Defensa y del Interior, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 22 de febrero de 1991.</p>
+    <p class="centro_redonda">DISPONGO:</p>
+    <p class="articulo">Articulo 1.<sup>o</sup></p>
+    <p class="parrafo_2">Las funciones que la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, atribuye al Cuerpo de la Guardia Civil se ejercerán en las aguas marítimas españolas hasta el límite exterior del mar territorial determinado en la legislación vigente y excepcionalmente, fuera del mar territorial, de acuerdo con lo que se establece en los tratados internacionales vigentes.</p>
+    <p class="articulo">Art. 2.<sup>o</sup></p>
+    <p class="parrafo_2">1. Corresponde al Ministro del Interior el mando superior del Servicio Marítimo de la Guardia Civil en el ejercicio de las funciones señaladas en el artículo anterior.</p>
+    <p class="parrafo">2. No obstante, y conforme a lo establecido en la disposición adicional tercera, punto 4, de la Ley Orgánica 2/1986, de 13 de marzo, en el ejercicio de sus funciones como Resguardo Fiscal del Estado y de las de prevención y represión del contrabando, la Guardia Civil se ajustará a las instrucciones que, conjuntamente, dicten los Ministerios de Economía y Hacienda y del Interior.</p>
+    <p class="articulo">Art. 3.<sup>o</sup></p>
+    <p class="parrafo_2">Conforme a lo dispuesto en el título VI de la Ley Orgánica 6/1980, de 1 de julio, por la que se regulan los criterios básicos de la Defensa Nacional y la Organización Militar, y en el artículo 14.3 de la Ley Orgánica 2/1986, corresponde al Gobierno o, en su caso, al Ministro de Defensa determinar las misiones de carácter militar que deba prestar la Guardia Civil en las aguas marítimas españolas.</p>
+    <p class="capitulo">DISPOSICIÓN DEROGATORIA</p>
+    <p class="parrafo_2">Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en el presente Real Decreto.</p>
+    <p class="capitulo">[encabezado]DISPOSICIONES FINALES</p>
+    <p class="articulo">[precepto]Primera.</p>
+    <p class="parrafo_2">Los Ministerios del Interior y de Defensa determinarán, conjuntamente y, en su caso, a través de los procedimientos normativos correspondientes, la organización territorial del Servicio Marítimo de la Guardia Civil; el tipo de embarcaciones y armas mas adecuadas al desempeño de las funciones encomendadas, y la colaboración que la Armada ha de prestar en la titulación del personal de la Guardia Civil encargado de tripular dichas embarcaciones.</p>
+    <p class="articulo">[precepto]Segunda.</p>
+    <p class="parrafo_2">El presente Real Decreto entrara en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo_2">Dado en Madrid a 22 de febrero de 1991.</p>
+    <p class="firma_rey">JUAN CARLOS R.</p>
+    <p class="firma_ministro">El Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno,</p>
+    <p class="firma_ministro">VIRGILIO ZAPATERO GÓMEZ</p>
+  </texto>
+</documento>

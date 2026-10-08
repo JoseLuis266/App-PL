@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <analisis>
+      <materias>
+        <materia codigo="1752">Costas procesales</materia>
+        <materia codigo="2399">Delitos de imprenta</materia>
+        <materia codigo="2493">Detención</materia>
+        <materia codigo="3199">Enjuiciamiento Criminal</materia>
+        <materia codigo="3527">Extradición</materia>
+        <materia codigo="3589">Faltas</materia>
+        <materia codigo="4525">Inviolabilidad del domicilio</materia>
+        <materia codigo="4915">Medidas cautelares</materia>
+        <materia codigo="5010">Ministerio Fiscal</materia>
+        <materia codigo="5170">Notificaciones citaciones y emplazamientos</materia>
+        <materia codigo="5547">Peritos</materia>
+        <materia codigo="5636">Policía Judicial</materia>
+        <materia codigo="5711">Procedimientos especiales</materia>
+        <materia codigo="5788">Prueba</materia>
+        <materia codigo="5893">Recurso de Apelación</materia>
+        <materia codigo="5894">Recurso de Casación</materia>
+        <materia codigo="5899">Recurso de Revisión</materia>
+        <materia codigo="5911">Recursos procesales</materia>
+        <materia codigo="5913">Recusación</materia>
+        <materia codigo="6532">Sentencias</materia>
+        <materia codigo="6881">Testigos</materia>
+      </materias>
+      <notas>
+        <nota>Publicada en núms. 260, 262 a 267, 269 a 274, 276 a 281 y 283, de 17, 19 a 24, 26 de septiembre a 1, 3 a 8 y 10 de octubre de 1882</nota>
+      </notas>
+      <referencias>
+        <posteriores>
+          <posterior>
+            <id_norma>BOE-A-2015-10725</id_norma>
+            <relacion codigo="210">SE DEROGA</relacion>
+            <texto>los arts. 387 y 395, SE MODIFICA los arts. 118, 282 bis, 509, 520, 527, 967, la Rúbrica del título VIII del libro II al que AÑADE los capítulos I a X, los arts. 520 ter y 579 bis y SE SUSTITUYE el término indicado en determinados preceptos, por Ley Orgánica 13/2015, de 5 de octubre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2014-7877</id_norma>
+            <relacion codigo="210">SE DEROGA</relacion>
+            <texto>Párrafo 1 del art. 561, por Ley 14/2014, de 24 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2003-19748</id_norma>
+            <relacion codigo="210">SE DEROGA</relacion>
+            <texto>los arts. 504 bis.2, 517 y párrafo 2 del 518 y SE MODIFICA determinados preceptos, por Ley Orgánica 13/2003, de 24 de octubre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1996-750</id_norma>
+            <relacion codigo="210">SE DEROGA</relacion>
+            <texto>los arts. 119, 120, 123 a 140, 788, apartados 2, 4 y 5, 874, último párrafo, y 876, tres primeros párrafos, y se modifica el título V del libro I, arts. 121 y 875, último párrafo, por Ley 1/1996, de 10 de enero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1995-12095</id_norma>
+            <relacion codigo="210">SE DEROGA</relacion>
+            <texto>el título II del libro V, se deja sin efecto el art. 516, SE MODIFICA los arts. 14, 306, 539, 676, 678, 780, 781, 789, 847 y 848 y SE AÑADE los arts. 309 bis, 504 bis 2 y un título I al libro V, por Ley Orgánica 5/1995, de 22 de mayo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1994-24612</id_norma>
+            <relacion codigo="210">SE DEROGA</relacion>
+            <texto>lo indicado , y en particular de los arts. 44, 192, 198, 200, 230, 435, y en su totalidad los arts. 325 y 394, por Ley Orgánica 16/1994, de 8 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1988-29621</id_norma>
+            <relacion codigo="210">SE DEROGA</relacion>
+            <texto>los arts. 799 a 803 y SE MODIFICA el título III del libro IV y los arts. 14, 377 y 989, por Ley Orgánica 7/1988, de 28 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1987-12077</id_norma>
+            <relacion codigo="210">SE DEROGA</relacion>
+            <texto>los arts. 48 a 50 , por Ley Orgánica 2/1987, de 18 de mayo de 1987</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1978-29842</id_norma>
+            <relacion codigo="210">SE DEROGA</relacion>
+            <texto>el art. 316 y se modifica determinados preceptos, por Ley 53/1978, de 4 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1978-5335</id_norma>
+            <relacion codigo="210">SE DEROGA</relacion>
+            <texto>el apartado 4 del art. 503, por Ley 10/1978, de 20 de febrero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2009-17493</id_norma>
+            <relacion codigo="230">SE DEJA SIN EFECTO</relacion>
+            <texto>los arts. 601 a 610, el capítulo IV del título II del libro V, SE MODIFICA determinados preceptos y SE AÑADE los arts. 144.bis, el capítulo II al título X y 367 ter, con efectos de 4 de mayo de 2010, por Ley 13/2009, de 3 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2026-7966</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 13, 105 y 544 bis, por Ley Orgánica 1/2026, de 8 de abril</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2025-76</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>, con efectos desde el 3 de abril de 2025, determinados preceptos y, con efectos desde el 3 de octubre de 2025, el art. 14 y SE AÑADE, con efectos desde el 3 de abril de 2025,  los arts. 787 ter, 988 bis y las disposiciones adicionales 8 y 9, por Ley Orgánica 1/2025, de 2 de enero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2024-23630</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 495, por Ley Orgánica 5/2024, de 11 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2024-15936</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>, con efectos desde el 22 de agosto de 2024, el art. 681.3, en la redacción dada por la Ley Orgánica 10/2022, de 6 de septiembre, por Ley Orgánica 2/2024, de 1 de agosto</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2023-25758</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>, con efectos desde el 20 de marzo de 2024, determinados preceptos y SE AÑADE, con los mismos efectos, el título XIV al Libro I, por Real Decreto-ley 6/2023, de 19 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2023-15135</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>, con efectos desde el 29 de julio de 2023, los arts. 746, 855, 858, 882 y 889, por Real Decreto-ley 5/2023, de 28 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2023-10213</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 14.3, por Ley Orgánica 4/2023, de 27 de abril</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2022-14630</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>, con efectos desde el 7 de octubre de 2022, los arts. 13, 112, 544 bis, 681.3, 709, por Ley Orgánica 10/2022, de 6 de septiembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2021-10957</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>las referencias indicadas, por Ley Orgánica 9/2021, de 1 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2021-9347</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>determinados preceptos, y SE AÑADE los arts. 449 bis, 449 ter y 703 bis por Ley Orgánica 8/2021, de 4 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2020-11416</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>la disposición adicional 5, por Real Decreto-ley 30/2020, de 29 de septiembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2020-8633</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 324, por Ley 2/2020, de 27 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2015-10726</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 14, 17, 284, 295, 324, 790, 792, 847, 848, 889, 954, 964 y 985; SE AÑADE los títulos III bis y III ter al Libro IV, el art. 846 ter y las disposiciones adicionales 5 y 6; y SE SUPRIME el art. 300, por Ley 41/2015, de 5 de octubre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2015-4606</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>determinados preceptos y SE AÑADE los arts. 109 bis, 301 bis y 544 quinquies, con efectos desde el 28 de octubre de 2015, por Ley 4/2015, de 27 de abril</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2015-4605</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>, con los efectos indicados, el título V del libro 1 y los arts. 118, 302, 416, 505, 520 y 775; y SE AÑADE los capítulos I y II al título V del libro 1, y los arts. 123 a 127, por Ley Orgánica 5/2015, de 27 de abril</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2015-3439</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>determinados preceptos , por Ley Orgánica 1/2015, de 30 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2013-2029</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 367 ter.1, por Real Decreto-ley 3/2013, de 22 de febrero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2011-15937</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 554, 746, 787 y SE AÑADE los arts. 14 bis, 119, 120, 409 bis, 544 quáter, 786 bis y 839 bis, por Ley 37/2011, de 10 de octubre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2010-9953</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 263 bis.1, 282 bis.4 y 796.1.7 y SE AÑADE el art. 367 septies, por Ley Orgánica 5/2010, de 22 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2006-21236</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 433, 448, 707 y 731 bis, por Ley Orgánica 8/2006, de 4 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2006-9959</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 338 y SE AÑADE el capítulo II bis al título V del libro II, por Ley 18/2006, de 5 de junio de 2006</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2004-21760</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>arts. 14, 160, 789, 962 y añade el 15 bis, 17 bis, 797 bis y la disposición adicional 4, por Ley Orgánica 1/2004, de 28 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2003-23644</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 442, por Ley Orgánica 19/2003, de 23 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2003-21538</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>, por Ley Orgánica 15/2003, de 25 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2003-15411</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 13 y SE AÑADE el art. 544 ter, por Ley 27/2003, de 31 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2003-13022</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 989, por Ley Orgánica 7/2003, de 30 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2003-10614</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 962, 963 y 964, por Ley Orgánica 5/2003, de 27 de mayo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2003-4923</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 110 y se añade una disposición adicional, por Ley Orgánica 1/2003, de 10 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2002-24044</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 788.2, por Ley Orgánica 9/2002, de 10 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2002-20823</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 9, 14, 175, 282, 420, 436, 446, 464, 661, 716, 962 a 971, 973, 974, 976, títulos II y III del libro IV, por Ley 38/2002, de 24 de octubre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2002-20822</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 801 y SE AÑADE un art. 823 bis en el título V del libro IV, por Ley Orgánica 8/2002, de 24 de octubre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2000-323</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 54, 56, 63, 68, 201 y 852, por Ley 1/2000, de 7 de enero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1999-12907</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>, por Ley Orgánica 14/1999, de 9 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1999-846</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 263 bis en el título I del libro II y SE AÑADE un art. 282 bis al título III del libro II de la, por Ley Orgánica 5/1999, de 13 de enero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1998-25933</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>, por Ley 36/1998, de 10 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1998-14062</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los párrafos 2 y 3 del art. 790.1, por Ley Orgánica 2/1998, de 15 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1995-25444</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 14 y 779, por Ley Orgánica 10/1995, de 23 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1995-24958</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 504 bis 2, 846 bis A), 846 bis B), 846 bis F) y 847, por Ley Orgánica 8/1995, de 16 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1995-17359</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el párrafo cuarto del art. 569, por Ley 22/1995, de 17 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1994-15796</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 388, párrafo 2, por Ley 21/1994, de 6 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1992-9548</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>, por Ley 10/1992, de 30 de abril</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1991-17903</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 411 a 415, 702 y 703 , por la Ley Orgánica 12/1991, de 10 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1988-18043</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>determinados preceptos , por Ley 21/1988, de 19 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1988-12909</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 579 y añade los arts. 384 bis, 504 bis, 520 bis, 553 y 779, por Ley Orgánica 4/1988, de 25 de mayo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1985-5128</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 842.2, por Ley 6/1985, de 27 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1985-64</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 503, 504 y 529, por Ley Orgánica 10/1984, de 26 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1984-6260</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 338, por Ley 4/1984, de 9 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1983-33954</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 520 y 527, por Ley Orgánica 14/1983, de 12 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1983-17890</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 14, por Ley Orgánica 8/1983, de 25 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1983-11935</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>arts. 503 y 504, por Ley Orgánica 7/1983, de 23 de abril de 1983</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1980-8713</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 503, 504 y 505, por Ley 16/1980, de 22 de abril</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1978-18553</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 166, por Ley 33/1978, de 17 de julio de 1978</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1978-13828</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art.. 746 y el 850, por Ley 28/1978, de 26 de mayo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1978-12341</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 14.3, por Ley 20/1978, de 8 de mayo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1974-2050</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art.. 14, 3), por Decreto-ley 8/1974, de 21 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1974-1189</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 875, por Ley 28/1974, de 24 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1974-293</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>determinados preceptos , por Ley 6/1974, de 13 de febrero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1967-5578</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 14, 17, 283, 610, 635, 742, 973, 974, 984, 988 y el título III del libro IV, por Ley 3/1967, de 8 de abril</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2015-10143</id_norma>
+            <relacion codigo="407">SE AÑADE</relacion>
+            <texto>los arts. 614 bis, 999 y título X bis, por Ley 34/2015, de 21 de septiembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2015-8470</id_norma>
+            <relacion codigo="407">SE AÑADE</relacion>
+            <texto>la disposición adicional 5, por Ley 26/2015, de 28 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2002-13354</id_norma>
+            <relacion codigo="407">SE AÑADE</relacion>
+            <texto>el art. 118 bis, por Ley Orgánica 7/2002, de 5 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-1984-7960</id_norma>
+            <relacion codigo="235">SE SUPRIME</relacion>
+            <texto>el art. 995, por Ley 6/1984, de 31 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2015-13433</id_norma>
+            <relacion codigo="203">SE CORRIGEN errores</relacion>
+            <texto>, con modificación del art. único, de la Ley 41/2015, de 5 de octubre, en BOE núm. 296, de 11 de diciembre de 2015</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2009-2073</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>la disposición adicional 2, en relación a la información del sistema de de registros de apoyo a la administración de justicia: Real Decreto 95/2009, de 6 de febrero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2008-19992</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>con la disposición adicional 3, regulando la composición y funciones de la comisión nacional para uso forense del ADN: Real Decreto 1977/2008, de 28 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2020-14648</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en la Cuestión 1231/2020, la inconstitucionalidad y nulidad del último párrafo del art. 238.bis, en la redacción dada por la Ley 13/2009, de 3 de noviembre, por Sentencia 151/2020, de 22 de octubre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2004-8985</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en la Cuestión 998/2000, la extinción, por pérdida sobrevenida del objeto en relación con los arts. 503 y 504, por Auto de 28 de abril de 2004</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-T-2002-2504</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en la CUESTIÓN 2829/1994, inconstitucional y derogado el art. 557, por Sentencia 10/2002, de 17 de enero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-T-1994-11105</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en las CUESTIONES 1277, 1484, 2305 y 3914/1993, la constitucionalidad del art. 969.2, por Sentencia 115/1994, de 14 de abril</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-T-1994-6778</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en el recurso 1492/1988, inconstitucional y nulo el art. 504 bis, por Sentencia 71/1994, de 3 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-T-1994-6202</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en las CUESTIONES acumuladas 2813, 2854 y 2971/1992; 112 y 518/1993,  la constitucionalidad del art. 969.2, por Sentencia 56/1994, de 24 de febrero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-T-1990-29362</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en la CUESTION 1914/1990 (Ref. 1990/20475) la desestimación en relación con el art. 790.1, por Sentencia 186/1990, de 15 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-T-1988-19564</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en las CUESTIONES acumuladas 1344 y 1412/1987, la desestimación en relación con los arts. 14.3 y 790 a 792, por Sentencia 145/1988, de 12 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-T-1987-13599</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en el recurso 194/1984, la constitucionalidad del art. 520.2.e), interpretado en el sentido indicado, por Sentencia 74/1987, de 25 de mayo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2020-6742</id_norma>
+            <relacion codigo="530">Cuestión</relacion>
+            <texto>promovida por supuesta inconstitucionalidad del art. 238 bis, en la redacción dada por la Ley 13/2009, de 3 de noviembre</texto>
+          </posterior>
+        </posteriores>
+      </referencias>
+    </analisis>
+  </data>
+</response>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a79" tipo="precepto" titulo="Artículo 79">
+      <version id_norma="BOE-A-2013-9129" fecha_publicacion="20130730" fecha_vigencia="20130819">
+        <p class="articulo">Artículo 79. Inicio del procedimiento y derecho de defensa.</p>
+        <p class="parrafo">1. El procedimiento se iniciará siempre de oficio, por acuerdo del órgano competente, a iniciativa propia, como consecuencia de orden superior, moción razonada de los subordinados o denuncia.</p>
+        <p class="parrafo">2. Los órganos competentes para imponer una sanción lo son también para acordar la incoación del procedimiento correspondiente.</p>
+        <p class="parrafo">3. Si el procedimiento se ha iniciado como consecuencia de una denuncia, se comunicará al firmante el acuerdo de inicio. Igualmente, se notificará el archivo de la denuncia, si procede.</p>
+        <p class="parrafo">4. Con carácter previo al inicio del procedimiento, el órgano competente para resolver puede acordar la práctica de una información reservada para aclarar los hechos y los presuntos responsables. Esta información reservada pasará a formar parte del expediente.</p>
+      </version>
+      <version id_norma="BOE-A-2018-287" fecha_publicacion="20171223" fecha_vigencia="20171224">
+        <p class="articulo">Artículo 79. Inicio del procedimiento y derecho de defensa.</p>
+        <p class="parrafo">1. El procedimiento se iniciará siempre de oficio, por acuerdo del órgano competente, a iniciativa propia, como consecuencia de orden superior, moción razonada de los subordinados o denuncia.</p>
+        <p class="parrafo">2. Los órganos competentes para imponer una sanción lo son también para acordar la incoación del procedimiento correspondiente.</p>
+        <p class="parrafo">3. En el momento en que se notifique la iniciación de un procedimiento disciplinario, se informará al funcionario o a la funcionaria sometido a expediente de su derecho a ser asistido, para defender sus intereses, por un abogado o abogada o la persona que considere conveniente.</p>
+        <p class="parrafo">4. Si el procedimiento se ha iniciado como consecuencia de una denuncia, se ha de comunicar a la persona firmante el acuerdo de inicio. Igualmente, se le ha de notificar el archivo de la denuncia, en su caso.</p>
+        <p class="parrafo">5. Con carácter previo al inicio del procedimiento, el órgano competente para resolver puede acordar la práctica de una información reservada para esclarecer los hechos y los presuntos responsables. Esta información reservada pasará a formar parte del expediente<em>.</em></p>
+        <blockquote>
+          <p class="nota_pie">Se modifican los apartados 3,4 y se añade el 5 por el art. 50.1 y 2 de la Ley 11/2017, de 20 de diciembre. <a class="refPost">Ref. BOE-A-2018-287</a></p>
+        </blockquote>
+      </version>
+    </bloque>
+  </data>
+</response>

@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/texto/bloque/aseptimo",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11620/texto/bloque/aseptimo",
+  "sha256": "5354aca6d6a724051bac55a0d9860285580f2149ac5e9fcb22e8764b0a11c513",
+  "archivo": "data/raw/5354aca6d6a724051bac55a0d9860285580f2149ac5e9fcb22e8764b0a11c513.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:06:34.188986+00:00"
+}

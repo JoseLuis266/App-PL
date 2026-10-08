@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a19" tipo="precepto" titulo="Artículo 19">
+      <version id_norma="BOE-A-1999-1826" fecha_publicacion="19990126" fecha_vigencia="19990726">
+        <p class="articulo">Artículo 19. Accesorios, repuestos y herramientas de los vehículos en circulación.</p>
+        <p class="parrafo">Los vehículos de motor y los conjuntos de vehículos en circulación deben llevar, como mínimo, la dotación que se indica en el anexo XII.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

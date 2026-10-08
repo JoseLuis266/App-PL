@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-1",
+  "url_final": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2010-1",
+  "sha256": "fbd09207fdb6fb4948862b6486ecc06aa5cc20e3fb7c2bd7451b39ccbc4e282e",
+  "archivo": "data/raw/fbd09207fdb6fb4948862b6486ecc06aa5cc20e3fb7c2bd7451b39ccbc4e282e.xml",
+  "content_type": "application/xml; charset=utf-8",
+  "fecha_descarga": "2026-10-08T17:22:37.574214+00:00"
+}

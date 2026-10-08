@@ -1,0 +1,40 @@
+import {test,expect} from '@playwright/test';
+import type {Article,Manifest} from '../src/types';
+test('actual official catalogue, multiselect, literal reader and no unverified exercises',async({page})=>{
+ const errors:string[]=[];page.on('pageerror',e=>errors.push(e.message));
+ await page.goto('/');await expect(page.getByRole('heading',{name:'Temario',exact:true})).toBeVisible();
+ await expect(page.getByRole('checkbox',{name:/Seleccionar tema/})).toHaveCount(30);
+ await page.getByRole('checkbox',{name:'Seleccionar tema 2',exact:true}).check();
+ await expect(page.getByText('2 temas seleccionados').first()).toBeVisible();
+ await page.getByRole('button',{name:'Leer legislación',exact:true}).click();
+ await page.getByRole('searchbox',{name:'Buscar texto o artículo'}).fill('Artículo 14');
+ await page.getByRole('button',{name:/Artículo 14/}).first().click();
+ await expect(page.locator('.legal-text')).toContainText('Los españoles son iguales ante la ley');
+ const official=(await (await page.request.get('/legal/ce.json')).json() as Article[]).find(a=>a.id_articulo==='ce:a14')!;
+ expect((await page.locator('.legal-text').innerText()).replace(/\s+/g,' ').trim()).toBe(official.texto.replace(/\s+/g,' ').trim());
+ await expect(page.getByRole('link',{name:'Consultar la fuente oficial'})).toHaveAttribute('href',/www.boe.es/);
+ await page.getByRole('button',{name:'Estudiar',exact:true}).click();
+ await expect(page.getByRole('button',{name:'Comenzar sesión'})).toBeEnabled();
+ await expect(page.getByText('La comprobación es del texto literal',{exact:false})).toBeVisible();
+ expect(errors).toEqual([]);
+});
+test('personal memory persists after reload; backup downloads and review calendar displays it',async({page})=>{
+ await page.goto('/#lector');await page.getByRole('searchbox',{name:'Buscar texto o artículo'}).fill('Artículo 14');
+ await page.getByRole('button',{name:/Artículo 14/}).first().click();
+ await page.getByRole('button',{name:'Marcar como memorizado',exact:true}).click();
+ await expect(page.getByText('Memorización guardada.',{exact:false})).toBeVisible();
+ await page.reload();await page.getByRole('searchbox',{name:'Buscar texto o artículo'}).fill('Artículo 14');
+ await page.getByRole('button',{name:/Artículo 14/}).first().click();
+ await expect(page.getByRole('button',{name:'He repasado y lo recuerdo'})).toBeVisible();
+ await page.getByRole('button',{name:'Me ha costado'}).click();await page.getByRole('button',{name:'Repasos',exact:true}).click();
+ await expect(page.getByText('Difícil',{exact:true})).toBeVisible();
+ const download=page.waitForEvent('download');await page.getByRole('button',{name:'Descargar copia JSON'}).click();expect((await download).suggestedFilename()).toMatch(/pl-study-progreso/);
+});
+test('mobile layout, keyboard focus, all 30 topics and coverage',async({page})=>{
+ await page.setViewportSize({width:390,height:844});await page.goto('/');await page.getByRole('button',{name:'Seleccionar los 30'}).click();
+ await expect(page.getByText('Los 30 temas',{exact:true}).first()).toBeVisible();
+ await page.getByRole('button',{name:'Fuentes',exact:true}).click();await expect(page.getByRole('heading',{name:'Programa oficial y cobertura'})).toBeVisible();
+ expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
+ await page.keyboard.press('Tab');expect(await page.evaluate(()=>document.activeElement?.tagName)).not.toBe('BODY');
+ await page.screenshot({path:'test-results/mobile-fuentes.png',fullPage:true});
+});

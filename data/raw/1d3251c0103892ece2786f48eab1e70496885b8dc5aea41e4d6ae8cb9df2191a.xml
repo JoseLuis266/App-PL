@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a101" tipo="precepto" titulo="Artículo 101">
+      <version id_norma="BOE-A-1978-31229" fecha_publicacion="19781229" fecha_vigencia="19781229">
+        <p class="articulo">Artículo 101</p>
+        <p class="parrafo">1. El Gobierno cesa tras la celebración de elecciones generales, en los casos de pérdida de la confianza parlamentaria previstos en la Constitución, o por dimisión o fallecimiento de su Presidente.</p>
+        <p class="parrafo">2. El Gobierno cesante continuará en funciones hasta la toma de posesión del nuevo Gobierno.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

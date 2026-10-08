@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-1893/texto/bloque/a151",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-1893/texto/bloque/a151",
+  "sha256": "8d88cecdda007bdd5da4e742e75c040c8d9f3cd3cb067732a03bcfdcd3f7e2cc",
+  "archivo": "data/raw/8d88cecdda007bdd5da4e742e75c040c8d9f3cd3cb067732a03bcfdcd3f7e2cc.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:05:09.325420+00:00"
+}

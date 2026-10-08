@@ -1,0 +1,8 @@
+{
+  "url_solicitada": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-4233/texto/indice",
+  "url_final": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-4233/texto/indice",
+  "sha256": "d69faeab029bd95df0b3571204006e1167f05a76aa8d268b3be3e5fdfa5ad2e8",
+  "archivo": "data/raw/d69faeab029bd95df0b3571204006e1167f05a76aa8d268b3be3e5fdfa5ad2e8.xml",
+  "content_type": "application/xml",
+  "fecha_descarga": "2026-10-08T17:30:36.672937+00:00"
+}
