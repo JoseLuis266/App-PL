@@ -49,4 +49,4 @@ Las sesiones, respuestas y arrastre se guardan de forma atómica, con identifica
 
 La memorización personal sí funciona, con fecha individual y grupos, sin alterar la verificación jurídica. Los intervalos amplían el repaso al recordar, se reinician al fallar y vuelven a un día si cambia el hash del texto. La exportación/importación permite trasladar progreso sin sobrescribir registros existentes. Una modificación jurídica no borra intentos históricos.
 
-La revisión completa de accesibilidad, instalación PWA, sincronización y funcionamiento integral sin conexión quedan pendientes. No se ha realizado publicación, despliegue ni push.
+La revisión completa de accesibilidad, instalación PWA, sincronización y funcionamiento integral sin conexión quedan pendientes. La publicación fue autorizada: código en `main` y compilación en `gh-pages`, con lectura remota del banco y comprobación local de producción. La finalización del despliegue web no puede observarse desde el proxy de esta sesión.

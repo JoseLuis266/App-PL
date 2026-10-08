@@ -100,4 +100,4 @@ SELECT id_norma,fecha,hash_archivo FROM versiones WHERE estado='candidata';
 
 ## Límites y despliegue
 
-Consultar `COBERTURA.md`, `NOTAS.md` y `ESTADO_PROYECTO.md`. `npm run build` produce `dist/` con rutas relativas aptas para alojamiento bajo una subruta. No se ha publicado ni desplegado. La instalación PWA y el funcionamiento completo sin conexión están pendientes; guardar progreso local no equivale a disponer de toda la legislación sin conexión.
+Consultar `COBERTURA.md`, `NOTAS.md` y `ESTADO_PROYECTO.md`. `npm run build` produce `dist/` con rutas relativas aptas para alojamiento bajo una subruta. El código y los originales están en `main`, y la versión compilada autorizada está en `gh-pages`. Ver `PUBLICACION.md` para los commits y la comprobación de publicación. La instalación PWA y el funcionamiento completo sin conexión están pendientes; guardar progreso local no equivale a disponer de toda la legislación sin conexión.
