@@ -72,5 +72,19 @@ for n in range(48, 127):
     })
 
 path.write_text(json.dumps(arts, ensure_ascii=False, indent=2), encoding="utf-8")
+
+# Tema 17 is doctrinal in the official syllabus and has no single governing norm. Keep in its
+# legal appendix only the provisions directly about conduct/obligations in a traffic accident.
+# The PDF builder adds a separate clearly labelled conceptual support sheet for definitions,
+# causes, classes and chronological police action.
+rel_path = ROOT / "export" / "tema_articulo.json"
+rels = json.loads(rel_path.read_text(encoding="utf-8"))
+rels = [r for r in rels if int(r.get("id_tema", -1)) != 17]
+for art_id in ["rgc:a129", "rgc:a130", "trafico:a51"]:
+    if any(a.get("id_articulo") == art_id for a in arts):
+        rels.append({"id_tema": 17, "id_articulo": art_id, "rol": "apoyo_normativo", "notas": "Obligaciones y actuación vinculadas directamente al accidente de tráfico"})
+rel_path.write_text(json.dumps(rels, ensure_ascii=False, indent=2), encoding="utf-8")
+
 print(f"Preparados 79 artículos sintéticos (48-126); 49 bis incluido={('49bis' in found)}")
 print(f"Encabezados detectados en consolidado: {len(matches)}")
+print("Tema 17 limitado a RGC 129-130 y LSV 51, además de la ficha conceptual del PDF")
