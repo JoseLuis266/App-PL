@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/build_typedai_pdf.py'
+      - 'scripts/prepare_marco_typedai.py'
       - 'export/**'
       - '.github/workflows/build-typedai-pdf.yml'
   issues:
@@ -27,6 +28,8 @@ jobs:
           python-version: '3.12'
       - name: Install PDF dependency
         run: pip install reportlab
+      - name: Prepare exact Decreto 40/2019 range for T20
+        run: python scripts/prepare_marco_typedai.py
       - name: Build PDF and TXT
         run: python scripts/build_typedai_pdf.py
       - name: Show output
