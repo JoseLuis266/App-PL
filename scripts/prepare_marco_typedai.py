@@ -10,7 +10,6 @@ segments.sort(key=lambda a: (a.get("orden", 10**9), a.get("id_articulo", "")))
 if not segments:
     raise SystemExit("No se encontraron segmentos PDF del Decreto 40/2019")
 
-# Join the official consolidated PDF extraction in source order.
 parts = []
 for a in segments:
     txt = (a.get("texto") or "").strip()
@@ -18,7 +17,6 @@ for a in segments:
         parts.append(txt)
 combined = "\n".join(parts)
 
-# The CAIB consolidated edition is Catalan; original Spanish editions may use Artículo.
 pat = re.compile(r"(?im)^(?:article|artículo)\s+(\d{1,3})(\s+bis)?\b[^\n]*")
 matches = list(pat.finditer(combined))
 if not matches:
@@ -32,7 +30,6 @@ for i, m in enumerate(matches):
     end = matches[i+1].start() if i+1 < len(matches) else len(combined)
     chunk = combined[start:end].strip()
     key = f"{num}bis" if bis else str(num)
-    # Keep the longest occurrence if a table of contents also happens to contain a heading-like line.
     if len(chunk) > len(found.get(key, "")):
         found[key] = chunk
 
@@ -40,12 +37,9 @@ missing = [str(n) for n in range(48, 127) if str(n) not in found]
 if missing:
     raise SystemExit("Faltan artículos 48-126 en extracción consolidada: " + ", ".join(missing))
 
-# Preserve 49 bis (introduced in 2026) inside the T20 material even though the downstream
-# PDF builder expects one synthetic record per integer article number.
 if "49bis" in found:
     found["49"] = found["49"].rstrip() + "\n\n" + found["49bis"].strip()
 
-# Remove any prior synthetic records and append current ones.
 arts = [a for a in arts if not (a.get("id_norma") == "marco" and re.fullmatch(r"marco:a(?:[4-9]\d|1[01]\d|12[0-6])", a.get("id_articulo", "")))]
 base_url = segments[0].get("url_fuente", "")
 for n in range(48, 127):
@@ -73,14 +67,12 @@ for n in range(48, 127):
 
 path.write_text(json.dumps(arts, ensure_ascii=False, indent=2), encoding="utf-8")
 
-# Tema 17 is doctrinal in the official syllabus and has no single governing norm. Keep in its
-# legal appendix only the provisions directly about conduct/obligations in a traffic accident.
-# The PDF builder adds a separate clearly labelled conceptual support sheet for definitions,
-# causes, classes and chronological police action.
+# T17: keep only accident-specific legal provisions; the PDF builder adds a separate
+# conceptual support sheet for definitions, causes, classes and chronological police action.
 rel_path = ROOT / "export" / "tema_articulo.json"
 rels = json.loads(rel_path.read_text(encoding="utf-8"))
 rels = [r for r in rels if int(r.get("id_tema", -1)) != 17]
-for art_id in ["rgc:a129", "rgc:a130", "trafico:a51"]:
+for art_id in ["circulacion:a129", "circulacion:a130", "trafico:a51"]:
     if any(a.get("id_articulo") == art_id for a in arts):
         rels.append({"id_tema": 17, "id_articulo": art_id, "rol": "apoyo_normativo", "notas": "Obligaciones y actuación vinculadas directamente al accidente de tráfico"})
 rel_path.write_text(json.dumps(rels, ensure_ascii=False, indent=2), encoding="utf-8")
