@@ -1,0 +1,42 @@
+name: Build TypedAI temario PDF
+
+on:
+  push:
+    branches: [typedai-pdf]
+    paths:
+      - 'scripts/build_typedai_pdf.py'
+      - 'export/**'
+      - '.github/workflows/build-typedai-pdf.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install PDF dependency
+        run: pip install reportlab
+
+      - name: Build PDF and TXT
+        run: python scripts/build_typedai_pdf.py
+
+      - name: Show output
+        run: ls -lh typedai_output && cat typedai_output/COBERTURA_TYPEDAI.txt
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: temario-pl-baleares-2026-typedai
+          path: typedai_output/
+          if-no-files-found: error
+          retention-days: 30
